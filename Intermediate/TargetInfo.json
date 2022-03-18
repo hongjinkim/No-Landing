@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SANPERO",
+			"Path": "C:\\Users\\ghdwl\\Documents\\GitHub\\No-Landing\\Source\\SANPERO.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SANPEROEditor",
+			"Path": "C:\\Users\\ghdwl\\Documents\\GitHub\\No-Landing\\Source\\SANPEROEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

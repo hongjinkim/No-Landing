@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SANPERO.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ghdwl\Documents\GitHub\No-Landing\Intermediate\Build\Win64\SANPEROEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\ghdwl\Documents\GitHub\No-Landing\Intermediate\Build\Win64\UE4Editor\Development\SANPERO\MyCharacter.cpp.obj"
+"C:\Users\ghdwl\Documents\GitHub\No-Landing\Intermediate\Build\Win64\UE4Editor\Development\SANPERO\SANPERO.cpp.obj"
+"C:\Users\ghdwl\Documents\GitHub\No-Landing\Intermediate\Build\Win64\UE4Editor\Development\SANPERO\MyCharacter.gen.cpp.obj"
+"C:\Users\ghdwl\Documents\GitHub\No-Landing\Intermediate\Build\Win64\UE4Editor\Development\SANPERO\SANPERO.init.gen.cpp.obj"
+"C:\Users\ghdwl\Documents\GitHub\No-Landing\Intermediate\Build\Win64\UE4Editor\Development\SANPERO\Default.rc2.res"
+/OUT:"C:\Users\ghdwl\Documents\GitHub\No-Landing\Intermediate\Build\Win64\UE4Editor\Development\SANPERO\UE4Editor-SANPERO.lib"
+/INCLUDE:IMPLEMENT_MODULE_SANPERO
