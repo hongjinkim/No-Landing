@@ -94,3 +94,6 @@ Binaries/Win64/UE4Editor.modules
 Binaries/Win64/UE4Editor-SANPERO.pdb
 Binaries/Win64/UE4Editor-SANPERO.dll
 Binaries/Win64/SANPEROEditor.target
+.vs/SANPERO/v16/.suo
+.vs/SANPERO/v16/Browse.VC.db
+.vs/SANPERO/v16/Solution.VC.db
