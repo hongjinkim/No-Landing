@@ -1,2 +1,0 @@
-C:\Users\ghdwl\Documents\GitHub\No-Landing\Intermediate\Build\Win64\UE4Editor\Development\SANPERO\Definitions.SANPERO.h
-C:\Users\ghdwl\Documents\GitHub\No-Landing\Source\SANPERO\SANPERO.h
