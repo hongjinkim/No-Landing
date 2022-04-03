@@ -1,0 +1,1314 @@
+﻿Log file open, 04/04/22 01:07:48
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: SANPERO
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.229834
+LogPluginManager: Warning: Plugin 'RLPlugin' exists at '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Plugins/Auto_Setup_1.2/RLPlugin.uplugin' and '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Plugins/Auto_Setup_1.22/RLPlugin.uplugin' - second location will be ignored
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin Landmass
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Water
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin RLLiveLink
+LogPluginManager: Mounting plugin RootMotionGuidePlugin
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin RLPlugin
+LogXGEController: Cleaning working directory: C:/Users/ghdwl/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.51.0
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 3500 6-Core Processor              , GPU: NVIDIA GeForce GTX 1050
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2022.04.03-16.07.50:821][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.04.03-16.07.50:821][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.04.03-16.07.50:821][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Engine.ini]
+[2022.04.03-16.07.50:821][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.04.03-16.07.50:821][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:1]]
+[2022.04.03-16.07.50:821][  0]LogConfig: Setting CVar [[r.RayTracing:1]]
+[2022.04.03-16.07.50:821][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.04.03-16.07.50:821][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2022.04.03-16.07.50:821][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Engine.ini]
+[2022.04.03-16.07.50:821][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Engine.ini]
+[2022.04.03-16.07.50:821][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.04.03-16.07.50:821][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.04.03-16.07.50:821][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.04.03-16.07.50:821][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.04.03-16.07.50:821][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.04.03-16.07.50:821][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.04.03-16.07.50:821][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.04.03-16.07.50:821][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.04.03-16.07.50:821][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.04.03-16.07.50:821][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.04.03-16.07.50:821][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.04.03-16.07.50:821][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.04.03-16.07.50:821][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.04.03-16.07.50:821][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.04.03-16.07.50:821][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Engine.ini]
+[2022.04.03-16.07.50:821][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.04.03-16.07.50:821][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.04.03-16.07.50:821][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.04.03-16.07.50:821][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.04.03-16.07.50:821][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.04.03-16.07.50:821][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.04.03-16.07.50:821][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.04.03-16.07.50:821][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.04.03-16.07.50:821][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.04.03-16.07.50:821][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.04.03-16.07.50:821][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.04.03-16.07.50:821][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.04.03-16.07.50:822][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.04.03-16.07.50:822][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.04.03-16.07.50:822][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Engine.ini]
+[2022.04.03-16.07.50:822][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Engine.ini]
+[2022.04.03-16.07.50:831][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.04.03-16.07.50:831][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.04.03-16.07.50:832][  0]LogInit: Selected Device Profile: [Windows]
+[2022.04.03-16.07.50:832][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.04.03-16.07.50:832][  0]LogHAL: Display: Platform has ~ 16 GB [17126014976 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.04.03-16.07.50:832][  0]LogInit: Going up to parent DeviceProfile []
+[2022.04.03-16.07.50:832][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.04.03-16.07.50:832][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.04.03-16.07.50:833][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.04.03-16.07.50:834][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.04.03-16.07.50:834][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.04.03-16.07.50:834][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.04.03-16.07.50:834][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Engine.ini]
+[2022.04.03-16.07.50:834][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Editor.ini]
+[2022.04.03-16.07.50:834][  0]LogInit: Computer: DESKTOP-JCHAN58
+[2022.04.03-16.07.50:834][  0]LogInit: User: ghdwl
+[2022.04.03-16.07.50:834][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.04.03-16.07.50:834][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.04.03-16.07.50:834][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.04.03-16.07.50:834][  0]LogMemory: Platform Memory Stats for Windows
+[2022.04.03-16.07.50:834][  0]LogMemory: Process Physical Memory: 143.43 MB used, 143.43 MB peak
+[2022.04.03-16.07.50:834][  0]LogMemory: Process Virtual Memory: 122.99 MB used, 122.99 MB peak
+[2022.04.03-16.07.50:834][  0]LogMemory: Physical Memory: 3775.05 MB used,  12557.59 MB free, 16332.64 MB total
+[2022.04.03-16.07.50:834][  0]LogMemory: Virtual Memory: 134202792.00 MB used,  14938.17 MB free, 134217728.00 MB total
+[2022.04.03-16.07.50:838][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.04.03-16.07.50:923][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.04.03-16.07.50:924][  0]LogInit: Overriding language with editor language configuration option (en).
+[2022.04.03-16.07.50:924][  0]LogInit: Using OS detected locale (ko-KR).
+[2022.04.03-16.07.51:259][  0]LogInit: Setting process to per monitor DPI aware
+[2022.04.03-16.07.51:277][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.03-16.07.51:326][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.04.03-16.07.51:326][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.04.03-16.07.53:427][  0]LogD3D12RHI: Aftermath initialized
+[2022.04.03-16.07.53:427][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.04.03-16.07.53:513][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2022.04.03-16.07.53:658][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1050 (Max supported Feature Level 12_1)
+[2022.04.03-16.07.53:658][  0]LogD3D12RHI: Adapter has 1977MB of dedicated video memory, 0MB of dedicated system memory, and 8166MB of shared system memory, 2 output[s]
+[2022.04.03-16.07.53:686][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1)
+[2022.04.03-16.07.53:686][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8166MB of shared system memory, 0 output[s]
+[2022.04.03-16.07.53:686][  0]LogD3D12RHI: Forcing D3D12.AsyncDeferredDeletion=0 as a workaround for a deadlock.
+[2022.04.03-16.07.53:686][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.04.03-16.07.53:698][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.04.03-16.07.53:698][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.04.03-16.07.53:775][  0]LogD3D12RHI: The system supports ID3D12Device1.
+[2022.04.03-16.07.53:775][  0]LogD3D12RHI: The system supports ID3D12Device2.
+[2022.04.03-16.07.53:775][  0]LogD3D12RHI: The system supports ID3D12Device5.
+[2022.04.03-16.07.53:775][  0]LogD3D12RHI: The system supports ID3D12Device7.
+[2022.04.03-16.07.53:822][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.04.03-16.07.53:828][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.04.03-16.07.53:839][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.04.03-16.07.53:844][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.04.03-16.07.53:844][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.04.03-16.07.53:845][  0]LogD3D12RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2022.04.03-16.07.53:845][  0]LogWindows: EnumDisplayDevices:
+[2022.04.03-16.07.53:845][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2022.04.03-16.07.53:845][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:1)
+[2022.04.03-16.07.53:845][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2022.04.03-16.07.53:845][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2022.04.03-16.07.53:846][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.04.03-16.07.53:846][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2022.04.03-16.07.53:846][  0]LogD3D12RHI:   Driver Version: 471.41 (internal:30.0.14.7141, unified:471.41)
+[2022.04.03-16.07.53:846][  0]LogD3D12RHI:      Driver Date: 7-12-2021
+[2022.04.03-16.07.53:846][  0]LogRHI: Texture pool is 1058 MB (70% of 1512 MB)
+[2022.04.03-16.07.53:846][  0]LogD3D12RHI: Async texture creation enabled
+[2022.04.03-16.07.53:846][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.04.03-16.07.53:856][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.04.03-16.07.54:277][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.04.03-16.07.54:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.04.03-16.07.54:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.04.03-16.07.54:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.04.03-16.07.54:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.04.03-16.07.54:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.04.03-16.07.54:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.04.03-16.07.54:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.04.03-16.07.54:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.04.03-16.07.54:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.04.03-16.07.54:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.04.03-16.07.54:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.04.03-16.07.54:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.04.03-16.07.54:335][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.04.03-16.07.54:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.04.03-16.07.54:353][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.04.03-16.07.54:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.04.03-16.07.54:371][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.04.03-16.07.54:379][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.04.03-16.07.54:388][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.04.03-16.07.54:416][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.04.03-16.07.54:416][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.04.03-16.07.54:425][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.04.03-16.07.54:435][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.04.03-16.07.54:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.04.03-16.07.54:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.04.03-16.07.54:467][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.04.03-16.07.54:467][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.04.03-16.07.54:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.04.03-16.07.54:490][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.04.03-16.07.54:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.04.03-16.07.54:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.04.03-16.07.54:508][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.04.03-16.07.54:515][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.04.03-16.07.54:574][  0]LogRendererCore: Ray tracing is disabled. Reason: not supported by current RHI.
+[2022.04.03-16.07.54:574][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Intermediate/Shaders/WorkingDirectory/15860/).
+[2022.04.03-16.07.54:574][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ghdwl/AppData/Local/Temp/UnrealShaderWorkingDir/A9C0DE8547C7DBBEA4DE28BD4F9D2BAF/'.
+[2022.04.03-16.07.54:575][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.04.03-16.07.54:575][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.04.03-16.07.57:239][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.04.03-16.07.57:680][  0]LogDerivedDataCache: Loaded boot cache 0.44s 113MB C:/Users/ghdwl/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.04.03-16.07.57:680][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ghdwl/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.04.03-16.07.57:680][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.04.03-16.07.57:680][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.04.03-16.07.57:680][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.03-16.07.57:680][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.04.03-16.07.57:696][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.04.03-16.07.57:696][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.03-16.07.57:696][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.04.03-16.07.57:760][  0]LogDerivedDataCache: Speed tests for C:/Users/ghdwl/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.06 seconds
+[2022.04.03-16.07.57:760][  0]LogDerivedDataCache: Display: Performance to C:/Users/ghdwl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.07ms. RandomReadSpeed=41.47MBs, RandomWriteSpeed=22.86MBs. Assigned SpeedClass 'Local'
+[2022.04.03-16.07.57:778][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ghdwl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.04.03-16.07.57:779][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.04.03-16.07.57:779][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.04.03-16.07.58:878][  0]LogSlate: Using FreeType 2.10.0
+[2022.04.03-16.07.58:878][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.04.03-16.07.58:915][  0]LogAssetRegistry: FAssetRegistry took 0.0034 seconds to start up
+[2022.04.03-16.07.59:094][  0]LogCollisionProfile: Warning: Profile (Trigger) - Custom Channel Name = 'Projectile' hasn't been found
+[2022.04.03-16.07.59:155][  0]LogInit: Selected Device Profile: [Windows]
+[2022.04.03-16.07.59:155][  0]LogInit: Active device profile: [00000237FC303200][00000237F8F0C400 49] Windows
+[2022.04.03-16.07.59:155][  0]LogInit: Profiles: [00000237FC303200][00000237F8F0C400 49] Windows, [00000237FCAA1000][00000237F8F08540 49] WindowsNoEditor, [00000237FC301000][00000237FB8E4680 49] WindowsServer, [00000237FCAA2B00][00000237FB8E87C0 49] WindowsClient, [00000237FC302A00][00000237FB8F0940 49] IOS, [00000237FCAA1800][00000237FB8F4AC0 49] iPadAir, [00000237FC301700][00000237FB8F8C40 49] iPadAir2, [00000237FC9A0600][00000237FB900F00 49] IPadPro, [00000237FC9A0700][00000237FB8FCF40 49] iPadAir3, [00000237FC302500][00000237FB9050C0 49] iPadAir4, [00000237FC9A3000][00000237FB909240 49] iPadMini2, [00000237FC301B00][00000237FB90D3C0 49] iPadMini3, [00000237FC9A2000][00000237FB925540 49] iPadMini4, [00000237FC302C00][00000237FB9476C0 49] iPadMini5, [00000237FC993E00][00000237FB96B980 49] iPhone6, [00000237FC993F00][00000237FB9639C0 49] iPodTouch6, [00000237FCAA3A00][00000237FB997C80 49] iPhone7, [00000237FCAA3400][00000237FB987CC0 49] iPodTouch7, [00000237FC991400][00000237FB99A180 49] iPhone5S, [00000237FCAA0900][00000237FB99E300 49] iPhone6Plus, [00000237FC992600][00000237FB8EC440 49] iPhone6S, [00000237FCAA0100][00000237FB9A2580 49] iPhone6SPlus, [00000237FC991B00][00000237FB9A66C0 49] iPhone7Plus, [00000237FCAA0C00][00000237FB9AA800 49] iPhoneSE, [00000237FC992800][00000237FB9BC980 49] iPhone8, [00000237FCAA3200][00000237FB9C4B00 49] iPhone8Plus, [00000237FC991700][00000237FB9F8C80 49] iPhoneX, [00000237FCAA2300][00000237FBA2AE00 49] iPhoneXS, [00000237FC993800][00000237FBA64F80 49] iPhoneXSMax, [00000237FCAA0E00][00000237FBA87100 49] iPhoneXR, [00000237FC992200][00000237FBA93280 49] iPhone11, [00000237FCAA3700][00000237FBA97400 49] iPhone11Pro, [00000237FC990E00][00000237FBA9F580 49] iPhone11ProMax, [00000237FCAA2D00][00000237FBAAF700 49] iPhoneSE2, [00000237FC990400][00000237FBAC3880 49] iPhone12Mini, [00000237FCAA0F00][00000237FBAC7A00 49] iPhone12, [00000237FC992500][00000237FBACBB80 49] iPhone12Pro, [00000237FCAA2A00][00000237FBAD7D00 49] iPhone12ProMax, [00000237FC991200][00000237FBADA1C0 49] iPadPro105, [00000237FCAA1400][00000237FD1A8340 49] iPadPro129, [00000237FC993D00][00000237FD1CA4C0 49] iPadPro97, [00000237FCAA1500][00000237FB9B8600 49] iPadPro2_129, [00000237FC992100][00000237FD22A740 49] iPad5, [00000237FCAA2900][00000237FD23A880 49] iPad6, [00000237FC990300][00000237FD270A00 49] iPad7, [00000237FCAA1A00][00000237FD2A0B80 49] iPad8, [00000237FC993000][00000237FD2BED00 49] iPadPro11, [00000237FCAA3900][00000237FD2E2E80 49] iPadPro2_11, [00000237FC993200][00000237FD30B000 49] iPadPro3_129, [00000237FCAA0300][00000237FD31F180 49] iPadPro4_129, [00000237FC993400][00000237FD345300 49] AppleTV, [00000237FCAA3300][00000237FD35F480 49] AppleTV4K, [00000237FC992700][00000237FD37B600 49] TVOS, [00000237FCAA3B00][00000237FD38D780 49] Mac, [00000237FC990900][00000237FD3AF900 49] MacClient, [00000237FCAA0200][00000237FD3C5A80 49] MacNoEditor, [00000237FC990A00][00000237FD3E5C00 49] MacServer, [00000237FCAA2000][00000237FD3EC0C0 49] Linux, [00000237FC991900][00000237FD408240 49] LinuxAArch64, [00000237FC300F00][00000237FD40C3C0 49] LinuxNoEditor, [00000237FC390D00][00000237FD410540 49] LinuxAArch64NoEditor, [00000237FC301200][00000237FD26C680 49] LinuxClient, [00000237FC391400][00000237FD4147C0 49] LinuxAArch64Client, [00000237FC301400][00000237FD418900 49] LinuxServer, [00000237FC390300][00000237FD420A80 49] LinuxAArch64Server, [00000237FC303F00][00000237FD424C00 49] Android, [00000237FC390100][00000237FD43CD80 49] Android_Low, [00000237FC303500][00000237FD4A4F00 49] Android_Mid, [00000237FC390700][00000237FD4A9080 49] Android_High, [00000237FC302E00][00000237FD4C9200 49] Android_Default, [00000237FC390400][00000237FD4DB380 49] Android_Adreno4xx, [00000237FC990D00][00000237FD4EF500 49] Android_Adreno5xx_Low, [00000237FCAA2E00][00000237FD50B680 49] Android_Adreno5xx, [00000237FC992400][00000237FD51F800 49] Android_Adreno6xx, [00000237FCAA3F00][00000237FD537980 49] Android_Adreno6xx_Vulkan, [00000237FC993500][00000237FD54FB00 49] Android_Mali_T6xx, [00000237FCAA1C00][00000237FD563C80 49] Android_Mali_T7xx, [00000237FC992C00][00000237FD56A140 49] Android_Mali_T8xx, [00000237FCAA3600][00000237FD57E2C0 49] Android_Mali_G71, [00000237FC993300][00000237FD582440 49] Android_Mali_G72, [00000237FCAA1300][00000237FD58A5C0 49] Android_Mali_G72_Vulkan, [00000237FC993700][00000237FD41C700 49] Android_Mali_G76, [00000237FCAA1600][00000237FD596840 49] Android_Mali_G76_Vulkan, [00000237FC991500][00000237FD59E980 49] Android_Mali_G77, [00000237FCAA3E00][00000237FD5AAAC0 49] Android_Mali_G77_Vulkan, [00000237FC990100][00000237FD5BAC40 49] Android_Vulkan_SM5, [00000237FCAA2400][00000237FD5C2DC0 49] Android_PowerVR_G6xxx, [00000237FC990F00][00000237FD5C6F40 49] Android_PowerVR_GT7xxx, [00000237FCAA2800][00000237FD5D30C0 49] Android_PowerVR_GE8xxx, [00000237FC993100][00000237FD5DB240 49] Android_PowerVR_GM9xxx, [00000237FCAA0800][00000237FD5E33C0 49] Android_PowerVR_GM9xxx_Vulkan, [00000237FC991100][00000237FD5F3540 49] Android_TegraK1, [00000237FCAA1D00][00000237FD6076C0 49] Android_Unknown_Vulkan, [00000237FC390A00][00000237FD635840 49] Lumin, [00000237FCAA0A00][00000237FD63D9C0 49] Lumin_Desktop, [00000237FC9A2B00][00000237FD649B40 49] HoloLens, 
+[2022.04.03-16.07.59:319][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.04.03-16.07.59:319][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.04.03-16.07.59:319][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.04.03-16.07.59:319][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.04.03-16.07.59:319][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.04.03-16.07.59:378][  0]LogNetVersion: SANPERO 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2967656727)
+[2022.04.03-16.08.00:512][  0]LogAssetRegistry: Error: Package ../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/KingArthur/Materials/MI_CandelStand.uasset has malformed tag
+[2022.04.03-16.08.00:512][  0]LogAssetRegistry: Error: Package ../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/KingArthur/Materials/MI_Floor_RoundDesign.uasset has malformed tag
+[2022.04.03-16.08.00:512][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.04.03-16.08.00:570][  0]LogPackageLocalizationCache: Processed 27 localized package path(s) for 1 prioritized culture(s) in 0.057594 seconds
+[2022.04.03-16.08.00:576][  0]LogUObjectArray: 17493 objects as part of root set at end of initial load.
+[2022.04.03-16.08.00:576][  0]LogUObjectAllocator: 4476512 out of 0 bytes used by permanent object pool.
+[2022.04.03-16.08.00:576][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.04.03-16.08.01:530][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.04.03-16.08.01:535][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.04.03-16.08.01:981][  0]SourceControl: Source control is disabled
+[2022.04.03-16.08.01:981][  0]SourceControl: Source control is disabled
+[2022.04.03-16.08.01:985][  0]SourceControl: Source control is disabled
+[2022.04.03-16.08.01:991][  0]SourceControl: Source control is disabled
+[2022.04.03-16.08.01:996][  0]LogUProjectInfo: Found projects:
+[2022.04.03-16.08.02:047][  0]SourceControl: Source control is disabled
+[2022.04.03-16.08.02:335][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.04.03-16.08.02:356][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.03-16.08.02:356][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.03-16.08.02:415][  0]LogCollectionManager: Loaded 0 collections in 0.001673 seconds
+[2022.04.03-16.08.02:452][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Collections/' took 0.00s
+[2022.04.03-16.08.02:452][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ghdwl/Documents/GitHub/No-Landing/Content/Developers/ghdwl/Collections/' took 0.00s
+[2022.04.03-16.08.02:452][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ghdwl/Documents/GitHub/No-Landing/Content/Collections/' took 0.00s
+[2022.04.03-16.08.02:452][  0]LogOcInput: OculusInput pre-init called
+[2022.04.03-16.08.02:681][  0]LogEngine: Initializing Engine...
+[2022.04.03-16.08.02:717][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2022.04.03-16.08.02:717][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.04.03-16.08.02:718][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.04.03-16.08.02:885][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.04.03-16.08.02:897][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.04.03-16.08.02:897][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.04.03-16.08.02:901][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.04.03-16.08.02:901][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.04.03-16.08.02:901][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.03-16.08.02:901][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.03-16.08.02:901][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.03-16.08.02:901][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.03-16.08.02:901][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.03-16.08.02:901][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.03-16.08.02:901][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.03-16.08.02:901][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.03-16.08.02:901][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.03-16.08.02:901][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.03-16.08.02:912][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.03-16.08.02:912][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.04.03-16.08.02:935][  0]LogAudioMixer: Display: Using Audio Device ULTRON 2758(NVIDIA High Definition Audio)
+[2022.04.03-16.08.02:938][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.03-16.08.02:939][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.03-16.08.02:939][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.03-16.08.02:940][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.03-16.08.02:940][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.03-16.08.02:940][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.03-16.08.02:941][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.03-16.08.02:941][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.03-16.08.02:941][  0]LogInit: FAudioDevice initialized.
+[2022.04.03-16.08.02:942][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.04.03-16.08.02:942][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.04.03-16.08.03:044][  0]LogDerivedDataCache: Saved boot cache 0.10s 113MB C:/Users/ghdwl/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.04.03-16.08.03:049][  0]LogInit: Texture streaming: Enabled
+[2022.04.03-16.08.03:069][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.04.03-16.08.03:072][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.04.03-16.08.03:072][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.04.03-16.08.03:250][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.04.03-16.08.03:384][  0]LogInit: Transaction tracking system initialized
+[2022.04.03-16.08.03:455][  0]BlueprintLog: New page: Editor Load
+[2022.04.03-16.08.03:557][  0]LocalizationService: Localization service is disabled
+[2022.04.03-16.08.03:582][  0]TimingProfiler: Initialize
+[2022.04.03-16.08.03:583][  0]TimingProfiler: OnSessionChanged
+[2022.04.03-16.08.03:583][  0]LoadingProfiler: Initialize
+[2022.04.03-16.08.03:583][  0]LoadingProfiler: OnSessionChanged
+[2022.04.03-16.08.03:583][  0]NetworkingProfiler: Initialize
+[2022.04.03-16.08.03:583][  0]NetworkingProfiler: OnSessionChanged
+[2022.04.03-16.08.03:583][  0]MemoryProfiler: Initialize
+[2022.04.03-16.08.03:583][  0]MemoryProfiler: OnSessionChanged
+[2022.04.03-16.08.03:732][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.04.03-16.08.03:732][  0]LogCook: Display: Mobile HDR setting 1
+[2022.04.03-16.08.03:945][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ghdwl/Documents/GitHub/No-Landing/Content/' took 0.10s
+[2022.04.03-16.08.04:138][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.04.03-16.08.04:142][  0]SourceControl: Source control is disabled
+[2022.04.03-16.08.04:142][  0]LogUnrealEdMisc: Loading editor; pre map load, took 17.064
+[2022.04.03-16.08.04:142][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.03-16.08.04:142][  0]LightingResults: New page: Lighting Build
+[2022.04.03-16.08.04:145][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.04.03-16.08.04:145][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.03-16.08.04:145][  0]MapCheck: New page: Map Check
+[2022.04.03-16.08.04:145][  0]LightingResults: New page: Lighting Build
+[2022.04.03-16.08.04:151][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.04.03-16.08.09:385][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.04.03-16.08.09:386][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.04.03-16.08.09:403][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.03-16.08.09:448][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.04.03-16.08.09:450][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.03-16.08.09:450][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.177ms to complete.
+[2022.04.03-16.08.09:450][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 5.309
+[2022.04.03-16.08.09:452][  0]LogUnrealEdMisc: Total Editor Startup Time, took 22.375
+[2022.04.03-16.08.09:627][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.03-16.08.09:633][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.03-16.08.09:638][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.03-16.08.09:643][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.03-16.08.09:662][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0095 seconds. Added 3773 classes and 921 folders.
+[2022.04.03-16.08.09:665][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.04.03-16.08.09:674][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.04.03-16.08.09:674][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.03-16.08.09:674][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.03-16.08.09:674][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2022.04.03-16.08.09:682][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.04.03-16.08.09:682][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.03-16.08.09:682][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.04.03-16.08.09:682][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2022.04.03-16.08.09:686][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.04.03-16.08.09:686][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.03-16.08.09:686][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.04.03-16.08.09:686][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.04.03-16.08.09:692][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.03-16.08.09:692][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.03-16.08.09:692][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.03-16.08.09:692][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.04.03-16.08.09:698][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.04.03-16.08.09:698][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.03-16.08.09:698][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.04.03-16.08.09:698][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.04.03-16.08.09:702][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.04.03-16.08.09:702][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.03-16.08.09:702][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.04.03-16.08.09:702][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.04.03-16.08.09:707][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.04.03-16.08.09:707][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.03-16.08.09:707][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.04.03-16.08.09:707][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.04.03-16.08.09:713][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.04.03-16.08.09:713][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.03-16.08.09:713][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.04.03-16.08.09:713][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.04.03-16.08.09:720][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.04.03-16.08.09:721][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.03-16.08.09:721][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.04.03-16.08.09:721][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.04.03-16.08.09:727][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.04.03-16.08.09:727][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.03-16.08.09:727][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.04.03-16.08.09:727][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2022.04.03-16.08.09:732][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.04.03-16.08.09:732][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.03-16.08.09:732][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.04.03-16.08.09:732][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.04.03-16.08.09:739][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.04.03-16.08.09:740][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.03-16.08.09:740][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.04.03-16.08.09:740][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2022.04.03-16.08.09:744][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.03-16.08.09:744][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.03-16.08.09:744][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.03-16.08.09:744][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.04.03-16.08.09:750][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.04.03-16.08.09:750][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.03-16.08.09:750][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.04.03-16.08.09:750][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2022.04.03-16.08.09:755][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.04.03-16.08.09:755][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.03-16.08.09:755][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.04.03-16.08.09:755][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2022.04.03-16.08.09:761][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.04.03-16.08.09:761][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.03-16.08.09:761][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.03-16.08.09:761][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2022.04.03-16.08.09:765][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.04.03-16.08.09:765][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.03-16.08.09:765][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.04.03-16.08.09:765][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2022.04.03-16.08.09:771][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.04.03-16.08.09:771][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.03-16.08.09:771][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.04.03-16.08.09:771][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2022.04.03-16.08.09:777][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.03-16.08.09:777][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.03-16.08.09:777][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.03-16.08.09:777][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2022.04.03-16.08.09:785][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.03-16.08.09:785][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.03-16.08.09:785][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.03-16.08.09:785][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2022.04.03-16.08.09:790][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.04.03-16.08.09:790][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.03-16.08.09:790][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.03-16.08.09:790][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2022.04.03-16.08.09:795][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.04.03-16.08.09:795][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.03-16.08.09:795][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.04.03-16.08.09:795][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2022.04.03-16.08.09:800][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.04.03-16.08.09:800][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.03-16.08.09:800][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.04.03-16.08.09:800][  0]LogPakFile: OnPakFileMounted2Time == 0.000089
+[2022.04.03-16.08.09:805][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.04.03-16.08.09:805][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.03-16.08.09:805][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.04.03-16.08.09:805][  0]LogPakFile: OnPakFileMounted2Time == 0.000092
+[2022.04.03-16.08.09:810][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.03-16.08.09:810][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.03-16.08.09:810][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.03-16.08.09:810][  0]LogPakFile: OnPakFileMounted2Time == 0.000095
+[2022.04.03-16.08.09:815][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.04.03-16.08.09:815][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.03-16.08.09:815][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.04.03-16.08.09:815][  0]LogPakFile: OnPakFileMounted2Time == 0.000100
+[2022.04.03-16.08.10:178][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.04.03-16.08.10:179][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.04.03-16.08.10:207][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.04.03-16.08.10:207][  0]LogLoad: (Engine Initialization) Total time: 23.13 seconds
+[2022.04.03-16.08.10:207][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.04.03-16.08.10:207][  0]LogInit: First time updating LLM stats...
+[2022.04.03-16.08.10:273][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.04.03-16.08.10:281][  0]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.04.03-16.08.10:282][  0]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.04.03-16.08.10:298][  0]LogSlate: Took 0.011965 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.04.03-16.08.10:404][  0]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.03-16.08.10:425][  1]LogRenderer: Reallocating scene render targets to support 1604x560 Format 10 NumSamples 1 (Frame:1).
+[2022.04.03-16.08.10:429][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/ghdwl/Documents/GitHub/No-Landing/Content/' took 0.20s
+[2022.04.03-16.08.10:752][  3]LogAssetRegistry: Asset discovery search completed in 11.8378 seconds
+[2022.04.03-16.08.10:754][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.04.03-16.08.12:504][ 55]LogRenderer: Reallocating scene render targets to support 1604x600 Format 10 NumSamples 1 (Frame:57).
+[2022.04.03-16.08.16:060][328]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.04.03-16.08.30:287][509]LogEnum: Warning: Enum name collision: 'GunCategory::NewEnumerator0' is in both '/Game/BP/Guns/GunCategory.GunCategory' and '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunCategory.GunCategory'
+[2022.04.03-16.08.30:287][509]LogEnum: Warning: Enum name collision: 'GunCategory::NewEnumerator1' is in both '/Game/BP/Guns/GunCategory.GunCategory' and '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunCategory.GunCategory'
+[2022.04.03-16.08.30:287][509]LogEnum: Warning: Enum name collision: 'GunCategory::NewEnumerator2' is in both '/Game/BP/Guns/GunCategory.GunCategory' and '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunCategory.GunCategory'
+[2022.04.03-16.08.30:287][509]LogEnum: Warning: Enum name collision: 'GunCategory::GunCategory_MAX' is in both '/Game/BP/Guns/GunCategory.GunCategory' and '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunCategory.GunCategory'
+[2022.04.03-16.08.30:287][509]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator0' is in both '/Game/BP/Guns/GunType.GunType' and '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType'
+[2022.04.03-16.08.30:287][509]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator1' is in both '/Game/BP/Guns/GunType.GunType' and '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType'
+[2022.04.03-16.08.30:287][509]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator2' is in both '/Game/BP/Guns/GunType.GunType' and '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType'
+[2022.04.03-16.08.30:287][509]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator3' is in both '/Game/BP/Guns/GunType.GunType' and '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType'
+[2022.04.03-16.08.30:287][509]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator4' is in both '/Game/BP/Guns/GunType.GunType' and '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType'
+[2022.04.03-16.08.30:287][509]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator5' is in both '/Game/BP/Guns/GunType.GunType' and '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType'
+[2022.04.03-16.08.30:287][509]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator6' is in both '/Game/BP/Guns/GunType.GunType' and '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType'
+[2022.04.03-16.08.30:287][509]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator7' is in both '/Game/BP/Guns/GunType.GunType' and '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType'
+[2022.04.03-16.08.30:287][509]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator8' is in both '/Game/BP/Guns/GunType.GunType' and '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType'
+[2022.04.03-16.08.30:287][509]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator9' is in both '/Game/BP/Guns/GunType.GunType' and '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType'
+[2022.04.03-16.08.30:287][509]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator10' is in both '/Game/BP/Guns/GunType.GunType' and '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType'
+[2022.04.03-16.08.30:287][509]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator11' is in both '/Game/BP/Guns/GunType.GunType' and '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType'
+[2022.04.03-16.08.30:287][509]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator12' is in both '/Game/BP/Guns/GunType.GunType' and '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType'
+[2022.04.03-16.08.30:287][509]LogEnum: Warning: Enum name collision: 'GunType::GunType_MAX' is in both '/Game/BP/Guns/GunType.GunType' and '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType'
+[2022.04.03-16.08.30:292][509]LogEnum: Warning: Enum name collision: 'SoldierMovementMode::NewEnumerator0' is in both '/Game/BP/SoldierMovementMode.SoldierMovementMode' and '/Game/AmplifyAnimationPack/Weapon/BP/SoldierMovementMode.SoldierMovementMode'
+[2022.04.03-16.08.30:292][509]LogEnum: Warning: Enum name collision: 'SoldierMovementMode::NewEnumerator1' is in both '/Game/BP/SoldierMovementMode.SoldierMovementMode' and '/Game/AmplifyAnimationPack/Weapon/BP/SoldierMovementMode.SoldierMovementMode'
+[2022.04.03-16.08.30:292][509]LogEnum: Warning: Enum name collision: 'SoldierMovementMode::NewEnumerator2' is in both '/Game/BP/SoldierMovementMode.SoldierMovementMode' and '/Game/AmplifyAnimationPack/Weapon/BP/SoldierMovementMode.SoldierMovementMode'
+[2022.04.03-16.08.30:293][509]LogEnum: Warning: Enum name collision: 'SoldierMovementMode::NewEnumerator3' is in both '/Game/BP/SoldierMovementMode.SoldierMovementMode' and '/Game/AmplifyAnimationPack/Weapon/BP/SoldierMovementMode.SoldierMovementMode'
+[2022.04.03-16.08.30:293][509]LogEnum: Warning: Enum name collision: 'SoldierMovementMode::NewEnumerator4' is in both '/Game/BP/SoldierMovementMode.SoldierMovementMode' and '/Game/AmplifyAnimationPack/Weapon/BP/SoldierMovementMode.SoldierMovementMode'
+[2022.04.03-16.08.30:293][509]LogEnum: Warning: Enum name collision: 'SoldierMovementMode::SoldierMovementMode_MAX' is in both '/Game/BP/SoldierMovementMode.SoldierMovementMode' and '/Game/AmplifyAnimationPack/Weapon/BP/SoldierMovementMode.SoldierMovementMode'
+[2022.04.03-16.08.30:657][509]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select generated from expanding Select
+[2022.04.03-16.08.30:657][509]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select generated from expanding Select
+[2022.04.03-16.08.30:657][509]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select generated from expanding Select
+[2022.04.03-16.08.30:657][509]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select generated from expanding Select
+[2022.04.03-16.08.30:658][509]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select generated from expanding Select
+[2022.04.03-16.08.30:658][509]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select generated from expanding Select
+[2022.04.03-16.08.30:658][509]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select generated from expanding Select
+[2022.04.03-16.08.30:658][509]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select generated from expanding Select
+[2022.04.03-16.08.30:658][509]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select generated from expanding Select
+[2022.04.03-16.08.30:658][509]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select generated from expanding Select
+[2022.04.03-16.08.30:658][509]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select generated from expanding Select
+[2022.04.03-16.08.30:658][509]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select generated from expanding Select
+[2022.04.03-16.08.30:659][509]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select generated from expanding Select
+[2022.04.03-16.08.30:659][509]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select generated from expanding Select
+[2022.04.03-16.08.30:659][509]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select generated from expanding Select
+[2022.04.03-16.08.30:659][509]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select generated from expanding Select
+[2022.04.03-16.08.30:659][509]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select generated from expanding Select
+[2022.04.03-16.08.30:659][509]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select generated from expanding Select
+[2022.04.03-16.08.30:659][509]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select generated from expanding Select
+[2022.04.03-16.08.30:659][509]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select generated from expanding Select
+[2022.04.03-16.08.30:665][509]LogBlueprint: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] Input pin  Flesh generated from expanding Select  specifying non-default value no longer exists on node  Select generated from expanding Select . Please refresh node or reset pin to default value to remove pin.
+[2022.04.03-16.08.30:665][509]LogBlueprint: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] Input pin  Concrete generated from expanding Select  specifying non-default value no longer exists on node  Select generated from expanding Select . Please refresh node or reset pin to default value to remove pin.
+[2022.04.03-16.08.30:665][509]LogBlueprint: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] Input pin  Dirt generated from expanding Select  specifying non-default value no longer exists on node  Select generated from expanding Select . Please refresh node or reset pin to default value to remove pin.
+[2022.04.03-16.08.30:665][509]LogBlueprint: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] Input pin  Glass generated from expanding Select  specifying non-default value no longer exists on node  Select generated from expanding Select . Please refresh node or reset pin to default value to remove pin.
+[2022.04.03-16.08.30:665][509]LogBlueprint: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] Input pin  Metal generated from expanding Select  specifying non-default value no longer exists on node  Select generated from expanding Select . Please refresh node or reset pin to default value to remove pin.
+[2022.04.03-16.08.30:665][509]LogBlueprint: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] Input pin  Rock generated from expanding Select  specifying non-default value no longer exists on node  Select generated from expanding Select . Please refresh node or reset pin to default value to remove pin.
+[2022.04.03-16.08.30:665][509]LogBlueprint: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] Input pin  Water generated from expanding Select  specifying non-default value no longer exists on node  Select generated from expanding Select . Please refresh node or reset pin to default value to remove pin.
+[2022.04.03-16.08.30:665][509]LogBlueprint: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] Input pin  Wood generated from expanding Select  specifying non-default value no longer exists on node  Select generated from expanding Select . Please refresh node or reset pin to default value to remove pin.
+[2022.04.03-16.08.30:665][509]LogBlueprint: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] Input pin  Brick generated from expanding Select  specifying non-default value no longer exists on node  Select generated from expanding Select . Please refresh node or reset pin to default value to remove pin.
+[2022.04.03-16.08.30:666][509]LogBlueprint: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] Input pin  Tech generated from expanding Select  specifying non-default value no longer exists on node  Select generated from expanding Select . Please refresh node or reset pin to default value to remove pin.
+[2022.04.03-16.08.30:666][509]LogBlueprint: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] Input pin  Sand generated from expanding Select  specifying non-default value no longer exists on node  Select generated from expanding Select . Please refresh node or reset pin to default value to remove pin.
+[2022.04.03-16.08.30:666][509]LogBlueprint: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] Input pin  Snow generated from expanding Select  specifying non-default value no longer exists on node  Select generated from expanding Select . Please refresh node or reset pin to default value to remove pin.
+[2022.04.03-16.08.30:666][509]LogBlueprint: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] Input pin  Flesh generated from expanding Select  specifying non-default value no longer exists on node  Select generated from expanding Select . Please refresh node or reset pin to default value to remove pin.
+[2022.04.03-16.08.30:666][509]LogBlueprint: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] Input pin  Concrete generated from expanding Select  specifying non-default value no longer exists on node  Select generated from expanding Select . Please refresh node or reset pin to default value to remove pin.
+[2022.04.03-16.08.30:666][509]LogBlueprint: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] Input pin  Dirt generated from expanding Select  specifying non-default value no longer exists on node  Select generated from expanding Select . Please refresh node or reset pin to default value to remove pin.
+[2022.04.03-16.08.30:666][509]LogBlueprint: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] Input pin  Glass generated from expanding Select  specifying non-default value no longer exists on node  Select generated from expanding Select . Please refresh node or reset pin to default value to remove pin.
+[2022.04.03-16.08.30:666][509]LogBlueprint: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] Input pin  Metal generated from expanding Select  specifying non-default value no longer exists on node  Select generated from expanding Select . Please refresh node or reset pin to default value to remove pin.
+[2022.04.03-16.08.30:666][509]LogBlueprint: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] Input pin  Rock generated from expanding Select  specifying non-default value no longer exists on node  Select generated from expanding Select . Please refresh node or reset pin to default value to remove pin.
+[2022.04.03-16.08.30:666][509]LogBlueprint: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] Input pin  Water generated from expanding Select  specifying non-default value no longer exists on node  Select generated from expanding Select . Please refresh node or reset pin to default value to remove pin.
+[2022.04.03-16.08.30:666][509]LogBlueprint: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\BP_Gun.uasset: [Compiler] Input pin  Wood generated from expanding Select  specifying non-default value no longer exists on node  Select generated from expanding Select . Please refresh node or reset pin to default value to remove pin.
+[2022.04.03-16.08.31:018][509]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\ALS_AnimMan_CharacterBP.uasset: Failed to load '/Game/new/WandaALS_AnimBP': Can't find file.
+[2022.04.03-16.08.31:019][509]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\ALS_AnimMan_CharacterBP.uasset: Failed to load '/Game/new/WandaALS_AnimBP': Can't find file.
+[2022.04.03-16.08.31:188][509]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\ALS_AnimMan_CharacterBP.uasset: Failed to load '/Game/new/WandaALS_AnimBP': Can't find file.
+[2022.04.03-16.08.31:190][509]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AdvancedLocomotionV4\Blueprints\GameModes\ALS_GameMode_SP.uasset: Failed to load '/Game/new/WandaALS_AnimBP': Can't find file.
+[2022.04.03-16.08.31:190][509]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AdvancedLocomotionV4\Blueprints\GameModes\ALS_GameMode_SP.uasset: Failed to load '/Game/new/WandaALS_AnimBP': Can't find file.
+[2022.04.03-16.08.31:191][509]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AdvancedLocomotionV4\Blueprints\GameModes\ALS_GameMode_SP.uasset: Failed to load '/Game/new/WandaALS_AnimBP': Can't find file.
+[2022.04.03-16.08.31:191][509]LoadErrors: Failed to load /Game/new/WandaALS_AnimBP.WandaALS_AnimBP_C Referenced by Default__ALS_AnimMan_CharacterBP_C
+[2022.04.03-16.08.31:430][509]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/AdvancedLocomotionV4/Blueprints/UI/OverlayStateSwitcher.OverlayStateSwitcher_C:OverlayStateButtons.OverlayStateButtons'. Unknown structure.
+[2022.04.03-16.08.31:430][509]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/AdvancedLocomotionV4/Blueprints/UI/OverlayStateSwitcher.OverlayStateSwitcher_C:UpdateButtonFocus:CallFunc_Array_Get_Item'. Unknown structure.
+[2022.04.03-16.08.31:430][509]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/AdvancedLocomotionV4/Blueprints/UI/OverlayStateSwitcher.OverlayStateSwitcher_C:CreateButtons:K2Node_MakeStruct_OverlayStateButtonParams'. Unknown structure.
+[2022.04.03-16.08.31:448][509]LogClass: Warning: Property OverlayStateButtons of OverlayStateButtons has a struct type mismatch (tag FallbackStruct != prop OverlayStateButtonParams) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2022.04.03-16.08.35:276][509]LogEnum: Warning: Enum name collision: 'SoldierMovementMode::NewEnumerator0' is in both '/Game/BP/SoldierMovementMode.SoldierMovementMode' and '/Game/AmplifyAnimationPack/Weapon/BP/SoldierMovementMode.SoldierMovementMode'
+[2022.04.03-16.08.35:276][509]LogEnum: Warning: Enum name collision: 'SoldierMovementMode::NewEnumerator1' is in both '/Game/BP/SoldierMovementMode.SoldierMovementMode' and '/Game/AmplifyAnimationPack/Weapon/BP/SoldierMovementMode.SoldierMovementMode'
+[2022.04.03-16.08.35:276][509]LogEnum: Warning: Enum name collision: 'SoldierMovementMode::NewEnumerator2' is in both '/Game/BP/SoldierMovementMode.SoldierMovementMode' and '/Game/AmplifyAnimationPack/Weapon/BP/SoldierMovementMode.SoldierMovementMode'
+[2022.04.03-16.08.35:276][509]LogEnum: Warning: Enum name collision: 'SoldierMovementMode::NewEnumerator3' is in both '/Game/BP/SoldierMovementMode.SoldierMovementMode' and '/Game/AmplifyAnimationPack/Weapon/BP/SoldierMovementMode.SoldierMovementMode'
+[2022.04.03-16.08.35:276][509]LogEnum: Warning: Enum name collision: 'SoldierMovementMode::NewEnumerator4' is in both '/Game/BP/SoldierMovementMode.SoldierMovementMode' and '/Game/AmplifyAnimationPack/Weapon/BP/SoldierMovementMode.SoldierMovementMode'
+[2022.04.03-16.08.35:276][509]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator0' is in both '/Game/BP/Guns/GunType.GunType' and '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType'
+[2022.04.03-16.08.35:276][509]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator1' is in both '/Game/BP/Guns/GunType.GunType' and '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType'
+[2022.04.03-16.08.35:276][509]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator2' is in both '/Game/BP/Guns/GunType.GunType' and '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType'
+[2022.04.03-16.08.35:276][509]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator3' is in both '/Game/BP/Guns/GunType.GunType' and '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType'
+[2022.04.03-16.08.35:276][509]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator4' is in both '/Game/BP/Guns/GunType.GunType' and '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType'
+[2022.04.03-16.08.35:276][509]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator5' is in both '/Game/BP/Guns/GunType.GunType' and '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType'
+[2022.04.03-16.08.35:276][509]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator6' is in both '/Game/BP/Guns/GunType.GunType' and '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType'
+[2022.04.03-16.08.35:276][509]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator7' is in both '/Game/BP/Guns/GunType.GunType' and '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType'
+[2022.04.03-16.08.35:277][509]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator8' is in both '/Game/BP/Guns/GunType.GunType' and '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType'
+[2022.04.03-16.08.35:277][509]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator9' is in both '/Game/BP/Guns/GunType.GunType' and '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType'
+[2022.04.03-16.08.35:277][509]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator10' is in both '/Game/BP/Guns/GunType.GunType' and '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType'
+[2022.04.03-16.08.35:277][509]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator11' is in both '/Game/BP/Guns/GunType.GunType' and '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType'
+[2022.04.03-16.08.35:277][509]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator12' is in both '/Game/BP/Guns/GunType.GunType' and '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType'
+[2022.04.03-16.08.35:277][509]LogEnum: Warning: Enum name collision: 'GunCategory::NewEnumerator0' is in both '/Game/BP/Guns/GunCategory.GunCategory' and '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunCategory.GunCategory'
+[2022.04.03-16.08.35:277][509]LogEnum: Warning: Enum name collision: 'GunCategory::NewEnumerator1' is in both '/Game/BP/Guns/GunCategory.GunCategory' and '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunCategory.GunCategory'
+[2022.04.03-16.08.35:277][509]LogEnum: Warning: Enum name collision: 'GunCategory::NewEnumerator2' is in both '/Game/BP/Guns/GunCategory.GunCategory' and '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunCategory.GunCategory'
+[2022.04.03-16.08.37:855][630]LogSlate: Window 'Project Settings' being destroyed
+[2022.04.03-16.08.37:860][630]LogSlate: Window 'Project Settings' being destroyed
+[2022.04.03-16.08.41:088][802]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.03-16.08.41:097][802]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.03-16.08.41:097][802]BlueprintLog: Warning: Blueprint failed to compile:  BP_Gun
+[2022.04.03-16.08.41:097][802]LogCustomDialog: Dialog displayed:
+[2022.04.03-16.08.43:036][802]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2022.04.03-16.08.43:107][802]LogSlate: Took 0.006645 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.04.03-16.08.44:197][864]LogSlate: Window 'Message Log' being destroyed
+[2022.04.03-16.08.44:201][864]LogSlate: Window 'Message Log' being destroyed
+[2022.04.03-16.08.50:883][552]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.03-16.08.50:891][552]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.03-16.08.50:891][552]BlueprintLog: Warning: Blueprint failed to compile:  BP_Gun
+[2022.04.03-16.08.50:891][552]LogCustomDialog: Dialog displayed:
+[2022.04.03-16.08.52:118][552]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2022.04.03-16.08.52:123][552]PIE: New page: PIE session: ThirdPersonExampleMap (2022. 4. 4. 오전 10:08:52)
+[2022.04.03-16.08.52:124][552]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.04.03-16.08.52:125][552]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.04.03-16.08.52:126][552]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.03-16.08.52:168][552]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042620s)
+[2022.04.03-16.08.52:169][552]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.04.03-16.08.52:170][552]LogPlayLevel: PIE: World Init took: (0.001184s)
+[2022.04.03-16.08.52:170][552]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.043985s)
+[2022.04.03-16.08.52:200][552]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2022.04.03-16.08.52:203][552]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.04.03-16.08.52:203][552]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.03-16.08.52:203][552]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.03-16.08.52:203][552]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.03-16.08.52:203][552]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.03-16.08.52:203][552]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.03-16.08.52:203][552]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.03-16.08.52:203][552]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.03-16.08.52:203][552]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.03-16.08.52:203][552]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.03-16.08.52:203][552]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.03-16.08.52:206][552]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.03-16.08.52:206][552]LogAudioMixer: Display: 1: FrontRight
+[2022.04.03-16.08.52:213][552]LogAudioMixer: Display: Using Audio Device ULTRON 2758(NVIDIA High Definition Audio)
+[2022.04.03-16.08.52:213][552]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.03-16.08.52:213][552]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.03-16.08.52:213][552]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.03-16.08.52:214][552]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.03-16.08.52:214][552]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.03-16.08.52:214][552]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.03-16.08.52:228][552]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.03-16.08.52:228][552]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.03-16.08.52:228][552]LogInit: FAudioDevice initialized.
+[2022.04.03-16.08.52:228][552]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2022.04.03-16.08.52:236][552]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2022.04.03-16.08.52:240][552]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.04.04-01.08.52
+[2022.04.03-16.08.52:242][552]LogWorld: Bringing up level for play took: 0.005162
+[2022.04.03-16.08.52:243][552]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2022.04.03-16.08.52:250][552]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.04.03-16.08.52:254][552]LogBlueprintUserMessages: [BP_Boss_2] BP_Boss_2.Box
+[2022.04.03-16.08.52:258][552]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] gun attached to : ALS_AnimMan_CharacterBP_C_0.primary_weapon_socket
+[2022.04.03-16.08.52:259][552]PIE: Server logged in
+[2022.04.03-16.08.52:260][552]PIE: Play in editor total start time 1.37 seconds.
+[2022.04.03-16.08.52:263][552]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2022.04.03-16.08.52:287][553]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2022.04.03-16.08.53:164][596]LogBlueprintUserMessages: [BTTask_FIndDistance_C_0] 값 저장됨
+[2022.04.03-16.08.53:167][596]LogSlate: Took 0.001759 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.04.03-16.08.55:536][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.03-16.08.55:536][714]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.03-16.08.55:537][714]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.03-16.08.55:538][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.03-16.08.55:555][714]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.03-16.08.55:560][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.03-16.08.55:571][714]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.03-16.08.55:572][714]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.03-16.08.55:573][714]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.03-16.08.55:588][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.03-16.08.55:592][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.04.03-16.08.55:616][715]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.04.03-16.09.00:410][132]LogEditorViewport: Clicking on Actor (LMB): Enemy_BP1_C (Enemy_BP1)
+[2022.04.03-16.09.01:142][155]Cmd: DELETE
+[2022.04.03-16.09.01:143][155]Cmd: ACTOR DELETE
+[2022.04.03-16.09.01:145][155]LogEditorActor: Deleted Actor: Enemy_BP1_C
+[2022.04.03-16.09.01:168][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.04.03-16.09.01:169][155]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2022.04.03-16.09.08:788][732]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.03-16.09.08:810][732]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP.ALS_AnimMan_CharacterBP
+[2022.04.03-16.09.09:043][732]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2022.04.03-16.09.09:044][732]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2022.04.03-16.09.09:044][732]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2022.04.03-16.09.09:470][732]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2022.04.03-16.09.09:470][732]LoadErrors: Failed to load /Game/BeachScene/Effects/Niagara/RT_Foam.RT_Foam Referenced by M_Fluid_Sim_01
+[2022.04.03-16.09.09:472][732]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2022.04.03-16.09.09:472][732]LoadErrors: Failed to load /Game/BeachScene/Effects/Niagara/RT_Foam.RT_Foam Referenced by MaterialExpressionTextureSample_1
+[2022.04.03-16.09.09:494][732]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_01, compiling. 
+[2022.04.03-16.09.09:496][732]LogMaterial: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.03-16.09.09:497][732]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.04.03-16.09.09:497][732]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_01, compiling. 
+[2022.04.03-16.09.09:498][732]LogMaterial: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01_NoTerrain.uasset: Failed to compile Material Instance with Base M_Fluid_Sim_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.03-16.09.09:498][732]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.04.03-16.09.09:522][732]LogBlueprintEditor: Perf: 0.6 total seconds to load all 9 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2022.04.03-16.09.09:522][732]LogBlueprintEditor: Perf: 0.5 seconds loading: /Water/FluidSimulation/Blueprints/Libraries/PhysicsMacros
+[2022.04.03-16.09.09:533][732]LogEnum: Warning: Enum name collision: 'ReticleMode::NewEnumerator0' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/ReticleMode.ReticleMode' and '/Game/BP/Guns/ReticleMode.ReticleMode'
+[2022.04.03-16.09.09:533][732]LogEnum: Warning: Enum name collision: 'ReticleMode::NewEnumerator1' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/ReticleMode.ReticleMode' and '/Game/BP/Guns/ReticleMode.ReticleMode'
+[2022.04.03-16.09.09:533][732]LogEnum: Warning: Enum name collision: 'ReticleMode::NewEnumerator2' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/ReticleMode.ReticleMode' and '/Game/BP/Guns/ReticleMode.ReticleMode'
+[2022.04.03-16.09.09:533][732]LogEnum: Warning: Enum name collision: 'ReticleMode::ReticleMode_MAX' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/ReticleMode.ReticleMode' and '/Game/BP/Guns/ReticleMode.ReticleMode'
+[2022.04.03-16.09.09:533][732]LogEnum: Warning: Enum name collision: 'ReticleMode::NewEnumerator0' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/ReticleMode.ReticleMode' and '/Game/BP/Guns/ReticleMode.ReticleMode'
+[2022.04.03-16.09.09:533][732]LogEnum: Warning: Enum name collision: 'ReticleMode::NewEnumerator1' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/ReticleMode.ReticleMode' and '/Game/BP/Guns/ReticleMode.ReticleMode'
+[2022.04.03-16.09.09:533][732]LogEnum: Warning: Enum name collision: 'ReticleMode::NewEnumerator2' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/ReticleMode.ReticleMode' and '/Game/BP/Guns/ReticleMode.ReticleMode'
+[2022.04.03-16.09.09:558][732]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.04.03-16.09.10:791][732]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.04.03-16.09.10:926][733]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.04.03-16.09.12:570][842]LogRenderer: Reallocating scene render targets to support 1604x724 Format 10 NumSamples 1 (Frame:1).
+[2022.04.03-16.09.17:435][964]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.04.03-16.09.21:746][964]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\BP_Character.uasset: Failed to load '/Game/AmplifyAnimationPack/Animations/anim/ALS_Retarget/Common/Agony_Montage': Can't find file.
+[2022.04.03-16.09.21:747][964]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\BP_Character.uasset: Failed to load '/Game/AmplifyAnimationPack/Animations/anim/ALS_Retarget/Common/Agony_Montage': Can't find file.
+[2022.04.03-16.09.21:747][964]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\BP_Character.uasset: Failed to load '/Game/AmplifyAnimationPack/Animations/anim/ALS_Retarget/Common/Rifle_Pull_Out_Montage': Can't find file.
+[2022.04.03-16.09.21:747][964]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\BP_Character.uasset: Failed to load '/Game/AmplifyAnimationPack/Animations/anim/ALS_Retarget/Common/Rifle_Pull_Out_Montage': Can't find file.
+[2022.04.03-16.09.21:765][964]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\BP_Character.uasset: Failed to load '/Game/AmplifyAnimationPack/Animations/anim/ALS_Retarget/Common/Agony_Montage': Can't find file.
+[2022.04.03-16.09.21:765][964]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\BP_Character.uasset: Failed to load '/Game/AmplifyAnimationPack/Animations/anim/ALS_Retarget/Common/Rifle_Pull_Out_Montage': Can't find file.
+[2022.04.03-16.09.21:872][964]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\BP_Character.uasset: Failed to load '/Game/AmplifyAnimationPack/Animations/anim/ALS_Retarget/Common/Rifle_Pull_Out_Montage': Can't find file.
+[2022.04.03-16.09.21:872][964]LoadErrors: Failed to load /Game/AmplifyAnimationPack/Animations/anim/ALS_Retarget/Common/Rifle_Pull_Out_Montage.Rifle_Pull_Out_Montage Referenced by K2Node_PlayMontage_0
+[2022.04.03-16.09.21:876][964]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\BP_Character.uasset: Failed to load '/Game/AmplifyAnimationPack/Animations/anim/ALS_Retarget/Common/Agony_Montage': Can't find file.
+[2022.04.03-16.09.21:876][964]LoadErrors: Failed to load /Game/AmplifyAnimationPack/Animations/anim/ALS_Retarget/Common/Agony_Montage.Agony_Montage Referenced by K2Node_CallFunction_0
+[2022.04.03-16.09.24:281][964]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\BP_Character.uasset: Failed to load '/Game/AmplifyAnimationPack/Animations/anim/ALS_Retarget/Common/Agony_Montage': Can't find file.
+[2022.04.03-16.09.24:282][964]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\BP_Character.uasset: Failed to load '/Game/AmplifyAnimationPack/Animations/anim/ALS_Retarget/Common/Rifle_Pull_Out_Montage': Can't find file.
+[2022.04.03-16.09.24:283][964]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\BP_Character.uasset: Failed to load '/Game/AmplifyAnimationPack/Animations/anim/ALS_Retarget/Common/Agony_Montage': Can't find file.
+[2022.04.03-16.09.24:284][964]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\BP_Character.uasset: Failed to load '/Game/AmplifyAnimationPack/Animations/anim/ALS_Retarget/Common/Rifle_Pull_Out_Montage': Can't find file.
+[2022.04.03-16.09.24:901][964]LogBlueprint: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CoverState.uasset: [Compiler] Could not find a variable named "currentWeapon" in 'BP_Character_C'.
+Make sure 'BP_Character_C' has been compiled for  Get currentWeapon generated from expanding Can Execute Weapon Action
+[2022.04.03-16.09.24:903][964]LogBlueprint: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CoverState.uasset: [Compiler] Could not find a variable named "currentWeapon" in 'BP_Character_C'.
+Make sure 'BP_Character_C' has been compiled for  Get currentWeapon generated from expanding Can Execute Weapon Action
+[2022.04.03-16.09.24:905][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CoverState.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Weapon Reload . Please refresh node or break links to remove pin.
+[2022.04.03-16.09.24:905][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CoverState.uasset: [Compiler] In use pin  Target  no longer exists on node  Weapon Reload . Please refresh node or break links to remove pin.
+[2022.04.03-16.09.24:905][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CoverState.uasset: [Compiler] Could not find a function named "Weapon_Reload" in 'BP_Character_C'.
+Make sure 'BP_Character_C' has been compiled for  Weapon Reload
+[2022.04.03-16.09.24:905][964]LogBlueprint: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CoverState.uasset: [Compiler] Could not find a variable named "currentWeapon" in 'BP_Character_C'.
+Make sure 'BP_Character_C' has been compiled for  Get currentWeapon generated from expanding Can Execute Weapon Action
+[2022.04.03-16.09.24:906][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CoverState.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Weapon Change Weapon . Please refresh node or break links to remove pin.
+[2022.04.03-16.09.24:906][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CoverState.uasset: [Compiler] In use pin  Target  no longer exists on node  Weapon Change Weapon . Please refresh node or break links to remove pin.
+[2022.04.03-16.09.24:906][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CoverState.uasset: [Compiler] Could not find a function named "Weapon_ChangeWeapon" in 'BP_Character_C'.
+Make sure 'BP_Character_C' has been compiled for  Weapon Change Weapon
+[2022.04.03-16.09.24:908][964]LogBlueprint: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CoverState.uasset: [Compiler] Could not find a variable named "currentWeapon" in 'BP_Character_C'.
+Make sure 'BP_Character_C' has been compiled for  Get currentWeapon
+[2022.04.03-16.09.24:909][964]LogBlueprint: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CoverState.uasset: [Compiler] Could not find a variable named "currentWeapon" in 'BP_Character_C'.
+Make sure 'BP_Character_C' has been compiled for  Get currentWeapon
+[2022.04.03-16.09.24:909][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CoverState.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Weapon Start Shooting . Please refresh node or break links to remove pin.
+[2022.04.03-16.09.24:909][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CoverState.uasset: [Compiler] In use pin  Target  no longer exists on node  Weapon Start Shooting . Please refresh node or break links to remove pin.
+[2022.04.03-16.09.24:910][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CoverState.uasset: [Compiler] Could not find a function named "Weapon_StartShooting" in 'BP_Character_C'.
+Make sure 'BP_Character_C' has been compiled for  Weapon Start Shooting
+[2022.04.03-16.09.24:916][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Weapon Force Unequip . Please refresh node or break links to remove pin.
+[2022.04.03-16.09.24:916][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] In use pin  Target  no longer exists on node  Weapon Force Unequip . Please refresh node or break links to remove pin.
+[2022.04.03-16.09.24:916][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] Could not find a function named "Weapon_ForceUnequip" in 'BP_Character_C'.
+Make sure 'BP_Character_C' has been compiled for  Weapon Force Unequip
+[2022.04.03-16.09.24:925][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Weapon Toggle Aim . Please refresh node or break links to remove pin.
+[2022.04.03-16.09.24:925][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] In use pin  Target  no longer exists on node  Weapon Toggle Aim . Please refresh node or break links to remove pin.
+[2022.04.03-16.09.24:925][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] Could not find a function named "Weapon Toggle Aim" in 'BP_Character_C'.
+Make sure 'BP_Character_C' has been compiled for  Weapon Toggle Aim
+[2022.04.03-16.09.24:927][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Weapon Start Shooting . Please refresh node or break links to remove pin.
+[2022.04.03-16.09.24:928][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Weapon Start Shooting . Please refresh node or break links to remove pin.
+[2022.04.03-16.09.24:928][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] In use pin  Target  no longer exists on node  Weapon Start Shooting . Please refresh node or break links to remove pin.
+[2022.04.03-16.09.24:928][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] In use pin  Shot Succesful  no longer exists on node  Weapon Start Shooting . Please refresh node or break links to remove pin.
+[2022.04.03-16.09.24:928][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] Could not find a function named "Weapon_StartShooting" in 'BP_Character_C'.
+Make sure 'BP_Character_C' has been compiled for  Weapon Start Shooting
+[2022.04.03-16.09.24:928][964]LogBlueprint: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] Could not find a variable named "currentWeapon" in 'BP_Character_C'.
+Make sure 'BP_Character_C' has been compiled for  Get currentWeapon
+[2022.04.03-16.09.24:930][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Weapon Toggle Aim . Please refresh node or break links to remove pin.
+[2022.04.03-16.09.24:931][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] In use pin  Target  no longer exists on node  Weapon Toggle Aim . Please refresh node or break links to remove pin.
+[2022.04.03-16.09.24:931][964]LogBlueprint: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] Input pin  New Is Aiming  specifying non-default value no longer exists on node  Weapon Toggle Aim . Please refresh node or reset pin to default value to remove pin.
+[2022.04.03-16.09.24:931][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] Could not find a function named "Weapon Toggle Aim" in 'BP_Character_C'.
+Make sure 'BP_Character_C' has been compiled for  Weapon Toggle Aim
+[2022.04.03-16.09.24:931][964]LogBlueprint: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] Could not find a variable named "currentWeapon" in 'BP_Character_C'.
+Make sure 'BP_Character_C' has been compiled for  Get currentWeapon
+[2022.04.03-16.09.24:932][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Weapon Toggle Aim . Please refresh node or break links to remove pin.
+[2022.04.03-16.09.24:932][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] In use pin  Target  no longer exists on node  Weapon Toggle Aim . Please refresh node or break links to remove pin.
+[2022.04.03-16.09.24:933][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] Could not find a function named "Weapon Toggle Aim" in 'BP_Character_C'.
+Make sure 'BP_Character_C' has been compiled for  Weapon Toggle Aim
+[2022.04.03-16.09.24:934][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Weapon Reload . Please refresh node or break links to remove pin.
+[2022.04.03-16.09.24:934][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] In use pin  Target  no longer exists on node  Weapon Reload . Please refresh node or break links to remove pin.
+[2022.04.03-16.09.24:934][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] Could not find a function named "Weapon_Reload" in 'BP_Character_C'.
+Make sure 'BP_Character_C' has been compiled for  Weapon Reload
+[2022.04.03-16.09.24:934][964]LogBlueprint: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] Could not find a variable named "currentWeapon" in 'BP_Character_C'.
+Make sure 'BP_Character_C' has been compiled for  Get currentWeapon
+[2022.04.03-16.09.24:936][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Weapon Change Weapon . Please refresh node or break links to remove pin.
+[2022.04.03-16.09.24:936][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] In use pin  Target  no longer exists on node  Weapon Change Weapon . Please refresh node or break links to remove pin.
+[2022.04.03-16.09.24:936][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] Could not find a function named "Weapon_ChangeWeapon" in 'BP_Character_C'.
+Make sure 'BP_Character_C' has been compiled for  Weapon Change Weapon
+[2022.04.03-16.09.26:184][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Animations\Character\Anim_Blueprints\Character_AnimBP.uasset: [Compiler] This blueprint (self) is not a BP_WeaponActor_C, therefore ' Target ' must have a connection.
+[2022.04.03-16.09.26:184][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Animations\Character\Anim_Blueprints\Character_AnimBP.uasset: [Compiler] This blueprint (self) is not a BP_WeaponActor_C, therefore ' Target ' must have a connection.
+[2022.04.03-16.09.26:184][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Animations\Character\Anim_Blueprints\Character_AnimBP.uasset: [Compiler] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2022.04.03-16.09.26:184][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Animations\Character\Anim_Blueprints\Character_AnimBP.uasset: [Compiler] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2022.04.03-16.09.27:029][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Weapons\BP_WeaponActor.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Weapon Store Weapon . Please refresh node or break links to remove pin.
+[2022.04.03-16.09.27:029][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Weapons\BP_WeaponActor.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Weapon Store Weapon . Please refresh node or break links to remove pin.
+[2022.04.03-16.09.27:029][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Weapons\BP_WeaponActor.uasset: [Compiler] In use pin  Target  no longer exists on node  Weapon Store Weapon . Please refresh node or break links to remove pin.
+[2022.04.03-16.09.27:029][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Weapons\BP_WeaponActor.uasset: [Compiler] In use pin  Weapon to Store  no longer exists on node  Weapon Store Weapon . Please refresh node or break links to remove pin.
+[2022.04.03-16.09.27:029][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Weapons\BP_WeaponActor.uasset: [Compiler] In use pin  Was Successful  no longer exists on node  Weapon Store Weapon . Please refresh node or break links to remove pin.
+[2022.04.03-16.09.27:030][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Weapons\BP_WeaponActor.uasset: [Compiler] Could not find a function named "Weapon_StoreWeapon" in 'BP_Character_C'.
+Make sure 'BP_Character_C' has been compiled for  Weapon Store Weapon
+[2022.04.03-16.09.27:223][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CoverState.uasset: [Compiler] The property associated with  Current Weapon generated from expanding Can Execute Weapon Action  could not be found in '/Game/AmplifyAnimationPack/Blueprints/Character/CharacterStates/BP_CoverState.BP_CoverState_C'
+[2022.04.03-16.09.27:223][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CoverState.uasset: [Compiler] The property associated with  Current Weapon generated from expanding Can Execute Weapon Action  could not be found in '/Game/AmplifyAnimationPack/Blueprints/Character/CharacterStates/BP_CoverState.BP_CoverState_C'
+[2022.04.03-16.09.27:224][964]LogBlueprint: Error: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CoverState.uasset: [Compiler] The property associated with  Current Weapon  could not be found in '/Game/AmplifyAnimationPack/Blueprints/Character/CharacterStates/BP_CoverState.BP_CoverState_C'
+[2022.04.03-16.09.30:243][964]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Strf_Walk_Bwd_R_Anim.WandaUE4M_Strf_Walk_Bwd_R_Anim
+[2022.04.03-16.09.30:243][964]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Strf_Walk_Fwd_Anim.WandaUE4M_Strf_Walk_Fwd_Anim
+[2022.04.03-16.09.30:243][964]LogNiagara: Display: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\FX\NS_HittableFX.uasset: 
+[2022.04.03-16.09.30:243][964]LogNiagara: Display: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\FX\NS_HittableFX.uasset: 
+[2022.04.03-16.09.31:896][964]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Turn_to_Run_90_R_Anim.WandaUE4M_Turn_to_Run_90_R_Anim
+[2022.04.03-16.09.31:896][964]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Turn_to_Run_90_L_Anim.WandaUE4M_Turn_to_Run_90_L_Anim
+[2022.04.03-16.09.31:905][964]LogScript: Warning: Accessed None trying to read property CharRef
+	WandaUE4M_Character_AnimBP_C /Engine/Transient.World_5:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.WandaUE4M_Character_AnimBP_C_0
+	Function /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Character_AnimBP.WandaUE4M_Character_AnimBP_C:ExecuteUbergraph_WandaUE4M_Character_AnimBP:C2E2
+[2022.04.03-16.09.31:906][964]LogScript: Warning: Accessed None trying to read property CharRef
+	WandaUE4M_Character_AnimBP_C /Engine/Transient.World_5:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.WandaUE4M_Character_AnimBP_C_0
+	Function /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Character_AnimBP.WandaUE4M_Character_AnimBP_C:ExecuteUbergraph_WandaUE4M_Character_AnimBP:4133
+[2022.04.03-16.09.31:906][964]LogScript: Warning: Accessed None trying to read property CharRef
+	WandaUE4M_Character_AnimBP_C /Engine/Transient.World_5:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.WandaUE4M_Character_AnimBP_C_0
+	Function /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Character_AnimBP.WandaUE4M_Character_AnimBP_C:ExecuteUbergraph_WandaUE4M_Character_AnimBP:4152
+[2022.04.03-16.09.31:906][964]LogScript: Warning: Accessed None trying to read property CharRef
+	WandaUE4M_Character_AnimBP_C /Engine/Transient.World_5:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.WandaUE4M_Character_AnimBP_C_0
+	Function /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Character_AnimBP.WandaUE4M_Character_AnimBP_C:ExecuteUbergraph_WandaUE4M_Character_AnimBP:448E
+[2022.04.03-16.09.31:906][964]LogScript: Warning: Accessed None trying to read property CharRef
+	WandaUE4M_Character_AnimBP_C /Engine/Transient.World_5:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.WandaUE4M_Character_AnimBP_C_0
+	Function /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Character_AnimBP.WandaUE4M_Character_AnimBP_C:ExecuteUbergraph_WandaUE4M_Character_AnimBP:44C1
+[2022.04.03-16.09.31:906][964]LogScript: Warning: Accessed None trying to read property CharRef
+	WandaUE4M_Character_AnimBP_C /Engine/Transient.World_5:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.WandaUE4M_Character_AnimBP_C_0
+	Function /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Character_AnimBP.WandaUE4M_Character_AnimBP_C:ExecuteUbergraph_WandaUE4M_Character_AnimBP:4660
+[2022.04.03-16.09.31:906][964]LogScript: Warning: Accessed None trying to read property CharRef
+	WandaUE4M_Character_AnimBP_C /Engine/Transient.World_5:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.WandaUE4M_Character_AnimBP_C_0
+	Function /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Character_AnimBP.WandaUE4M_Character_AnimBP_C:ExecuteUbergraph_WandaUE4M_Character_AnimBP:E0A7
+[2022.04.03-16.09.31:907][964]LogScript: Warning: Accessed None trying to read property CharRef
+	WandaUE4M_Character_AnimBP_C /Engine/Transient.World_6:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.WandaUE4M_Character_AnimBP_C_0
+	Function /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Character_AnimBP.WandaUE4M_Character_AnimBP_C:ExecuteUbergraph_WandaUE4M_Character_AnimBP:C2E2
+[2022.04.03-16.09.31:907][964]LogScript: Warning: Accessed None trying to read property CharRef
+	WandaUE4M_Character_AnimBP_C /Engine/Transient.World_6:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.WandaUE4M_Character_AnimBP_C_0
+	Function /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Character_AnimBP.WandaUE4M_Character_AnimBP_C:ExecuteUbergraph_WandaUE4M_Character_AnimBP:4133
+[2022.04.03-16.09.31:907][964]LogScript: Warning: Accessed None trying to read property CharRef
+	WandaUE4M_Character_AnimBP_C /Engine/Transient.World_6:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.WandaUE4M_Character_AnimBP_C_0
+	Function /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Character_AnimBP.WandaUE4M_Character_AnimBP_C:ExecuteUbergraph_WandaUE4M_Character_AnimBP:4152
+[2022.04.03-16.09.31:907][964]LogScript: Warning: Accessed None trying to read property CharRef
+	WandaUE4M_Character_AnimBP_C /Engine/Transient.World_6:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.WandaUE4M_Character_AnimBP_C_0
+	Function /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Character_AnimBP.WandaUE4M_Character_AnimBP_C:ExecuteUbergraph_WandaUE4M_Character_AnimBP:448E
+[2022.04.03-16.09.31:907][964]LogScript: Warning: Accessed None trying to read property CharRef
+	WandaUE4M_Character_AnimBP_C /Engine/Transient.World_6:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.WandaUE4M_Character_AnimBP_C_0
+	Function /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Character_AnimBP.WandaUE4M_Character_AnimBP_C:ExecuteUbergraph_WandaUE4M_Character_AnimBP:44C1
+[2022.04.03-16.09.31:907][964]LogScript: Warning: Accessed None trying to read property CharRef
+	WandaUE4M_Character_AnimBP_C /Engine/Transient.World_6:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.WandaUE4M_Character_AnimBP_C_0
+	Function /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Character_AnimBP.WandaUE4M_Character_AnimBP_C:ExecuteUbergraph_WandaUE4M_Character_AnimBP:4660
+[2022.04.03-16.09.31:907][964]LogScript: Warning: Accessed None trying to read property CharRef
+	WandaUE4M_Character_AnimBP_C /Engine/Transient.World_6:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.WandaUE4M_Character_AnimBP_C_0
+	Function /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Character_AnimBP.WandaUE4M_Character_AnimBP_C:ExecuteUbergraph_WandaUE4M_Character_AnimBP:E0A7
+[2022.04.03-16.09.31:909][964]LogScript: Warning: Accessed None trying to read property CharRef
+	WandaUE4M_Character_AnimBP_C /Engine/Transient.World_5:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.WandaUE4M_Character_AnimBP_C_0
+	Function /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Character_AnimBP.WandaUE4M_Character_AnimBP_C:ExecuteUbergraph_WandaUE4M_Character_AnimBP:C2E2
+[2022.04.03-16.09.31:909][964]LogScript: Warning: Accessed None trying to read property CharRef
+	WandaUE4M_Character_AnimBP_C /Engine/Transient.World_5:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.WandaUE4M_Character_AnimBP_C_0
+	Function /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Character_AnimBP.WandaUE4M_Character_AnimBP_C:ExecuteUbergraph_WandaUE4M_Character_AnimBP:4133
+[2022.04.03-16.09.32:035][965]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_AR_LowCover_Aim_L_Enter_Anim.WandaUE4M_AR_LowCover_Aim_L_Enter_Anim
+[2022.04.03-16.09.32:035][965]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_AR_LowCover_Aim_L_Exit_Anim.WandaUE4M_AR_LowCover_Aim_L_Exit_Anim
+[2022.04.03-16.09.32:047][966]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_AR_LowCover_Aim_L_Idle_Anim.WandaUE4M_AR_LowCover_Aim_L_Idle_Anim
+[2022.04.03-16.09.32:195][968]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_AR_LowCover_Aim_R_Enter_Anim.WandaUE4M_AR_LowCover_Aim_R_Enter_Anim
+[2022.04.03-16.09.32:195][968]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_AR_LowCover_Aim_R_Exit_Anim.WandaUE4M_AR_LowCover_Aim_R_Exit_Anim
+[2022.04.03-16.09.32:311][970]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_AR_LowCover_Aim_R_Idle_Anim.WandaUE4M_AR_LowCover_Aim_R_Idle_Anim
+[2022.04.03-16.09.32:364][971]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_AR_LowCover_Aim_Up_L_Enter_Anim.WandaUE4M_AR_LowCover_Aim_Up_L_Enter_Anim
+[2022.04.03-16.09.32:419][972]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_AR_LowCover_Aim_Up_L_Exit_Anim.WandaUE4M_AR_LowCover_Aim_Up_L_Exit_Anim
+[2022.04.03-16.09.32:518][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_AR_LowCover_Aim_Up_L_Idle_Anim.WandaUE4M_AR_LowCover_Aim_Up_L_Idle_Anim
+[2022.04.03-16.09.32:518][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_AR_LowCover_Aim_Up_R_Enter_Anim.WandaUE4M_AR_LowCover_Aim_Up_R_Enter_Anim
+[2022.04.03-16.09.32:666][977]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_AR_LowCover_Aim_Up_R_Exit_Anim.WandaUE4M_AR_LowCover_Aim_Up_R_Exit_Anim
+[2022.04.03-16.09.32:666][977]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_AR_LowCover_Aim_Up_R_Idle_Anim.WandaUE4M_AR_LowCover_Aim_Up_R_Idle_Anim
+[2022.04.03-16.09.32:798][980]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_AR_Vault_to_Fall_Anim.WandaUE4M_AR_Vault_to_Fall_Anim
+[2022.04.03-16.09.32:799][980]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_AR_Obstacle_Vault_Anim.WandaUE4M_AR_Obstacle_Vault_Anim
+[2022.04.03-16.09.32:939][983]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_AR_WallCover_Aim_L_Exit_Anim.WandaUE4M_AR_WallCover_Aim_L_Exit_Anim
+[2022.04.03-16.09.32:939][983]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_AR_WallCover_Aim_L_Enter_Anim.WandaUE4M_AR_WallCover_Aim_L_Enter_Anim
+[2022.04.03-16.09.33:089][984]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_AR_WallCover_Aim_L_Idle_Anim.WandaUE4M_AR_WallCover_Aim_L_Idle_Anim
+[2022.04.03-16.09.33:089][984]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_AR_WallCover_Aim_R_Enter_Anim.WandaUE4M_AR_WallCover_Aim_R_Enter_Anim
+[2022.04.03-16.09.33:282][986]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_AR_WallCover_Aim_R_Exit_Anim.WandaUE4M_AR_WallCover_Aim_R_Exit_Anim
+[2022.04.03-16.09.33:282][986]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_AR_WallCover_Aim_R_Idle_Anim.WandaUE4M_AR_WallCover_Aim_R_Idle_Anim
+[2022.04.03-16.09.33:370][988]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Bar_Climb_Anim.WandaUE4M_Bar_Climb_Anim
+[2022.04.03-16.09.33:506][990]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Bar_Corner_Inside_L_Anim.WandaUE4M_Bar_Corner_Inside_L_Anim
+[2022.04.03-16.09.33:604][993]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Bar_Corner_Inside_R_Anim.WandaUE4M_Bar_Corner_Inside_R_Anim
+[2022.04.03-16.09.33:702][995]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Bar_Corner_Outside_L_Anim.WandaUE4M_Bar_Corner_Outside_L_Anim
+[2022.04.03-16.09.33:838][998]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Bar_Corner_Outside_R_Anim.WandaUE4M_Bar_Corner_Outside_R_Anim
+[2022.04.03-16.09.33:939][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Bar_GoDown_Anim.WandaUE4M_Bar_GoDown_Anim
+[2022.04.03-16.09.34:113][  3]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Bar_idle_2_Grab_Anim.WandaUE4M_Bar_idle_2_Grab_Anim
+[2022.04.03-16.09.34:257][  5]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Bar_jump_Fwd_Anim.WandaUE4M_Bar_jump_Fwd_Anim
+[2022.04.03-16.09.34:257][  5]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Bar_Idle_Anim.WandaUE4M_Bar_Idle_Anim
+[2022.04.03-16.09.34:738][ 10]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Bar_Move_Enter_R_Anim.WandaUE4M_Bar_Move_Enter_R_Anim
+[2022.04.03-16.09.34:840][ 10]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Bar_Move_Exit_R_Anim.WandaUE4M_Bar_Move_Exit_R_Anim
+[2022.04.03-16.09.34:840][ 10]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Bar_Move_L_Enter_Anim.WandaUE4M_Bar_Move_L_Enter_Anim
+[2022.04.03-16.09.35:006][ 12]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Bar_Move_Loop_L_Anim.WandaUE4M_Bar_Move_Loop_L_Anim
+[2022.04.03-16.09.35:006][ 12]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Bar_Move_L_Exit_Anim.WandaUE4M_Bar_Move_L_Exit_Anim
+[2022.04.03-16.09.35:111][ 15]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Bar_Move_Loop_R_Anim.WandaUE4M_Bar_Move_Loop_R_Anim
+[2022.04.03-16.09.35:169][ 16]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Bar_Release_start_Anim.WandaUE4M_Bar_Release_start_Anim
+[2022.04.03-16.09.35:272][ 17]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Bar_Turn_Anim.WandaUE4M_Bar_Turn_Anim
+[2022.04.03-16.09.35:346][ 18]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Bar_Walk_Fwd_Anim.WandaUE4M_Bar_Walk_Fwd_Anim
+[2022.04.03-16.09.35:412][ 19]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Bar_Walk_Idle_Anim.WandaUE4M_Bar_Walk_Idle_Anim
+[2022.04.03-16.09.35:508][ 20]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Bar_Walk_Turn_Anim.WandaUE4M_Bar_Walk_Turn_Anim
+[2022.04.03-16.09.35:657][ 22]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Car_Enter_R_Anim.WandaUE4M_Car_Enter_R_Anim
+[2022.04.03-16.09.35:657][ 22]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Car_Enter_L_Anim.WandaUE4M_Car_Enter_L_Anim
+[2022.04.03-16.09.35:947][ 24]LogSlate: Window 'ALS_AnimMan_CharacterBP' being destroyed
+[2022.04.03-16.09.36:005][ 24]LogSlate: Window 'ALS_AnimMan_CharacterBP' being destroyed
+[2022.04.03-16.09.36:012][ 24]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.04.03-16.09.36:012][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.03-16.09.36:176][ 27]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Car_Exit_L_Anim.WandaUE4M_Car_Exit_L_Anim
+[2022.04.03-16.09.36:176][ 27]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Car_Exit_R_Anim.WandaUE4M_Car_Exit_R_Anim
+[2022.04.03-16.09.36:484][ 32]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Car_Idle_L_Anim.WandaUE4M_Car_Idle_L_Anim
+[2022.04.03-16.09.36:682][ 38]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Car_Idle_R_Anim.WandaUE4M_Car_Idle_R_Anim
+[2022.04.03-16.09.37:022][ 44]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Close_Door_Inside_Anim.WandaUE4M_Close_Door_Inside_Anim
+[2022.04.03-16.09.37:218][ 53]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Close_Door_Outside_Anim.WandaUE4M_Close_Door_Outside_Anim
+[2022.04.03-16.09.37:269][ 55]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Combat_Back_Hand_Punch_Anim.WandaUE4M_Combat_Back_Hand_Punch_Anim
+[2022.04.03-16.09.37:405][ 60]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Combat_Front_Kick_Anim.WandaUE4M_Combat_Front_Kick_Anim
+[2022.04.03-16.09.37:448][ 63]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Combat_High_Kick_Anim.WandaUE4M_Combat_High_Kick_Anim
+[2022.04.03-16.09.37:537][ 68]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Combat_Hook_Anim.WandaUE4M_Combat_Hook_Anim
+[2022.04.03-16.09.37:605][ 71]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Combat_Plunge_Anim.WandaUE4M_Combat_Plunge_Anim
+[2022.04.03-16.09.37:643][ 74]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Combat_Plunge_Idle_Anim.WandaUE4M_Combat_Plunge_Idle_Anim
+[2022.04.03-16.09.37:754][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Combat_Punch_Heavy_Anim.WandaUE4M_Combat_Punch_Heavy_Anim
+[2022.04.03-16.09.37:761][ 81]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Combat_Punch_L_Anim.WandaUE4M_Combat_Punch_L_Anim
+[2022.04.03-16.09.37:905][ 88]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Combat_Punch_R_Anim.WandaUE4M_Combat_Punch_R_Anim
+[2022.04.03-16.09.37:972][ 92]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Combat_Spinning_Kick_Anim.WandaUE4M_Combat_Spinning_Kick_Anim
+[2022.04.03-16.09.38:038][ 96]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Combat_ThrowObject_Anim.WandaUE4M_Combat_ThrowObject_Anim
+[2022.04.03-16.09.38:127][101]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Combat_Uppercut_Anim.WandaUE4M_Combat_Uppercut_Anim
+[2022.04.03-16.09.38:205][105]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Crawling_BarrelRoll_L_Anim.WandaUE4M_Crawling_BarrelRoll_L_Anim
+[2022.04.03-16.09.38:258][109]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Crawling_BarrelRoll_R_Anim.WandaUE4M_Crawling_BarrelRoll_R_Anim
+[2022.04.03-16.09.38:331][113]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Crawling_Crouch_Anim.WandaUE4M_Crawling_Crouch_Anim
+[2022.04.03-16.09.38:390][116]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Crawling_Idle_Anim.WandaUE4M_Crawling_Idle_Anim
+[2022.04.03-16.09.38:452][119]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Crawling_Walk_Bwd_Anim.WandaUE4M_Crawling_Walk_Bwd_Anim
+[2022.04.03-16.09.38:515][122]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Crawling_Walk_Fwd_Anim.WandaUE4M_Crawling_Walk_Fwd_Anim
+[2022.04.03-16.09.38:587][125]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Crouch_Crawling_Anim.WandaUE4M_Crouch_Crawling_Anim
+[2022.04.03-16.09.38:645][128]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Crouch_Hardturn_180_Anim.WandaUE4M_Crouch_Hardturn_180_Anim
+[2022.04.03-16.09.38:737][132]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Crouch_Idle_Anim.WandaUE4M_Crouch_Idle_Anim
+[2022.04.03-16.09.38:819][137]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Crouch_Settle_Anim.WandaUE4M_Crouch_Settle_Anim
+[2022.04.03-16.09.38:878][141]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Crouch_Turn_180_Anim.WandaUE4M_Crouch_Turn_180_Anim
+[2022.04.03-16.09.38:907][144]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Crouch_Turn_L_90_Anim.WandaUE4M_Crouch_Turn_L_90_Anim
+[2022.04.03-16.09.38:982][148]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Crouch_Turn_R_90_Anim.WandaUE4M_Crouch_Turn_R_90_Anim
+[2022.04.03-16.09.39:039][151]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Crouch_Walk_Fwd_Anim.WandaUE4M_Crouch_Walk_Fwd_Anim
+[2022.04.03-16.09.39:105][155]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Death_Bwd_Anim.WandaUE4M_Death_Bwd_Anim
+[2022.04.03-16.09.39:163][159]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Death_Fwd_Anim.WandaUE4M_Death_Fwd_Anim
+[2022.04.03-16.09.39:239][162]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Death_L_Anim.WandaUE4M_Death_L_Anim
+[2022.04.03-16.09.39:317][165]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Death_R_Anim.WandaUE4M_Death_R_Anim
+[2022.04.03-16.09.39:398][169]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Dive_embrace_Anim.WandaUE4M_Dive_embrace_Anim
+[2022.04.03-16.09.39:440][172]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Dive_End_Anim.WandaUE4M_Dive_End_Anim
+[2022.04.03-16.09.39:525][176]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Dive_idle_Anim.WandaUE4M_Dive_idle_Anim
+[2022.04.03-16.09.39:666][180]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Dive_Loop_Anim.WandaUE4M_Dive_Loop_Anim
+[2022.04.03-16.09.39:732][182]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Dodge_Bwd_Anim.WandaUE4M_Dodge_Bwd_Anim
+[2022.04.03-16.09.39:800][189]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Dodge_Bwd_L_Anim.WandaUE4M_Dodge_Bwd_L_Anim
+[2022.04.03-16.09.39:843][193]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Dodge_Bwd_R_Anim.WandaUE4M_Dodge_Bwd_R_Anim
+[2022.04.03-16.09.39:872][195]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Dodge_Fwd_Anim.WandaUE4M_Dodge_Fwd_Anim
+[2022.04.03-16.09.39:920][198]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Dodge_Fwd_L_Anim.WandaUE4M_Dodge_Fwd_L_Anim
+[2022.04.03-16.09.39:955][201]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Dodge_Fwd_R_Anim.WandaUE4M_Dodge_Fwd_R_Anim
+[2022.04.03-16.09.40:004][204]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Dodge_L_Anim.WandaUE4M_Dodge_L_Anim
+[2022.04.03-16.09.40:046][207]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Dodge_R_Anim.WandaUE4M_Dodge_R_Anim
+[2022.04.03-16.09.40:087][209]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Drink_Anim.WandaUE4M_Drink_Anim
+[2022.04.03-16.09.40:120][211]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Gondola_Climb_Anim.WandaUE4M_Gondola_Climb_Anim
+[2022.04.03-16.09.40:345][217]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Gondola_Enter_Anim.WandaUE4M_Gondola_Enter_Anim
+[2022.04.03-16.09.40:654][222]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Gondola_Exit_Anim.WandaUE4M_Gondola_Exit_Anim
+[2022.04.03-16.09.40:828][227]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Gondola_Exit_Water_Anim.WandaUE4M_Gondola_Exit_Water_Anim
+[2022.04.03-16.09.40:985][232]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Gondola_Idle_Anim.WandaUE4M_Gondola_Idle_Anim
+[2022.04.03-16.09.41:154][238]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Gondola_Move_Bwd_Anim.WandaUE4M_Gondola_Move_Bwd_Anim
+[2022.04.03-16.09.41:276][244]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Gondola_Move_Bwd_Start_Anim.WandaUE4M_Gondola_Move_Bwd_Start_Anim
+[2022.04.03-16.09.41:391][249]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Gondola_Move_Fwd_Anim.WandaUE4M_Gondola_Move_Fwd_Anim
+[2022.04.03-16.09.41:476][253]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Gondola_Move_Fwd_Start_Anim.WandaUE4M_Gondola_Move_Fwd_Start_Anim
+[2022.04.03-16.09.41:576][257]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Gondola_Turn_L_Anim.WandaUE4M_Gondola_Turn_L_Anim
+[2022.04.03-16.09.41:675][262]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Gondola_Turn_R_Anim.WandaUE4M_Gondola_Turn_R_Anim
+[2022.04.03-16.09.41:791][267]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Grab_item_Anim.WandaUE4M_Grab_item_Anim
+[2022.04.03-16.09.41:888][272]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Heal_bandages_Anim.WandaUE4M_Heal_bandages_Anim
+[2022.04.03-16.09.42:115][277]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Hit_Bwd_Anim.WandaUE4M_Hit_Bwd_Anim
+[2022.04.03-16.09.42:275][279]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Hit_L_Anim.WandaUE4M_Hit_L_Anim
+[2022.04.03-16.09.42:275][279]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Hit_Fwd_Anim.WandaUE4M_Hit_Fwd_Anim
+[2022.04.03-16.09.42:444][284]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Hit_R_Anim.WandaUE4M_Hit_R_Anim
+[2022.04.03-16.09.42:444][284]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Idle_Anim.WandaUE4M_Idle_Anim
+[2022.04.03-16.09.42:986][287]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Jump_Enter_Anim.WandaUE4M_Jump_Enter_Anim
+[2022.04.03-16.09.43:132][291]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Jump_Fwd_Land_Run_Anim.WandaUE4M_Jump_Fwd_Land_Run_Anim
+[2022.04.03-16.09.43:215][292]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Jump_in_Place_Exit_Anim.WandaUE4M_Jump_in_Place_Exit_Anim
+[2022.04.03-16.09.43:297][293]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Jump_Loop_Anim.WandaUE4M_Jump_Loop_Anim
+[2022.04.03-16.09.43:403][295]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Kayak_Climb_Anim.WandaUE4M_Kayak_Climb_Anim
+[2022.04.03-16.09.43:574][296]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Kayak_Move_Bwd_Start_Anim.WandaUE4M_Kayak_Move_Bwd_Start_Anim
+[2022.04.03-16.09.43:840][300]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Kayak_Move_Fwd_Start_Anim.WandaUE4M_Kayak_Move_Fwd_Start_Anim
+[2022.04.03-16.09.43:840][300]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Kayak_Move_Fwd_Anim.WandaUE4M_Kayak_Move_Fwd_Anim
+[2022.04.03-16.09.44:054][302]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Kayak_Turn_L_Anim.WandaUE4M_Kayak_Turn_L_Anim
+[2022.04.03-16.09.44:226][304]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Kayak_Enter_Anim.WandaUE4M_Kayak_Enter_Anim
+[2022.04.03-16.09.44:450][306]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Kayak_Exit_Anim.WandaUE4M_Kayak_Exit_Anim
+[2022.04.03-16.09.44:640][308]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Kayak_Exit_Water_Anim.WandaUE4M_Kayak_Exit_Water_Anim
+[2022.04.03-16.09.44:881][310]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Kayak_Idle_Anim.WandaUE4M_Kayak_Idle_Anim
+[2022.04.03-16.09.45:139][314]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Kayak_Move_Bwd_Anim.WandaUE4M_Kayak_Move_Bwd_Anim
+[2022.04.03-16.09.45:139][314]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Kayak_Turn_R_Anim.WandaUE4M_Kayak_Turn_R_Anim
+[2022.04.03-16.09.45:434][320]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Knock_on_door_Anim.WandaUE4M_Knock_on_door_Anim
+[2022.04.03-16.09.45:501][321]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Ladder_Ascend_Loop_Anim.WandaUE4M_Ladder_Ascend_Loop_Anim
+[2022.04.03-16.09.45:596][323]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Ladder_Descend_Loop_Anim.WandaUE4M_Ladder_Descend_Loop_Anim
+[2022.04.03-16.09.45:641][324]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Ladder_Enter_Back_Dn_Anim.WandaUE4M_Ladder_Enter_Back_Dn_Anim
+[2022.04.03-16.09.45:698][325]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Ladder_Enter_Dn_Anim.WandaUE4M_Ladder_Enter_Dn_Anim
+[2022.04.03-16.09.45:883][327]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Ladder_Enter_Up_Anim.WandaUE4M_Ladder_Enter_Up_Anim
+[2022.04.03-16.09.45:963][330]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Ladder_Exit_Dn_Anim.WandaUE4M_Ladder_Exit_Dn_Anim
+[2022.04.03-16.09.45:963][330]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Ladder_Exit_Up_Anim.WandaUE4M_Ladder_Exit_Up_Anim
+[2022.04.03-16.09.46:170][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Ladder_Idle_Anim.WandaUE4M_Ladder_Idle_Anim
+[2022.04.03-16.09.46:170][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Ladder_Slide_Enter_Anim.WandaUE4M_Ladder_Slide_Enter_Anim
+[2022.04.03-16.09.46:276][338]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Ladder_Slide_Loop_Anim.WandaUE4M_Ladder_Slide_Loop_Anim
+[2022.04.03-16.09.46:276][338]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Ladder_Slide_Exit_Anim.WandaUE4M_Ladder_Slide_Exit_Anim
+[2022.04.03-16.09.46:353][340]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AmplifyAnimationPack/Animations/Character/Wanda/WandaUE4M_Lever_Floor_Pull_Anim.WandaUE4M_Lever_Floor_Pull_Anim
+[2022.04.03-16.09.46:623][340]LogUObjectHash: Compacting FUObjectHashTables data took   7.51ms
+[2022.04.03-16.09.52:244][340]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.03-16.09.52:349][340]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/new/Character_Base.Character_Base
+	Asset Name: /Game/new/NL_AnimBlueprint.NL_AnimBlueprint
+	Asset Name: /Game/new/NL_PlayerController.NL_PlayerController
+	Asset Name: /Game/new/NL_Wanda_CharacterBP.NL_Wanda_CharacterBP
+	Asset Name: /Game/new/SANPERO_Gamemode.SANPERO_Gamemode
+[2022.04.03-16.09.52:398][340]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.04.03-16.09.52:398][340]LogWindows: Windows GetLastError: 작업을 완료했습니다. (0)
