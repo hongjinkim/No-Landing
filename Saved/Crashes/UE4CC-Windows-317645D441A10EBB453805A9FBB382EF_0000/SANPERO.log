@@ -1,0 +1,1723 @@
+﻿Log file open, 05/04/22 19:23:15
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: SANPERO
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 71 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.203152
+LogPluginManager: Warning: Plugin 'RLPlugin' exists at '../../../Engine/Plugins/Auto_Setup_1.2/RLPlugin.uplugin' and '../../../Engine/Plugins/Plugins/Auto_Setup_1.2/RLPlugin.uplugin' - second location will be ignored
+LogPluginManager: Warning: Plugin 'RLPlugin' exists at 'D:/노랜딩/No-Landing/Plugins/Auto_Setup_1.2/RLPlugin.uplugin' and 'D:/노랜딩/No-Landing/Plugins/Auto_Setup_1.22/RLPlugin.uplugin' - second location will be ignored
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin RLPlugin
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin RLLiveLink
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin RootMotionGuidePlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin Landmass
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin Water
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin OculusVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2004) (), CPU: AMD Ryzen 9 3900X 12-Core Processor            , GPU: NVIDIA GeForce RTX 2060 SUPER
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/노랜딩/No-Landing/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2022.05.04-10.23.16:470][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.05.04-10.23.16:470][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.05.04-10.23.16:470][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/노랜딩/No-Landing/Saved/Config/Windows/Engine.ini]
+[2022.05.04-10.23.16:470][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.05.04-10.23.16:470][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:1]]
+[2022.05.04-10.23.16:470][  0]LogConfig: Setting CVar [[r.RayTracing:1]]
+[2022.05.04-10.23.16:470][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.05.04-10.23.16:471][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2022.05.04-10.23.16:471][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/노랜딩/No-Landing/Saved/Config/Windows/Engine.ini]
+[2022.05.04-10.23.16:471][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/노랜딩/No-Landing/Saved/Config/Windows/Engine.ini]
+[2022.05.04-10.23.16:471][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.05.04-10.23.16:471][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.05.04-10.23.16:471][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.05.04-10.23.16:471][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.05.04-10.23.16:471][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.05.04-10.23.16:471][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.05.04-10.23.16:471][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.05.04-10.23.16:471][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.05.04-10.23.16:471][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.05.04-10.23.16:471][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.05.04-10.23.16:471][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.05.04-10.23.16:471][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.05.04-10.23.16:471][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.05.04-10.23.16:471][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.05.04-10.23.16:471][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/노랜딩/No-Landing/Saved/Config/Windows/Engine.ini]
+[2022.05.04-10.23.16:471][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.05.04-10.23.16:471][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.05.04-10.23.16:471][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.05.04-10.23.16:471][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.05.04-10.23.16:471][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.05.04-10.23.16:471][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.05.04-10.23.16:471][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.05.04-10.23.16:471][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.05.04-10.23.16:471][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.05.04-10.23.16:471][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.05.04-10.23.16:471][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.05.04-10.23.16:471][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.05.04-10.23.16:471][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.05.04-10.23.16:471][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.05.04-10.23.16:471][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/노랜딩/No-Landing/Saved/Config/Windows/Engine.ini]
+[2022.05.04-10.23.16:471][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/노랜딩/No-Landing/Saved/Config/Windows/Engine.ini]
+[2022.05.04-10.23.16:482][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/노랜딩/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/노랜딩/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/노랜딩/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/노랜딩/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.05.04-10.23.16:482][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/노랜딩/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/노랜딩/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/노랜딩/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/노랜딩/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.05.04-10.23.16:483][  0]LogInit: Selected Device Profile: [Windows]
+[2022.05.04-10.23.16:483][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.05.04-10.23.16:483][  0]LogHAL: Display: Platform has ~ 32 GB [34304327680 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.05.04-10.23.16:483][  0]LogInit: Going up to parent DeviceProfile []
+[2022.05.04-10.23.16:483][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/노랜딩/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/노랜딩/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/노랜딩/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.04-10.23.16:483][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/노랜딩/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/노랜딩/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/노랜딩/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/노랜딩/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/노랜딩/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.05.04-10.23.16:484][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.05.04-10.23.16:485][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.05.04-10.23.16:485][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/노랜딩/No-Landing/Saved/Config/Windows/Engine.ini]
+[2022.05.04-10.23.16:485][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/노랜딩/No-Landing/Saved/Config/Windows/Editor.ini]
+[2022.05.04-10.23.16:485][  0]LogInit: Computer: DESKTOP-CA6T537
+[2022.05.04-10.23.16:485][  0]LogInit: User: elixi
+[2022.05.04-10.23.16:485][  0]LogInit: CPU Page size=4096, Cores=12
+[2022.05.04-10.23.16:485][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.05.04-10.23.16:485][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.05.04-10.23.16:485][  0]LogMemory: Platform Memory Stats for Windows
+[2022.05.04-10.23.16:485][  0]LogMemory: Process Physical Memory: 149.84 MB used, 149.85 MB peak
+[2022.05.04-10.23.16:485][  0]LogMemory: Process Virtual Memory: 135.79 MB used, 135.79 MB peak
+[2022.05.04-10.23.16:485][  0]LogMemory: Physical Memory: 7600.77 MB used,  25114.38 MB free, 32715.16 MB total
+[2022.05.04-10.23.16:485][  0]LogMemory: Virtual Memory: 134190496.00 MB used,  27235.71 MB free, 134217728.00 MB total
+[2022.05.04-10.23.16:490][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.05.04-10.23.16:508][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.05.04-10.23.16:509][  0]LogInit: Using OS detected language (ko-KR).
+[2022.05.04-10.23.16:509][  0]LogInit: Using OS detected locale (ko-KR).
+[2022.05.04-10.23.16:515][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2022.05.04-10.23.16:600][  0]LogInit: Setting process to per monitor DPI aware
+[2022.05.04-10.23.16:627][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.04-10.23.16:637][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.05.04-10.23.16:637][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.05.04-10.23.16:745][  0]LogD3D12RHI: Aftermath initialized
+[2022.05.04-10.23.16:745][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.05.04-10.23.16:755][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.05.04-10.23.16:890][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2060 SUPER (Max supported Feature Level 12_1)
+[2022.05.04-10.23.16:890][  0]LogD3D12RHI: Adapter has 8031MB of dedicated video memory, 0MB of dedicated system memory, and 16357MB of shared system memory, 1 output[s]
+[2022.05.04-10.23.16:913][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1)
+[2022.05.04-10.23.16:913][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16357MB of shared system memory, 0 output[s]
+[2022.05.04-10.23.16:913][  0]LogD3D12RHI: Forcing D3D12.AsyncDeferredDeletion=0 as a workaround for a deadlock.
+[2022.05.04-10.23.16:914][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.05.04-10.23.16:922][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.05.04-10.23.16:922][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.05.04-10.23.17:011][  0]LogD3D12RHI: The system supports ID3D12Device1.
+[2022.05.04-10.23.17:011][  0]LogD3D12RHI: The system supports ID3D12Device2.
+[2022.05.04-10.23.17:011][  0]LogD3D12RHI: The system supports ID3D12Device5.
+[2022.05.04-10.23.17:011][  0]LogD3D12RHI: The system supports ID3D12Device7.
+[2022.05.04-10.23.17:011][  0]LogD3D12RHI: D3D12 ray tracing 1.0 is supported.
+[2022.05.04-10.23.17:011][  0]LogD3D12RHI: D3D12 ray tracing 1.1 is supported.
+[2022.05.04-10.23.17:112][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.05.04-10.23.17:119][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.05.04-10.23.17:132][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.05.04-10.23.17:166][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.05.04-10.23.17:167][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.05.04-10.23.17:171][  0]LogD3D12RHI:     GPU DeviceId: 0x1f06 (for the marketing name, search the web for "GPU Device Id")
+[2022.05.04-10.23.17:171][  0]LogWindows: EnumDisplayDevices:
+[2022.05.04-10.23.17:172][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060 SUPER' (P:1 D:1)
+[2022.05.04-10.23.17:172][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2022.05.04-10.23.17:172][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2022.05.04-10.23.17:173][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2022.05.04-10.23.17:173][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.05.04-10.23.17:173][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2060 SUPER
+[2022.05.04-10.23.17:173][  0]LogD3D12RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2022.05.04-10.23.17:173][  0]LogD3D12RHI:      Driver Date: 9-30-2020
+[2022.05.04-10.23.17:173][  0]LogRHI: Texture pool is 4575 MB (70% of 6536 MB)
+[2022.05.04-10.23.17:173][  0]LogD3D12RHI: Async texture creation enabled
+[2022.05.04-10.23.17:173][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.05.04-10.23.17:188][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.05.04-10.23.17:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.05.04-10.23.17:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.05.04-10.23.17:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.05.04-10.23.17:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.05.04-10.23.17:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.05.04-10.23.17:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.05.04-10.23.17:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.05.04-10.23.17:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.05.04-10.23.17:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.05.04-10.23.17:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.05.04-10.23.17:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.05.04-10.23.17:480][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.05.04-10.23.17:480][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.05.04-10.23.17:489][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.05.04-10.23.17:496][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.05.04-10.23.17:503][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.05.04-10.23.17:510][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.05.04-10.23.17:517][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.05.04-10.23.17:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.05.04-10.23.17:532][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.05.04-10.23.17:552][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.05.04-10.23.17:552][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.05.04-10.23.17:559][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.05.04-10.23.17:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.05.04-10.23.17:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.05.04-10.23.17:581][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.05.04-10.23.17:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.05.04-10.23.17:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.05.04-10.23.17:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.05.04-10.23.17:609][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.05.04-10.23.17:616][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.05.04-10.23.17:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.05.04-10.23.17:624][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.05.04-10.23.17:630][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.05.04-10.23.17:682][  0]LogRendererCore: Ray tracing is enabled for the editor. Reason: r.RayTracing=1.
+[2022.05.04-10.23.17:682][  0]LogShaderCompilers: Guid format shader working directory is 29 characters bigger than the processId version (D:/노랜딩/No-Landing/Intermediate/Shaders/WorkingDirectory/7184/).
+[2022.05.04-10.23.17:682][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/elixi/AppData/Local/Temp/UnrealShaderWorkingDir/02E5A5214E3D98AB205B80892C2BA3F9/'.
+[2022.05.04-10.23.17:682][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.05.04-10.23.17:682][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.05.04-10.23.18:323][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.05.04-10.23.18:370][  0]LogDerivedDataCache: Loaded boot cache 0.05s 109MB C:/Users/elixi/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.05.04-10.23.18:370][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/elixi/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.05.04-10.23.18:370][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/노랜딩/No-Landing/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.05.04-10.23.18:370][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.05.04-10.23.18:370][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/노랜딩/No-Landing/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.04-10.23.18:370][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.05.04-10.23.18:382][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.05.04-10.23.18:382][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.04-10.23.18:382][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.05.04-10.23.18:387][  0]LogDerivedDataCache: Speed tests for C:/Users/elixi/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2022.05.04-10.23.18:387][  0]LogDerivedDataCache: Display: Performance to C:/Users/elixi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1795.80MBs, RandomWriteSpeed=243.92MBs. Assigned SpeedClass 'Local'
+[2022.05.04-10.23.18:387][  0]LogDerivedDataCache: Using Local data cache path C:/Users/elixi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.05.04-10.23.18:387][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.05.04-10.23.18:387][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.05.04-10.23.18:435][  0]LogSlate: Using FreeType 2.10.0
+[2022.05.04-10.23.18:435][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.05.04-10.23.18:472][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2022.05.04-10.23.18:623][  0]LogCollisionProfile: Warning: Profile (Trigger) - Custom Channel Name = 'Projectile' hasn't been found
+[2022.05.04-10.23.18:673][  0]LogInit: Selected Device Profile: [Windows]
+[2022.05.04-10.23.18:673][  0]LogInit: Active device profile: [00000169A676E000][00000169A5026840 49] Windows
+[2022.05.04-10.23.18:673][  0]LogInit: Profiles: [00000169A676E000][00000169A5026840 49] Windows, [00000169A670AE00][00000169A502A9C0 49] WindowsNoEditor, [00000169A676CC00][00000169A7590B40 49] WindowsServer, [00000169A670AA00][00000169A7594CC0 49] WindowsClient, [00000169A676E900][00000169A7598E40 49] IOS, [00000169A6708500][00000169A759CFC0 49] iPadAir, [00000169A676CE00][00000169A75A1140 49] iPadAir2, [00000169A66BB100][00000169A75A9400 49] IPadPro, [00000169A66BB200][00000169A75A5440 49] iPadAir3, [00000169A6708900][00000169A75AD5C0 49] iPadAir4, [00000169A66BA400][00000169A75B1740 49] iPadMini2, [00000169A6709D00][00000169A75B58C0 49] iPadMini3, [00000169A66B8C00][00000169A75B9A40 49] iPadMini4, [00000169A6708100][00000169A75BDBC0 49] iPadMini5, [00000169A671AA00][00000169A75C41C0 49] iPhone6, [00000169A671AB00][00000169A75C0200 49] iPodTouch6, [00000169A66B9200][00000169A5022480 49] iPhone7, [00000169A66B9000][00000169A75C84C0 49] iPodTouch7, [00000169A671A600][00000169A75CC600 49] iPhone5S, [00000169A66B9800][00000169A75D0740 49] iPhone6Plus, [00000169A6718E00][00000169A75D4880 49] iPhone6S, [00000169A66BA500][00000169A75DCA00 49] iPhone6SPlus, [00000169A671BC00][00000169A75E0B80 49] iPhone7Plus, [00000169A66BBC00][00000169A75E4D00 49] iPhoneSE, [00000169A671A700][00000169A75E8E80 49] iPhone8, [00000169A66B8400][00000169A75ED000 49] iPhone8Plus, [00000169A671A400][00000169A75F1180 49] iPhoneX, [00000169A66B9900][00000169A75F5300 49] iPhoneXS, [00000169A6718700][00000169A75F9480 49] iPhoneXSMax, [00000169A66B9100][00000169A7717600 49] iPhoneXR, [00000169A671AE00][00000169A771B780 49] iPhone11, [00000169A66B8F00][00000169A771F900 49] iPhone11Pro, [00000169A671A300][00000169A7723A80 49] iPhone11ProMax, [00000169A66B9A00][00000169A7727C00 49] iPhoneSE2, [00000169A6719900][00000169A772A0C0 49] iPhone12Mini, [00000169A66BA600][00000169A772E240 49] iPhone12, [00000169A6718400][00000169A77323C0 49] iPhone12Pro, [00000169A66BAB00][00000169A75D8500 49] iPhone12ProMax, [00000169A671A900][00000169A7736640 49] iPadPro105, [00000169A66B9600][00000169A773A780 49] iPadPro129, [00000169A6719700][00000169A773E8C0 49] iPadPro97, [00000169A66BB000][00000169A7746A40 49] iPadPro2_129, [00000169A6719000][00000169A774ABC0 49] iPad5, [00000169A66BBF00][00000169A774ED40 49] iPad6, [00000169A676C200][00000169A7752EC0 49] iPad7, [00000169A671BF00][00000169A7757040 49] iPad8, [00000169A676D900][00000169A775B1C0 49] iPadPro11, [00000169A66B8100][00000169A775F340 49] iPadPro2_11, [00000169A676D200][00000169A77634C0 49] iPadPro3_129, [00000169A66BBD00][00000169A7767640 49] iPadPro4_129, [00000169A676F000][00000169A776B7C0 49] AppleTV, [00000169A66B8A00][00000169A776F940 49] AppleTV4K, [00000169A676D600][00000169A7773AC0 49] TVOS, [00000169A66BAE00][00000169A7777C40 49] Mac, [00000169A676F500][00000169A777A100 49] MacClient, [00000169A66B8700][00000169A777E280 49] MacNoEditor, [00000169A676D800][00000169A7782400 49] MacServer, [00000169A66B8300][00000169A7786580 49] Linux, [00000169A676F200][00000169A77426C0 49] LinuxAArch64, [00000169A66B9D00][00000169A778A800 49] LinuxNoEditor, [00000169A676DC00][00000169A778E940 49] LinuxAArch64NoEditor, [00000169A66B8500][00000169A7796AC0 49] LinuxClient, [00000169A676C900][00000169A779AC40 49] LinuxAArch64Client, [00000169A66BA000][00000169A779EDC0 49] LinuxServer, [00000169A676E700][00000169A77A2F40 49] LinuxAArch64Server, [00000169A66BA800][00000169A77A70C0 49] Android, [00000169A676C700][00000169A77AB240 49] Android_Low, [00000169A66B8E00][00000169A77AF3C0 49] Android_Mid, [00000169A676E400][00000169A77B3540 49] Android_High, [00000169A66BAA00][00000169A77B76C0 49] Android_Default, [00000169A676CF00][00000169A77BB840 49] Android_Adreno4xx, [00000169A66BB600][00000169A77BF9C0 49] Android_Adreno5xx_Low, [00000169A676E200][00000169A77C3B40 49] Android_Adreno5xx, [00000169A66BBB00][00000169A77C7CC0 49] Android_Adreno6xx, [00000169A676C100][00000169A77CA180 49] Android_Adreno6xx_Vulkan, [00000169A66BB800][00000169A77CE300 49] Android_Mali_T6xx, [00000169A676CD00][00000169A77D2480 49] Android_Mali_T7xx, [00000169A66B9F00][00000169A77D6600 49] Android_Mali_T8xx, [00000169A676D700][00000169A7792740 49] Android_Mali_G71, [00000169A66BAF00][00000169A77DA880 49] Android_Mali_G72, [00000169A676EB00][00000169A77DE9C0 49] Android_Mali_G72_Vulkan, [00000169A66B9500][00000169A77E6B40 49] Android_Mali_G76, [00000169A676C300][00000169A77EACC0 49] Android_Mali_G76_Vulkan, [00000169A66B9300][00000169A77EEE40 49] Android_Mali_G77, [00000169A676DB00][00000169A77F2FC0 49] Android_Mali_G77_Vulkan, [00000169A66BA100][00000169A77F7140 49] Android_Vulkan_SM5, [00000169A676D000][00000169A77FB2C0 49] Android_PowerVR_G6xxx, [00000169A66BAC00][00000169A77FF440 49] Android_PowerVR_GT7xxx, [00000169A676EA00][00000169A78075C0 49] Android_PowerVR_GE8xxx, [00000169A66BA900][00000169A781B740 49] Android_PowerVR_GM9xxx, [00000169A670B700][00000169A781F8C0 49] Android_PowerVR_GM9xxx_Vulkan, [00000169A671BB00][00000169A7853A40 49] Android_TegraK1, [00000169A670AD00][00000169A7857BC0 49] Android_Unknown_Vulkan, [00000169A6719400][00000169A785BD40 49] Lumin, [00000169A670A100][00000169A785E200 49] Lumin_Desktop, [00000169A671AD00][00000169A7862380 49] HoloLens, 
+[2022.05.04-10.23.18:834][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.05.04-10.23.18:834][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.05.04-10.23.18:834][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.05.04-10.23.18:834][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.05.04-10.23.18:834][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.05.04-10.23.19:062][  0]LogNetVersion: SANPERO 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2967656727)
+[2022.05.04-10.23.19:441][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.05.04-10.23.19:695][  0]LogPackageLocalizationCache: Processed 29 localized package path(s) for 1 prioritized culture(s) in 0.253747 seconds
+[2022.05.04-10.23.19:701][  0]LogUObjectArray: 17492 objects as part of root set at end of initial load.
+[2022.05.04-10.23.19:701][  0]LogUObjectAllocator: 4476304 out of 0 bytes used by permanent object pool.
+[2022.05.04-10.23.19:701][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.05.04-10.23.19:900][  0]LogD3D12RHI: Creating RTPSO with 3 shaders (0 cached, 3 new) took 96.13 ms. Compile time 6.22 ms, link time 89.87 ms.
+[2022.05.04-10.23.20:344][  0]LogPython: Using Python 3.7.7
+[2022.05.04-10.23.21:170][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.05.04-10.23.21:177][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.05.04-10.23.21:539][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.05.04-10.23.21:539][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.05.04-10.23.21:541][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.05.04-10.23.21:544][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.05.04-10.23.21:566][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.05.04-10.23.21:568][  0]LogUProjectInfo: Found projects:
+[2022.05.04-10.23.21:572][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.05.04-10.23.21:572][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.05.04-10.23.21:861][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.05.04-10.23.21:893][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.04-10.23.21:893][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.04-10.23.21:985][  0]LogAssetRegistry: Error: Package D:/노랜딩/No-Landing/Content/KingArthur/Materials/MI_Floor_RoundDesign.uasset has malformed tag
+[2022.05.04-10.23.21:985][  0]LogAssetRegistry: Error: Package D:/노랜딩/No-Landing/Content/KingArthur/Materials/MI_CandelStand.uasset has malformed tag
+[2022.05.04-10.23.21:985][  0]LogCollectionManager: Loaded 0 collections in 0.001561 seconds
+[2022.05.04-10.23.22:013][  0]LogFileCache: Scanning file cache for directory 'D:/노랜딩/No-Landing/Saved/Collections/' took 0.00s
+[2022.05.04-10.23.22:013][  0]LogFileCache: Scanning file cache for directory 'D:/노랜딩/No-Landing/Content/Developers/elixi/Collections/' took 0.00s
+[2022.05.04-10.23.22:013][  0]LogFileCache: Scanning file cache for directory 'D:/노랜딩/No-Landing/Content/Collections/' took 0.00s
+[2022.05.04-10.23.22:013][  0]LogOcInput: OculusInput pre-init called
+[2022.05.04-10.23.22:027][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.05.04-10.23.22:027][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.05.04-10.23.22:345][  0]LogEngine: Initializing Engine...
+[2022.05.04-10.23.22:347][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.05.04-10.23.22:347][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.05.04-10.23.22:349][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.05.04-10.23.22:528][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.05.04-10.23.22:556][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.05.04-10.23.22:557][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.05.04-10.23.22:560][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.05.04-10.23.22:560][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.05.04-10.23.22:560][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.04-10.23.22:560][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.04-10.23.22:560][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.04-10.23.22:560][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.04-10.23.22:560][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.04-10.23.22:560][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.04-10.23.22:560][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.04-10.23.22:560][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.04-10.23.22:560][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.04-10.23.22:560][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.04-10.23.22:570][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.04-10.23.22:570][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.05.04-10.23.22:595][  0]LogAudioMixer: Display: Using Audio Device Q27P1B(NVIDIA High Definition Audio)
+[2022.05.04-10.23.22:598][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.04-10.23.22:600][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.04-10.23.22:600][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.04-10.23.22:601][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.04-10.23.22:601][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.04-10.23.22:601][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.04-10.23.22:602][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.04-10.23.22:602][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.04-10.23.22:602][  0]LogInit: FAudioDevice initialized.
+[2022.05.04-10.23.22:602][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.05.04-10.23.22:602][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.05.04-10.23.22:693][  0]LogDerivedDataCache: Saved boot cache 0.09s 111MB C:/Users/elixi/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.05.04-10.23.22:695][  0]LogInit: Texture streaming: Enabled
+[2022.05.04-10.23.22:705][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.05.04-10.23.22:708][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.05.04-10.23.22:708][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.05.04-10.23.22:710][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.05.04-10.23.22:736][  0]LogInit: Transaction tracking system initialized
+[2022.05.04-10.23.22:755][  0]BlueprintLog: New page: 에디터 로드
+[2022.05.04-10.23.22:810][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2022.05.04-10.23.22:831][  0]TimingProfiler: Initialize
+[2022.05.04-10.23.22:831][  0]TimingProfiler: OnSessionChanged
+[2022.05.04-10.23.22:831][  0]LoadingProfiler: Initialize
+[2022.05.04-10.23.22:831][  0]LoadingProfiler: OnSessionChanged
+[2022.05.04-10.23.22:831][  0]NetworkingProfiler: Initialize
+[2022.05.04-10.23.22:831][  0]NetworkingProfiler: OnSessionChanged
+[2022.05.04-10.23.22:831][  0]MemoryProfiler: Initialize
+[2022.05.04-10.23.22:831][  0]MemoryProfiler: OnSessionChanged
+[2022.05.04-10.23.22:887][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.05.04-10.23.22:887][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.05.04-10.23.23:028][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.05.04-10.23.23:029][  0]LogCook: Display: Mobile HDR setting 1
+[2022.05.04-10.23.23:421][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.05.04-10.23.23:424][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.05.04-10.23.23:424][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.153
+[2022.05.04-10.23.23:424][  0]Cmd: MAP LOAD FILE="D:/노랜딩/No-Landing/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.04-10.23.23:471][  0]LightingResults: New page: 라이팅 빌드
+[2022.05.04-10.23.23:472][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-10.23.23:472][  0]LogFileCache: Scanning file cache for directory 'D:/노랜딩/No-Landing/Content/' took 0.46s
+[2022.05.04-10.23.23:472][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-10.23.23:473][  0]MapCheck: New page: 맵 체크
+[2022.05.04-10.23.23:473][  0]LightingResults: New page: 라이팅 빌드
+[2022.05.04-10.23.23:490][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.05.04-10.23.41:661][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/crossbow/AS_crossbow_aim_idle_stand.AS_crossbow_aim_idle_stand
+[2022.05.04-10.23.41:661][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/crossbow/AS_crossbow_aim_idle_stand.AS_crossbow_aim_idle_stand
+[2022.05.04-10.23.43:543][  0]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2022.05.04-10.23.44:092][  0]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 76
+[2022.05.04-10.23.44:093][  0]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 72
+[2022.05.04-10.23.44:093][  0]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 68
+[2022.05.04-10.23.44:093][  0]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 64
+[2022.05.04-10.23.44:093][  0]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 60
+[2022.05.04-10.23.44:093][  0]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 56
+[2022.05.04-10.23.44:093][  0]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 52
+[2022.05.04-10.23.44:093][  0]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 48
+[2022.05.04-10.23.44:093][  0]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 44
+[2022.05.04-10.23.44:093][  0]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 40
+[2022.05.04-10.23.44:093][  0]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 36
+[2022.05.04-10.23.44:093][  0]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 32
+[2022.05.04-10.23.44:093][  0]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 28
+[2022.05.04-10.23.44:093][  0]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 24
+[2022.05.04-10.23.44:093][  0]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 20
+[2022.05.04-10.23.44:093][  0]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 16
+[2022.05.04-10.23.44:093][  0]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 12
+[2022.05.04-10.23.44:093][  0]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 8
+[2022.05.04-10.23.44:093][  0]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 4
+[2022.05.04-10.23.44:095][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.05.04-10.23.44:098][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.05.04-10.23.44:186][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.04-10.23.44:444][  0]LogUObjectHash: Compacting FUObjectHashTables data took   9.14ms
+[2022.05.04-10.23.44:455][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.04-10.23.44:455][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.159ms.
+[2022.05.04-10.23.44:455][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 21.032
+[2022.05.04-10.23.44:463][  0]LogUnrealEdMisc: Total Editor Startup Time, took 29.193
+[2022.05.04-10.23.44:691][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.04-10.23.44:726][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.04-10.23.45:199][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0183 seconds. Added 3800 classes and 934 folders.
+[2022.05.04-10.23.45:213][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2022.05.04-10.23.45:220][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.05.04-10.23.45:220][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.04-10.23.45:220][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.04-10.23.45:220][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2022.05.04-10.23.45:224][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.05.04-10.23.45:225][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.04-10.23.45:225][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.05.04-10.23.45:225][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.05.04-10.23.45:227][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.05.04-10.23.45:227][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.04-10.23.45:227][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.05.04-10.23.45:227][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.05.04-10.23.45:229][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.04-10.23.45:229][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.04-10.23.45:229][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.04-10.23.45:229][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.05.04-10.23.45:231][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.05.04-10.23.45:231][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.04-10.23.45:231][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.05.04-10.23.45:231][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.05.04-10.23.45:233][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.05.04-10.23.45:233][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.04-10.23.45:233][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.05.04-10.23.45:233][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.05.04-10.23.45:234][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.05.04-10.23.45:234][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.04-10.23.45:234][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.05.04-10.23.45:234][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.05.04-10.23.45:236][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.05.04-10.23.45:236][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.04-10.23.45:236][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.05.04-10.23.45:236][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2022.05.04-10.23.45:238][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.05.04-10.23.45:238][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.04-10.23.45:238][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.05.04-10.23.45:238][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.05.04-10.23.45:240][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.05.04-10.23.45:240][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.04-10.23.45:240][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.05.04-10.23.45:240][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2022.05.04-10.23.45:241][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.05.04-10.23.45:241][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.04-10.23.45:241][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.05.04-10.23.45:241][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.05.04-10.23.45:243][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.05.04-10.23.45:243][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.04-10.23.45:243][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.05.04-10.23.45:243][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2022.05.04-10.23.45:245][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.04-10.23.45:245][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.04-10.23.45:245][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.04-10.23.45:245][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2022.05.04-10.23.45:247][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.05.04-10.23.45:247][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.04-10.23.45:247][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.05.04-10.23.45:247][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2022.05.04-10.23.45:249][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.05.04-10.23.45:249][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.04-10.23.45:249][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.05.04-10.23.45:249][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2022.05.04-10.23.45:251][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.05.04-10.23.45:251][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.04-10.23.45:251][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.04-10.23.45:251][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2022.05.04-10.23.45:253][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.05.04-10.23.45:253][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.04-10.23.45:253][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.05.04-10.23.45:253][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2022.05.04-10.23.45:255][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.05.04-10.23.45:255][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.04-10.23.45:255][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.05.04-10.23.45:255][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2022.05.04-10.23.45:256][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.04-10.23.45:257][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.04-10.23.45:257][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.04-10.23.45:257][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2022.05.04-10.23.45:258][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.04-10.23.45:258][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.04-10.23.45:258][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.04-10.23.45:258][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2022.05.04-10.23.45:261][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.05.04-10.23.45:261][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.04-10.23.45:261][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.04-10.23.45:261][  0]LogPakFile: OnPakFileMounted2Time == 0.000094
+[2022.05.04-10.23.45:264][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.05.04-10.23.45:264][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.04-10.23.45:264][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.05.04-10.23.45:264][  0]LogPakFile: OnPakFileMounted2Time == 0.000105
+[2022.05.04-10.23.45:267][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.05.04-10.23.45:267][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.04-10.23.45:267][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.05.04-10.23.45:267][  0]LogPakFile: OnPakFileMounted2Time == 0.000113
+[2022.05.04-10.23.45:269][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.05.04-10.23.45:269][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.04-10.23.45:269][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.05.04-10.23.45:269][  0]LogPakFile: OnPakFileMounted2Time == 0.000117
+[2022.05.04-10.23.45:272][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.04-10.23.45:272][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.04-10.23.45:272][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.04-10.23.45:272][  0]LogPakFile: OnPakFileMounted2Time == 0.000121
+[2022.05.04-10.23.45:273][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.05.04-10.23.45:273][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.04-10.23.45:273][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.05.04-10.23.45:273][  0]LogPakFile: OnPakFileMounted2Time == 0.000122
+[2022.05.04-10.23.45:363][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2022.05.04-10.23.45:431][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2022.05.04-10.23.45:431][  0]LogLoad: (Engine Initialization) Total time: 30.16 seconds
+[2022.05.04-10.23.45:431][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.05.04-10.23.45:431][  0]LogInit: First time updating LLM stats...
+[2022.05.04-10.23.45:555][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.05.04-10.23.45:567][  0]LogSlate: Took 0.000281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.04-10.23.45:571][  0]LogSlate: Took 0.002869 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2022.05.04-10.23.45:579][  0]LogSlate: Took 0.002876 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2022.05.04-10.23.45:579][  0]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.05.04-10.23.45:584][  0]LogSlate: Took 0.000903 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.05.04-10.23.45:670][  0]LogRenderer: Reallocating scene render targets to support 576x508 Format 10 NumSamples 1 (Frame:1).
+[2022.05.04-10.23.46:023][  0]LogD3D12RHI: Creating RTPSO with 146 shaders (0 cached, 146 new) took 265.67 ms. Compile time 242.02 ms, link time 22.99 ms.
+[2022.05.04-10.23.46:197][  0]LogD3D12RHI: Creating RTPSO with 3 shaders (2 cached, 1 new) took 377.62 ms. Compile time 134.64 ms, link time 242.95 ms.
+[2022.05.04-10.23.47:373][  0]LogD3D12RHI: Creating RTPSO with 10 shaders (0 cached, 10 new) took 1555.17 ms. Compile time 182.83 ms, link time 1372.29 ms.
+[2022.05.04-10.23.47:373][  0]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.05.04-10.23.47:391][  0]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.05.04-10.23.47:393][  0]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.05.04-10.23.47:410][  0]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.05.04-10.23.47:410][  0]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.05.04-10.23.47:428][  0]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.05.04-10.23.48:189][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/노랜딩/No-Landing/Content/' took 2.69s
+[2022.05.04-10.23.48:311][  1]LogDirectoryWatcher: Display: A directory notification failed, and we were unable to create a new request. GetLastError code [5] Handle [0000000000001190], Path [../../Plugins/Experimental/ChaosSolverPlugin/Content/] 
+[2022.05.04-10.23.48:311][  1]LogDirectoryWatcher: Display: A directory notification failed, and we were unable to create a new request. GetLastError code [5] Handle [0000000000001194], Path [../../Plugins/Experimental/ChaosClothEditor/Content/] 
+[2022.05.04-10.23.48:311][  1]LogDirectoryWatcher: Display: A directory notification failed, and we were unable to create a new request. GetLastError code [5] Handle [000000000000119C], Path [../../Plugins/Experimental/GeometryProcessing/Content/] 
+[2022.05.04-10.23.48:311][  1]LogDirectoryWatcher: Display: A directory notification failed, and we were unable to create a new request. GetLastError code [5] Handle [00000000000011A8], Path [../../Plugins/Experimental/MotoSynth/Content/] 
+[2022.05.04-10.23.48:311][  1]LogDirectoryWatcher: Display: A directory notification failed, and we were unable to create a new request. GetLastError code [5] Handle [00000000000011B4], Path [../../Plugins/Lumin/MagicLeap/Content/] 
+[2022.05.04-10.23.48:312][  1]LogDirectoryWatcher: Display: A directory notification failed, and we were unable to create a new request. GetLastError code [5] Handle [00000000000011C0], Path [../../Plugins/Runtime/AudioSynesthesia/Content/] 
+[2022.05.04-10.23.48:312][  1]LogDirectoryWatcher: Display: A directory notification failed, and we were unable to create a new request. GetLastError code [5] Handle [00000000000011C8], Path [../../Plugins/Runtime/PostSplashScreen/Content/] 
+[2022.05.04-10.23.48:467][  1]LogD3D12RHI: Creating RTPSO with 149 shaders (1 cached, 2 new) took 48.11 ms. Compile time 45.07 ms, link time 2.81 ms.
+[2022.05.04-10.23.48:476][  1]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.05.04-10.23.48:494][  1]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.05.04-10.23.48:496][  1]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.05.04-10.23.48:515][  1]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.05.04-10.23.48:865][  4]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.05.04-10.23.48:865][  4]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.05.04-10.23.48:865][  4]LogAssetRegistry: Asset discovery search completed in 30.3943 seconds
+[2022.05.04-10.23.48:868][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.05.04-10.23.53:261][  6]LoadErrors: Error: /Game/CC_Shaders/EyeShader/RL_EyeRefractive : SubsurfaceProfile 에 대한 임포트 실패 /Game/CC_Shaders/EyeShader/SSS_Profile/SSP_Eye_Inner.SSP_Eye_Inner Material 익스포트에 참조됨 /Game/CC_Shaders/EyeShader/RL_EyeRefractive.RL_EyeRefractive
+[2022.05.04-10.23.53:980][  7]LogRenderer: Reallocating scene render targets to support 1092x536 Format 10 NumSamples 1 (Frame:9).
+[2022.05.04-10.23.54:141][  8]LogRenderer: Reallocating scene render targets to support 1236x536 Format 10 NumSamples 1 (Frame:10).
+[2022.05.04-10.23.54:292][ 12]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.05.04-10.23.54:451][ 16]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.05.04-10.23.54:451][ 16]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.05.04-10.23.54:563][ 21]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.05.04-10.23.54:563][ 21]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.05.04-10.23.54:591][ 23]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.05.04-10.23.55:320][ 65]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.05.04-10.23.55:320][ 65]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.05.04-10.23.55:320][ 65]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.05.04-10.23.55:331][ 65]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.05.04-10.23.55:334][ 65]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.05.04-10.23.55:341][ 65]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.05.04-10.23.55:370][ 67]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.05.04-10.23.55:383][ 68]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.05.04-10.23.55:383][ 68]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.05.04-10.23.55:386][ 68]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.05.04-10.23.55:386][ 68]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.05.04-10.23.55:392][ 68]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.05.04-10.24.22:459][667]LogLinker: Warning: [AssetLog] D:\노랜딩\No-Landing\Content\Character\Enemy\Enemy_Girl.uasset: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.04-10.24.22:459][667]LogLinker: Warning: [AssetLog] D:\노랜딩\No-Landing\Content\Character\Enemy\Enemy_Girl.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.04-10.24.22:459][667]LogLinker: Warning: [AssetLog] D:\노랜딩\No-Landing\Content\Character\Enemy\Enemy_Girl.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.04-10.24.22:459][667]LogLinker: Warning: [AssetLog] D:\노랜딩\No-Landing\Content\Character\Enemy\Enemy_Girl.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.04-10.24.22:459][667]LoadErrors: 로드에 실패했습니다. /Game/Character/Enemy/Enemy_Fe.Enemy_Fe 참조한 것: Enemy_girl
+[2022.05.04-10.24.22:473][667]LogSlate: Took 0.001345 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.04-10.26.36:134][619]LogFactory: FactoryCreateFile: StaticMesh with CCFbxFactory (0 0 D:\모델링\NPC\Enemy_female.Fbx)
+[2022.05.04-10.26.37:405][619]LogSlate: Window 'Character Creator & iClone Auto Setup Import Options' being destroyed
+[2022.05.04-10.26.37:477][619]LogFbx: Loading FBX Scene from D:\모델링\NPC\Enemy_female.Fbx
+[2022.05.04-10.26.43:482][619]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.04-10.26.55:395][619]LogSlate: Window 'FBX 임포트 옵션' being destroyed
+[2022.05.04-10.26.55:432][619]LogFbx: Warning: Not valid bind pose for Pose () - Node cc_base_tongue : The relative matrices do not match
+[2022.05.04-10.26.55:433][619]LogFbx: Warning: Not valid bind pose for Pose () - Node cc_base_body : The relative matrices do not match
+[2022.05.04-10.26.55:434][619]LogFbx: Warning: Not valid bind pose for Pose () - Node cc_base_eye : The relative matrices do not match
+[2022.05.04-10.26.55:435][619]LogFbx: Warning: Not valid bind pose for Pose () - Node cc_base_teeth : The relative matrices do not match
+[2022.05.04-10.26.55:436][619]LogFbx: Warning: Not valid bind pose for Pose () - Node cc_base_eyeocclusion : The relative matrices do not match
+[2022.05.04-10.26.55:437][619]LogFbx: Warning: Not valid bind pose for Pose () - Node cc_base_tearline : The relative matrices do not match
+[2022.05.04-10.26.55:438][619]LogFbx: Warning: Not valid bind pose for Pose () - Node f_j_multipple_pockets_l : The relative matrices do not match
+[2022.05.04-10.26.55:438][619]LogFbx: Warning: Not valid bind pose for Pose () - Node base_pants : The relative matrices do not match
+[2022.05.04-10.26.55:439][619]LogFbx: Warning: Not valid bind pose for Pose () - Node boots : The relative matrices do not match
+[2022.05.04-10.26.55:440][619]LogFbx: Warning: Not valid bind pose for Pose () - Node long_wavy_ponytail : The relative matrices do not match
+[2022.05.04-10.26.55:441][619]LogFbx: Warning: Not valid bind pose for Pose () - Node messy_high : The relative matrices do not match
+[2022.05.04-10.26.55:441][619]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2022.05.04-10.26.55:445][619]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - cc_base_tongue
+[2022.05.04-10.26.55:445][619]LogFbx: Warning: Recreating bind pose succeeded.
+[2022.05.04-10.26.55:641][619]LogFbx: Triangulating skeletal mesh cc_base_tongue
+[2022.05.04-10.26.55:658][619]LogFbx: Triangulating skeletal mesh cc_base_body
+[2022.05.04-10.26.57:008][619]LogFbx: Triangulating skeletal mesh cc_base_eye
+[2022.05.04-10.26.57:028][619]LogFbx: Triangulating skeletal mesh cc_base_teeth
+[2022.05.04-10.26.57:098][619]LogFbx: Triangulating skeletal mesh cc_base_eyeocclusion
+[2022.05.04-10.26.57:113][619]LogFbx: Triangulating skeletal mesh cc_base_tearline
+[2022.05.04-10.26.57:152][619]LogFbx: Triangulating skeletal mesh base_pants
+[2022.05.04-10.26.57:264][619]LogFbx: Triangulating skeletal mesh boots
+[2022.05.04-10.26.57:420][619]LogFbx: Triangulating skeletal mesh long_wavy_ponytail
+[2022.05.04-10.26.57:893][619]LogFbx: Warning: Bones digested - 119  Depth of hierarchy - 12
+[2022.05.04-10.26.58:906][619]LogSkeletalMesh: Display: /Game/Character/Enemy/Enemy_female.Enemy_female ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2022.05.04-10.26.59:767][619]LogSkeletalMesh: Section 0: Material=0, 592 triangles
+[2022.05.04-10.26.59:767][619]LogSkeletalMesh: Section 1: Material=1, 8316 triangles
+[2022.05.04-10.26.59:767][619]LogSkeletalMesh: Section 2: Material=2, 3892 triangles
+[2022.05.04-10.26.59:767][619]LogSkeletalMesh: Section 3: Material=3, 8366 triangles
+[2022.05.04-10.26.59:767][619]LogSkeletalMesh: Section 4: Material=4, 4520 triangles
+[2022.05.04-10.26.59:767][619]LogSkeletalMesh: Section 5: Material=5, 1775 triangles
+[2022.05.04-10.26.59:767][619]LogSkeletalMesh: Section 6: Material=6, 1200 triangles
+[2022.05.04-10.26.59:767][619]LogSkeletalMesh: Section 7: Material=7, 320 triangles
+[2022.05.04-10.26.59:767][619]LogSkeletalMesh: Section 8: Material=8, 320 triangles
+[2022.05.04-10.26.59:767][619]LogSkeletalMesh: Section 9: Material=9, 320 triangles
+[2022.05.04-10.26.59:767][619]LogSkeletalMesh: Section 10: Material=10, 320 triangles
+[2022.05.04-10.26.59:767][619]LogSkeletalMesh: Section 11: Material=11, 2362 triangles
+[2022.05.04-10.26.59:767][619]LogSkeletalMesh: Section 12: Material=12, 2480 triangles
+[2022.05.04-10.26.59:767][619]LogSkeletalMesh: Section 13: Material=13, 144 triangles
+[2022.05.04-10.26.59:767][619]LogSkeletalMesh: Section 14: Material=14, 144 triangles
+[2022.05.04-10.26.59:767][619]LogSkeletalMesh: Section 15: Material=15, 136 triangles
+[2022.05.04-10.26.59:767][619]LogSkeletalMesh: Section 16: Material=16, 136 triangles
+[2022.05.04-10.26.59:767][619]LogSkeletalMesh: Section 17: Material=17, 7000 triangles
+[2022.05.04-10.26.59:767][619]LogSkeletalMesh: Section 18: Material=18, 7436 triangles
+[2022.05.04-10.26.59:767][619]LogSkeletalMesh: Section 19: Material=19, 10936 triangles
+[2022.05.04-10.26.59:767][619]LogSkeletalMesh: Section 20: Material=20, 12870 triangles
+[2022.05.04-10.26.59:767][619]LogSkeletalMesh: Section 21: Material=21, 29630 triangles
+[2022.05.04-10.26.59:767][619]LogSkeletalMesh: Section 22: Material=22, 560 triangles
+[2022.05.04-10.26.59:811][619]LogSkeletalMesh: Building Skeletal Mesh Enemy_female...
+[2022.05.04-10.27.00:604][619]LogSkeletalMesh: Display: /Game/Character/Enemy/Enemy_female.Enemy_female ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2022.05.04-10.27.01:441][619]LogSkeletalMesh: Section 0: Material=0, 592 triangles
+[2022.05.04-10.27.01:441][619]LogSkeletalMesh: Section 1: Material=1, 8316 triangles
+[2022.05.04-10.27.01:441][619]LogSkeletalMesh: Section 2: Material=2, 3892 triangles
+[2022.05.04-10.27.01:441][619]LogSkeletalMesh: Section 3: Material=3, 8366 triangles
+[2022.05.04-10.27.01:441][619]LogSkeletalMesh: Section 4: Material=4, 4520 triangles
+[2022.05.04-10.27.01:441][619]LogSkeletalMesh: Section 5: Material=5, 1775 triangles
+[2022.05.04-10.27.01:441][619]LogSkeletalMesh: Section 6: Material=6, 1200 triangles
+[2022.05.04-10.27.01:441][619]LogSkeletalMesh: Section 7: Material=7, 320 triangles
+[2022.05.04-10.27.01:441][619]LogSkeletalMesh: Section 8: Material=8, 320 triangles
+[2022.05.04-10.27.01:441][619]LogSkeletalMesh: Section 9: Material=9, 320 triangles
+[2022.05.04-10.27.01:441][619]LogSkeletalMesh: Section 10: Material=10, 320 triangles
+[2022.05.04-10.27.01:441][619]LogSkeletalMesh: Section 11: Material=11, 2362 triangles
+[2022.05.04-10.27.01:441][619]LogSkeletalMesh: Section 12: Material=12, 2480 triangles
+[2022.05.04-10.27.01:441][619]LogSkeletalMesh: Section 13: Material=13, 144 triangles
+[2022.05.04-10.27.01:441][619]LogSkeletalMesh: Section 14: Material=14, 144 triangles
+[2022.05.04-10.27.01:441][619]LogSkeletalMesh: Section 15: Material=15, 136 triangles
+[2022.05.04-10.27.01:441][619]LogSkeletalMesh: Section 16: Material=16, 136 triangles
+[2022.05.04-10.27.01:441][619]LogSkeletalMesh: Section 17: Material=17, 7000 triangles
+[2022.05.04-10.27.01:441][619]LogSkeletalMesh: Section 18: Material=18, 7436 triangles
+[2022.05.04-10.27.01:441][619]LogSkeletalMesh: Section 19: Material=19, 10936 triangles
+[2022.05.04-10.27.01:441][619]LogSkeletalMesh: Section 20: Material=20, 12870 triangles
+[2022.05.04-10.27.01:441][619]LogSkeletalMesh: Section 21: Material=21, 29630 triangles
+[2022.05.04-10.27.01:441][619]LogSkeletalMesh: Section 22: Material=22, 560 triangles
+[2022.05.04-10.27.01:684][619]LogSkeletalMesh: Built Skeletal Mesh [1.87s] /Game/Character/Enemy/Enemy_female.Enemy_female
+[2022.05.04-10.27.01:789][619]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-10.27.01:789][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-10.27.05:436][619]LogSkeletalMesh: Building Skeletal Mesh Enemy_female...
+[2022.05.04-10.27.06:238][619]LogSkeletalMesh: Display: /Game/Character/Enemy/Enemy_female.Enemy_female ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2022.05.04-10.27.07:113][619]LogSkeletalMesh: Section 0: Material=0, 592 triangles
+[2022.05.04-10.27.07:113][619]LogSkeletalMesh: Section 1: Material=1, 8316 triangles
+[2022.05.04-10.27.07:113][619]LogSkeletalMesh: Section 2: Material=2, 3892 triangles
+[2022.05.04-10.27.07:113][619]LogSkeletalMesh: Section 3: Material=3, 8366 triangles
+[2022.05.04-10.27.07:113][619]LogSkeletalMesh: Section 4: Material=4, 4520 triangles
+[2022.05.04-10.27.07:113][619]LogSkeletalMesh: Section 5: Material=5, 1775 triangles
+[2022.05.04-10.27.07:113][619]LogSkeletalMesh: Section 6: Material=6, 1200 triangles
+[2022.05.04-10.27.07:113][619]LogSkeletalMesh: Section 7: Material=7, 320 triangles
+[2022.05.04-10.27.07:113][619]LogSkeletalMesh: Section 8: Material=8, 320 triangles
+[2022.05.04-10.27.07:113][619]LogSkeletalMesh: Section 9: Material=9, 320 triangles
+[2022.05.04-10.27.07:113][619]LogSkeletalMesh: Section 10: Material=10, 320 triangles
+[2022.05.04-10.27.07:113][619]LogSkeletalMesh: Section 11: Material=11, 2362 triangles
+[2022.05.04-10.27.07:113][619]LogSkeletalMesh: Section 12: Material=12, 2480 triangles
+[2022.05.04-10.27.07:113][619]LogSkeletalMesh: Section 13: Material=13, 144 triangles
+[2022.05.04-10.27.07:113][619]LogSkeletalMesh: Section 14: Material=14, 144 triangles
+[2022.05.04-10.27.07:113][619]LogSkeletalMesh: Section 15: Material=15, 136 triangles
+[2022.05.04-10.27.07:113][619]LogSkeletalMesh: Section 16: Material=16, 136 triangles
+[2022.05.04-10.27.07:113][619]LogSkeletalMesh: Section 17: Material=17, 7000 triangles
+[2022.05.04-10.27.07:113][619]LogSkeletalMesh: Section 18: Material=18, 7436 triangles
+[2022.05.04-10.27.07:113][619]LogSkeletalMesh: Section 19: Material=19, 10936 triangles
+[2022.05.04-10.27.07:113][619]LogSkeletalMesh: Section 20: Material=20, 12870 triangles
+[2022.05.04-10.27.07:113][619]LogSkeletalMesh: Section 21: Material=21, 29630 triangles
+[2022.05.04-10.27.07:113][619]LogSkeletalMesh: Section 22: Material=22, 560 triangles
+[2022.05.04-10.27.09:281][619]LogSkeletalMesh: Built Skeletal Mesh [3.85s] /Game/Character/Enemy/Enemy_female.Enemy_female
+[2022.05.04-10.27.09:407][619]FBXImport: FBX 씬 로딩 중: 텍스처 이름 충돌 발견, 이름 충돌은 리임포트에서 잘못 재할당될 수 있어, 'Std_Tearline_R_Opacity' 텍스처 이름이 'Std_Tearline_R_Opacity_ncl1_1'으로 변경 
+[2022.05.04-10.27.10:531][619]LogTexture: Display: 텍스처 빌드: pants_Normal (BC5, 2048X2048)
+[2022.05.04-10.27.10:600][619]LogTexture: Display: 텍스처 빌드: pants_Normal (BC5, 2048X2048)
+[2022.05.04-10.27.10:715][619]LogTexture: Display: 텍스처 빌드: Std_Cornea_L_Opacity (AutoDXT, 1024X1024)
+[2022.05.04-10.27.10:739][619]LogTexture: Display: 텍스처 빌드: Std_Cornea_R_Opacity (AutoDXT, 1024X1024)
+[2022.05.04-10.27.10:805][619]LogTexture: Display: 텍스처 빌드: Std_Eyelash_Normal (BC5, 2048X2048)
+[2022.05.04-10.27.10:862][619]LogTexture: Display: 텍스처 빌드: Std_Eyelash_Normal (BC5, 2048X2048)
+[2022.05.04-10.27.11:020][619]LogTexture: Display: 텍스처 빌드: Std_Eye_L_Normal (BC5, 512X512)
+[2022.05.04-10.27.11:026][619]LogTexture: Display: 텍스처 빌드: Std_Eye_L_Normal (BC5, 512X512)
+[2022.05.04-10.27.11:045][619]LogTexture: Display: 텍스처 빌드: Std_Eye_R_Normal (BC5, 512X512)
+[2022.05.04-10.27.11:052][619]LogTexture: Display: 텍스처 빌드: Std_Eye_R_Normal (BC5, 512X512)
+[2022.05.04-10.27.11:078][619]LogTexture: Display: 텍스처 빌드: Std_Lower_Teeth_Diffuse (AutoDXT, 1024X1024)
+[2022.05.04-10.27.11:129][619]LogTexture: Display: 텍스처 빌드: Std_Lower_Teeth_Normal (BC5, 1024X1024)
+[2022.05.04-10.27.11:284][619]LogTexture: Display: 텍스처 빌드: Std_Lower_Teeth_Normal (BC5, 1024X1024)
+[2022.05.04-10.27.11:353][619]LogTexture: Display: 텍스처 빌드: Std_Nails_Normal (BC5, 2048X2048)
+[2022.05.04-10.27.11:559][619]LogTexture: Display: 텍스처 빌드: Std_Nails_Normal (BC5, 2048X2048)
+[2022.05.04-10.27.11:838][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Arm_Normal (AutoDXT, 2048X2048)
+[2022.05.04-10.27.12:217][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Body_Normal (AutoDXT, 2048X2048)
+[2022.05.04-10.27.12:590][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Head_Normal (BC5, 2048X2048)
+[2022.05.04-10.27.12:659][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Head_Normal (BC5, 2048X2048)
+[2022.05.04-10.27.12:848][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Leg_Normal (AutoDXT, 2048X2048)
+[2022.05.04-10.27.13:164][619]LogTexture: Display: 텍스처 빌드: Std_Tongue_Diffuse (AutoDXT, 1024X1024)
+[2022.05.04-10.27.13:249][619]LogTexture: Display: 텍스처 빌드: Std_Tongue_Normal (AutoDXT, 1024X1024)
+[2022.05.04-10.27.13:331][619]LogTexture: Display: 텍스처 빌드: Std_Upper_Teeth_Diffuse (AutoDXT, 1024X1024)
+[2022.05.04-10.27.13:401][619]LogTexture: Display: 텍스처 빌드: Std_Upper_Teeth_Normal (BC5, 1024X1024)
+[2022.05.04-10.27.13:418][619]LogTexture: Display: 텍스처 빌드: Std_Upper_Teeth_Normal (BC5, 1024X1024)
+[2022.05.04-10.27.13:518][619]LogTexture: Display: 텍스처 빌드: Std_Eyelash_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.13:629][619]LogTexture: Display: 텍스처 빌드: Std_Eyelash_ResourceMap_Position (AutoDXT, 512X512)
+[2022.05.04-10.27.13:650][619]LogTexture: Display: 텍스처 빌드: Std_Eyelash_ResourceMap_Position (AutoDXT, 512X512)
+[2022.05.04-10.27.13:715][619]LogTexture: Display: 텍스처 빌드: Std_Eyelash_ResourceMap_WSNormal (AutoDXT, 512X512)
+[2022.05.04-10.27.13:761][619]LogTexture: Display: 텍스처 빌드: Std_Eyelash_ResourceMap_WSNormal (AutoDXT, 512X512)
+[2022.05.04-10.27.13:919][619]LogTexture: Display: 텍스처 빌드: Std_Nails_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.14:042][619]LogTexture: Display: 텍스처 빌드: Std_Nails_ResourceMap_Position (AutoDXT, 512X512)
+[2022.05.04-10.27.14:108][619]LogTexture: Display: 텍스처 빌드: Std_Nails_ResourceMap_Position (AutoDXT, 512X512)
+[2022.05.04-10.27.14:186][619]LogTexture: Display: 텍스처 빌드: Std_Nails_ResourceMap_WSNormal (AutoDXT, 512X512)
+[2022.05.04-10.27.14:230][619]LogTexture: Display: 텍스처 빌드: Std_Nails_ResourceMap_WSNormal (AutoDXT, 512X512)
+[2022.05.04-10.27.14:300][619]LogTexture: Display: 텍스처 빌드: Std_Nails_TransMap (AutoDXT, 1024X1024)
+[2022.05.04-10.27.14:411][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Arm_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.14:564][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Arm_ResourceMap_Position (AutoDXT, 512X512)
+[2022.05.04-10.27.14:608][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Arm_ResourceMap_Position (AutoDXT, 512X512)
+[2022.05.04-10.27.14:688][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Arm_ResourceMap_WSNormal (AutoDXT, 512X512)
+[2022.05.04-10.27.14:748][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Arm_ResourceMap_WSNormal (AutoDXT, 512X512)
+[2022.05.04-10.27.14:828][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Arm_SSSMap (AutoDXT, 1024X1024)
+[2022.05.04-10.27.14:917][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Arm_TransMap (AutoDXT, 2048X2048)
+[2022.05.04-10.27.15:072][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Body_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.15:192][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Body_ResourceMap_Position (AutoDXT, 512X512)
+[2022.05.04-10.27.15:249][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Body_ResourceMap_Position (AutoDXT, 512X512)
+[2022.05.04-10.27.15:332][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Body_ResourceMap_WSNormal (AutoDXT, 512X512)
+[2022.05.04-10.27.15:376][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Body_ResourceMap_WSNormal (AutoDXT, 512X512)
+[2022.05.04-10.27.15:441][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Body_SSSMap (AutoDXT, 1024X1024)
+[2022.05.04-10.27.15:542][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Body_TransMap (AutoDXT, 2048X2048)
+[2022.05.04-10.27.15:679][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Head_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.15:815][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Head_ResourceMap_Position (AutoDXT, 512X512)
+[2022.05.04-10.27.15:857][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Head_ResourceMap_Position (AutoDXT, 512X512)
+[2022.05.04-10.27.15:933][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Head_ResourceMap_WSNormal (AutoDXT, 512X512)
+[2022.05.04-10.27.15:977][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Head_ResourceMap_WSNormal (AutoDXT, 512X512)
+[2022.05.04-10.27.16:225][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Head_TransMap (AutoDXT, 4096X4096)
+[2022.05.04-10.27.16:533][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Leg_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.16:664][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Leg_ResourceMap_Position (AutoDXT, 512X512)
+[2022.05.04-10.27.16:721][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Leg_ResourceMap_Position (AutoDXT, 512X512)
+[2022.05.04-10.27.16:807][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Leg_ResourceMap_WSNormal (AutoDXT, 512X512)
+[2022.05.04-10.27.16:851][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Leg_ResourceMap_WSNormal (AutoDXT, 512X512)
+[2022.05.04-10.27.16:923][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Leg_SSSMap (AutoDXT, 1024X1024)
+[2022.05.04-10.27.17:016][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Leg_TransMap (AutoDXT, 2048X2048)
+[2022.05.04-10.27.17:499][619]LogTexture: Display: 텍스처 빌드: Std_Tongue_MicroN (BC5, 2048X2048)
+[2022.05.04-10.27.17:631][619]LogTexture: Display: 텍스처 빌드: Std_Tongue_MicroN (BC5, 2048X2048)
+[2022.05.04-10.27.17:789][619]LogTexture: Display: 텍스처 빌드: Std_Tongue_ORM (AutoDXT, 512X512)
+[2022.05.04-10.27.17:845][619]LogTexture: Display: 텍스처 빌드: Std_Cornea_L_ORM (AutoDXT, 512X512)
+[2022.05.04-10.27.17:866][619]LogTexture: Display: 텍스처 빌드: Std_Cornea_R_IrisMask (AutoDXT, 512X512)
+[2022.05.04-10.27.17:932][619]LogTexture: Display: 텍스처 빌드: Std_Cornea_R_IrisN (BC5, 1024X1024)
+[2022.05.04-10.27.17:947][619]LogTexture: Display: 텍스처 빌드: Std_Cornea_R_IrisN (BC5, 1024X1024)
+[2022.05.04-10.27.17:983][619]LogTexture: Display: 텍스처 빌드: Std_Cornea_R_ORM (AutoDXT, 512X512)
+[2022.05.04-10.27.18:191][619]LogTexture: Display: 텍스처 빌드: Std_Cornea_R_ScleraN (BC5, 2048X2048)
+[2022.05.04-10.27.18:348][619]LogTexture: Display: 텍스처 빌드: Std_Cornea_R_ScleraN (BC5, 2048X2048)
+[2022.05.04-10.27.18:472][619]LogTexture: Display: 텍스처 빌드: Std_Eye_L_ORM (AutoDXT, 128X128)
+[2022.05.04-10.27.18:560][619]LogTexture: Display: 텍스처 빌드: Std_Eye_R_ORM (AutoDXT, 128X128)
+[2022.05.04-10.27.18:579][619]LogTexture: Display: 텍스처 빌드: Std_Eye_Occlusion_L_ORM (AutoDXT, 64X64)
+[2022.05.04-10.27.18:590][619]LogTexture: Display: 텍스처 빌드: Std_Eye_Occlusion_R_ORM (AutoDXT, 64X64)
+[2022.05.04-10.27.18:592][619]LogTexture: Display: 텍스처 빌드: Std_Tearline_L_ORM (AutoDXT, 64X64)
+[2022.05.04-10.27.18:601][619]LogTexture: Display: 텍스처 빌드: Std_Tearline_R_ORM (AutoDXT, 64X64)
+[2022.05.04-10.27.18:685][619]LogTexture: Display: 텍스처 빌드: hat_tex_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.18:935][619]LogTexture: Display: 텍스처 빌드: bow_tex_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.19:105][619]LogTexture: Display: 텍스처 빌드: dress_tex_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.19:363][619]LogTexture: Display: 텍스처 빌드: dress_tex_ResourceMap_Height (AutoDXT, 2048X2048)
+[2022.05.04-10.27.19:586][619]LogTexture: Display: 텍스처 빌드: dress_tex_ResourceMap_Normal (BC5, 2048X2048)
+[2022.05.04-10.27.19:701][619]LogTexture: Display: 텍스처 빌드: dress_tex_ResourceMap_Normal (BC5, 2048X2048)
+[2022.05.04-10.27.19:873][619]LogTexture: Display: 텍스처 빌드: dress_tex_WeightMap (AutoDXT, 2048X2048)
+[2022.05.04-10.27.20:058][619]LogTexture: Display: 텍스처 빌드: Hair_Transparency_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.20:169][619]LogTexture: Display: 텍스처 빌드: glove_tex_ORM (AutoDXT, 64X64)
+[2022.05.04-10.27.20:255][619]LogTexture: Display: 텍스처 빌드: manchette_tex_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.20:481][619]LogTexture: Display: 텍스처 빌드: Mask_Face_red_001_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.20:743][619]LogTexture: Display: 텍스처 빌드: Mask_Top_red_001_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.21:161][619]LogTexture: Display: 텍스처 빌드: wrap_tex_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.21:471][619]LogTexture: Display: 텍스처 빌드: collar_Tex_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.21:606][619]LogTexture: Display: 텍스처 빌드: Hair_Transparency_1_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.21:783][619]LogTexture: Display: 텍스처 빌드: shoe_tex_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.22:013][619]LogTexture: Display: 텍스처 빌드: Hair_Transparency_0_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.22:129][619]LogTexture: Display: 텍스처 빌드: Std_Cornea_L_IrisMask (AutoDXT, 512X512)
+[2022.05.04-10.27.22:192][619]LogTexture: Display: 텍스처 빌드: Std_Cornea_L_IrisN (BC5, 1024X1024)
+[2022.05.04-10.27.22:205][619]LogTexture: Display: 텍스처 빌드: Std_Cornea_L_IrisN (BC5, 1024X1024)
+[2022.05.04-10.27.22:271][619]LogTexture: Display: 텍스처 빌드: Std_Lower_Teeth_ORM (AutoDXT, 1024X1024)
+[2022.05.04-10.27.22:487][619]LogTexture: Display: 텍스처 빌드: Std_Upper_Teeth_MicroN (BC5, 2048X2048)
+[2022.05.04-10.27.22:640][619]LogTexture: Display: 텍스처 빌드: Std_Upper_Teeth_MicroN (BC5, 2048X2048)
+[2022.05.04-10.27.22:831][619]LogTexture: Display: 텍스처 빌드: Std_Upper_Teeth_ORM (AutoDXT, 1024X1024)
+[2022.05.04-10.27.23:000][619]LogTexture: Display: 텍스처 빌드: High_polytail_Transparency_Glow (AutoDXT, 1024X1024)
+[2022.05.04-10.27.23:041][619]LogTexture: Display: 텍스처 빌드: High_polytail_Transparency_ORM (AutoDXT, 1024X1024)
+[2022.05.04-10.27.23:111][619]LogTexture: Display: 텍스처 빌드: Scalp_High_polytail_Transparency_Glow (AutoDXT, 1024X1024)
+[2022.05.04-10.27.23:170][619]LogTexture: Display: 텍스처 빌드: Scalp_High_polytail_Transparency_ORM (AutoDXT, 1024X1024)
+[2022.05.04-10.27.23:339][619]LogTexture: Display: 텍스처 빌드: PostApocalyptic_GasMask_MAT_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.23:704][619]LogTexture: Display: 텍스처 빌드: Belt_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.23:910][619]LogTexture: Display: 텍스처 빌드: Buckle_ORM (AutoDXT, 512X512)
+[2022.05.04-10.27.24:117][619]LogTexture: Display: 텍스처 빌드: Punk_Strap_Boots_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.24:504][619]LogTexture: Display: 텍스처 빌드: RabbitMask_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.24:677][619]LogTexture: Display: 텍스처 빌드: Trouser_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.24:925][619]LogTexture: Display: 텍스처 빌드: pants_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.25:152][619]LogTexture: Display: 텍스처 빌드: boots_tex_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.25:372][619]LogTexture: Display: 텍스처 빌드: F_J_Multipple_Pockets_L_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.25:432][619]LogTexture: Display: 텍스처 빌드: Hairline_Transparency_ORM (AutoDXT, 64X64)
+[2022.05.04-10.27.25:615][619]LogTexture: Display: 텍스처 빌드: Std_Cornea_L_ScleraN (BC5, 2048X2048)
+[2022.05.04-10.27.25:718][619]LogTexture: Display: 텍스처 빌드: Std_Cornea_L_ScleraN (BC5, 2048X2048)
+[2022.05.04-10.27.25:990][619]LogTexture: Display: 텍스처 빌드: Std_Lower_Teeth_MicroN (BC5, 2048X2048)
+[2022.05.04-10.27.26:139][619]LogTexture: Display: 텍스처 빌드: Std_Lower_Teeth_MicroN (BC5, 2048X2048)
+[2022.05.04-10.27.26:658][619]LogTexture: Display: 텍스처 빌드: Std_Nails_MicroN (BC5, 2048X2048)
+[2022.05.04-10.27.26:845][619]LogTexture: Display: 텍스처 빌드: Std_Nails_MicroN (BC5, 2048X2048)
+[2022.05.04-10.27.27:383][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Arm_MicroN (BC5, 2048X2048)
+[2022.05.04-10.27.27:522][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Arm_MicroN (BC5, 2048X2048)
+[2022.05.04-10.27.28:049][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Body_MicroN (BC5, 2048X2048)
+[2022.05.04-10.27.28:190][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Body_MicroN (BC5, 2048X2048)
+[2022.05.04-10.27.28:714][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Head_MicroN (BC5, 2048X2048)
+[2022.05.04-10.27.28:855][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Head_MicroN (BC5, 2048X2048)
+[2022.05.04-10.27.29:369][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Leg_MicroN (BC5, 2048X2048)
+[2022.05.04-10.27.29:548][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Leg_MicroN (BC5, 2048X2048)
+[2022.05.04-10.27.29:697][619]LogTexture: Display: 텍스처 빌드: Std_Tongue_ao (AutoDXT, 512X512)
+[2022.05.04-10.27.29:725][619]LogTexture: Display: 텍스처 빌드: Std_Tongue_metallic (AutoDXT, 128X128)
+[2022.05.04-10.27.29:753][619]LogTexture: Display: 텍스처 빌드: Std_Tongue_roughness (AutoDXT, 512X512)
+[2022.05.04-10.27.29:780][619]LogTexture: Display: 텍스처 빌드: Hair_Transparency_metallic (AutoDXT, 64X64)
+[2022.05.04-10.27.29:781][619]LogTexture: Display: 텍스처 빌드: Hair_Transparency_roughness (AutoDXT, 64X64)
+[2022.05.04-10.27.29:783][619]LogTexture: Display: 텍스처 빌드: Hairline_Transparency_metallic (AutoDXT, 64X64)
+[2022.05.04-10.27.29:785][619]LogTexture: Display: 텍스처 빌드: Hairline_Transparency_roughness (AutoDXT, 64X64)
+[2022.05.04-10.27.29:822][619]LogTexture: Display: 텍스처 빌드: Underwear_Bottoms_ao (AutoDXT, 1024X1024)
+[2022.05.04-10.27.29:938][619]LogTexture: Display: 텍스처 빌드: Underwear_Bottoms_Glow (AutoDXT, 1024X1024)
+[2022.05.04-10.27.29:966][619]LogTexture: Display: 텍스처 빌드: Underwear_Bottoms_metallic (AutoDXT, 1024X1024)
+[2022.05.04-10.27.30:023][619]LogTexture: Display: 텍스처 빌드: Underwear_Bottoms_ORM (AutoDXT, 1024X1024)
+[2022.05.04-10.27.30:211][619]LogTexture: Display: 텍스처 빌드: Underwear_Bottoms_roughness (AutoDXT, 1024X1024)
+[2022.05.04-10.27.30:292][619]LogTexture: Display: 텍스처 빌드: Std_Cornea_L_Sclera (AutoDXT, 1024X1024)
+[2022.05.04-10.27.30:441][619]LogTexture: Display: 텍스처 빌드: Std_Cornea_R_Sclera (AutoDXT, 1024X1024)
+[2022.05.04-10.27.30:617][619]LogTexture: Display: 텍스처 빌드: RL_Shoes_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.31:076][619]LogTexture: Display: 텍스처 빌드: Hair_Transparency_Hair_Flow_Map (AutoDXT, 2048X2048)
+[2022.05.04-10.27.31:266][619]LogTexture: Display: 텍스처 빌드: Hair_Transparency_Hair_ID_Map (AutoDXT, 2048X2048)
+[2022.05.04-10.27.31:382][619]LogTexture: Display: 텍스처 빌드: Scalp_Transparency_ORM (AutoDXT, 64X64)
+[2022.05.04-10.27.31:429][619]LogTexture: Display: 텍스처 빌드: Beard_Transparency_Hair_Flow_Map (AutoDXT, 1024X1024)
+[2022.05.04-10.27.31:504][619]LogTexture: Display: 텍스처 빌드: Beard_Transparency_Hair_ID_Map (AutoDXT, 1024X1024)
+[2022.05.04-10.27.31:570][619]LogTexture: Display: 텍스처 빌드: Beard_Transparency_ORM (AutoDXT, 1024X1024)
+[2022.05.04-10.27.31:674][619]LogTexture: Display: 텍스처 빌드: Beard_Transparency_0_Hair_Flow_Map (AutoDXT, 1024X1024)
+[2022.05.04-10.27.31:757][619]LogTexture: Display: 텍스처 빌드: Beard_Transparency_0_Hair_ID_Map (AutoDXT, 1024X1024)
+[2022.05.04-10.27.31:823][619]LogTexture: Display: 텍스처 빌드: Beard_Transparency_0_ORM (AutoDXT, 1024X1024)
+[2022.05.04-10.27.31:915][619]LogTexture: Display: 텍스처 빌드: Beard_Transparency_1_Hair_Flow_Map (AutoDXT, 1024X1024)
+[2022.05.04-10.27.31:983][619]LogTexture: Display: 텍스처 빌드: Beard_Transparency_1_Hair_ID_Map (AutoDXT, 1024X1024)
+[2022.05.04-10.27.32:043][619]LogTexture: Display: 텍스처 빌드: Beard_Transparency_1_ORM (AutoDXT, 1024X1024)
+[2022.05.04-10.27.32:139][619]LogTexture: Display: 텍스처 빌드: Beard_Transparency_2_Hair_Flow_Map (AutoDXT, 1024X1024)
+[2022.05.04-10.27.32:218][619]LogTexture: Display: 텍스처 빌드: Beard_Transparency_2_Hair_ID_Map (AutoDXT, 1024X1024)
+[2022.05.04-10.27.32:294][619]LogTexture: Display: 텍스처 빌드: Beard_Transparency_2_ORM (AutoDXT, 1024X1024)
+[2022.05.04-10.27.32:392][619]LogTexture: Display: 텍스처 빌드: Male_Bushy_Base_Transparency_ORM (AutoDXT, 64X64)
+[2022.05.04-10.27.32:400][619]LogTexture: Display: 텍스처 빌드: Male_Bushy_Transparency_ORM (AutoDXT, 64X64)
+[2022.05.04-10.27.32:455][619]LogTexture: Display: 텍스처 빌드: jacket_tex_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.32:715][619]LogTexture: Display: 텍스처 빌드: shirt_tex_ORM (AutoDXT, 4096X4096)
+[2022.05.04-10.27.33:027][619]LogTexture: Display: 텍스처 빌드: pants_tex_ORM (AutoDXT, 64X64)
+[2022.05.04-10.27.33:274][619]LogTexture: Display: 텍스처 빌드: uv_checker_material_uv_grid_4096x4096_ORM (AutoDXT, 4096X4096)
+[2022.05.04-10.27.33:833][619]LogTexture: Display: 텍스처 빌드: PostApocalyptic_Shirt_1_MAT_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.34:225][619]LogTexture: Display: 텍스처 빌드: Cloak_ORM (AutoDXT, 1024X1024)
+[2022.05.04-10.27.34:368][619]LogTexture: Display: 텍스처 빌드: Hood_ORM (AutoDXT, 1024X1024)
+[2022.05.04-10.27.34:595][619]LogTexture: Display: 텍스처 빌드: PostApocalyptic_Jacket_MAT_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.34:957][619]LogTexture: Display: 텍스처 빌드: lambert2_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.35:036][619]LogTexture: Display: 텍스처 빌드: Boots_Displacement (AutoDXT, 1024X1024)
+[2022.05.04-10.27.35:081][619]LogTexture: Display: 텍스처 빌드: Boots_Glow (AutoDXT, 1024X1024)
+[2022.05.04-10.27.35:143][619]LogTexture: Display: 텍스처 빌드: Boots_ORM (AutoDXT, 1024X1024)
+[2022.05.04-10.27.35:355][619]LogTexture: Display: 텍스처 빌드: PostApocalyptic_Gloves_MAT_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.35:824][619]LogTexture: Display: 텍스처 빌드: PostApocalyptic_Cowl_MAT_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.36:251][619]LogTexture: Display: 텍스처 빌드: PostApocalyptic_Pads_MAT_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.36:649][619]LogTexture: Display: 텍스처 빌드: PostApocalyptic_Vest_MAT_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.37:044][619]LogTexture: Display: 텍스처 빌드: train_tex_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.37:127][619]LogTexture: Display: 텍스처 빌드: __Cornea_ORM (AutoDXT, 64X64)
+[2022.05.04-10.27.37:140][619]LogTexture: Display: 텍스처 빌드: __Eyes_ORM (AutoDXT, 128X128)
+[2022.05.04-10.27.37:158][619]LogTexture: Display: 텍스처 빌드: __Iris_ORM (AutoDXT, 128X128)
+[2022.05.04-10.27.37:173][619]LogTexture: Display: 텍스처 빌드: __Pupil_ORM (AutoDXT, 128X128)
+[2022.05.04-10.27.37:240][619]LogTexture: Display: 텍스처 빌드: bows_tex_Transparency_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.37:347][619]LogTexture: Display: 텍스처 빌드: front_Transparency_HSpecMap (AutoDXT, 1024X1024)
+[2022.05.04-10.27.37:467][619]LogTexture: Display: 텍스처 빌드: front_Transparency_HTanMap (AutoDXT, 2048X2048)
+[2022.05.04-10.27.37:547][619]LogTexture: Display: 텍스처 빌드: front_Transparency_ORM (AutoDXT, 1024X1024)
+[2022.05.04-10.27.37:635][619]LogTexture: Display: 텍스처 빌드: front_Transparency_ResourceMap_Height (AutoDXT, 1024X1024)
+[2022.05.04-10.27.37:732][619]LogTexture: Display: 텍스처 빌드: front_Transparency_ResourceMap_Normal (BC5, 1024X1024)
+[2022.05.04-10.27.37:751][619]LogTexture: Display: 텍스처 빌드: front_Transparency_ResourceMap_Normal (BC5, 1024X1024)
+[2022.05.04-10.27.37:842][619]LogTexture: Display: 텍스처 빌드: hair_Transparency_Displacement (AutoDXT, 2048X2048)
+[2022.05.04-10.27.38:002][619]LogTexture: Display: 텍스처 빌드: hair_Transparency_HSpecMap (AutoDXT, 2048X2048)
+[2022.05.04-10.27.38:263][619]LogTexture: Display: 텍스처 빌드: hair_Transparency_HTanMap (AutoDXT, 2048X2048)
+[2022.05.04-10.27.38:389][619]LogTexture: Display: 텍스처 빌드: hair_Transparency_ResourceMap_Height (AutoDXT, 2048X2048)
+[2022.05.04-10.27.38:650][619]LogTexture: Display: 텍스처 빌드: hair_Transparency_ResourceMap_Normal (BC5, 2048X2048)
+[2022.05.04-10.27.38:747][619]LogTexture: Display: 텍스처 빌드: hair_Transparency_ResourceMap_Normal (BC5, 2048X2048)
+[2022.05.04-10.27.38:852][619]LogTexture: Display: 텍스처 빌드: top_Transparency_HSpecMap (AutoDXT, 1024X1024)
+[2022.05.04-10.27.39:013][619]LogTexture: Display: 텍스처 빌드: top_Transparency_HTanMap (AutoDXT, 2048X2048)
+[2022.05.04-10.27.39:089][619]LogTexture: Display: 텍스처 빌드: top_Transparency_ORM (AutoDXT, 64X64)
+[2022.05.04-10.27.39:123][619]LogTexture: Display: 텍스처 빌드: top_Transparency_ResourceMap_Height (AutoDXT, 1024X1024)
+[2022.05.04-10.27.39:255][619]LogTexture: Display: 텍스처 빌드: top_Transparency_ResourceMap_Normal (BC5, 1024X1024)
+[2022.05.04-10.27.39:274][619]LogTexture: Display: 텍스처 빌드: top_Transparency_ResourceMap_Normal (BC5, 1024X1024)
+[2022.05.04-10.27.39:384][619]LogTexture: Display: 텍스처 빌드: lace_tex_ORM (AutoDXT, 2048X2048)
+[2022.05.04-10.27.39:572][619]LogTexture: Display: 텍스처 빌드: boots_tex_Bump (AutoDXT, 2048X2048)
+[2022.05.04-10.27.39:764][619]LogTexture: Display: 텍스처 빌드: boots_tex_Diffuse (AutoDXT, 2048X2048)
+[2022.05.04-10.27.39:870][619]LogTexture: Display: 텍스처 빌드: F_J_Multipple_Pockets_L_Diffuse (AutoDXT, 2048X2048)
+[2022.05.04-10.27.40:065][619]LogTexture: Display: 텍스처 빌드: F_J_Multipple_Pockets_L_Normal (BC5, 2048X2048)
+[2022.05.04-10.27.40:128][619]LogTexture: Display: 텍스처 빌드: F_J_Multipple_Pockets_L_Normal (BC5, 2048X2048)
+[2022.05.04-10.27.40:218][619]LogTexture: Display: 텍스처 빌드: Hairline_Transparency_Diffuse (AutoDXT, 2048X2048)
+[2022.05.04-10.27.40:331][619]LogTexture: Display: 텍스처 빌드: Hairline_Transparency_Opacity (AutoDXT, 2048X2048)
+[2022.05.04-10.27.40:404][619]LogTexture: Display: 텍스처 빌드: Hair_Transparency_0_Diffuse (AutoDXT, 2048X2048)
+[2022.05.04-10.27.40:597][619]LogTexture: Display: 텍스처 빌드: Hair_Transparency_0_Opacity (AutoDXT, 2048X2048)
+[2022.05.04-10.27.40:691][619]LogTexture: Display: 텍스처 빌드: Hair_Transparency_Diffuse (AutoDXT, 2048X2048)
+[2022.05.04-10.27.40:804][619]LogTexture: Display: 텍스처 빌드: Hair_Transparency_Opacity (AutoDXT, 2048X2048)
+[2022.05.04-10.27.40:909][619]LogTexture: Display: 텍스처 빌드: pants_Diffuse (AutoDXT, 2048X2048)
+[2022.05.04-10.27.41:000][619]LogTexture: Display: 텍스처 빌드: Std_Cornea_L_Diffuse (AutoDXT, 1024X1024)
+[2022.05.04-10.27.41:055][619]LogTexture: Display: 텍스처 빌드: Std_Cornea_R_Diffuse (AutoDXT, 1024X1024)
+[2022.05.04-10.27.41:111][619]LogTexture: Display: 텍스처 빌드: Std_Eyelash_Diffuse (AutoDXT, 2048X2048)
+[2022.05.04-10.27.41:179][619]LogTexture: Display: 텍스처 빌드: Std_Eyelash_Opacity (AutoDXT, 2048X2048)
+[2022.05.04-10.27.41:282][619]LogTexture: Display: 텍스처 빌드: Std_Eye_L_Diffuse (AutoDXT, 1024X1024)
+[2022.05.04-10.27.41:332][619]LogTexture: Display: 텍스처 빌드: Std_Eye_Occlusion_L_Diffuse (AutoDXT, 64X64)
+[2022.05.04-10.27.41:334][619]LogTexture: Display: 텍스처 빌드: Std_Eye_Occlusion_L_Opacity (AutoDXT, 64X64)
+[2022.05.04-10.27.41:336][619]LogTexture: Display: 텍스처 빌드: Std_Eye_Occlusion_R_Diffuse (AutoDXT, 64X64)
+[2022.05.04-10.27.41:338][619]LogTexture: Display: 텍스처 빌드: Std_Eye_Occlusion_R_Opacity (AutoDXT, 64X64)
+[2022.05.04-10.27.41:344][619]LogTexture: Display: 텍스처 빌드: Std_Eye_R_Diffuse (AutoDXT, 1024X1024)
+[2022.05.04-10.27.41:413][619]LogTexture: Display: 텍스처 빌드: Std_Nails_Diffuse (AutoDXT, 2048X2048)
+[2022.05.04-10.27.41:603][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Arm_Diffuse (AutoDXT, 2048X2048)
+[2022.05.04-10.27.41:767][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Body_Diffuse (AutoDXT, 2048X2048)
+[2022.05.04-10.27.41:952][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Head_Diffuse (AutoDXT, 2048X2048)
+[2022.05.04-10.27.42:122][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Leg_Diffuse (AutoDXT, 2048X2048)
+[2022.05.04-10.27.42:286][619]LogTexture: Display: 텍스처 빌드: Std_Tearline_L_Diffuse (AutoDXT, 64X64)
+[2022.05.04-10.27.42:287][619]LogTexture: Display: 텍스처 빌드: Std_Tearline_R_Diffuse (AutoDXT, 64X64)
+[2022.05.04-10.27.42:290][619]LogTexture: Display: 텍스처 빌드: Std_Tearline_R_Opacity (AutoDXT, 64X64)
+[2022.05.04-10.27.42:305][619]LogTexture: Display: 텍스처 빌드: Std_Nails_MicroNMask (AutoDXT, 2048X2048)
+[2022.05.04-10.27.42:364][619]LogTexture: Display: 텍스처 빌드: Std_Nails_SSSMap (AutoDXT, 4X4)
+[2022.05.04-10.27.42:390][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Arm_MicroNMask (AutoDXT, 2048X2048)
+[2022.05.04-10.27.42:482][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Body_MicroNMask (AutoDXT, 2048X2048)
+[2022.05.04-10.27.42:654][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Head_BCBMap (AutoDXT, 4096X4096)
+[2022.05.04-10.27.43:096][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Head_MicroNMask (AutoDXT, 2048X2048)
+[2022.05.04-10.27.43:271][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Head_NBMap (BC5, 4096X4096)
+[2022.05.04-10.27.43:578][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Head_NBMap (BC5, 4096X4096)
+[2022.05.04-10.27.44:006][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Head_SpecMask (AutoDXT, 2048X2048)
+[2022.05.04-10.27.44:206][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Head_SSSMap (AutoDXT, 1024X1024)
+[2022.05.04-10.27.44:266][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Leg_MicroNMask (AutoDXT, 2048X2048)
+[2022.05.04-10.27.44:339][619]LogTexture: Display: 텍스처 빌드: Std_Tongue_GradAO (AutoDXT, 512X512)
+[2022.05.04-10.27.44:389][619]LogTexture: Display: 텍스처 빌드: Std_Cornea_R_BCBMap (AutoDXT, 512X512)
+[2022.05.04-10.27.44:441][619]LogTexture: Display: 텍스처 빌드: Hair_Transparency_Hair_Root_Map (AutoDXT, 2048X2048)
+[2022.05.04-10.27.44:568][619]LogTexture: Display: 텍스처 빌드: Hair_Transparency_vertexcolormap (AutoDXT, 64X64)
+[2022.05.04-10.27.44:642][619]LogTexture: Display: 텍스처 빌드: Hair_Transparency_1_Hair_Flow_Map (AutoDXT, 2048X2048)
+[2022.05.04-10.27.44:840][619]LogTexture: Display: 텍스처 빌드: Hair_Transparency_1_Hair_ID_Map (AutoDXT, 2048X2048)
+[2022.05.04-10.27.45:043][619]LogTexture: Display: 텍스처 빌드: Hair_Transparency_1_Hair_Root_Map (AutoDXT, 2048X2048)
+[2022.05.04-10.27.45:179][619]LogTexture: Display: 텍스처 빌드: Hair_Transparency_1_vertexcolormap (AutoDXT, 64X64)
+[2022.05.04-10.27.45:220][619]LogTexture: Display: 텍스처 빌드: Hair_Transparency_0_Hair_Flow_Map (AutoDXT, 2048X2048)
+[2022.05.04-10.27.45:404][619]LogTexture: Display: 텍스처 빌드: Hair_Transparency_0_Hair_ID_Map (AutoDXT, 2048X2048)
+[2022.05.04-10.27.45:627][619]LogTexture: Display: 텍스처 빌드: Hair_Transparency_0_Hair_Root_Map (AutoDXT, 2048X2048)
+[2022.05.04-10.27.45:767][619]LogTexture: Display: 텍스처 빌드: Hair_Transparency_0_vertexcolormap (AutoDXT, 64X64)
+[2022.05.04-10.27.45:838][619]LogTexture: Display: 텍스처 빌드: Hair_Transparency_0_WeightMap (AutoDXT, 4096X4096)
+[2022.05.04-10.27.46:125][619]LogTexture: Display: 텍스처 빌드: Std_Cornea_L_BCBMap (AutoDXT, 512X512)
+[2022.05.04-10.27.46:162][619]LogTexture: Display: 텍스처 빌드: Std_Upper_Teeth_GradAO (AutoDXT, 512X512)
+[2022.05.04-10.27.46:205][619]LogTexture: Display: 텍스처 빌드: Std_Upper_Teeth_GumsMask (AutoDXT, 1024X1024)
+[2022.05.04-10.27.46:240][619]LogTexture: Display: 텍스처 빌드: High_polytail_Transparency_HSpecMap (AutoDXT, 1024X1024)
+[2022.05.04-10.27.46:289][619]LogTexture: Display: 텍스처 빌드: High_polytail_Transparency_vertexcolormap (AutoDXT, 64X64)
+[2022.05.04-10.27.46:314][619]LogTexture: Display: 텍스처 빌드: High_polytail_Transparency_WeightMap (AutoDXT, 1024X1024)
+[2022.05.04-10.27.46:354][619]LogTexture: Display: 텍스처 빌드: pants_Displacement (AutoDXT, 2048X2048)
+[2022.05.04-10.27.46:416][619]LogTexture: Display: 텍스처 빌드: Std_Lower_Teeth_GradAO (AutoDXT, 512X512)
+[2022.05.04-10.27.46:445][619]LogTexture: Display: 텍스처 빌드: Std_Lower_Teeth_GumsMask (AutoDXT, 1024X1024)
+[2022.05.04-10.27.46:504][619]LogTexture: Display: 텍스처 빌드: Hair_Transparency_WeightMap (AutoDXT, 4096X4096)
+[2022.05.04-10.27.46:802][619]LogTexture: Display: 텍스처 빌드: pants_ao (AutoDXT, 2048X2048)
+[2022.05.04-10.27.46:927][619]LogTexture: Display: 텍스처 빌드: pants_metallic (AutoDXT, 2048X2048)
+[2022.05.04-10.27.47:020][619]LogTexture: Display: 텍스처 빌드: pants_roughness (AutoDXT, 2048X2048)
+[2022.05.04-10.27.47:147][619]LogTexture: Display: 텍스처 빌드: boots_tex_metallic (AutoDXT, 2048X2048)
+[2022.05.04-10.27.47:359][619]LogTexture: Display: 텍스처 빌드: boots_tex_roughness (AutoDXT, 2048X2048)
+[2022.05.04-10.27.47:547][619]LogTexture: Display: 텍스처 빌드: Std_Cornea_L_ao (AutoDXT, 512X512)
+[2022.05.04-10.27.47:583][619]LogTexture: Display: 텍스처 빌드: Std_Cornea_L_metallic (AutoDXT, 128X128)
+[2022.05.04-10.27.47:604][619]LogTexture: Display: 텍스처 빌드: Std_Cornea_L_roughness (AutoDXT, 128X128)
+[2022.05.04-10.27.47:621][619]LogTexture: Display: 텍스처 빌드: Std_Cornea_R_ao (AutoDXT, 512X512)
+[2022.05.04-10.27.47:658][619]LogTexture: Display: 텍스처 빌드: Std_Cornea_R_metallic (AutoDXT, 128X128)
+[2022.05.04-10.27.47:691][619]LogTexture: Display: 텍스처 빌드: Std_Cornea_R_roughness (AutoDXT, 128X128)
+[2022.05.04-10.27.47:716][619]LogTexture: Display: 텍스처 빌드: Std_Eye_L_metallic (AutoDXT, 128X128)
+[2022.05.04-10.27.47:743][619]LogTexture: Display: 텍스처 빌드: Std_Eye_L_roughness (AutoDXT, 128X128)
+[2022.05.04-10.27.47:758][619]LogTexture: Display: 텍스처 빌드: Std_Eye_R_metallic (AutoDXT, 128X128)
+[2022.05.04-10.27.47:780][619]LogTexture: Display: 텍스처 빌드: Std_Eye_R_roughness (AutoDXT, 128X128)
+[2022.05.04-10.27.47:785][619]LogTexture: Display: 텍스처 빌드: Std_Eye_Occlusion_L_metallic (AutoDXT, 64X64)
+[2022.05.04-10.27.47:796][619]LogTexture: Display: 텍스처 빌드: Std_Eye_Occlusion_L_roughness (AutoDXT, 64X64)
+[2022.05.04-10.27.47:807][619]LogTexture: Display: 텍스처 빌드: Std_Eye_Occlusion_R_metallic (AutoDXT, 64X64)
+[2022.05.04-10.27.47:818][619]LogTexture: Display: 텍스처 빌드: Std_Eye_Occlusion_R_roughness (AutoDXT, 64X64)
+[2022.05.04-10.27.47:820][619]LogTexture: Display: 텍스처 빌드: Std_Tearline_L_metallic (AutoDXT, 64X64)
+[2022.05.04-10.27.47:833][619]LogTexture: Display: 텍스처 빌드: Std_Tearline_L_roughness (AutoDXT, 64X64)
+[2022.05.04-10.27.47:834][619]LogTexture: Display: 텍스처 빌드: Std_Tearline_R_metallic (AutoDXT, 64X64)
+[2022.05.04-10.27.47:841][619]LogTexture: Display: 텍스처 빌드: Std_Tearline_R_roughness (AutoDXT, 64X64)
+[2022.05.04-10.27.47:850][619]LogTexture: Display: 텍스처 빌드: Std_Lower_Teeth_ao (AutoDXT, 512X512)
+[2022.05.04-10.27.47:883][619]LogTexture: Display: 텍스처 빌드: Std_Lower_Teeth_metallic (AutoDXT, 128X128)
+[2022.05.04-10.27.47:935][619]LogTexture: Display: 텍스처 빌드: Std_Lower_Teeth_roughness (AutoDXT, 1024X1024)
+[2022.05.04-10.27.48:019][619]LogTexture: Display: 텍스처 빌드: Std_Upper_Teeth_ao (AutoDXT, 512X512)
+[2022.05.04-10.27.48:050][619]LogTexture: Display: 텍스처 빌드: Std_Upper_Teeth_metallic (AutoDXT, 128X128)
+[2022.05.04-10.27.48:063][619]LogTexture: Display: 텍스처 빌드: Std_Upper_Teeth_roughness (AutoDXT, 1024X1024)
+[2022.05.04-10.27.48:130][619]LogTexture: Display: 텍스처 빌드: Std_Eyelash_ao (AutoDXT, 2048X2048)
+[2022.05.04-10.27.48:233][619]LogTexture: Display: 텍스처 빌드: Std_Eyelash_roughness (AutoDXT, 2048X2048)
+[2022.05.04-10.27.48:316][619]LogTexture: Display: 텍스처 빌드: Std_Nails_ao (AutoDXT, 2048X2048)
+[2022.05.04-10.27.48:438][619]LogTexture: Display: 텍스처 빌드: Std_Nails_roughness (AutoDXT, 2048X2048)
+[2022.05.04-10.27.48:527][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Arm_ao (AutoDXT, 2048X2048)
+[2022.05.04-10.27.48:635][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Arm_roughness (AutoDXT, 2048X2048)
+[2022.05.04-10.27.48:770][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Body_ao (AutoDXT, 2048X2048)
+[2022.05.04-10.27.48:868][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Body_roughness (AutoDXT, 2048X2048)
+[2022.05.04-10.27.49:013][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Head_ao (AutoDXT, 2048X2048)
+[2022.05.04-10.27.49:111][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Head_roughness (AutoDXT, 2048X2048)
+[2022.05.04-10.27.49:252][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Leg_ao (AutoDXT, 2048X2048)
+[2022.05.04-10.27.49:350][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Leg_roughness (AutoDXT, 2048X2048)
+[2022.05.04-10.27.49:482][619]LogTexture: Display: 텍스처 빌드: F_J_Multipple_Pockets_L_metallic (AutoDXT, 2048X2048)
+[2022.05.04-10.27.49:545][619]LogTexture: Display: 텍스처 빌드: F_J_Multipple_Pockets_L_roughness (AutoDXT, 2048X2048)
+[2022.05.04-10.27.49:639][619]LogTexture: Display: 텍스처 빌드: Hair_Transparency_ao (AutoDXT, 2048X2048)
+[2022.05.04-10.27.49:772][619]LogTexture: Display: 텍스처 빌드: RL_Shoes_Displacement (AutoDXT, 2048X2048)
+[2022.05.04-10.27.49:874][619]LogTexture: Display: 텍스처 빌드: Hair_Transparency_blend_multiply (AutoDXT, 2048X2048)
+[2022.05.04-10.27.50:039][619]LogTexture: Display: 텍스처 빌드: Beard_Transparency_Hair_Root_Map (AutoDXT, 1024X1024)
+[2022.05.04-10.27.50:092][619]LogTexture: Display: 텍스처 빌드: Beard_Transparency_vertexcolormap (AutoDXT, 64X64)
+[2022.05.04-10.27.50:107][619]LogTexture: Display: 텍스처 빌드: Beard_Transparency_0_Hair_Root_Map (AutoDXT, 1024X1024)
+[2022.05.04-10.27.50:170][619]LogTexture: Display: 텍스처 빌드: Beard_Transparency_0_vertexcolormap (AutoDXT, 64X64)
+[2022.05.04-10.27.50:190][619]LogTexture: Display: 텍스처 빌드: Beard_Transparency_1_Hair_Root_Map (AutoDXT, 1024X1024)
+[2022.05.04-10.27.50:251][619]LogTexture: Display: 텍스처 빌드: Beard_Transparency_1_vertexcolormap (AutoDXT, 64X64)
+[2022.05.04-10.27.50:270][619]LogTexture: Display: 텍스처 빌드: Beard_Transparency_2_Hair_Root_Map (AutoDXT, 1024X1024)
+[2022.05.04-10.27.50:336][619]LogTexture: Display: 텍스처 빌드: Beard_Transparency_2_vertexcolormap (AutoDXT, 64X64)
+[2022.05.04-10.27.50:359][619]LogTexture: Display: 텍스처 빌드: Male_Bushy_Transparency_Hair_ID_Map (AutoDXT, 2048X2048)
+[2022.05.04-10.27.50:445][619]LogTexture: Display: 텍스처 빌드: Male_Bushy_Transparency_Hair_Root_Map (AutoDXT, 1024X1024)
+[2022.05.04-10.27.50:492][619]LogTexture: Display: 텍스처 빌드: Male_Bushy_Transparency_vertexcolormap (AutoDXT, 64X64)
+[2022.05.04-10.27.50:509][619]LogTexture: Display: 텍스처 빌드: Cloak_Displacement (AutoDXT, 1024X1024)
+[2022.05.04-10.27.50:558][619]LogTexture: Display: 텍스처 빌드: Cloak_Glow (AutoDXT, 1024X1024)
+[2022.05.04-10.27.50:598][619]LogTexture: Display: 텍스처 빌드: Cloak_WeightMap (AutoDXT, 1024X2048)
+[2022.05.04-10.27.50:632][619]LogTexture: Display: 텍스처 빌드: Hood_Displacement (AutoDXT, 1024X1024)
+[2022.05.04-10.27.50:678][619]LogTexture: Display: 텍스처 빌드: Hood_Glow (AutoDXT, 1024X1024)
+[2022.05.04-10.27.50:749][619]LogTexture: Display: 텍스처 빌드: Hood_WeightMap (AutoDXT, 4096X2048)
+[2022.05.04-10.27.50:899][619]LogTexture: Display: 텍스처 빌드: train_tex_WeightMap (AutoDXT, 2048X2048)
+[2022.05.04-10.27.50:971][619]LogTexture: Display: 텍스처 빌드: front_Transparency_vertexcolormap (AutoDXT, 64X64)
+[2022.05.04-10.27.50:988][619]LogTexture: Display: 텍스처 빌드: top_Transparency_Displacement (AutoDXT, 1024X1024)
+[2022.05.04-10.27.51:034][619]LogTexture: Display: 텍스처 빌드: top_Transparency_vertexcolormap (AutoDXT, 64X64)
+[2022.05.04-10.27.51:079][619]LogTexture: Display: 텍스처 빌드: Std_Nails_RGBAMask (AutoDXT, 1024X1024)
+[2022.05.04-10.27.51:140][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Arm_RGBAMask (AutoDXT, 1024X1024)
+[2022.05.04-10.27.51:244][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Body_RGBAMask (AutoDXT, 1024X1024)
+[2022.05.04-10.27.51:337][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Head_CFULCMask (AutoDXT, 1024X1024)
+[2022.05.04-10.27.51:434][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Head_ENMask (AutoDXT, 1024X1024)
+[2022.05.04-10.27.51:514][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Head_MNAOMask (AutoDXT, 1024X1024)
+[2022.05.04-10.27.51:600][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Head_NMUILMask (AutoDXT, 1024X1024)
+[2022.05.04-10.27.51:657][619]LogTexture: Display: 텍스처 빌드: Std_Skin_Leg_RGBAMask (AutoDXT, 1024X1024)
+[2022.05.04-10.27.51:719][619]LogJson: Warning: Field Specular was not found.
+[2022.05.04-10.27.51:719][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:719][619]LogJson: Warning: Field Glossiness was not found.
+[2022.05.04-10.27.51:719][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:719][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:719][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:719][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:719][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:719][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:719][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:719][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:719][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:719][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:719][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:719][619]LogJson: Warning: Field Specular was not found.
+[2022.05.04-10.27.51:719][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:719][619]LogJson: Warning: Field Glossiness was not found.
+[2022.05.04-10.27.51:719][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:719][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:719][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:719][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:719][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:719][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:719][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:719][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:719][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:719][619]LogJson: Warning: Field Specular was not found.
+[2022.05.04-10.27.51:719][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:719][619]LogJson: Warning: Field Glossiness was not found.
+[2022.05.04-10.27.51:719][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Specular was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Glossiness was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Specular was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Glossiness was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Specular was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Glossiness was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Specular was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Glossiness was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Specular was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Glossiness was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:720][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:720][619]LogJson: Warning: Field Specular was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:721][619]LogJson: Warning: Field Glossiness was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:721][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:721][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:721][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:721][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:721][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:721][619]LogJson: Warning: Field Specular was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:721][619]LogJson: Warning: Field Glossiness was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:721][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:721][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:721][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:721][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:721][619]LogJson: Warning: Field Specular was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:721][619]LogJson: Warning: Field Glossiness was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:721][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:721][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:721][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:721][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:721][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:721][619]LogJson: Warning: Field Specular was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:721][619]LogJson: Warning: Field Glossiness was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:721][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:721][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:721][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:721][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:721][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:721][619]LogJson: Warning: Field Specular was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:721][619]LogJson: Warning: Field Glossiness was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:721][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:721][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:721][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:721][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:721][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:721][619]LogJson: Warning: Field Specular was not found.
+[2022.05.04-10.27.51:721][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Glossiness was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Specular was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Glossiness was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Specular was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Glossiness was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Specular was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Glossiness was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Specular was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Glossiness was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Specular was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Glossiness was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:722][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:722][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Specular was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Glossiness was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Specular was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Glossiness was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Specular was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Glossiness was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Specular was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Glossiness was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Share Image was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Boolean'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Fraction was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Center was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Fraction was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Center was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Fraction was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Center was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Fraction was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Center was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Fraction was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Center was not found.
+[2022.05.04-10.27.51:723][619]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.05.04-10.27.51:723][619]LogJson: Warning: Field Fraction was not found.
+[2022.05.04-10.27.51:724][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:724][619]LogJson: Warning: Field Center was not found.
+[2022.05.04-10.27.51:724][619]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.05.04-10.27.51:724][619]LogJson: Warning: Field Fraction was not found.
+[2022.05.04-10.27.51:724][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:724][619]LogJson: Warning: Field Center was not found.
+[2022.05.04-10.27.51:724][619]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.05.04-10.27.51:724][619]LogJson: Warning: Field Fraction was not found.
+[2022.05.04-10.27.51:724][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:724][619]LogJson: Warning: Field Center was not found.
+[2022.05.04-10.27.51:724][619]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.05.04-10.27.51:724][619]LogJson: Warning: Field Fraction was not found.
+[2022.05.04-10.27.51:724][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:724][619]LogJson: Warning: Field Center was not found.
+[2022.05.04-10.27.51:724][619]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.05.04-10.27.51:724][619]LogJson: Warning: Field Fraction was not found.
+[2022.05.04-10.27.51:724][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:724][619]LogJson: Warning: Field Center was not found.
+[2022.05.04-10.27.51:724][619]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.05.04-10.27.51:724][619]LogJson: Warning: Field Fraction was not found.
+[2022.05.04-10.27.51:724][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:724][619]LogJson: Warning: Field Center was not found.
+[2022.05.04-10.27.51:724][619]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.05.04-10.27.51:724][619]LogJson: Warning: Field Fraction was not found.
+[2022.05.04-10.27.51:724][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:724][619]LogJson: Warning: Field Center was not found.
+[2022.05.04-10.27.51:724][619]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.05.04-10.27.51:724][619]LogJson: Warning: Field Fraction was not found.
+[2022.05.04-10.27.51:724][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:724][619]LogJson: Warning: Field Center was not found.
+[2022.05.04-10.27.51:724][619]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.05.04-10.27.51:724][619]LogJson: Warning: Field Fraction was not found.
+[2022.05.04-10.27.51:724][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:724][619]LogJson: Warning: Field Center was not found.
+[2022.05.04-10.27.51:724][619]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.05.04-10.27.51:724][619]LogJson: Warning: Field Fraction was not found.
+[2022.05.04-10.27.51:724][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:724][619]LogJson: Warning: Field Center was not found.
+[2022.05.04-10.27.51:724][619]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.05.04-10.27.51:724][619]LogJson: Warning: Field Fraction was not found.
+[2022.05.04-10.27.51:724][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:724][619]LogJson: Warning: Field Center was not found.
+[2022.05.04-10.27.51:724][619]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.05.04-10.27.51:724][619]LogJson: Warning: Field Fraction was not found.
+[2022.05.04-10.27.51:724][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:724][619]LogJson: Warning: Field Center was not found.
+[2022.05.04-10.27.51:724][619]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.05.04-10.27.51:724][619]LogJson: Warning: Field Fraction was not found.
+[2022.05.04-10.27.51:724][619]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.05.04-10.27.51:724][619]LogJson: Warning: Field Center was not found.
+[2022.05.04-10.27.51:724][619]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.05.04-10.27.52:071][619]LogTexture: Display: 텍스처 빌드: Std_Tongue_Normal (BC5, 1024X1024)
+[2022.05.04-10.27.52:134][619]LogTexture: Display: 텍스처 빌드: Std_Tongue_GradAO (AutoDXT, 512X512)
+[2022.05.04-10.27.52:159][619]LogTexture: Display: 텍스처 빌드: Std_Tongue_ORM (AutoDXT, 512X512)
