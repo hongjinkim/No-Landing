@@ -1456,3 +1456,249 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.05.15-14.42.23:615][258]AssetCheck: New page: Asset Save: multiple assets
 [2022.05.15-14.42.23:615][258]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2022.05.15-14.42.23:616][258]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.05.15-14.43.40:788][845]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP.ALS_AnimMan_CharacterBP
+[2022.05.15-14.44.29:384][503]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_Base_CharacterBP.ALS_Base_CharacterBP
+[2022.05.15-14.45.02:783][269]BlueprintLog: New page: Compile ALS_Base_CharacterBP
+[2022.05.15-14.45.03:331][269]LogUObjectHash: Compacting FUObjectHashTables data took   6.30ms
+[2022.05.15-14.45.09:035][574]BlueprintLog: New page: Compile ALS_Base_CharacterBP
+[2022.05.15-14.45.09:582][574]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2022.05.15-14.45.17:834][ 40]BlueprintLog: New page: Compile ALS_AnimMan_CharacterBP
+[2022.05.15-14.45.18:192][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2022.05.15-14.45.18:860][ 40]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/ALS_AnimMan_CharacterBP555D5ABC45D25447D697F79E66520D07.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP.uasset'
+[2022.05.15-14.45.18:874][ 40]AssetCheck: New page: Asset Save: ALS_AnimMan_CharacterBP
+[2022.05.15-14.45.18:874][ 40]LogContentValidation: Display: Validating Blueprint /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP.ALS_AnimMan_CharacterBP
+[2022.05.15-14.45.19:973][ 67]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/ALS_AnimMan_CharacterBPB5D527644D9BEF5D115F64BCA3C5AF6F.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP.uasset'
+[2022.05.15-14.45.19:991][ 67]AssetCheck: New page: Asset Save: ALS_AnimMan_CharacterBP
+[2022.05.15-14.45.19:991][ 67]LogContentValidation: Display: Validating Blueprint /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP.ALS_AnimMan_CharacterBP
+[2022.05.15-14.45.21:137][135]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.15-14.45.21:148][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.15-14.45.21:148][135]PIE: New page: PIE session: ThirdPersonExampleMap (2022. 5. 16. 오전 8:45:21)
+[2022.05.15-14.45.21:148][135]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.05.15-14.45.21:165][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016643s)
+[2022.05.15-14.45.21:166][135]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.05.15-14.45.21:167][135]LogPlayLevel: PIE: World Init took: (0.001530s)
+[2022.05.15-14.45.21:167][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018293s)
+[2022.05.15-14.45.21:212][135]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2022.05.15-14.45.21:214][135]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.05.15-14.45.21:214][135]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.15-14.45.21:214][135]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.15-14.45.21:214][135]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.15-14.45.21:214][135]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.15-14.45.21:214][135]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.15-14.45.21:214][135]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.15-14.45.21:214][135]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.15-14.45.21:214][135]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.15-14.45.21:215][135]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.15-14.45.21:215][135]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.15-14.45.21:217][135]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.15-14.45.21:217][135]LogAudioMixer: Display: 1: FrontRight
+[2022.05.15-14.45.21:225][135]LogAudioMixer: Display: Using Audio Device ULTRON 2758(NVIDIA High Definition Audio)
+[2022.05.15-14.45.21:225][135]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.15-14.45.21:225][135]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.15-14.45.21:225][135]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.15-14.45.21:226][135]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.15-14.45.21:226][135]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.15-14.45.21:226][135]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.15-14.45.21:241][135]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.15-14.45.21:241][135]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.15-14.45.21:241][135]LogInit: FAudioDevice initialized.
+[2022.05.15-14.45.21:241][135]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonExampleMap'.
+[2022.05.15-14.45.21:250][135]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2022.05.15-14.45.21:252][135]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.05.15-23.45.21
+[2022.05.15-14.45.21:252][135]LogWorld: Bringing up level for play took: 0.001457
+[2022.05.15-14.45.21:253][135]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2022.05.15-14.45.21:258][135]LogBlueprintUserMessages: [HUD_Class_C_0] start
+[2022.05.15-14.45.21:258][135]LogBlueprintUserMessages: [HUD_Class_C_0] view
+[2022.05.15-14.45.21:260][135]PIE: Server logged in
+[2022.05.15-14.45.21:260][135]PIE: Play in editor total start time 0.113 seconds.
+[2022.05.15-14.45.21:265][135]LogBlueprintUserMessages: [ALS_NPC_C_0] Hello
+[2022.05.15-14.45.21:265][135]LogBlueprintUserMessages: [ALS_NPC_C_0] gun attached to : ALS_NPC_C_0.primary_weapon_socket
+[2022.05.15-14.45.21:267][135]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-14.45.21:267][135]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-14.45.21:486][147]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.45.21:503][148]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.45.21:520][149]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.45.21:538][150]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.45.21:553][151]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.45.21:570][152]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.45.21:586][153]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.45.21:603][154]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.45.21:620][155]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.45.21:636][156]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.45.21:653][157]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.45.21:669][158]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.45.21:686][159]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.45.21:702][160]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.45.21:719][161]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.45.21:737][162]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.45.21:753][163]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.45.21:770][164]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.45.21:787][165]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.45.21:808][166]LogBlueprintUserMessages: [ALS_NPC_C_1] Hello
+[2022.05.15-14.45.21:808][166]LogBlueprintUserMessages: [ALS_NPC_C_1] gun attached to : ALS_NPC_C_1.primary_weapon_socket
+[2022.05.15-14.45.21:919][166]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Light' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-14.45.21:919][166]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Heavy' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-14.45.22:416][196]LogBlueprintUserMessages: [ALS_NPC_C_2] Hello
+[2022.05.15-14.45.22:416][196]LogBlueprintUserMessages: [ALS_NPC_C_2] gun attached to : ALS_NPC_C_2.primary_weapon_socket
+[2022.05.15-14.45.27:164][481]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.45.27:181][482]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.45.27:197][483]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.45.27:214][484]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.45.27:231][485]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.45.27:247][486]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.45.27:264][487]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.45.27:281][488]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.45.27:297][489]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.45.27:314][490]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.45.27:331][491]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.45.27:347][492]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.45.27:364][493]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.45.27:381][494]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.45.28:479][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-14.45.28:479][558]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.05.15-14.45.28:480][558]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-14.45.28:481][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-14.45.28:486][558]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.15-14.45.28:495][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-14.45.28:529][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-14.45.28:530][558]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-14.45.28:531][558]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-14.45.28:556][558]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2022.05.15-14.45.28:719][565]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.05.15-14.45.56:816][136]BlueprintLog: New page: Compile ALS_AnimMan_CharacterBP
+[2022.05.15-14.45.57:175][136]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2022.05.15-14.45.57:859][136]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/ALS_AnimMan_CharacterBP7E8EEC994420B6519EF8A9B38757C10D.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP.uasset'
+[2022.05.15-14.45.57:877][136]AssetCheck: New page: Asset Save: ALS_AnimMan_CharacterBP
+[2022.05.15-14.45.57:877][136]LogContentValidation: Display: Validating Blueprint /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP.ALS_AnimMan_CharacterBP
+[2022.05.15-14.45.58:862][155]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/ALS_AnimMan_CharacterBP2A49D20E48B2F10B0590D7B2AD6F85E7.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP.uasset'
+[2022.05.15-14.45.58:880][155]AssetCheck: New page: Asset Save: ALS_AnimMan_CharacterBP
+[2022.05.15-14.45.58:880][155]LogContentValidation: Display: Validating Blueprint /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP.ALS_AnimMan_CharacterBP
+[2022.05.15-14.46.01:983][308]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.15-14.46.01:995][308]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.15-14.46.01:996][308]PIE: New page: PIE session: ThirdPersonExampleMap (2022. 5. 16. 오전 8:46:01)
+[2022.05.15-14.46.01:996][308]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.05.15-14.46.02:013][308]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016996s)
+[2022.05.15-14.46.02:014][308]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.05.15-14.46.02:014][308]LogPlayLevel: PIE: World Init took: (0.001416s)
+[2022.05.15-14.46.02:014][308]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018525s)
+[2022.05.15-14.46.02:058][308]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2022.05.15-14.46.02:061][308]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.05.15-14.46.02:061][308]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.15-14.46.02:061][308]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.15-14.46.02:061][308]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.15-14.46.02:061][308]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.15-14.46.02:061][308]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.15-14.46.02:061][308]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.15-14.46.02:061][308]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.15-14.46.02:061][308]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.15-14.46.02:062][308]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.15-14.46.02:062][308]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.15-14.46.02:064][308]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.15-14.46.02:064][308]LogAudioMixer: Display: 1: FrontRight
+[2022.05.15-14.46.02:071][308]LogAudioMixer: Display: Using Audio Device ULTRON 2758(NVIDIA High Definition Audio)
+[2022.05.15-14.46.02:072][308]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.15-14.46.02:072][308]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.15-14.46.02:072][308]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.15-14.46.02:072][308]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.15-14.46.02:072][308]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.15-14.46.02:072][308]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.15-14.46.02:087][308]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.15-14.46.02:087][308]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.15-14.46.02:087][308]LogInit: FAudioDevice initialized.
+[2022.05.15-14.46.02:087][308]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonExampleMap'.
+[2022.05.15-14.46.02:100][308]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2022.05.15-14.46.02:101][308]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.05.15-23.46.02
+[2022.05.15-14.46.02:102][308]LogWorld: Bringing up level for play took: 0.001634
+[2022.05.15-14.46.02:102][308]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2022.05.15-14.46.02:108][308]LogBlueprintUserMessages: [HUD_Class_C_0] start
+[2022.05.15-14.46.02:108][308]LogBlueprintUserMessages: [HUD_Class_C_0] view
+[2022.05.15-14.46.02:110][308]PIE: Server logged in
+[2022.05.15-14.46.02:110][308]PIE: Play in editor total start time 0.115 seconds.
+[2022.05.15-14.46.02:114][308]LogBlueprintUserMessages: [ALS_NPC_C_0] Hello
+[2022.05.15-14.46.02:115][308]LogBlueprintUserMessages: [ALS_NPC_C_0] gun attached to : ALS_NPC_C_0.primary_weapon_socket
+[2022.05.15-14.46.02:227][308]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-14.46.02:227][308]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-14.46.02:429][320]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.46.02:445][321]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.46.02:462][322]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.46.02:479][323]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.46.02:495][324]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.46.02:512][325]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.46.02:529][326]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.46.02:546][327]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.46.02:562][328]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.46.02:579][329]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.46.02:596][330]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.46.02:612][331]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.46.02:629][332]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.46.02:646][333]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.46.02:662][334]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.46.02:679][335]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.46.02:696][336]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.46.02:712][337]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.46.02:729][338]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.46.02:750][339]LogBlueprintUserMessages: [ALS_NPC_C_1] Hello
+[2022.05.15-14.46.02:750][339]LogBlueprintUserMessages: [ALS_NPC_C_1] gun attached to : ALS_NPC_C_1.primary_weapon_socket
+[2022.05.15-14.46.02:861][339]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Light' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-14.46.02:861][339]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Heavy' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-14.46.03:361][369]LogBlueprintUserMessages: [ALS_NPC_C_2] Hello
+[2022.05.15-14.46.03:361][369]LogBlueprintUserMessages: [ALS_NPC_C_2] gun attached to : ALS_NPC_C_2.primary_weapon_socket
+[2022.05.15-14.46.08:400][665]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.46.08:416][666]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.46.08:433][667]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.46.08:450][668]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.46.08:467][669]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.46.08:483][670]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.46.08:500][671]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.46.08:516][672]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.46.08:532][673]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.46.08:549][674]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.46.08:566][675]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.46.08:583][676]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.46.08:600][677]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.46.08:617][678]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-14.46.18:257][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-14.46.18:257][252]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.05.15-14.46.18:258][252]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-14.46.18:259][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-14.46.18:267][252]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.15-14.46.18:276][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-14.46.18:310][252]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.15-14.46.18:311][252]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-14.46.18:312][252]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-14.46.18:327][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-14.46.18:337][252]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2022.05.15-14.46.18:500][259]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.05.15-14.47.32:381][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.05.15-14.47.33:026][609]LogEditorViewport: Clicking on Actor (LMB): ALS_NPC_C (ALS_NPC)
+[2022.05.15-14.47.47:822][472]LogEditorViewport: Clicking Background
+[2022.05.15-14.47.48:262][498]LogEditorViewport: Clicking on Actor (LMB): ALS_NPC_C (ALS_NPC)
+[2022.05.15-14.47.48:743][520]Cmd: DELETE
+[2022.05.15-14.47.48:744][520]Cmd: ACTOR DELETE
+[2022.05.15-14.47.48:772][520]LogEditorActor: Deleted Actor: ALS_NPC_C
+[2022.05.15-14.47.48:813][520]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2022.05.15-14.47.48:818][520]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2022.05.15-14.49.47:121][486]BlueprintLog: New page: Compile ALS_AnimMan_CharacterBP
+[2022.05.15-14.49.47:489][486]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2022.05.15-14.50.42:737][689]BlueprintLog: New page: Compile ALS_AnimMan_CharacterBP
+[2022.05.15-14.50.43:096][689]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2022.05.15-14.52.11:215][917]BlueprintLog: New page: Compile ALS_AnimMan_CharacterBP
+[2022.05.15-14.52.11:572][917]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2022.05.15-14.52.30:382][ 27]BlueprintLog: New page: Compile ALS_AnimMan_CharacterBP
+[2022.05.15-14.52.30:757][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2022.05.15-14.54.08:976][831]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/ALS_AnimMan_CharacterBP57A8194646E6AF40628DD78A9A283E9A.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP.uasset'
+[2022.05.15-14.54.08:994][831]AssetCheck: New page: Asset Save: ALS_AnimMan_CharacterBP
+[2022.05.15-14.54.08:994][831]LogContentValidation: Display: Validating Blueprint /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP.ALS_AnimMan_CharacterBP
+[2022.05.15-14.54.11:019][933]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2022.05.15-14.54.11:056][933]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/ThirdPersonExampleMap_Auto265022A2D46C10ABCB7CC019203215D73.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2022.05.15-14.54.11:058][933]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.087
+[2022.05.15-14.54.11:058][933]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.087
+[2022.05.15-14.54.11:059][933]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_Base_CharacterBP] ([1] browsable assets)...
+[2022.05.15-14.54.11:067][933]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_Base_CharacterBP.ALS_Base_CharacterBP]
+[2022.05.15-14.54.11:067][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_Base_CharacterBP]
+[2022.05.15-14.54.11:649][933]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/ALS_Base_CharacterBP_Auto252AE19D342E9117DF33809AF9E331935.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_Base_CharacterBP_Auto2.uasset'
+[2022.05.15-14.54.11:651][933]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/UI/HUD_Class] ([1] browsable assets)...
+[2022.05.15-14.54.11:651][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/UI/HUD_Class]
+[2022.05.15-14.54.11:651][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/UI/HUD_Class" FILE="../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/Autosaves/Game/BP/UI/HUD_Class_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.05.15-14.54.11:692][933]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/HUD_Class_Auto20AF183A949E9BAEB38B28199BB1CC8CA.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/Autosaves/Game/BP/UI/HUD_Class_Auto2.uasset'
+[2022.05.15-14.54.11:693][933]LogFileHelpers: Auto-saving content packages took 0.635
