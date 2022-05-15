@@ -1702,3 +1702,1599 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.05.15-14.54.11:651][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/UI/HUD_Class" FILE="../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/Autosaves/Game/BP/UI/HUD_Class_Auto2.uasset" SILENT=false AUTOSAVING=true
 [2022.05.15-14.54.11:692][933]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/HUD_Class_Auto20AF183A949E9BAEB38B28199BB1CC8CA.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/Autosaves/Game/BP/UI/HUD_Class_Auto2.uasset'
 [2022.05.15-14.54.11:693][933]LogFileHelpers: Auto-saving content packages took 0.635
+[2022.05.15-15.16.43:136][607]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_NPC.ALS_NPC
+[2022.05.15-15.17.34:835][374]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/Spawners/BP_Spawner.BP_Spawner
+[2022.05.15-15.18.01:147][809]BlueprintLog: New page: Compile ALS_NPC
+[2022.05.15-15.18.01:433][809]LogUObjectHash: Compacting FUObjectHashTables data took   6.83ms
+[2022.05.15-15.19.27:825][576]BlueprintLog: New page: Compile ALS_NPC
+[2022.05.15-15.19.28:069][576]LogUObjectHash: Compacting FUObjectHashTables data took   6.47ms
+[2022.05.15-15.19.29:522][640]BlueprintLog: New page: Compile BP_Spawner
+[2022.05.15-15.19.29:646][640]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2022.05.15-15.19.33:493][860]LogEditorViewport: Clicking on Actor (LMB): ALS_NPC_C (ALS_NPC)
+[2022.05.15-15.19.34:192][895]Cmd: DELETE
+[2022.05.15-15.19.34:192][895]Cmd: ACTOR DELETE
+[2022.05.15-15.19.34:209][895]LogEditorActor: Deleted Actor: ALS_NPC_C
+[2022.05.15-15.19.34:260][895]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2022.05.15-15.19.34:262][895]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2022.05.15-15.19.36:597][ 26]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.15-15.19.36:613][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.15-15.19.36:613][ 26]PIE: New page: PIE session: ThirdPersonExampleMap (2022. 5. 16. 오전 9:19:36)
+[2022.05.15-15.19.36:613][ 26]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.05.15-15.19.36:629][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015946s)
+[2022.05.15-15.19.36:630][ 26]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.05.15-15.19.36:631][ 26]LogPlayLevel: PIE: World Init took: (0.001140s)
+[2022.05.15-15.19.36:631][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017197s)
+[2022.05.15-15.19.36:681][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2022.05.15-15.19.36:683][ 26]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.05.15-15.19.36:683][ 26]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.15-15.19.36:683][ 26]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.15-15.19.36:683][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.15-15.19.36:683][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.15-15.19.36:683][ 26]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.15-15.19.36:683][ 26]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.15-15.19.36:683][ 26]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.15-15.19.36:683][ 26]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.15-15.19.36:683][ 26]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.15-15.19.36:683][ 26]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.15-15.19.36:686][ 26]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.15-15.19.36:686][ 26]LogAudioMixer: Display: 1: FrontRight
+[2022.05.15-15.19.36:693][ 26]LogAudioMixer: Display: Using Audio Device ULTRON 2758(NVIDIA High Definition Audio)
+[2022.05.15-15.19.36:693][ 26]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.15-15.19.36:693][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.15-15.19.36:693][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.15-15.19.36:694][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.15-15.19.36:694][ 26]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.15-15.19.36:694][ 26]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.15-15.19.36:708][ 26]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.15-15.19.36:708][ 26]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.15-15.19.36:708][ 26]LogInit: FAudioDevice initialized.
+[2022.05.15-15.19.36:708][ 26]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonExampleMap'.
+[2022.05.15-15.19.36:720][ 26]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2022.05.15-15.19.36:722][ 26]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.05.16-00.19.36
+[2022.05.15-15.19.36:722][ 26]LogWorld: Bringing up level for play took: 0.001491
+[2022.05.15-15.19.36:723][ 26]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2022.05.15-15.19.36:728][ 26]LogBlueprintUserMessages: [HUD_Class_C_0] start
+[2022.05.15-15.19.36:728][ 26]LogBlueprintUserMessages: [HUD_Class_C_0] view
+[2022.05.15-15.19.36:730][ 26]PIE: Server logged in
+[2022.05.15-15.19.36:730][ 26]PIE: Play in editor total start time 0.123 seconds.
+[2022.05.15-15.19.36:735][ 26]LogBlueprintUserMessages: [ALS_NPC_C_0] Hello
+[2022.05.15-15.19.36:735][ 26]LogBlueprintUserMessages: [ALS_NPC_C_0] gun attached to : ALS_NPC_C_0.primary_weapon_socket
+[2022.05.15-15.19.36:739][ 26]LogBlueprintUserMessages: [ALS_NPC_C_1] Hello
+[2022.05.15-15.19.36:740][ 26]LogBlueprintUserMessages: [ALS_NPC_C_1] gun attached to : ALS_NPC_C_1.primary_weapon_socket
+[2022.05.15-15.19.36:741][ 26]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.19.36:741][ 26]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.19.36:959][ 38]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.19.36:974][ 39]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.19.36:991][ 40]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.19.37:007][ 41]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.19.37:024][ 42]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.19.37:041][ 43]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.19.37:057][ 44]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.19.37:074][ 45]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.19.37:091][ 46]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.19.37:107][ 47]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.19.37:124][ 48]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.19.37:140][ 49]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.19.37:157][ 50]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.19.37:174][ 51]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.19.37:191][ 52]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.19.37:207][ 53]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.19.37:224][ 54]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.19.37:241][ 55]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.19.37:258][ 56]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.19.37:278][ 57]LogBlueprintUserMessages: [ALS_NPC_C_2] Hello
+[2022.05.15-15.19.37:279][ 57]LogBlueprintUserMessages: [ALS_NPC_C_2] gun attached to : ALS_NPC_C_2.primary_weapon_socket
+[2022.05.15-15.19.37:283][ 57]LogBlueprintUserMessages: [ALS_NPC_C_3] Hello
+[2022.05.15-15.19.37:283][ 57]LogBlueprintUserMessages: [ALS_NPC_C_3] gun attached to : ALS_NPC_C_3.primary_weapon_socket
+[2022.05.15-15.19.37:283][ 57]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Light' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.19.37:283][ 57]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Heavy' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.19.37:782][ 87]LogBlueprintUserMessages: [ALS_NPC_C_4] Hello
+[2022.05.15-15.19.37:782][ 87]LogBlueprintUserMessages: [ALS_NPC_C_4] gun attached to : ALS_NPC_C_4.primary_weapon_socket
+[2022.05.15-15.19.37:894][ 87]LogBlueprintUserMessages: [ALS_NPC_C_5] Hello
+[2022.05.15-15.19.37:894][ 87]LogBlueprintUserMessages: [ALS_NPC_C_5] gun attached to : ALS_NPC_C_5.primary_weapon_socket
+[2022.05.15-15.19.39:274][170]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Rotate_L90' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_NPC_C_1.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.19.39:544][186]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Audio/Weapon_AssaultRifle/AK_47/SC_AK47.SC_AK47 was zero and has changed. Consider manually Re-saving the asset
+[2022.05.15-15.19.39:600][189]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_NPC_C_1.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.19.40:118][216]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Rotate_R90' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_NPC_C_5.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.19.40:253][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-15.19.40:253][222]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.05.15-15.19.40:253][222]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-15.19.40:255][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-15.19.40:266][222]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.15-15.19.40:282][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-15.19.40:326][222]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.15-15.19.40:327][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-15.19.40:328][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-15.19.40:342][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-15.19.40:354][222]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2022.05.15-15.19.40:514][229]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2022.05.15-15.21.19:029][ 35]BlueprintLog: New page: Compile BP_Spawner
+[2022.05.15-15.21.19:162][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   6.24ms
+[2022.05.15-15.21.20:739][122]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.15-15.21.20:749][122]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.15-15.21.20:750][122]PIE: New page: PIE session: ThirdPersonExampleMap (2022. 5. 16. 오전 9:21:20)
+[2022.05.15-15.21.20:750][122]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.05.15-15.21.20:765][122]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015823s)
+[2022.05.15-15.21.20:767][122]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.05.15-15.21.20:767][122]LogPlayLevel: PIE: World Init took: (0.001491s)
+[2022.05.15-15.21.20:767][122]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017425s)
+[2022.05.15-15.21.20:822][122]LogUObjectHash: Compacting FUObjectHashTables data took   7.26ms
+[2022.05.15-15.21.20:824][122]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.05.15-15.21.20:824][122]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.15-15.21.20:824][122]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.15-15.21.20:824][122]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.15-15.21.20:824][122]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.15-15.21.20:824][122]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.15-15.21.20:824][122]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.15-15.21.20:824][122]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.15-15.21.20:824][122]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.15-15.21.20:825][122]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.15-15.21.20:825][122]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.15-15.21.20:827][122]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.15-15.21.20:827][122]LogAudioMixer: Display: 1: FrontRight
+[2022.05.15-15.21.20:835][122]LogAudioMixer: Display: Using Audio Device ULTRON 2758(NVIDIA High Definition Audio)
+[2022.05.15-15.21.20:835][122]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.15-15.21.20:835][122]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.15-15.21.20:835][122]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.15-15.21.20:836][122]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.15-15.21.20:836][122]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.15-15.21.20:836][122]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.15-15.21.20:850][122]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.15-15.21.20:850][122]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.15-15.21.20:850][122]LogInit: FAudioDevice initialized.
+[2022.05.15-15.21.20:850][122]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonExampleMap'.
+[2022.05.15-15.21.20:857][122]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2022.05.15-15.21.20:859][122]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.05.16-00.21.20
+[2022.05.15-15.21.20:859][122]LogWorld: Bringing up level for play took: 0.001657
+[2022.05.15-15.21.20:860][122]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2022.05.15-15.21.20:865][122]LogBlueprintUserMessages: [HUD_Class_C_0] start
+[2022.05.15-15.21.20:865][122]LogBlueprintUserMessages: [HUD_Class_C_0] view
+[2022.05.15-15.21.20:866][122]PIE: Server logged in
+[2022.05.15-15.21.20:867][122]PIE: Play in editor total start time 0.118 seconds.
+[2022.05.15-15.21.20:871][122]LogBlueprintUserMessages: [ALS_NPC_C_0] Hello
+[2022.05.15-15.21.20:871][122]LogBlueprintUserMessages: [ALS_NPC_C_0] gun attached to : ALS_NPC_C_0.primary_weapon_socket
+[2022.05.15-15.21.20:876][122]LogBlueprintUserMessages: [ALS_NPC_C_1] Hello
+[2022.05.15-15.21.20:876][122]LogBlueprintUserMessages: [ALS_NPC_C_1] gun attached to : ALS_NPC_C_1.primary_weapon_socket
+[2022.05.15-15.21.20:878][122]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.21.20:878][122]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.21.21:094][134]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.21.21:111][135]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.21.21:128][136]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.21.21:145][137]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.21.21:161][138]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.21.21:178][139]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.21.21:194][140]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.21.21:211][141]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.21.21:227][142]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.21.21:244][143]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.21.21:261][144]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.21.21:277][145]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.21.21:294][146]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.21.21:311][147]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.21.21:327][148]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.21.21:344][149]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.21.21:361][150]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.21.21:378][151]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.21.21:394][152]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.21.21:415][153]LogBlueprintUserMessages: [ALS_NPC_C_2] Hello
+[2022.05.15-15.21.21:415][153]LogBlueprintUserMessages: [ALS_NPC_C_2] gun attached to : ALS_NPC_C_2.primary_weapon_socket
+[2022.05.15-15.21.21:528][153]LogBlueprintUserMessages: [ALS_NPC_C_3] Hello
+[2022.05.15-15.21.21:528][153]LogBlueprintUserMessages: [ALS_NPC_C_3] gun attached to : ALS_NPC_C_3.primary_weapon_socket
+[2022.05.15-15.21.21:528][153]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Light' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.21.21:528][153]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Heavy' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.21.22:027][183]LogBlueprintUserMessages: [ALS_NPC_C_4] Hello
+[2022.05.15-15.21.22:027][183]LogBlueprintUserMessages: [ALS_NPC_C_4] gun attached to : ALS_NPC_C_4.primary_weapon_socket
+[2022.05.15-15.21.22:031][183]LogBlueprintUserMessages: [ALS_NPC_C_5] Hello
+[2022.05.15-15.21.22:031][183]LogBlueprintUserMessages: [ALS_NPC_C_5] gun attached to : ALS_NPC_C_5.primary_weapon_socket
+[2022.05.15-15.21.23:087][240]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Rotate_L90' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_NPC_C_2.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.21.23:220][248]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Rotate_R90' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_NPC_C_2.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.21.23:420][260]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_CLF_Rotate_R90' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_NPC_C_2.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.21.24:620][328]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Rotate_R90' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_NPC_C_1.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.21.24:903][345]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_NPC_C_1.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.21.24:987][350]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_NPC_C_5.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.21.25:269][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-15.21.25:269][365]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.05.15-15.21.25:269][365]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-15.21.25:271][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-15.21.25:284][365]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.15-15.21.25:299][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-15.21.25:343][365]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.15-15.21.25:344][365]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-15.21.25:345][365]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-15.21.25:360][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-15.21.25:373][365]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2022.05.15-15.21.25:528][372]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2022.05.15-15.22.06:060][710]BlueprintLog: New page: Compile BP_Spawner
+[2022.05.15-15.22.06:191][710]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2022.05.15-15.22.07:924][806]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.15-15.22.07:935][806]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.15-15.22.07:935][806]PIE: New page: PIE session: ThirdPersonExampleMap (2022. 5. 16. 오전 9:22:07)
+[2022.05.15-15.22.07:935][806]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.05.15-15.22.07:951][806]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015971s)
+[2022.05.15-15.22.07:953][806]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.05.15-15.22.07:953][806]LogPlayLevel: PIE: World Init took: (0.001483s)
+[2022.05.15-15.22.07:953][806]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017573s)
+[2022.05.15-15.22.08:006][806]LogUObjectHash: Compacting FUObjectHashTables data took   7.17ms
+[2022.05.15-15.22.08:008][806]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.05.15-15.22.08:008][806]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.15-15.22.08:008][806]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.15-15.22.08:008][806]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.15-15.22.08:008][806]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.15-15.22.08:008][806]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.15-15.22.08:008][806]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.15-15.22.08:008][806]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.15-15.22.08:008][806]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.15-15.22.08:008][806]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.15-15.22.08:008][806]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.15-15.22.08:011][806]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.15-15.22.08:011][806]LogAudioMixer: Display: 1: FrontRight
+[2022.05.15-15.22.08:017][806]LogAudioMixer: Display: Using Audio Device ULTRON 2758(NVIDIA High Definition Audio)
+[2022.05.15-15.22.08:018][806]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.15-15.22.08:018][806]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.15-15.22.08:018][806]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.15-15.22.08:018][806]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.15-15.22.08:018][806]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.15-15.22.08:018][806]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.15-15.22.08:032][806]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.15-15.22.08:032][806]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.15-15.22.08:032][806]LogInit: FAudioDevice initialized.
+[2022.05.15-15.22.08:032][806]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonExampleMap'.
+[2022.05.15-15.22.08:039][806]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2022.05.15-15.22.08:041][806]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.05.16-00.22.08
+[2022.05.15-15.22.08:041][806]LogWorld: Bringing up level for play took: 0.001458
+[2022.05.15-15.22.08:042][806]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2022.05.15-15.22.08:046][806]LogBlueprintUserMessages: [HUD_Class_C_0] start
+[2022.05.15-15.22.08:047][806]LogBlueprintUserMessages: [HUD_Class_C_0] view
+[2022.05.15-15.22.08:048][806]PIE: Server logged in
+[2022.05.15-15.22.08:049][806]PIE: Play in editor total start time 0.114 seconds.
+[2022.05.15-15.22.08:053][806]LogBlueprintUserMessages: [ALS_NPC_C_0] Hello
+[2022.05.15-15.22.08:053][806]LogBlueprintUserMessages: [ALS_NPC_C_0] gun attached to : ALS_NPC_C_0.primary_weapon_socket
+[2022.05.15-15.22.08:053][806]LogBlueprintUserMessages: [BP_Spawner_2] Mask_police
+[2022.05.15-15.22.08:058][806]LogBlueprintUserMessages: [ALS_NPC_C_1] Hello
+[2022.05.15-15.22.08:058][806]LogBlueprintUserMessages: [ALS_NPC_C_1] gun attached to : ALS_NPC_C_1.primary_weapon_socket
+[2022.05.15-15.22.08:165][806]LogBlueprintUserMessages: [BP_Spawner2_2] Mask_6
+[2022.05.15-15.22.08:167][806]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.22.08:167][806]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.22.08:374][818]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.08:391][819]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.08:407][820]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.08:424][821]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.08:441][822]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.08:457][823]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.08:474][824]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.08:491][825]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.08:507][826]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.08:524][827]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.08:541][828]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.08:558][829]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.08:574][830]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.08:591][831]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.08:608][832]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.08:624][833]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.08:641][834]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.08:657][835]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.08:674][836]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.08:695][837]LogBlueprintUserMessages: [ALS_NPC_C_2] Hello
+[2022.05.15-15.22.08:695][837]LogBlueprintUserMessages: [ALS_NPC_C_2] gun attached to : ALS_NPC_C_2.primary_weapon_socket
+[2022.05.15-15.22.08:695][837]LogBlueprintUserMessages: [BP_Spawner2_2] Mask_6
+[2022.05.15-15.22.08:699][837]LogBlueprintUserMessages: [ALS_NPC_C_3] Hello
+[2022.05.15-15.22.08:699][837]LogBlueprintUserMessages: [ALS_NPC_C_3] gun attached to : ALS_NPC_C_3.primary_weapon_socket
+[2022.05.15-15.22.08:806][837]LogBlueprintUserMessages: [BP_Spawner_2] Mask_6
+[2022.05.15-15.22.08:807][837]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Light' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.22.08:807][837]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Heavy' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.22.09:304][867]LogBlueprintUserMessages: [ALS_NPC_C_4] Hello
+[2022.05.15-15.22.09:304][867]LogBlueprintUserMessages: [ALS_NPC_C_4] gun attached to : ALS_NPC_C_4.primary_weapon_socket
+[2022.05.15-15.22.09:304][867]LogBlueprintUserMessages: [BP_Spawner_2] Mask_6
+[2022.05.15-15.22.09:309][867]LogBlueprintUserMessages: [ALS_NPC_C_5] Hello
+[2022.05.15-15.22.09:309][867]LogBlueprintUserMessages: [ALS_NPC_C_5] gun attached to : ALS_NPC_C_5.primary_weapon_socket
+[2022.05.15-15.22.09:309][867]LogBlueprintUserMessages: [BP_Spawner2_2] Mask_6
+[2022.05.15-15.22.11:922][ 24]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Rotate_L90' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_NPC_C_1.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.22.13:916][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-15.22.13:916][141]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.05.15-15.22.13:917][141]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-15.22.13:919][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-15.22.13:936][141]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.15-15.22.13:951][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-15.22.13:999][141]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.15-15.22.14:000][141]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-15.22.14:001][141]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-15.22.14:016][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-15.22.14:029][141]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2022.05.15-15.22.14:195][148]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2022.05.15-15.22.55:355][569]BlueprintLog: New page: Compile BP_Spawner
+[2022.05.15-15.22.55:487][569]LogUObjectHash: Compacting FUObjectHashTables data took   7.42ms
+[2022.05.15-15.22.58:067][716]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.15-15.22.58:078][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.15-15.22.58:078][716]PIE: New page: PIE session: ThirdPersonExampleMap (2022. 5. 16. 오전 9:22:58)
+[2022.05.15-15.22.58:078][716]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.05.15-15.22.58:094][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016144s)
+[2022.05.15-15.22.58:096][716]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.05.15-15.22.58:096][716]LogPlayLevel: PIE: World Init took: (0.001507s)
+[2022.05.15-15.22.58:096][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017790s)
+[2022.05.15-15.22.58:147][716]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2022.05.15-15.22.58:149][716]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.05.15-15.22.58:149][716]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.15-15.22.58:149][716]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.15-15.22.58:149][716]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.15-15.22.58:149][716]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.15-15.22.58:149][716]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.15-15.22.58:149][716]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.15-15.22.58:149][716]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.15-15.22.58:149][716]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.15-15.22.58:150][716]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.15-15.22.58:150][716]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.15-15.22.58:152][716]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.15-15.22.58:152][716]LogAudioMixer: Display: 1: FrontRight
+[2022.05.15-15.22.58:159][716]LogAudioMixer: Display: Using Audio Device ULTRON 2758(NVIDIA High Definition Audio)
+[2022.05.15-15.22.58:159][716]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.15-15.22.58:160][716]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.15-15.22.58:160][716]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.15-15.22.58:160][716]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.15-15.22.58:160][716]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.15-15.22.58:160][716]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.15-15.22.58:174][716]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.15-15.22.58:174][716]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.15-15.22.58:174][716]LogInit: FAudioDevice initialized.
+[2022.05.15-15.22.58:174][716]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonExampleMap'.
+[2022.05.15-15.22.58:185][716]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2022.05.15-15.22.58:187][716]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.05.16-00.22.58
+[2022.05.15-15.22.58:187][716]LogWorld: Bringing up level for play took: 0.001435
+[2022.05.15-15.22.58:188][716]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2022.05.15-15.22.58:193][716]LogBlueprintUserMessages: [HUD_Class_C_0] start
+[2022.05.15-15.22.58:193][716]LogBlueprintUserMessages: [HUD_Class_C_0] view
+[2022.05.15-15.22.58:195][716]PIE: Server logged in
+[2022.05.15-15.22.58:195][716]PIE: Play in editor total start time 0.118 seconds.
+[2022.05.15-15.22.58:200][716]LogBlueprintUserMessages: [ALS_NPC_C_0] Hello
+[2022.05.15-15.22.58:200][716]LogBlueprintUserMessages: [ALS_NPC_C_0] gun attached to : ALS_NPC_C_0.primary_weapon_socket
+[2022.05.15-15.22.58:307][716]LogBlueprintUserMessages: [BP_Spawner_2] Mask_6
+[2022.05.15-15.22.58:312][716]LogBlueprintUserMessages: [ALS_NPC_C_1] Hello
+[2022.05.15-15.22.58:312][716]LogBlueprintUserMessages: [ALS_NPC_C_1] gun attached to : ALS_NPC_C_1.primary_weapon_socket
+[2022.05.15-15.22.58:312][716]LogBlueprintUserMessages: [BP_Spawner2_2] Mask_police
+[2022.05.15-15.22.58:314][716]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.22.58:314][716]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.22.58:521][728]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.58:537][729]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.58:554][730]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.58:570][731]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.58:587][732]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.58:604][733]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.58:621][734]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.58:638][735]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.58:654][736]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.58:671][737]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.58:687][738]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.58:704][739]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.58:721][740]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.58:737][741]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.58:755][742]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.58:771][743]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.58:788][744]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.58:805][745]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.58:821][746]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.22.58:842][747]LogBlueprintUserMessages: [ALS_NPC_C_2] Hello
+[2022.05.15-15.22.58:842][747]LogBlueprintUserMessages: [ALS_NPC_C_2] gun attached to : ALS_NPC_C_2.primary_weapon_socket
+[2022.05.15-15.22.58:842][747]LogBlueprintUserMessages: [BP_Spawner2_2] Mask_6
+[2022.05.15-15.22.58:846][747]LogBlueprintUserMessages: [ALS_NPC_C_3] Hello
+[2022.05.15-15.22.58:846][747]LogBlueprintUserMessages: [ALS_NPC_C_3] gun attached to : ALS_NPC_C_3.primary_weapon_socket
+[2022.05.15-15.22.58:954][747]LogBlueprintUserMessages: [BP_Spawner_2] Mask_6
+[2022.05.15-15.22.59:453][777]LogBlueprintUserMessages: [ALS_NPC_C_4] Hello
+[2022.05.15-15.22.59:453][777]LogBlueprintUserMessages: [ALS_NPC_C_4] gun attached to : ALS_NPC_C_4.primary_weapon_socket
+[2022.05.15-15.22.59:453][777]LogBlueprintUserMessages: [BP_Spawner_2] Mask_police
+[2022.05.15-15.22.59:457][777]LogBlueprintUserMessages: [ALS_NPC_C_5] Hello
+[2022.05.15-15.22.59:457][777]LogBlueprintUserMessages: [ALS_NPC_C_5] gun attached to : ALS_NPC_C_5.primary_weapon_socket
+[2022.05.15-15.22.59:457][777]LogBlueprintUserMessages: [BP_Spawner2_2] Mask_6
+[2022.05.15-15.23.00:655][849]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Rotate_L90' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_NPC_C_5.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.23.00:738][854]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Rotate_L90' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_NPC_C_2.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.23.01:189][881]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_NPC_C_5.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.23.03:122][997]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Rotate_R90' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_NPC_C_1.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.23.04:084][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-15.23.04:084][ 53]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.05.15-15.23.04:085][ 53]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-15.23.04:087][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-15.23.04:107][ 53]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.15-15.23.04:124][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-15.23.04:169][ 53]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.15-15.23.04:170][ 53]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-15.23.04:171][ 53]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-15.23.04:186][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-15.23.04:201][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2022.05.15-15.23.04:332][ 60]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2022.05.15-15.24.05:784][601]BlueprintLog: New page: Compile BP_Spawner
+[2022.05.15-15.24.05:917][601]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2022.05.15-15.24.07:549][692]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.15-15.24.07:560][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.15-15.24.07:560][692]PIE: New page: PIE session: ThirdPersonExampleMap (2022. 5. 16. 오전 9:24:07)
+[2022.05.15-15.24.07:560][692]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.05.15-15.24.07:576][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016140s)
+[2022.05.15-15.24.07:578][692]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.05.15-15.24.07:578][692]LogPlayLevel: PIE: World Init took: (0.001484s)
+[2022.05.15-15.24.07:578][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017742s)
+[2022.05.15-15.24.07:630][692]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2022.05.15-15.24.07:632][692]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.05.15-15.24.07:632][692]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.15-15.24.07:632][692]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.15-15.24.07:632][692]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.15-15.24.07:632][692]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.15-15.24.07:632][692]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.15-15.24.07:632][692]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.15-15.24.07:632][692]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.15-15.24.07:632][692]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.15-15.24.07:633][692]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.15-15.24.07:633][692]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.15-15.24.07:635][692]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.15-15.24.07:635][692]LogAudioMixer: Display: 1: FrontRight
+[2022.05.15-15.24.07:643][692]LogAudioMixer: Display: Using Audio Device ULTRON 2758(NVIDIA High Definition Audio)
+[2022.05.15-15.24.07:643][692]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.15-15.24.07:643][692]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.15-15.24.07:643][692]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.15-15.24.07:643][692]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.15-15.24.07:643][692]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.15-15.24.07:643][692]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.15-15.24.07:658][692]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.15-15.24.07:658][692]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.15-15.24.07:658][692]LogInit: FAudioDevice initialized.
+[2022.05.15-15.24.07:658][692]LogAudio: Display: Audio Device (ID: 12) registered with world 'ThirdPersonExampleMap'.
+[2022.05.15-15.24.07:669][692]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2022.05.15-15.24.07:671][692]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.05.16-00.24.07
+[2022.05.15-15.24.07:671][692]LogWorld: Bringing up level for play took: 0.001616
+[2022.05.15-15.24.07:671][692]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2022.05.15-15.24.07:677][692]LogBlueprintUserMessages: [HUD_Class_C_0] start
+[2022.05.15-15.24.07:677][692]LogBlueprintUserMessages: [HUD_Class_C_0] view
+[2022.05.15-15.24.07:678][692]PIE: Server logged in
+[2022.05.15-15.24.07:679][692]PIE: Play in editor total start time 0.12 seconds.
+[2022.05.15-15.24.07:683][692]LogBlueprintUserMessages: [ALS_NPC_C_0] Hello
+[2022.05.15-15.24.07:683][692]LogBlueprintUserMessages: [ALS_NPC_C_0] gun attached to : ALS_NPC_C_0.primary_weapon_socket
+[2022.05.15-15.24.07:688][692]LogBlueprintUserMessages: [ALS_NPC_C_1] Hello
+[2022.05.15-15.24.07:688][692]LogBlueprintUserMessages: [ALS_NPC_C_1] gun attached to : ALS_NPC_C_1.primary_weapon_socket
+[2022.05.15-15.24.07:690][692]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.24.07:690][692]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.24.07:916][704]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.07:933][705]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.07:949][706]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.07:965][707]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.07:982][708]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.07:999][709]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.08:016][710]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.08:032][711]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.08:049][712]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.08:066][713]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.08:082][714]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.08:099][715]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.08:116][716]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.08:132][717]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.08:149][718]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.08:166][719]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.08:182][720]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.08:199][721]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.08:215][722]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.08:236][723]LogBlueprintUserMessages: [ALS_NPC_C_2] Hello
+[2022.05.15-15.24.08:236][723]LogBlueprintUserMessages: [ALS_NPC_C_2] gun attached to : ALS_NPC_C_2.primary_weapon_socket
+[2022.05.15-15.24.08:240][723]LogBlueprintUserMessages: [ALS_NPC_C_3] Hello
+[2022.05.15-15.24.08:240][723]LogBlueprintUserMessages: [ALS_NPC_C_3] gun attached to : ALS_NPC_C_3.primary_weapon_socket
+[2022.05.15-15.24.08:740][753]LogBlueprintUserMessages: [ALS_NPC_C_4] Hello
+[2022.05.15-15.24.08:740][753]LogBlueprintUserMessages: [ALS_NPC_C_4] gun attached to : ALS_NPC_C_4.primary_weapon_socket
+[2022.05.15-15.24.08:744][753]LogBlueprintUserMessages: [ALS_NPC_C_5] Hello
+[2022.05.15-15.24.08:745][753]LogBlueprintUserMessages: [ALS_NPC_C_5] gun attached to : ALS_NPC_C_5.primary_weapon_socket
+[2022.05.15-15.24.10:374][851]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_NPC_C_5.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.24.10:902][880]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_NPC_C_1.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.24.11:467][914]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_NPC_C_2.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.24.13:854][ 57]LogBlueprintUserMessages: [gun_AK_C_5] ak47_reload_stand_gun_Montage
+[2022.05.15-15.24.14:355][ 87]LogBlueprintUserMessages: [gun_AK_C_1] ak47_reload_stand_gun_Montage
+[2022.05.15-15.24.14:906][120]LogBlueprintUserMessages: [gun_AK_C_2] ak47_reload_stand_gun_Montage
+[2022.05.15-15.24.23:753][651]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_CLF_to_N' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_NPC_C_5.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.24.24:204][678]LogEQS: Warning: FEnvQuery::PrepareContext found 1 invalid vectors from context /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/AI/EQSContext_LockedActor.EQSContext_LockedActor_C
+[2022.05.15-15.24.25:454][753]LogEQS: Warning: FEnvQuery::PrepareContext found 1 invalid vectors from context /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/AI/EQSContext_LockedActor.EQSContext_LockedActor_C
+[2022.05.15-15.24.26:070][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-15.24.26:070][788]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.05.15-15.24.26:071][788]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-15.24.26:072][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-15.24.26:086][788]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.15-15.24.26:102][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-15.24.26:148][788]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.15-15.24.26:150][788]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-15.24.26:151][788]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-15.24.26:166][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-15.24.26:181][788]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2022.05.15-15.24.26:364][795]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2022.05.15-15.24.26:981][832]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.15-15.24.26:991][832]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.15-15.24.26:991][832]PIE: New page: PIE session: ThirdPersonExampleMap (2022. 5. 16. 오전 9:24:26)
+[2022.05.15-15.24.26:991][832]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.05.15-15.24.27:009][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017227s)
+[2022.05.15-15.24.27:010][832]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.05.15-15.24.27:010][832]LogPlayLevel: PIE: World Init took: (0.001199s)
+[2022.05.15-15.24.27:010][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018535s)
+[2022.05.15-15.24.27:058][832]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2022.05.15-15.24.27:060][832]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.05.15-15.24.27:060][832]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.15-15.24.27:060][832]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.15-15.24.27:060][832]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.15-15.24.27:060][832]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.15-15.24.27:060][832]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.15-15.24.27:060][832]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.15-15.24.27:060][832]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.15-15.24.27:060][832]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.15-15.24.27:060][832]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.15-15.24.27:060][832]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.15-15.24.27:063][832]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.15-15.24.27:063][832]LogAudioMixer: Display: 1: FrontRight
+[2022.05.15-15.24.27:071][832]LogAudioMixer: Display: Using Audio Device ULTRON 2758(NVIDIA High Definition Audio)
+[2022.05.15-15.24.27:071][832]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.15-15.24.27:071][832]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.15-15.24.27:071][832]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.15-15.24.27:071][832]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.15-15.24.27:071][832]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.15-15.24.27:071][832]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.15-15.24.27:085][832]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.15-15.24.27:085][832]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.15-15.24.27:085][832]LogInit: FAudioDevice initialized.
+[2022.05.15-15.24.27:085][832]LogAudio: Display: Audio Device (ID: 13) registered with world 'ThirdPersonExampleMap'.
+[2022.05.15-15.24.27:096][832]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2022.05.15-15.24.27:098][832]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.05.16-00.24.27
+[2022.05.15-15.24.27:098][832]LogWorld: Bringing up level for play took: 0.001451
+[2022.05.15-15.24.27:098][832]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2022.05.15-15.24.27:104][832]LogBlueprintUserMessages: [HUD_Class_C_0] start
+[2022.05.15-15.24.27:104][832]LogBlueprintUserMessages: [HUD_Class_C_0] view
+[2022.05.15-15.24.27:105][832]PIE: Server logged in
+[2022.05.15-15.24.27:106][832]PIE: Play in editor total start time 0.115 seconds.
+[2022.05.15-15.24.27:110][832]LogBlueprintUserMessages: [ALS_NPC_C_0] Hello
+[2022.05.15-15.24.27:110][832]LogBlueprintUserMessages: [ALS_NPC_C_0] gun attached to : ALS_NPC_C_0.primary_weapon_socket
+[2022.05.15-15.24.27:115][832]LogBlueprintUserMessages: [ALS_NPC_C_1] Hello
+[2022.05.15-15.24.27:115][832]LogBlueprintUserMessages: [ALS_NPC_C_1] gun attached to : ALS_NPC_C_1.primary_weapon_socket
+[2022.05.15-15.24.27:224][832]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.24.27:224][832]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.24.27:432][844]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.27:449][845]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.27:465][846]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.27:482][847]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.27:500][848]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.27:515][849]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.27:532][850]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.27:548][851]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.27:565][852]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.27:582][853]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.27:598][854]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.27:615][855]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.27:632][856]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.27:648][857]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.27:665][858]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.27:682][859]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.27:699][860]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.27:715][861]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.27:732][862]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.27:753][863]LogBlueprintUserMessages: [ALS_NPC_C_2] Hello
+[2022.05.15-15.24.27:753][863]LogBlueprintUserMessages: [ALS_NPC_C_2] gun attached to : ALS_NPC_C_2.primary_weapon_socket
+[2022.05.15-15.24.27:865][863]LogBlueprintUserMessages: [ALS_NPC_C_3] Hello
+[2022.05.15-15.24.27:865][863]LogBlueprintUserMessages: [ALS_NPC_C_3] gun attached to : ALS_NPC_C_3.primary_weapon_socket
+[2022.05.15-15.24.27:973][863]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Light' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.24.27:973][863]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Heavy' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.24.28:485][893]LogBlueprintUserMessages: [ALS_NPC_C_4] Hello
+[2022.05.15-15.24.28:485][893]LogBlueprintUserMessages: [ALS_NPC_C_4] gun attached to : ALS_NPC_C_4.primary_weapon_socket
+[2022.05.15-15.24.28:596][893]LogBlueprintUserMessages: [ALS_NPC_C_5] Hello
+[2022.05.15-15.24.28:596][893]LogBlueprintUserMessages: [ALS_NPC_C_5] gun attached to : ALS_NPC_C_5.primary_weapon_socket
+[2022.05.15-15.24.29:584][946]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Rotate_R90' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_NPC_C_2.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.24.30:501][  1]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_NPC_C_1.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.24.30:751][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-15.24.30:751][ 14]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.05.15-15.24.30:751][ 14]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-15.24.30:753][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-15.24.30:765][ 14]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.15-15.24.30:780][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-15.24.30:826][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-15.24.30:826][ 14]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-15.24.30:827][ 14]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-15.24.30:854][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2022.05.15-15.24.31:009][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2022.05.15-15.24.31:716][ 61]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.15-15.24.31:727][ 61]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.15-15.24.31:728][ 61]PIE: New page: PIE session: ThirdPersonExampleMap (2022. 5. 16. 오전 9:24:31)
+[2022.05.15-15.24.31:728][ 61]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.05.15-15.24.31:745][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017526s)
+[2022.05.15-15.24.31:746][ 61]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.05.15-15.24.31:747][ 61]LogPlayLevel: PIE: World Init took: (0.001501s)
+[2022.05.15-15.24.31:747][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019195s)
+[2022.05.15-15.24.31:794][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2022.05.15-15.24.31:796][ 61]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.05.15-15.24.31:796][ 61]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.15-15.24.31:796][ 61]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.15-15.24.31:796][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.15-15.24.31:796][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.15-15.24.31:796][ 61]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.15-15.24.31:796][ 61]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.15-15.24.31:796][ 61]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.15-15.24.31:796][ 61]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.15-15.24.31:796][ 61]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.15-15.24.31:796][ 61]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.15-15.24.31:799][ 61]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.15-15.24.31:799][ 61]LogAudioMixer: Display: 1: FrontRight
+[2022.05.15-15.24.31:806][ 61]LogAudioMixer: Display: Using Audio Device ULTRON 2758(NVIDIA High Definition Audio)
+[2022.05.15-15.24.31:806][ 61]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.15-15.24.31:806][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.15-15.24.31:806][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.15-15.24.31:806][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.15-15.24.31:806][ 61]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.15-15.24.31:806][ 61]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.15-15.24.31:820][ 61]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.15-15.24.31:820][ 61]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.15-15.24.31:820][ 61]LogInit: FAudioDevice initialized.
+[2022.05.15-15.24.31:820][ 61]LogAudio: Display: Audio Device (ID: 14) registered with world 'ThirdPersonExampleMap'.
+[2022.05.15-15.24.31:832][ 61]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2022.05.15-15.24.31:833][ 61]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.05.16-00.24.31
+[2022.05.15-15.24.31:833][ 61]LogWorld: Bringing up level for play took: 0.001435
+[2022.05.15-15.24.31:834][ 61]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2022.05.15-15.24.31:839][ 61]LogBlueprintUserMessages: [HUD_Class_C_0] start
+[2022.05.15-15.24.31:839][ 61]LogBlueprintUserMessages: [HUD_Class_C_0] view
+[2022.05.15-15.24.31:840][ 61]PIE: Server logged in
+[2022.05.15-15.24.31:841][ 61]PIE: Play in editor total start time 0.114 seconds.
+[2022.05.15-15.24.31:845][ 61]LogBlueprintUserMessages: [ALS_NPC_C_0] Hello
+[2022.05.15-15.24.31:845][ 61]LogBlueprintUserMessages: [ALS_NPC_C_0] gun attached to : ALS_NPC_C_0.primary_weapon_socket
+[2022.05.15-15.24.31:850][ 61]LogBlueprintUserMessages: [ALS_NPC_C_1] Hello
+[2022.05.15-15.24.31:850][ 61]LogBlueprintUserMessages: [ALS_NPC_C_1] gun attached to : ALS_NPC_C_1.primary_weapon_socket
+[2022.05.15-15.24.31:852][ 61]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.24.31:852][ 61]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.24.32:069][ 73]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.32:084][ 74]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.32:101][ 75]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.32:118][ 76]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.32:134][ 77]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.32:151][ 78]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.32:168][ 79]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.32:185][ 80]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.32:201][ 81]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.32:218][ 82]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.32:235][ 83]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.32:252][ 84]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.32:268][ 85]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.32:285][ 86]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.32:301][ 87]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.32:318][ 88]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.32:335][ 89]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.32:351][ 90]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.32:368][ 91]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2022.05.15-15.24.32:389][ 92]LogBlueprintUserMessages: [ALS_NPC_C_2] Hello
+[2022.05.15-15.24.32:389][ 92]LogBlueprintUserMessages: [ALS_NPC_C_2] gun attached to : ALS_NPC_C_2.primary_weapon_socket
+[2022.05.15-15.24.32:394][ 92]LogBlueprintUserMessages: [ALS_NPC_C_3] Hello
+[2022.05.15-15.24.32:394][ 92]LogBlueprintUserMessages: [ALS_NPC_C_3] gun attached to : ALS_NPC_C_3.primary_weapon_socket
+[2022.05.15-15.24.32:395][ 92]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Light' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.24.32:395][ 92]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Heavy' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.24.32:893][122]LogBlueprintUserMessages: [ALS_NPC_C_4] Hello
+[2022.05.15-15.24.32:893][122]LogBlueprintUserMessages: [ALS_NPC_C_4] gun attached to : ALS_NPC_C_4.primary_weapon_socket
+[2022.05.15-15.24.33:004][122]LogBlueprintUserMessages: [ALS_NPC_C_5] Hello
+[2022.05.15-15.24.33:004][122]LogBlueprintUserMessages: [ALS_NPC_C_5] gun attached to : ALS_NPC_C_5.primary_weapon_socket
+[2022.05.15-15.24.35:051][245]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Rotate_L90' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_NPC_C_1.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.24.35:385][265]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_NPC_C_5.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.24.35:785][289]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Rotate_R90' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ALS_NPC_C_2.CharacterMesh0.ALS_AnimBP_C_0'
+[2022.05.15-15.24.36:281][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-15.24.36:281][317]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.05.15-15.24.36:281][317]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-15.24.36:283][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-15.24.36:297][317]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.15-15.24.36:312][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-15.24.36:357][317]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.15-15.24.36:358][317]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-15.24.36:359][317]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-15.24.36:374][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-15.24.36:388][317]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2022.05.15-15.24.36:536][324]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2022.05.15-15.24.37:687][384]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2022.05.15-15.24.37:720][384]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/ThirdPersonExampleMap7432460549308B6FDA93F5ABD3A112B9.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.05.15-15.24.37:985][384]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/ThirdPersonExampleMap_BuiltData6815A7254C0158882008358AF185ED4B.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.05.15-15.24.38:001][384]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.15-15.24.38:001][384]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.05.15-15.24.38:001][384]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.05.15-15.24.43:469][705]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Trailer_man\Std_Nails_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.05.15-15.24.43:469][705]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Trailer_man\Std_Nails_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.05.15-15.24.43:471][705]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Trailer_man\Std_Nails_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.05.15-15.24.43:480][705]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Trailer_man\Std_Tongue_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS': Can't find file.
+[2022.05.15-15.24.43:480][705]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Trailer_man\Std_Tongue_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS': Can't find file.
+[2022.05.15-15.24.43:481][705]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Trailer_man\Std_Tongue_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS': Can't find file.
+[2022.05.15-15.24.43:495][705]LogTexture: Display: Building textures: Std_Skin_Head_ENMask (AutoDXT, 1024X1024)
+[2022.05.15-15.24.43:496][705]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Trailer_man\Std_Nails_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.05.15-15.24.43:933][705]LogTexture: Display: Building textures: Beard_Transparency_2_Opacity (G8, 1024X1024)
+[2022.05.15-15.24.43:933][705]LogTexture: Display: Building textures: Beard_Transparency_2_Diffuse (AutoDXT, 1024X1024)
+[2022.05.15-15.24.43:933][705]LogTexture: Display: Building textures: Beard_Transparency_2_ORM (AutoDXT, 1024X1024)
+[2022.05.15-15.24.43:933][705]LogTexture: Display: Building textures: Std_Skin_Head_MNAOMask (AutoDXT, 1024X1024)
+[2022.05.15-15.24.43:933][705]LogTexture: Display: Building textures: Std_Skin_Head_CFULCMask (AutoDXT, 1024X1024)
+[2022.05.15-15.24.43:933][705]LogTexture: Display: Building textures: Std_Skin_Head_MicroNMask (AutoDXT, 2048X2048)
+[2022.05.15-15.24.43:933][705]LogTexture: Display: Building textures: RL_Shoes_ORM (AutoDXT, 2048X2048)
+[2022.05.15-15.24.43:933][705]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Trailer_man\Std_Tongue_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS': Can't find file.
+[2022.05.15-15.24.47:316][705]LogTexture: Display: Building textures: RL_Shoes_Displacement (AutoDXT, 2048X2048)
+[2022.05.15-15.24.47:316][705]LogTexture: Display: Building textures: Std_Skin_Head_BCBMap (AutoDXT, 4096X4096)
+[2022.05.15-15.24.47:316][705]LogTexture: Display: Building textures: embed_hair_male_Transparency_Bump (G8, 1024X1024)
+[2022.05.15-15.24.47:316][705]LogTexture: Display: Building textures: embed_hair_male_Transparency_Diffuse (AutoDXT, 1024X1024)
+[2022.05.15-15.24.47:316][705]LogTexture: Display: Building textures: embed_hair_male_Transparency_Opacity (G8, 1024X1024)
+[2022.05.15-15.24.47:316][705]LogTexture: Display: Building textures: Beard_Transparency_ORM (AutoDXT, 1024X1024)
+[2022.05.15-15.24.47:316][705]LogTexture: Display: Building textures: Beard_Transparency_Hair_ID_Map (AutoDXT, 1024X1024)
+[2022.05.15-15.24.47:316][705]LogTexture: Display: Building textures: Beard_Transparency_Hair_Flow_Map (AutoDXT, 1024X1024)
+[2022.05.15-15.24.47:316][705]LogTexture: Display: Building textures: Beard_Transparency_Hair_Root_Map (AutoDXT, 1024X1024)
+[2022.05.15-15.24.47:316][705]LogTexture: Display: Building textures: Male_Bushy_Transparency_Diffuse (AutoDXT, 2048X2048)
+[2022.05.15-15.24.47:316][705]LogTexture: Display: Building textures: pants_Displacement (AutoDXT, 2048X2048)
+[2022.05.15-15.24.47:316][705]LogTexture: Display: Building textures: Male_Bushy_Transparency_Opacity (G8, 2048X2048)
+[2022.05.15-15.24.47:316][705]LogTexture: Display: Building textures: Beard_Transparency_0_Opacity (G8, 1024X1024)
+[2022.05.15-15.24.47:316][705]LogTexture: Display: Building textures: Beard_Transparency_1_Hair_ID_Map (AutoDXT, 1024X1024)
+[2022.05.15-15.24.47:316][705]LogTexture: Display: Building textures: Beard_Transparency_1_Hair_Flow_Map (AutoDXT, 1024X1024)
+[2022.05.15-15.24.47:316][705]LogTexture: Display: Building textures: Beard_Transparency_1_Hair_Root_Map (AutoDXT, 1024X1024)
+[2022.05.15-15.24.47:316][705]LogTexture: Display: Building textures: __Cornea_Opacity (G8, 1024X1024)
+[2022.05.15-15.24.47:316][705]LogTexture: Display: Building textures: __Cornea_ORM (AutoDXT, 64X64)
+[2022.05.15-15.24.47:316][705]LogTexture: Display: Building textures: Std_Skin_Arm_TransMap (AutoDXT, 2048X2048)
+[2022.05.15-15.24.47:316][705]LogTexture: Display: Building textures: Std_Skin_Arm_Normal (BC5, 2048X2048)
+[2022.05.15-15.24.47:316][705]LogTexture: Display: Building textures: Std_Skin_Arm_Diffuse (AutoDXT, 2048X2048)
+[2022.05.15-15.24.47:316][705]LogTexture: Display: Building textures: vest_Normal (BC5, 2048X2048)
+[2022.05.15-15.24.47:316][705]LogTexture: Display: Building textures: Std_Skin_Head_Normal (BC5, 2048X2048)
+[2022.05.15-15.24.48:047][705]LogTexture: Display: Building textures: Std_Skin_Leg_RGBAMask (AutoDXT, 1024X1024)
+[2022.05.15-15.24.48:047][705]LogTexture: Display: Building textures: Std_Skin_Leg_TransMap (AutoDXT, 2048X2048)
+[2022.05.15-15.24.48:047][705]LogTexture: Display: Building textures: Std_Skin_Leg_ORM (AutoDXT, 2048X2048)
+[2022.05.15-15.24.48:047][705]LogTexture: Display: Building textures: Std_Skin_Head_Diffuse (AutoDXT, 2048X2048)
+[2022.05.15-15.24.52:007][705]LogTexture: Display: Building textures: Std_Skin_Leg_MicroNMask (AutoDXT, 2048X2048)
+[2022.05.15-15.24.52:007][705]LogTexture: Display: Building textures: Std_Skin_Leg_SSSMap (AutoDXT, 1024X1024)
+[2022.05.15-15.24.52:008][705]LogTexture: Display: Building textures: shirt_Displacement (AutoDXT, 2048X2048)
+[2022.05.15-15.24.52:008][705]LogTexture: Display: Building textures: RL_Shoes_Diffuse (AutoDXT, 2048X2048)
+[2022.05.15-15.24.52:008][705]LogTexture: Display: Building textures: RL_Shoes_Normal (BC5, 2048X2048)
+[2022.05.15-15.24.52:008][705]LogTexture: Display: Building textures: Beard_Transparency_0_Hair_Root_Map (AutoDXT, 1024X1024)
+[2022.05.15-15.24.52:008][705]LogTexture: Display: Building textures: Beard_Transparency_0_ORM (AutoDXT, 1024X1024)
+[2022.05.15-15.24.52:008][705]LogTexture: Display: Building textures: Beard_Transparency_0_Hair_ID_Map (AutoDXT, 1024X1024)
+[2022.05.15-15.24.52:008][705]LogTexture: Display: Building textures: Beard_Transparency_0_Diffuse (AutoDXT, 1024X1024)
+[2022.05.15-15.24.52:008][705]LogTexture: Display: Building textures: Std_Skin_Head_NMUILMask (AutoDXT, 1024X1024)
+[2022.05.15-15.24.52:008][705]LogTexture: Display: Building textures: Std_Skin_Head_SSSMap (AutoDXT, 1024X1024)
+[2022.05.15-15.24.52:008][705]LogTexture: Display: Building textures: Std_Skin_Head_ORM (AutoDXT, 2048X2048)
+[2022.05.15-15.24.52:008][705]LogTexture: Display: Building textures: Std_Skin_Head_NBMap (BC5, 4096X4096)
+[2022.05.15-15.24.52:008][705]LogTexture: Display: Building textures: Std_Skin_Head_SpecMask (AutoDXT, 2048X2048)
+[2022.05.15-15.24.52:008][705]LogTexture: Display: Building textures: Std_Eyelash_Normal (BC5, 2048X2048)
+[2022.05.15-15.24.52:008][705]LogTexture: Display: Building textures: Std_Eyelash_Diffuse (AutoDXT, 2048X2048)
+[2022.05.15-15.24.52:008][705]LogTexture: Display: Building textures: Std_Eyelash_Opacity (G8, 2048X2048)
+[2022.05.15-15.24.52:008][705]LogTexture: Display: Building textures: Male_Bushy_Transparency_Hair_ID_Map (AutoDXT, 2048X2048)
+[2022.05.15-15.24.52:008][705]LogTexture: Display: Building textures: Male_Bushy_Transparency_ORM (AutoDXT, 64X64)
+[2022.05.15-15.24.52:008][705]LogTexture: Display: Building textures: Male_Bushy_Transparency_Hair_Root_Map (AutoDXT, 1024X1024)
+[2022.05.15-15.24.52:008][705]LogTexture: Display: Building textures: Beard_Transparency_Diffuse (AutoDXT, 1024X1024)
+[2022.05.15-15.24.52:008][705]LogTexture: Display: Building textures: Beard_Transparency_Opacity (G8, 1024X1024)
+[2022.05.15-15.24.52:008][705]LogTexture: Display: Building textures: __Iris_Diffuse (AutoDXT, 1024X1024)
+[2022.05.15-15.24.52:008][705]LogTexture: Display: Building textures: __Iris_ORM (AutoDXT, 128X128)
+[2022.05.15-15.24.52:008][705]LogTexture: Display: Building textures: __Iris_Normal (BC5, 1024X1024)
+[2022.05.15-15.24.52:008][705]LogTexture: Display: Building textures: vest_Diffuse (AutoDXT, 2048X2048)
+[2022.05.15-15.24.52:008][705]LogTexture: Display: Building textures: vest_ORM (AutoDXT, 2048X2048)
+[2022.05.15-15.24.52:008][705]LogTexture: Display: Building textures: vest_Displacement (AutoDXT, 2048X2048)
+[2022.05.15-15.24.52:008][705]LogTexture: Display: Building textures: __Eyes_Diffuse (AutoDXT, 1024X1024)
+[2022.05.15-15.24.52:008][705]LogTexture: Display: Building textures: Std_Skin_Head_TransMap (AutoDXT, 4096X4096)
+[2022.05.15-15.24.53:382][705]LogTexture: Display: Building textures: __Eyes_ORM (AutoDXT, 128X128)
+[2022.05.15-15.24.53:382][705]LogTexture: Display: Building textures: Std_Lower_Teeth_Normal (BC5, 1024X1024)
+[2022.05.15-15.24.53:382][705]LogTexture: Display: Building textures: Std_Nails_SSSMap (AutoDXT, 4X4)
+[2022.05.15-15.24.53:382][705]LogTexture: Display: Building textures: Std_Nails_ORM (AutoDXT, 2048X2048)
+[2022.05.15-15.24.53:382][705]LogTexture: Display: Building textures: Std_Nails_MicroNMask (AutoDXT, 2048X2048)
+[2022.05.15-15.24.53:382][705]LogTexture: Display: Building textures: Std_Nails_RGBAMask (AutoDXT, 1024X1024)
+[2022.05.15-15.24.53:382][705]LogTexture: Display: Building textures: Std_Nails_TransMap (AutoDXT, 1024X1024)
+[2022.05.15-15.24.53:382][705]LogTexture: Display: Building textures: Beard_Transparency_1_ORM (AutoDXT, 1024X1024)
+[2022.05.15-15.24.53:382][705]LogTexture: Display: Building textures: Beard_Transparency_1_Diffuse (AutoDXT, 1024X1024)
+[2022.05.15-15.24.53:382][705]LogTexture: Display: Building textures: Beard_Transparency_1_Opacity (G8, 1024X1024)
+[2022.05.15-15.24.53:382][705]LogTexture: Display: Building textures: Std_Nails_Diffuse (AutoDXT, 2048X2048)
+[2022.05.15-15.24.53:382][705]LogTexture: Display: Building textures: Std_Nails_Normal (BC5, 2048X2048)
+[2022.05.15-15.24.53:382][705]LogTexture: Display: Building textures: Std_Skin_Leg_Normal (BC5, 2048X2048)
+[2022.05.15-15.24.53:382][705]LogTexture: Display: Building textures: Std_Tongue_MicroN (BC5, 2048X2048)
+[2022.05.15-15.24.54:016][705]LogTexture: Display: Building textures: Std_Skin_Leg_Diffuse (AutoDXT, 2048X2048)
+[2022.05.15-15.24.54:016][705]LogTexture: Display: Building textures: Std_Eyelash_ORM (AutoDXT, 2048X2048)
+[2022.05.15-15.24.54:016][705]LogTexture: Display: Building textures: Beard_Transparency_2_Hair_Root_Map (AutoDXT, 1024X1024)
+[2022.05.15-15.24.54:016][705]LogTexture: Display: Building textures: pants_Diffuse (AutoDXT, 2048X2048)
+[2022.05.15-15.24.54:463][705]LogTexture: Display: Building textures: Beard_Transparency_2_Hair_Flow_Map (AutoDXT, 1024X1024)
+[2022.05.15-15.24.54:463][705]LogTexture: Display: Building textures: pants_ORM (AutoDXT, 2048X2048)
+[2022.05.15-15.24.56:180][705]LogTexture: Display: Building textures: Beard_Transparency_2_Hair_ID_Map (AutoDXT, 1024X1024)
+[2022.05.15-15.24.56:180][705]LogTexture: Display: Building textures: __Pupil_Normal (BC5, 1024X1024)
+[2022.05.15-15.24.56:180][705]LogTexture: Display: Building textures: Beard_Transparency_0_Hair_Flow_Map (AutoDXT, 1024X1024)
+[2022.05.15-15.24.56:180][705]LogTexture: Display: Building textures: __Pupil_Diffuse (AutoDXT, 1024X1024)
+[2022.05.15-15.24.56:180][705]LogTexture: Display: Building textures: Male_Bushy_Base_Transparency_Diffuse (AutoDXT, 1024X1024)
+[2022.05.15-15.24.56:181][705]LogTexture: Display: Building textures: Male_Bushy_Base_Transparency_Opacity (G8, 1024X1024)
+[2022.05.15-15.24.56:181][705]LogTexture: Display: Building textures: Male_Bushy_Base_Transparency_ORM (AutoDXT, 64X64)
+[2022.05.15-15.24.56:181][705]LogTexture: Display: Building textures: Std_Lower_Teeth_Diffuse (AutoDXT, 1024X1024)
+[2022.05.15-15.24.56:181][705]LogTexture: Display: Building textures: Std_Lower_Teeth_ORM (AutoDXT, 1024X1024)
+[2022.05.15-15.24.56:181][705]LogTexture: Display: Building textures: Std_Upper_Teeth_GumsMask (AutoDXT, 1024X1024)
+[2022.05.15-15.24.56:181][705]LogTexture: Display: Building textures: Std_Upper_Teeth_GradAO (AutoDXT, 512X512)
+[2022.05.15-15.24.56:181][705]LogTexture: Display: Building textures: Std_Skin_Arm_MicroNMask (AutoDXT, 2048X2048)
+[2022.05.15-15.24.56:181][705]LogTexture: Display: Building textures: Std_Upper_Teeth_MicroN (BC5, 2048X2048)
+[2022.05.15-15.24.56:181][705]LogTexture: Display: Building textures: Std_Skin_Arm_RGBAMask (AutoDXT, 1024X1024)
+[2022.05.15-15.24.56:181][705]LogTexture: Display: Building textures: pants_Normal (BC5, 2048X2048)
+[2022.05.15-15.24.58:749][705]LogTexture: Display: Building textures: Std_Skin_Arm_SSSMap (AutoDXT, 1024X1024)
+[2022.05.15-15.24.58:749][705]LogTexture: Display: Building textures: Std_Skin_Arm_ORM (AutoDXT, 2048X2048)
+[2022.05.15-15.24.58:749][705]LogTexture: Display: Building textures: shirt_Diffuse (AutoDXT, 2048X2048)
+[2022.05.15-15.24.58:749][705]LogTexture: Display: Building textures: shirt_ORM (AutoDXT, 2048X2048)
+[2022.05.15-15.24.58:749][705]LogTexture: Display: Building textures: shirt_Normal (BC5, 2048X2048)
+[2022.05.15-15.24.58:749][705]LogTexture: Display: Building textures: embed_hair_male_Transparency_HSpecMap (AutoDXT, 1024X1024)
+[2022.05.15-15.24.58:749][705]LogTexture: Display: Building textures: embed_hair_male_Transparency_Glow (AutoDXT, 1024X1024)
+[2022.05.15-15.24.58:749][705]LogTexture: Display: Building textures: __Pupil_ORM (AutoDXT, 128X128)
+[2022.05.15-15.24.58:749][705]LogTexture: Display: Building textures: Std_Upper_Teeth_Diffuse (AutoDXT, 1024X1024)
+[2022.05.15-15.24.58:749][705]LogTexture: Display: Building textures: Std_Upper_Teeth_ORM (AutoDXT, 1024X1024)
+[2022.05.15-15.24.58:749][705]LogTexture: Display: Building textures: Std_Upper_Teeth_Normal (BC5, 1024X1024)
+[2022.05.15-15.24.58:749][705]LogTexture: Display: Building textures: embed_hair_male_Transparency_HTanMap (AutoDXT, 512X512)
+[2022.05.15-15.24.58:749][705]LogTexture: Display: Building textures: embed_hair_male_Transparency_ORM (AutoDXT, 1024X1024)
+[2022.05.15-15.24.58:749][705]LogTexture: Display: Building textures: Std_Tongue_Normal (BC5, 1024X1024)
+[2022.05.15-15.24.58:749][705]LogTexture: Display: Building textures: Std_Tongue_ORM (AutoDXT, 512X512)
+[2022.05.15-15.24.58:749][705]LogTexture: Display: Building textures: Std_Tongue_Diffuse (AutoDXT, 1024X1024)
+[2022.05.15-15.24.58:749][705]LogSkeletalMesh: Building Skeletal Mesh Trailer_man...
+[2022.05.15-15.24.58:749][705]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.05.15-15.25.00:322][705]LogSkeletalMesh: Section 0: Material=0, 592 triangles
+[2022.05.15-15.25.00:322][705]LogSkeletalMesh: Section 1: Material=1, 8080 triangles
+[2022.05.15-15.25.00:322][705]LogSkeletalMesh: Section 2: Material=2, 6012 triangles
+[2022.05.15-15.25.00:322][705]LogSkeletalMesh: Section 3: Material=3, 2788 triangles
+[2022.05.15-15.25.00:322][705]LogSkeletalMesh: Section 4: Material=4, 1788 triangles
+[2022.05.15-15.25.00:322][705]LogSkeletalMesh: Section 5: Material=5, 1200 triangles
+[2022.05.15-15.25.00:322][705]LogSkeletalMesh: Section 6: Material=6, 2362 triangles
+[2022.05.15-15.25.00:322][705]LogSkeletalMesh: Section 7: Material=7, 2480 triangles
+[2022.05.15-15.25.00:322][705]LogSkeletalMesh: Section 8: Material=8, 144 triangles
+[2022.05.15-15.25.00:322][705]LogSkeletalMesh: Section 9: Material=9, 144 triangles
+[2022.05.15-15.25.00:322][705]LogSkeletalMesh: Section 10: Material=10, 136 triangles
+[2022.05.15-15.25.00:322][705]LogSkeletalMesh: Section 11: Material=11, 136 triangles
+[2022.05.15-15.25.00:322][705]LogSkeletalMesh: Section 12: Material=12, 7436 triangles
+[2022.05.15-15.25.00:322][705]LogSkeletalMesh: Section 13: Material=13, 12573 triangles
+[2022.05.15-15.25.00:322][705]LogSkeletalMesh: Section 14: Material=14, 4478 triangles
+[2022.05.15-15.25.00:322][705]LogSkeletalMesh: Section 15: Material=15, 2248 triangles
+[2022.05.15-15.25.00:322][705]LogSkeletalMesh: Section 16: Material=16, 816 triangles
+[2022.05.15-15.25.00:322][705]LogSkeletalMesh: Section 17: Material=17, 960 triangles
+[2022.05.15-15.25.00:322][705]LogSkeletalMesh: Section 18: Material=18, 384 triangles
+[2022.05.15-15.25.00:322][705]LogSkeletalMesh: Section 19: Material=19, 336 triangles
+[2022.05.15-15.25.00:322][705]LogSkeletalMesh: Section 20: Material=20, 7933 triangles
+[2022.05.15-15.25.00:322][705]LogSkeletalMesh: Section 21: Material=21, 2218 triangles
+[2022.05.15-15.25.00:322][705]LogSkeletalMesh: Section 22: Material=22, 1226 triangles
+[2022.05.15-15.25.00:322][705]LogSkeletalMesh: Section 23: Material=23, 2822 triangles
+[2022.05.15-15.25.00:322][705]LogSkeletalMesh: Section 24: Material=24, 1178 triangles
+[2022.05.15-15.25.00:322][705]LogSkeletalMesh: Section 25: Material=25, 204 triangles
+[2022.05.15-15.25.00:322][705]LogSkeletalMesh: Section 26: Material=26, 11406 triangles
+[2022.05.15-15.25.06:399][705]LogSkeletalMesh: Built Skeletal Mesh [7.65s] /Game/Character/NPC/Trailer_man.Trailer_man
+[2022.05.15-15.25.06:441][705]LogMaterial: Display: Missing cached shader map for material RL_Hair, compiling. 
+[2022.05.15-15.25.06:660][706]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 188
+[2022.05.15-15.25.06:660][706]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 178
+[2022.05.15-15.25.09:610][849]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 168
+[2022.05.15-15.25.09:768][849]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2022.05.15-15.25.09:811][849]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/ThirdPersonExampleMap268F743B493A0030E36212850A449EA0.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.05.15-15.25.10:142][849]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/ThirdPersonExampleMap_BuiltDataED92CF0A477A17EB264CEEAC75B2D7C6.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.05.15-15.25.10:160][849]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.15-15.25.10:160][849]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.05.15-15.25.10:160][849]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.05.15-15.25.10:441][867]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 158
+[2022.05.15-15.25.10:639][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.05.15-15.25.12:112][874]LogSlate: Window 'Save Content' being destroyed
+[2022.05.15-15.25.12:920][874]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 148
+[2022.05.15-15.25.12:920][874]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/ALS_Base_CharacterBP2C1DE4344CDB1E1A45C0D89BC47685E5.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_Base_CharacterBP.uasset'
+[2022.05.15-15.25.12:953][874]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/ALS_NPC6F7262FB4BC360CC0DB708BE9FB72C4B.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_NPC.uasset'
+[2022.05.15-15.25.12:954][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Spawners/BP_Spawner" FILE="../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/BP/Spawners/BP_Spawner.uasset" SILENT=true
+[2022.05.15-15.25.12:981][874]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/BP_Spawner6614BD88434158E4922AD5BD50CEC60F.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/BP/Spawners/BP_Spawner.uasset'
+[2022.05.15-15.25.13:006][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/UI/HUD" FILE="../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/BP/UI/HUD.uasset" SILENT=true
+[2022.05.15-15.25.13:009][874]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/HUDD47DF4A64FA0769B048F8197EF78663B.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/BP/UI/HUD.uasset'
+[2022.05.15-15.25.13:011][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/UI/HUD_Class" FILE="../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/BP/UI/HUD_Class.uasset" SILENT=true
+[2022.05.15-15.25.13:052][874]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/HUD_ClassBC616A5846D165D5229B40AE628B87A8.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/BP/UI/HUD_Class.uasset'
+[2022.05.15-15.25.13:099][874]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-15.25.13:099][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-15.25.13:210][874]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.05.15-15.25.13:210][874]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-15.25.13:210][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-15.25.13:297][874]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.05.15-15.25.13:297][874]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-15.25.13:297][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-15.25.13:362][874]LogSlate: Window 'BP_Spawner' being destroyed
+[2022.05.15-15.25.13:375][874]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.05.15-15.25.13:375][874]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-15.25.13:375][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-15.25.13:457][874]LogSlate: Window 'SANPERO - Unreal Editor' being destroyed
+[2022.05.15-15.25.13:607][874]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.15-15.25.13:607][874]LogContentValidation: Display: Validating Blueprint /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_Base_CharacterBP.ALS_Base_CharacterBP
+[2022.05.15-15.25.13:607][874]LogContentValidation: Display: Validating Blueprint /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_NPC.ALS_NPC
+[2022.05.15-15.25.13:607][874]LogContentValidation: Display: Validating Blueprint /Game/BP/Spawners/BP_Spawner.BP_Spawner
+[2022.05.15-15.25.13:607][874]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/UI/HUD.HUD
+[2022.05.15-15.25.13:609][874]LogContentValidation: Display: Validating Blueprint /Game/BP/UI/HUD_Class.HUD_Class
+[2022.05.15-15.25.13:615][875]Cmd: QUIT_EDITOR
+[2022.05.15-15.25.13:615][875]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.05.15-15.25.13:636][875]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.05.15-15.25.14:403][875]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.05.15-15.25.14:403][875]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.05.15-15.25.14:403][875]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonExampleMap'.
+[2022.05.15-15.25.14:403][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-15.25.14:405][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-15.25.14:433][875]LogAudio: Display: Audio Device Manager Shutdown
+[2022.05.15-15.25.14:437][875]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (Microsoft 입력기).
+[2022.05.15-15.25.14:441][875]LogExit: Preparing to exit.
+[2022.05.15-15.25.15:036][875]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 138
+[2022.05.15-15.25.15:326][875]LogDeviceProfile: Device profile begin destroy: [000002329D87FE00] Windows
+[2022.05.15-15.25.15:326][875]LogDeviceProfile: Device profile begin destroy: [000002329D87FD00] Default__DeviceProfile
+[2022.05.15-15.25.15:326][875]LogDeviceProfile: Device profile begin destroy: [000002329D830300] WindowsNoEditor
+[2022.05.15-15.25.15:326][875]LogDeviceProfile: Device profile begin destroy: [000002329D87C300] WindowsServer
+[2022.05.15-15.25.15:326][875]LogDeviceProfile: Device profile begin destroy: [000002329D833800] WindowsClient
+[2022.05.15-15.25.15:326][875]LogDeviceProfile: Device profile begin destroy: [000002329D87F700] IOS
+[2022.05.15-15.25.15:326][875]LogDeviceProfile: Device profile begin destroy: [000002329D830A00] iPadAir
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D87C900] iPadAir2
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D645200] IPadPro
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D645300] iPadAir3
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D87E000] iPadAir4
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D644800] iPadMini2
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D87CE00] iPadMini3
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D645F00] iPadMini4
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D87EA00] iPadMini5
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D830C00] iPhone6
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D833900] iPodTouch6
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D647500] iPhone7
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D644600] iPodTouch7
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D833D00] iPhone5S
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D644C00] iPhone6Plus
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D832C00] iPhone6S
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D645100] iPhone6SPlus
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D833C00] iPhone7Plus
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D647400] iPhoneSE
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D831D00] iPhone8
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D644B00] iPhone8Plus
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D831100] iPhoneX
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D646200] iPhoneXS
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D833700] iPhoneXSMax
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D644200] iPhoneXR
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D832E00] iPhone11
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D647700] iPhone11Pro
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D832500] iPhone11ProMax
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D644E00] iPhoneSE2
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D832200] iPhone12Mini
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D647D00] iPhone12
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D830D00] iPhone12Pro
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D645800] iPhone12ProMax
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D830800] iPadPro105
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D644500] iPadPro129
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D832700] iPadPro97
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D646C00] iPadPro2_129
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D830600] iPad5
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D646400] iPad6
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D831500] iPad7
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D647F00] iPad8
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D831200] iPadPro11
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D644100] iPadPro2_11
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D833400] iPadPro3_129
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D646E00] iPadPro4_129
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D831400] AppleTV
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D644D00] AppleTV4K
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D831A00] TVOS
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D645A00] Mac
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D831B00] MacClient
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D645D00] MacNoEditor
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D830F00] MacServer
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D646B00] Linux
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D831600] LinuxAArch64
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D647A00] LinuxNoEditor
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D833A00] LinuxAArch64NoEditor
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D647100] LinuxClient
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D832600] LinuxAArch64Client
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D646600] LinuxServer
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D830B00] LinuxAArch64Server
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D647E00] Android
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D832900] Android_Low
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D87D600] Android_Mid
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329C9A5900] Android_High
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D87F000] Android_Default
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329C9A5E00] Android_Adreno4xx
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D87CC00] Android_Adreno5xx_Low
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329C9A5300] Android_Adreno5xx
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D87E300] Android_Adreno6xx
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329C9A4100] Android_Adreno6xx_Vulkan
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D87D900] Android_Mali_T6xx
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329C9A4300] Android_Mali_T7xx
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D87D700] Android_Mali_T8xx
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329C9A5800] Android_Mali_G71
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D87E400] Android_Mali_G72
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329C9A4400] Android_Mali_G72_Vulkan
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D87CA00] Android_Mali_G76
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329C9A4700] Android_Mali_G76_Vulkan
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D87E100] Android_Mali_G77
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329C9A5100] Android_Mali_G77_Vulkan
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D87EB00] Android_Vulkan_SM5
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329C9A5000] Android_PowerVR_G6xxx
+[2022.05.15-15.25.15:327][875]LogDeviceProfile: Device profile begin destroy: [000002329D832F00] Android_PowerVR_GT7xxx
+[2022.05.15-15.25.15:328][875]LogDeviceProfile: Device profile begin destroy: [000002329D646000] Android_PowerVR_GE8xxx
+[2022.05.15-15.25.15:328][875]LogDeviceProfile: Device profile begin destroy: [000002329D831F00] Android_PowerVR_GM9xxx
+[2022.05.15-15.25.15:328][875]LogDeviceProfile: Device profile begin destroy: [000002329D645900] Android_PowerVR_GM9xxx_Vulkan
+[2022.05.15-15.25.15:328][875]LogDeviceProfile: Device profile begin destroy: [000002329D833E00] Android_TegraK1
+[2022.05.15-15.25.15:328][875]LogDeviceProfile: Device profile begin destroy: [000002329D646800] Android_Unknown_Vulkan
+[2022.05.15-15.25.15:328][875]LogDeviceProfile: Device profile begin destroy: [000002329D830400] Lumin
+[2022.05.15-15.25.15:328][875]LogDeviceProfile: Device profile begin destroy: [000002329C9A6000] Lumin_Desktop
+[2022.05.15-15.25.15:328][875]LogDeviceProfile: Device profile begin destroy: [000002329D832A00] HoloLens
+[2022.05.15-15.25.15:350][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:350][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:350][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:350][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:350][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:350][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:350][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:350][875]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-15.25.15:350][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:350][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:350][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:350][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:350][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:350][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:350][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:350][875]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-15.25.15:350][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:350][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:351][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:351][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:351][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:351][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:351][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:351][875]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-15.25.15:351][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:351][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:351][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:351][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:351][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:351][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:351][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:351][875]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-15.25.15:351][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:351][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:351][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:351][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:351][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:351][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:351][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:351][875]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-15.25.15:351][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:351][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:351][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:351][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:351][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:351][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:351][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:351][875]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-15.25.15:351][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:351][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:351][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:351][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:351][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:351][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:351][875]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.15-15.25.15:351][875]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-15.25.15:511][875]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.05.15-15.25.15:530][875]LogExit: Editor shut down
+[2022.05.15-15.25.15:531][875]LogExit: Transaction tracking system shut down
+[2022.05.15-15.25.16:505][875]LogExit: Object subsystem successfully closed.
+[2022.05.15-15.25.16:539][875]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.05.15-15.25.16:571][875]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (876)
+[2022.05.15-15.25.16:572][875]LogModuleManager: Shutting down and abandoning module SequencerWidgets (874)
+[2022.05.15-15.25.16:572][875]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (872)
+[2022.05.15-15.25.16:572][875]LogModuleManager: Shutting down and abandoning module Voice (870)
+[2022.05.15-15.25.16:572][875]LogModuleManager: Shutting down and abandoning module BlueprintGraph (868)
+[2022.05.15-15.25.16:572][875]LogModuleManager: Shutting down and abandoning module DataTableEditor (866)
+[2022.05.15-15.25.16:572][875]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (864)
+[2022.05.15-15.25.16:572][875]LogModuleManager: Shutting down and abandoning module SceneOutliner (862)
+[2022.05.15-15.25.16:572][875]LogModuleManager: Shutting down and abandoning module AddContentDialog (860)
+[2022.05.15-15.25.16:573][875]LogModuleManager: Shutting down and abandoning module WidgetCarousel (859)
+[2022.05.15-15.25.16:573][875]LogModuleManager: Shutting down and abandoning module EditorWidgets (856)
+[2022.05.15-15.25.16:573][875]LogModuleManager: Shutting down and abandoning module StatsViewer (854)
+[2022.05.15-15.25.16:573][875]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (852)
+[2022.05.15-15.25.16:573][875]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (850)
+[2022.05.15-15.25.16:573][875]LogModuleManager: Shutting down and abandoning module AutomationWorker (848)
+[2022.05.15-15.25.16:573][875]LogModuleManager: Shutting down and abandoning module SteamVREditor (846)
+[2022.05.15-15.25.16:573][875]LogModuleManager: Shutting down and abandoning module OculusMR (844)
+[2022.05.15-15.25.16:573][875]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (842)
+[2022.05.15-15.25.16:573][875]LogModuleManager: Shutting down and abandoning module TakeRecorder (841)
+[2022.05.15-15.25.16:573][875]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (838)
+[2022.05.15-15.25.16:573][875]LogModuleManager: Shutting down and abandoning module TakesCore (836)
+[2022.05.15-15.25.16:573][875]LogModuleManager: Shutting down and abandoning module GooglePADEditor (834)
+[2022.05.15-15.25.16:573][875]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (832)
+[2022.05.15-15.25.16:573][875]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (830)
+[2022.05.15-15.25.16:573][875]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (828)
+[2022.05.15-15.25.16:573][875]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (826)
+[2022.05.15-15.25.16:573][875]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (824)
+[2022.05.15-15.25.16:573][875]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (822)
+[2022.05.15-15.25.16:573][875]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (820)
+[2022.05.15-15.25.16:573][875]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (818)
+[2022.05.15-15.25.16:573][875]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (816)
+[2022.05.15-15.25.16:573][875]LogModuleManager: Shutting down and abandoning module WebMMedia (814)
+[2022.05.15-15.25.16:573][875]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (812)
+[2022.05.15-15.25.16:573][875]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (810)
+[2022.05.15-15.25.16:573][875]LogModuleManager: Shutting down and abandoning module SequenceRecorder (809)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (806)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (804)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (802)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (800)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (798)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (796)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (794)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module WaterEditor (792)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module RootMotionGuidePluginEditor (790)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module AnimationEditor (789)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module PlanarCut (786)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (784)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (782)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (780)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module CharacterAI (778)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module TextureAlignMode (776)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module BspMode (774)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module GeometryMode (772)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (770)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module SmartSnapping (768)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module SessionServices (766)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module MeshPaint (764)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (762)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module FoliageEdit (760)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module LandscapeEditor (758)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module MeshPaintMode (756)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (754)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module ActorPickerMode (752)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module PlacementMode (750)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module ViewportSnapping (748)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module ViewportInteraction (746)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module ClothPainter (744)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (743)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module LogVisualizer (740)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module IntroTutorials (738)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (737)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (734)
+[2022.05.15-15.25.16:574][875]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (732)
+[2022.05.15-15.25.16:575][875]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (730)
+[2022.05.15-15.25.16:575][875]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (729)
+[2022.05.15-15.25.18:576][875]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (726)
+[2022.05.15-15.25.18:576][875]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (724)
+[2022.05.15-15.25.18:576][875]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (722)
+[2022.05.15-15.25.18:576][875]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (720)
+[2022.05.15-15.25.18:576][875]LogModuleManager: Shutting down and abandoning module TraceInsights (718)
+[2022.05.15-15.25.18:576][875]MemoryProfiler: Shutdown
+[2022.05.15-15.25.18:576][875]NetworkingProfiler: Shutdown
+[2022.05.15-15.25.18:576][875]LoadingProfiler: Shutdown
+[2022.05.15-15.25.18:576][875]TimingProfiler: Shutdown
+[2022.05.15-15.25.18:576][875]LogModuleManager: Shutting down and abandoning module TraceServices (717)
+[2022.05.15-15.25.18:576][875]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (714)
+[2022.05.15-15.25.18:576][875]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (712)
+[2022.05.15-15.25.18:576][875]LogModuleManager: Shutting down and abandoning module InputBindingEditor (710)
+[2022.05.15-15.25.18:576][875]LogModuleManager: Shutting down and abandoning module MergeActors (708)
+[2022.05.15-15.25.18:576][875]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (706)
+[2022.05.15-15.25.18:576][875]LogModuleManager: Shutting down and abandoning module LocalizationService (705)
+[2022.05.15-15.25.18:576][875]LogModuleManager: Shutting down and abandoning module HardwareTargeting (702)
+[2022.05.15-15.25.18:576][875]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (700)
+[2022.05.15-15.25.18:577][875]LogModuleManager: Shutting down and abandoning module UndoHistory (698)
+[2022.05.15-15.25.18:577][875]LogModuleManager: Shutting down and abandoning module XmlParser (696)
+[2022.05.15-15.25.18:577][875]LogModuleManager: Shutting down and abandoning module Blutility (694)
+[2022.05.15-15.25.18:577][875]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (692)
+[2022.05.15-15.25.18:577][875]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (691)
+[2022.05.15-15.25.18:577][875]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (688)
+[2022.05.15-15.25.18:577][875]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (687)
+[2022.05.15-15.25.18:577][875]LogModuleManager: Shutting down and abandoning module SettingsEditor (684)
+[2022.05.15-15.25.18:577][875]LogModuleManager: Shutting down and abandoning module ProjectLauncher (682)
+[2022.05.15-15.25.18:577][875]LogModuleManager: Shutting down and abandoning module SessionFrontend (680)
+[2022.05.15-15.25.18:577][875]LogModuleManager: Shutting down and abandoning module ProfilerClient (678)
+[2022.05.15-15.25.18:577][875]LogModuleManager: Shutting down and abandoning module DeviceManager (676)
+[2022.05.15-15.25.18:577][875]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (675)
+[2022.05.15-15.25.18:610][875]LogModuleManager: Shutting down and abandoning module AutomationController (672)
+[2022.05.15-15.25.18:610][875]LogModuleManager: Shutting down and abandoning module AutomationWindow (670)
+[2022.05.15-15.25.18:610][875]LogModuleManager: Shutting down and abandoning module Layers (668)
+[2022.05.15-15.25.18:610][875]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (666)
+[2022.05.15-15.25.18:610][875]LogModuleManager: Shutting down and abandoning module DetailCustomizations (664)
+[2022.05.15-15.25.18:610][875]LogModuleManager: Shutting down and abandoning module PackagesDialog (662)
+[2022.05.15-15.25.18:610][875]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (660)
+[2022.05.15-15.25.18:610][875]LogModuleManager: Shutting down and abandoning module Persona (658)
+[2022.05.15-15.25.18:610][875]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (657)
+[2022.05.15-15.25.18:610][875]LogModuleManager: Shutting down and abandoning module AnimGraph (655)
+[2022.05.15-15.25.18:610][875]LogModuleManager: Shutting down and abandoning module Kismet (652)
+[2022.05.15-15.25.18:640][875]LogModuleManager: Shutting down and abandoning module KismetWidgets (651)
+[2022.05.15-15.25.18:640][875]LogModuleManager: Shutting down and abandoning module GraphEditor (648)
+[2022.05.15-15.25.18:640][875]LogModuleManager: Shutting down and abandoning module StructViewer (646)
+[2022.05.15-15.25.18:640][875]LogModuleManager: Shutting down and abandoning module ClassViewer (644)
+[2022.05.15-15.25.18:640][875]LogModuleManager: Shutting down and abandoning module Toolbox (642)
+[2022.05.15-15.25.18:640][875]LogModuleManager: Shutting down and abandoning module ModuleUI (640)
+[2022.05.15-15.25.18:640][875]LogModuleManager: Shutting down and abandoning module OutputLog (638)
+[2022.05.15-15.25.18:641][875]LogModuleManager: Shutting down and abandoning module GammaUI (636)
+[2022.05.15-15.25.18:641][875]LogModuleManager: Shutting down and abandoning module Documentation (634)
+[2022.05.15-15.25.18:641][875]LogModuleManager: Shutting down and abandoning module LiveCoding (632)
+[2022.05.15-15.25.18:641][875]LogModuleManager: Shutting down and abandoning module LevelSequence (630)
+[2022.05.15-15.25.18:641][875]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (628)
+[2022.05.15-15.25.18:641][875]LogModuleManager: Shutting down and abandoning module MovieScene (626)
+[2022.05.15-15.25.18:641][875]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (624)
+[2022.05.15-15.25.18:641][875]LogModuleManager: Shutting down and abandoning module LauncherPlatform (622)
+[2022.05.15-15.25.18:641][875]LogModuleManager: Shutting down and abandoning module AnalyticsET (620)
+[2022.05.15-15.25.18:641][875]LogModuleManager: Shutting down and abandoning module PortalServices (618)
+[2022.05.15-15.25.18:641][875]LogModuleManager: Shutting down and abandoning module PortalRpc (616)
+[2022.05.15-15.25.18:641][875]LogModuleManager: Shutting down and abandoning module MessagingRpc (614)
+[2022.05.15-15.25.18:641][875]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (612)
+[2022.05.15-15.25.18:641][875]LogModuleManager: Shutting down and abandoning module AudioMixerCore (611)
+[2022.05.15-15.25.18:641][875]LogModuleManager: Shutting down and abandoning module AIModule (608)
+[2022.05.15-15.25.18:641][875]LogModuleManager: Shutting down and abandoning module GameplayDebugger (607)
+[2022.05.15-15.25.18:641][875]LogModuleManager: Shutting down and abandoning module AITestSuite (605)
+[2022.05.15-15.25.18:641][875]LogModuleManager: Shutting down and abandoning module NavigationSystem (603)
+[2022.05.15-15.25.18:642][875]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (600)
+[2022.05.15-15.25.18:646][875]LogModuleManager: Shutting down and abandoning module ProfilerService (598)
+[2022.05.15-15.25.18:773][875]LogModuleManager: Shutting down and abandoning module TaskGraph (596)
+[2022.05.15-15.25.18:773][875]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (594)
+[2022.05.15-15.25.18:773][875]LogModuleManager: Shutting down and abandoning module OculusEditor (592)
+[2022.05.15-15.25.18:773][875]LogModuleManager: Shutting down and abandoning module OculusInput (590)
+[2022.05.15-15.25.18:773][875]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (588)
+[2022.05.15-15.25.18:773][875]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (586)
+[2022.05.15-15.25.18:773][875]LogModuleManager: Shutting down and abandoning module CollectionManager (585)
+[2022.05.15-15.25.18:773][875]LogModuleManager: Shutting down and abandoning module PluginUtils (582)
+[2022.05.15-15.25.18:773][875]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (580)
+[2022.05.15-15.25.18:773][875]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (578)
+[2022.05.15-15.25.18:773][875]LogModuleManager: Shutting down and abandoning module UObjectPlugin (576)
+[2022.05.15-15.25.18:773][875]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (574)
+[2022.05.15-15.25.18:773][875]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (572)
+[2022.05.15-15.25.18:773][875]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (570)
+[2022.05.15-15.25.18:773][875]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (568)
+[2022.05.15-15.25.18:773][875]LogModuleManager: Shutting down and abandoning module GitSourceControl (566)
+[2022.05.15-15.25.18:773][875]LogModuleManager: Shutting down and abandoning module SourceControl (565)
+[2022.05.15-15.25.18:773][875]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (562)
+[2022.05.15-15.25.18:773][875]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (560)
+[2022.05.15-15.25.18:774][875]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (558)
+[2022.05.15-15.25.18:774][875]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (556)
+[2022.05.15-15.25.18:774][875]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (554)
+[2022.05.15-15.25.18:774][875]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (552)
+[2022.05.15-15.25.18:774][875]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (550)
+[2022.05.15-15.25.18:774][875]LogModuleManager: Shutting down and abandoning module LiveLink (548)
+[2022.05.15-15.25.19:770][875]LogModuleManager: Shutting down and abandoning module SynthesisEditor (546)
+[2022.05.15-15.25.19:770][875]LogModuleManager: Shutting down and abandoning module Synthesis (544)
+[2022.05.15-15.25.19:770][875]LogModuleManager: Shutting down and abandoning module TakeSequencer (542)
+[2022.05.15-15.25.19:770][875]LogModuleManager: Shutting down and abandoning module TakeMovieScene (540)
+[2022.05.15-15.25.19:770][875]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (538)
+[2022.05.15-15.25.19:770][875]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (536)
+[2022.05.15-15.25.19:770][875]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (534)
+[2022.05.15-15.25.19:770][875]LogModuleManager: Shutting down and abandoning module ScreenshotTools (532)
+[2022.05.15-15.25.19:770][875]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (530)
+[2022.05.15-15.25.19:770][875]LogModuleManager: Shutting down and abandoning module AppleImageUtils (528)
+[2022.05.15-15.25.19:770][875]LogModuleManager: Shutting down and abandoning module GooglePAD (526)
+[2022.05.15-15.25.19:770][875]LogModuleManager: Shutting down and abandoning module EditableMesh (524)
+[2022.05.15-15.25.19:770][875]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (522)
+[2022.05.15-15.25.19:770][875]LogModuleManager: Shutting down and abandoning module CableComponent (520)
+[2022.05.15-15.25.19:770][875]LogModuleManager: Shutting down and abandoning module AssetTags (518)
+[2022.05.15-15.25.19:770][875]LogModuleManager: Shutting down and abandoning module AudioCapture (516)
+[2022.05.15-15.25.19:770][875]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (515)
+[2022.05.15-15.25.19:770][875]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (512)
+[2022.05.15-15.25.19:770][875]LogModuleManager: Shutting down and abandoning module AndroidPermission (510)
+[2022.05.15-15.25.19:770][875]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (508)
+[2022.05.15-15.25.19:770][875]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (506)
+[2022.05.15-15.25.19:770][875]LogModuleManager: Shutting down and abandoning module TemplateSequence (504)
+[2022.05.15-15.25.19:770][875]LogModuleManager: Shutting down and abandoning module MediaCompositing (502)
+[2022.05.15-15.25.19:770][875]LogModuleManager: Shutting down and abandoning module ImgMedia (500)
+[2022.05.15-15.25.19:770][875]LogModuleManager: Shutting down and abandoning module RootMotionGuidePlugin (498)
+[2022.05.15-15.25.19:770][875]LogModuleManager: Shutting down and abandoning module RLLiveLinkEditor (496)
+[2022.05.15-15.25.19:770][875]LogModuleManager: Shutting down and abandoning module RLLiveLink (494)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (492)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module MotoSynth (490)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module LandmassEditor (488)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module Landmass (486)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (484)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (482)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (480)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (478)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (476)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module MeshConversion (474)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module DynamicMesh (472)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (470)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module GeometricObjects (468)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (466)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (465)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (462)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (460)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (458)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (456)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (454)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module ChaosNiagara (452)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (450)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module FractureEditor (448)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (447)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module BackChannel (444)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (442)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module AutomationUtils (440)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module AlembicImporter (438)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module AlembicLibrary (437)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module GeometryCache (436)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (435)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (430)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (428)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (426)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (424)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module PluginBrowser (422)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (420)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (418)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (416)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module CryptoKeys (414)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module CurveEditorTools (412)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (410)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (408)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (406)
+[2022.05.15-15.25.19:792][875]LogModuleManager: Shutting down and abandoning module Paper2DEditor (404)
+[2022.05.15-15.25.19:793][875]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (402)
+[2022.05.15-15.25.19:793][875]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (400)
+[2022.05.15-15.25.19:793][875]LogModuleManager: Shutting down and abandoning module RLPlugin (398)
+[2022.05.15-15.25.19:793][875]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (396)
+[2022.05.15-15.25.19:793][875]LogModuleManager: Shutting down and abandoning module AnimationSharing (394)
+[2022.05.15-15.25.19:793][875]LogModuleManager: Shutting down and abandoning module SoundFields (392)
+[2022.05.15-15.25.19:793][875]LogModuleManager: Shutting down and abandoning module SignificanceManager (390)
+[2022.05.15-15.25.19:793][875]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (388)
+[2022.05.15-15.25.19:793][875]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (386)
+[2022.05.15-15.25.19:793][875]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (384)
+[2022.05.15-15.25.19:793][875]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (380)
+[2022.05.15-15.25.19:793][875]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (378)
+[2022.05.15-15.25.19:793][875]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (376)
+[2022.05.15-15.25.19:793][875]LogModuleManager: Shutting down and abandoning module ActorSequence (374)
+[2022.05.15-15.25.19:793][875]LogModuleManager: Shutting down and abandoning module TcpMessaging (372)
+[2022.05.15-15.25.19:894][875]LogModuleManager: Shutting down and abandoning module UdpMessaging (370)
+[2022.05.15-15.25.19:995][875]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (368)
+[2022.05.15-15.25.19:995][875]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (366)
+[2022.05.15-15.25.19:995][875]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (364)
+[2022.05.15-15.25.19:995][875]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (362)
+[2022.05.15-15.25.19:995][875]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (360)
+[2022.05.15-15.25.19:995][875]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.05.15-15.25.19:995][875]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (358)
+[2022.05.15-15.25.19:995][875]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (356)
+[2022.05.15-15.25.19:995][875]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (354)
+[2022.05.15-15.25.19:995][875]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (352)
+[2022.05.15-15.25.19:995][875]LogModuleManager: Shutting down and abandoning module MagicLeapController (350)
+[2022.05.15-15.25.19:995][875]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.05.15-15.25.19:995][875]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (348)
+[2022.05.15-15.25.19:995][875]LogModuleManager: Shutting down and abandoning module MagicLeapAR (346)
+[2022.05.15-15.25.19:995][875]LogModuleManager: Shutting down and abandoning module AugmentedReality (345)
+[2022.05.15-15.25.19:995][875]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (342)
+[2022.05.15-15.25.19:995][875]LogModuleManager: Shutting down and abandoning module Niagara (340)
+[2022.05.15-15.25.19:995][875]LogModuleManager: Shutting down and abandoning module SignalProcessing (339)
+[2022.05.15-15.25.19:995][875]LogModuleManager: Shutting down and abandoning module NiagaraEditor (337)
+[2022.05.15-15.25.19:995][875]LogModuleManager: Shutting down and abandoning module NiagaraCore (334)
+[2022.05.15-15.25.19:995][875]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (332)
+[2022.05.15-15.25.19:995][875]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (330)
+[2022.05.15-15.25.19:996][875]LogModuleManager: Shutting down and abandoning module FacialAnimation (328)
+[2022.05.15-15.25.19:996][875]LogModuleManager: Shutting down and abandoning module DataValidation (326)
+[2022.05.15-15.25.19:996][875]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (324)
+[2022.05.15-15.25.19:996][875]LogModuleManager: Shutting down and abandoning module LevelEditor (323)
+[2022.05.15-15.25.19:996][875]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (322)
+[2022.05.15-15.25.19:997][875]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (320)
+[2022.05.15-15.25.19:997][875]LogModuleManager: Shutting down and abandoning module MainFrame (318)
+[2022.05.15-15.25.19:997][875]LogModuleManager: Shutting down and abandoning module HotReload (317)
+[2022.05.15-15.25.19:997][875]LogModuleManager: Shutting down and abandoning module ToolMenus (313)
+[2022.05.15-15.25.19:997][875]LogModuleManager: Shutting down and abandoning module ContentBrowser (311)
+[2022.05.15-15.25.19:997][875]LogModuleManager: Shutting down and abandoning module ContentBrowserData (310)
+[2022.05.15-15.25.19:997][875]LogModuleManager: Shutting down and abandoning module TreeMap (307)
+[2022.05.15-15.25.19:997][875]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (304)
+[2022.05.15-15.25.19:997][875]LogModuleManager: Shutting down and abandoning module Paper2D (302)
+[2022.05.15-15.25.19:997][875]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (300)
+[2022.05.15-15.25.19:997][875]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (298)
+[2022.05.15-15.25.20:004][875]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (296)
+[2022.05.15-15.25.20:004][875]LogModuleManager: Shutting down and abandoning module BlueprintMaterialTextureNodes (294)
+[2022.05.15-15.25.20:004][875]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (292)
+[2022.05.15-15.25.20:004][875]LogModuleManager: Shutting down and abandoning module PacketHandler (290)
+[2022.05.15-15.25.20:004][875]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (288)
+[2022.05.15-15.25.20:004][875]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (286)
+[2022.05.15-15.25.20:004][875]LogModuleManager: Shutting down and abandoning module MediaAssets (284)
+[2022.05.15-15.25.20:004][875]LogModuleManager: Shutting down and abandoning module Overlay (282)
+[2022.05.15-15.25.20:004][875]LogModuleManager: Shutting down and abandoning module OverlayEditor (281)
+[2022.05.15-15.25.20:004][875]LogModuleManager: Shutting down and abandoning module VREditor (278)
+[2022.05.15-15.25.20:004][875]LogModuleManager: Shutting down and abandoning module StringTableEditor (276)
+[2022.05.15-15.25.20:004][875]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (274)
+[2022.05.15-15.25.20:004][875]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (272)
+[2022.05.15-15.25.20:004][875]LogModuleManager: Shutting down and abandoning module FunctionalTesting (270)
+[2022.05.15-15.25.20:004][875]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (268)
+[2022.05.15-15.25.20:004][875]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (267)
+[2022.05.15-15.25.20:004][875]LogModuleManager: Shutting down and abandoning module UMG (264)
+[2022.05.15-15.25.20:004][875]LogModuleManager: Shutting down and abandoning module UMGEditor (263)
+[2022.05.15-15.25.20:004][875]LogModuleManager: Shutting down and abandoning module MessageLog (261)
+[2022.05.15-15.25.20:004][875]LogModuleManager: Shutting down and abandoning module SlateReflector (256)
+[2022.05.15-15.25.20:004][875]LogModuleManager: Shutting down and abandoning module Slate (254)
+[2022.05.15-15.25.20:004][875]LogModuleManager: Shutting down and abandoning module SlateCore (252)
+[2022.05.15-15.25.20:005][875]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (250)
+[2022.05.15-15.25.20:005][875]LogModuleManager: Shutting down and abandoning module UnrealEd (248)
+[2022.05.15-15.25.20:005][875]LogModuleManager: Shutting down and abandoning module MRMesh (246)
+[2022.05.15-15.25.20:005][875]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (244)
+[2022.05.15-15.25.20:005][875]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (242)
+[2022.05.15-15.25.20:005][875]LogModuleManager: Shutting down and abandoning module XAudio2 (240)
+[2022.05.15-15.25.20:005][875]LogModuleManager: Shutting down and abandoning module Networking (238)
+[2022.05.15-15.25.20:005][875]LogModuleManager: Shutting down and abandoning module Core (236)
+[2022.05.15-15.25.20:005][875]LogModuleManager: Shutting down and abandoning module MaterialEditor (234)
+[2022.05.15-15.25.20:005][875]LogModuleManager: Shutting down and abandoning module MovieSceneTools (232)
+[2022.05.15-15.25.20:005][875]LogModuleManager: Shutting down and abandoning module CurveEditor (231)
+[2022.05.15-15.25.20:005][875]LogModuleManager: Shutting down and abandoning module Sequencer (229)
+[2022.05.15-15.25.20:005][875]LogModuleManager: Shutting down and abandoning module EditorStyle (228)
+[2022.05.15-15.25.20:007][875]LogModuleManager: Shutting down and abandoning module KismetCompiler (224)
+[2022.05.15-15.25.20:007][875]LogModuleManager: Shutting down and abandoning module MeshBuilder (222)
+[2022.05.15-15.25.20:007][875]LogModuleManager: Shutting down and abandoning module MeshUtilities (220)
+[2022.05.15-15.25.20:007][875]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (219)
+[2022.05.15-15.25.20:007][875]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (218)
+[2022.05.15-15.25.20:007][875]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (217)
+[2022.05.15-15.25.20:007][875]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (215)
+[2022.05.15-15.25.20:007][875]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (213)
+[2022.05.15-15.25.20:007][875]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (211)
+[2022.05.15-15.25.20:007][875]LogModuleManager: Shutting down and abandoning module MaterialBaking (207)
+[2022.05.15-15.25.20:007][875]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (202)
+[2022.05.15-15.25.20:007][875]LogModuleManager: Shutting down and abandoning module DerivedDataCache (200)
+[2022.05.15-15.25.20:007][875]LogModuleManager: Shutting down and abandoning module TargetPlatform (198)
+[2022.05.15-15.25.20:008][875]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (197)
+[2022.05.15-15.25.20:008][875]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (195)
+[2022.05.15-15.25.20:008][875]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (193)
+[2022.05.15-15.25.20:008][875]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (191)
+[2022.05.15-15.25.20:008][875]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (189)
+[2022.05.15-15.25.20:008][875]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (187)
+[2022.05.15-15.25.20:008][875]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (185)
+[2022.05.15-15.25.20:008][875]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (183)
+[2022.05.15-15.25.20:008][875]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (181)
+[2022.05.15-15.25.20:008][875]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (179)
+[2022.05.15-15.25.20:008][875]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (177)
+[2022.05.15-15.25.20:008][875]LogModuleManager: Shutting down and abandoning module ImageWrapper (176)
+[2022.05.15-15.25.20:008][875]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (173)
+[2022.05.15-15.25.20:008][875]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (171)
+[2022.05.15-15.25.20:008][875]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (169)
+[2022.05.15-15.25.20:008][875]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (167)
+[2022.05.15-15.25.20:008][875]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (165)
+[2022.05.15-15.25.20:008][875]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (163)
+[2022.05.15-15.25.20:008][875]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (161)
+[2022.05.15-15.25.20:008][875]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (159)
+[2022.05.15-15.25.20:014][875]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (157)
+[2022.05.15-15.25.20:014][875]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (155)
+[2022.05.15-15.25.20:014][875]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (153)
+[2022.05.15-15.25.20:014][875]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (151)
+[2022.05.15-15.25.20:014][875]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (149)
+[2022.05.15-15.25.20:023][875]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (147)
+[2022.05.15-15.25.20:023][875]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (145)
+[2022.05.15-15.25.20:023][875]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (143)
+[2022.05.15-15.25.20:023][875]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (141)
+[2022.05.15-15.25.20:023][875]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (139)
+[2022.05.15-15.25.20:023][875]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (137)
+[2022.05.15-15.25.20:023][875]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (135)
+[2022.05.15-15.25.20:023][875]LogModuleManager: Shutting down and abandoning module Messaging (133)
+[2022.05.15-15.25.20:023][875]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (131)
+[2022.05.15-15.25.20:027][875]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (129)
+[2022.05.15-15.25.20:037][875]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (127)
+[2022.05.15-15.25.20:037][875]LogModuleManager: Shutting down and abandoning module D3D12RHI (124)
+[2022.05.15-15.25.20:037][875]LogModuleManager: Shutting down and abandoning module InputCore (122)
+[2022.05.15-15.25.20:037][875]LogModuleManager: Shutting down and abandoning module Settings (120)
+[2022.05.15-15.25.20:037][875]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (118)
+[2022.05.15-15.25.20:038][875]LogModuleManager: Shutting down and abandoning module PhysXCooking (116)
+[2022.05.15-15.25.20:038][875]LogModuleManager: Shutting down and abandoning module Chaos (114)
+[2022.05.15-15.25.20:038][875]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (112)
+[2022.05.15-15.25.20:038][875]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (111)
+[2022.05.15-15.25.20:038][875]LogModuleManager: Shutting down and abandoning module AVEncoder (110)
+[2022.05.15-15.25.20:038][875]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (106)
+[2022.05.15-15.25.20:038][875]LogModuleManager: Shutting down and abandoning module SteamVRInput (104)
+[2022.05.15-15.25.20:038][875]LogModuleManager: Shutting down and abandoning module SteamVR (102)
+[2022.05.15-15.25.20:038][875]LogHMD: Freeing OpenVRDLLHandle.
+[2022.05.15-15.25.20:038][875]LogModuleManager: Shutting down and abandoning module OculusHMD (100)
+[2022.05.15-15.25.20:038][875]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2022.05.15-15.25.20:038][875]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2022.05.15-15.25.20:038][875]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (94)
+[2022.05.15-15.25.20:038][875]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2022.05.15-15.25.20:038][875]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2022.05.15-15.25.20:039][875]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2022.05.15-15.25.20:039][875]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2022.05.15-15.25.20:057][875]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2022.05.15-15.25.20:057][875]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2022.05.15-15.25.20:057][875]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7ABF9AEC-4CB1-9F00-4CE5-31A557838882%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=60f9217e432af79f96b3d3b1543fdef4%7C1facd9bf31084940906576deb8e84c81%7C8a270cde-ca9d-477d-866b-4a2a3746a7f3&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.05.15-15.25.20:057][875]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7ABF9AEC-4CB1-9F00-4CE5-31A557838882%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=60f9217e432af79f96b3d3b1543fdef4%7C1facd9bf31084940906576deb8e84c81%7C8a270cde-ca9d-477d-866b-4a2a3746a7f3&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.05.15-15.25.20:057][875]LogHttp: Display: cleaning up 2 outstanding Http requests.
+[2022.05.15-15.25.20:073][875]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2022.05.15-15.25.20:075][875]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2022.05.15-15.25.20:097][875]LogModuleManager: Shutting down and abandoning module Media (73)
+[2022.05.15-15.25.20:098][875]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2022.05.15-15.25.20:098][875]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2022.05.15-15.25.20:098][875]LogModuleManager: Shutting down and abandoning module Water (66)
+[2022.05.15-15.25.20:098][875]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2022.05.15-15.25.20:098][875]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2022.05.15-15.25.20:098][875]LogModuleManager: Shutting down and abandoning module ChaosCloth (60)
+[2022.05.15-15.25.20:098][875]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+[2022.05.15-15.25.20:098][875]LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+[2022.05.15-15.25.20:098][875]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2022.05.15-15.25.20:098][875]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2022.05.15-15.25.20:099][875]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.05.15-15.25.20:099][875]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.05.15-15.25.20:099][875]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2022.05.15-15.25.20:099][875]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2022.05.15-15.25.20:099][875]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2022.05.15-15.25.20:099][875]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2022.05.15-15.25.20:099][875]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.05.15-15.25.20:099][875]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2022.05.15-15.25.20:099][875]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.05.15-15.25.20:100][875]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2022.05.15-15.25.20:100][875]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2022.05.15-15.25.20:100][875]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2022.05.15-15.25.20:100][875]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2022.05.15-15.25.20:102][875]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2022.05.15-15.25.20:102][875]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2022.05.15-15.25.20:102][875]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.05.15-15.25.20:102][875]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.05.15-15.25.20:102][875]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.05.15-15.25.20:102][875]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.05.15-15.25.20:102][875]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.05.15-15.25.20:102][875]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.05.15-15.25.20:102][875]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.05.15-15.25.20:102][875]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.05.15-15.25.20:102][875]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.05.15-15.25.20:102][875]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.05.15-15.25.20:102][875]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.05.15-15.25.20:105][875]LogD3D12RHI: Display: D3D12 ReleaseResources: 103 items to release
+[2022.05.15-15.25.20:105][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "DaylightAmbientCubemap", 512 x 512 x 6, Mips: 10, Format: 0xA, Flags: 0x0
+[2022.05.15-15.25.20:106][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "EpicQuadPanorama_CC", 512 x 512 x 6, Mips: 10, Format: 0xA, Flags: 0x0
+[2022.05.15-15.25.20:106][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "DefaultBloomKernel", 2048 x 2048 x 1, Mips: 1, Format: 0xA, Flags: 0x0
+[2022.05.15-15.25.20:106][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.05.15-15.25.20:106][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.05.15-15.25.20:106][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.05.15-15.25.20:106][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.05.15-15.25.20:106][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.05.15-15.25.20:107][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.05.15-15.25.20:107][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.05.15-15.25.20:107][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.05.15-15.25.20:107][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.05.15-15.25.20:107][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.05.15-15.25.20:107][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.05.15-15.25.20:107][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.05.15-15.25.20:107][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.05.15-15.25.20:107][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.05.15-15.25.20:107][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.05.15-15.25.20:107][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.05.15-15.25.20:107][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.05.15-15.25.20:108][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.05.15-15.25.20:108][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.05.15-15.25.20:108][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.05.15-15.25.20:108][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.05.15-15.25.20:109][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.05.15-15.25.20:110][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.05.15-15.25.20:110][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.05.15-15.25.20:111][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.05.15-15.25.20:111][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.05.15-15.25.20:111][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.05.15-15.25.20:111][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.05.15-15.25.20:111][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.05.15-15.25.20:111][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.05.15-15.25.20:112][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.05.15-15.25.20:112][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.05.15-15.25.20:112][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.05.15-15.25.20:112][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.05.15-15.25.20:113][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.05.15-15.25.20:114][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.05.15-15.25.20:114][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.05.15-15.25.20:115][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.05.15-15.25.20:116][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.05.15-15.25.20:116][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.05.15-15.25.20:117][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.05.15-15.25.20:117][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.05.15-15.25.20:119][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.05.15-15.25.20:119][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.05.15-15.25.20:119][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.05.15-15.25.20:120][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.05.15-15.25.20:120][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.05.15-15.25.20:122][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.05.15-15.25.20:122][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "StencilDummy", 1 x 1 x 1, Mips: 1, Format: 0x1E, Flags: 0x1
+[2022.05.15-15.25.20:122][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "MidGreyDummy", 1 x 1 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.05.15-15.25.20:122][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ZeroUIntDummy", 1 x 1 x 1, Mips: 1, Format: 0x2A, Flags: 0x1
+[2022.05.15-15.25.20:122][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricBlackDummy", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.05.15-15.25.20:122][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "DefaultNormal8Bit", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.05.15-15.25.20:123][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "GreenDummy", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.05.15-15.25.20:123][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "MaxFP16Depth", 1 x 1 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.05.15-15.25.20:123][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "HairCoverageLUT", 64 x 64 x 1, Mips: 1, Format: 0x29, Flags: 0x4
+[2022.05.15-15.25.20:124][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "HairLUT", 64 x 64 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.05.15-15.25.20:124][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "HairLUT", 64 x 64 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.05.15-15.25.20:124][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "BlackAlphaOneDummy", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.05.15-15.25.20:124][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolumeDir2", 24 x 24 x 24, Mips: 1, Format: 0xA, Flags: 0x5
+[2022.05.15-15.25.20:124][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolume2", 24 x 24 x 24, Mips: 1, Format: 0xA, Flags: 0x5
+[2022.05.15-15.25.20:124][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolumeDir1", 24 x 24 x 24, Mips: 1, Format: 0xA, Flags: 0x5
+[2022.05.15-15.25.20:125][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolume1", 24 x 24 x 24, Mips: 1, Format: 0xA, Flags: 0x5
+[2022.05.15-15.25.20:125][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolumeDir0", 24 x 24 x 24, Mips: 1, Format: 0xA, Flags: 0x5
+[2022.05.15-15.25.20:125][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolume0", 24 x 24 x 24, Mips: 1, Format: 0xA, Flags: 0x5
+[2022.05.15-15.25.20:125][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkySHIrradianceMap", 9 x 1 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.05.15-15.25.20:125][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "DiffuseIrradianceScratchCubemap1", 32 x 32 x 6, Mips: 6, Format: 0xA, Flags: 0x1
+[2022.05.15-15.25.20:126][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "DiffuseIrradianceScratchCubemap0", 32 x 32 x 6, Mips: 6, Format: 0xA, Flags: 0x1
+[2022.05.15-15.25.20:126][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ReflectionColorScratchCubemap1", 128 x 128 x 6, Mips: 8, Format: 0xA, Flags: 0x1
+[2022.05.15-15.25.20:126][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ReflectionColorScratchCubemap0", 128 x 128 x 6, Mips: 8, Format: 0xA, Flags: 0x1
+[2022.05.15-15.25.20:126][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "LightAccumulation", 1208 x 724 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2022.05.15-15.25.20:126][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "QuadOverdrawBuffer", 1208 x 362 x 1, Mips: 1, Format: 0x2A, Flags: 0x5
+[2022.05.15-15.25.20:127][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ScreenSpaceAO", 1208 x 724 x 1, Mips: 1, Format: 0x3D, Flags: 0x5
+[2022.05.15-15.25.20:127][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "SmallDepthZ", 604 x 362 x 1, Mips: 1, Format: 0x13, Flags: 0x2
+[2022.05.15-15.25.20:127][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "SmallDepthZ", 604 x 362 x 1, Mips: 1, Format: 0x13, Flags: 0x2
+[2022.05.15-15.25.20:127][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "AtmosphereTransmittance", 256 x 64 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.05.15-15.25.20:127][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "AtmosphereIrradiance", 64 x 16 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.05.15-15.25.20:128][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "AtmosphereDeltaE", 64 x 16 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.05.15-15.25.20:128][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "CombineLUTs", 32 x 32 x 32, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.05.15-15.25.20:128][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2022.05.15-15.25.20:128][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "AtmosphereInscatter", 256 x 128 x 32, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.05.15-15.25.20:129][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "AtmosphereDeltaSR", 256 x 128 x 32, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.05.15-15.25.20:130][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "AtmosphereDeltaSM", 256 x 128 x 32, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.05.15-15.25.20:130][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "AtmosphereDeltaJ", 256 x 128 x 32, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.05.15-15.25.20:130][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2022.05.15-15.25.20:131][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2022.05.15-15.25.20:131][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2", 36 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2022.05.15-15.25.20:131][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1", 36 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2022.05.15-15.25.20:131][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleCurveTexture", 512 x 512 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.05.15-15.25.20:131][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "ColoredTexture", 1 x 1 x 1, Mips: 1, Format: 0x1B, Flags: 0x4
+[2022.05.15-15.25.20:131][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 290 x 5 x 5, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.05.15-15.25.20:131][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 290 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2022.05.15-15.25.20:131][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 290 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2022.05.15-15.25.20:132][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 290 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2022.05.15-15.25.20:132][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 290 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2022.05.15-15.25.20:132][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 290 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2022.05.15-15.25.20:132][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 290 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2022.05.15-15.25.20:132][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 290 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2022.05.15-15.25.20:132][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 290 x 5 x 5, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.05.15-15.25.20:132][875]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 16 x 16 x 16, Mips: 1, Format: 0x1E, Flags: 0x4
+[2022.05.15-15.25.20:289][875]LogD3D12RHI: ~FD3D12DynamicRHI
+[2022.05.15-15.25.20:297][875]LogExit: Exiting.
+[2022.05.15-15.25.20:321][875]Log file closed, 05/16/22 00:25:20
