@@ -1,0 +1,1395 @@
+﻿Log file open, 05/10/22 23:56:42
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: SANPERO
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.240868
+LogPluginManager: Warning: Plugin 'RLPlugin' exists at '../../../../../../Users/ASUS/Documents/GitHub/No-Landing/Plugins/Auto_Setup_1.2/RLPlugin.uplugin' and '../../../../../../Users/ASUS/Documents/GitHub/No-Landing/Plugins/Auto_Setup_1.22/RLPlugin.uplugin' - second location will be ignored
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Landmass
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin RLLiveLink
+LogPluginManager: Mounting plugin RootMotionGuidePlugin
+LogPluginManager: Mounting plugin Water
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin RLPlugin
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ASUS/Documents/GitHub/No-Landing/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ASUS/Documents/GitHub/No-Landing/Saved/Config/Windows/Engine.ini]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:1]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:32]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:1]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ASUS/Documents/GitHub/No-Landing/Saved/Config/Windows/Engine.ini]
+[2022.05.10-14.56.42:979][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ASUS/Documents/GitHub/No-Landing/Saved/Config/Windows/Engine.ini]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ASUS/Documents/GitHub/No-Landing/Saved/Config/Windows/Engine.ini]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.05.10-14.56.42:979][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ASUS/Documents/GitHub/No-Landing/Saved/Config/Windows/Engine.ini]
+[2022.05.10-14.56.42:979][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ASUS/Documents/GitHub/No-Landing/Saved/Config/Windows/Engine.ini]
+[2022.05.10-14.56.43:008][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ASUS/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.05.10-14.56.43:008][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.05.10-14.56.43:008][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.05.10-14.56.43:008][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ASUS/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.05.10-14.56.43:008][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.05.10-14.56.43:008][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ASUS/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.05.10-14.56.43:008][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.10-14.56.43:008][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.10-14.56.43:008][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.05.10-14.56.43:008][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.05.10-14.56.43:008][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.05.10-14.56.43:008][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.05.10-14.56.43:008][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ASUS/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ASUS/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ASUS/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ASUS/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/ASUS/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.05.10-14.56.43:009][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.05.10-14.56.43:009][  0]LogInit: Selected Device Profile: [Windows]
+[2022.05.10-14.56.43:009][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.05.10-14.56.43:010][  0]LogHAL: Display: Platform has ~ 16 GB [16954941440 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.05.10-14.56.43:010][  0]LogInit: Going up to parent DeviceProfile []
+[2022.05.10-14.56.43:010][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [C:/Users/ASUS/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [C:/Users/ASUS/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [C:/Users/ASUS/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [C:/Users/ASUS/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [C:/Users/ASUS/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [C:/Users/ASUS/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.SSGI.Quality:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:8.0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:2.0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:16.0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:2.0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:16.0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:1]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [C:/Users/ASUS/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [C:/Users/ASUS/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2022.05.10-14.56.43:010][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.05.10-14.56.43:011][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.05.10-14.56.43:011][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.05.10-14.56.43:011][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.05.10-14.56.43:011][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ASUS/Documents/GitHub/No-Landing/Saved/Config/Windows/Engine.ini]
+[2022.05.10-14.56.43:011][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ASUS/Documents/GitHub/No-Landing/Saved/Config/Windows/Editor.ini]
+[2022.05.10-14.56.43:011][  0]LogInit: Computer: DESKTOP-6T7LQ4H
+[2022.05.10-14.56.43:011][  0]LogInit: User: ASUS
+[2022.05.10-14.56.43:011][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.05.10-14.56.43:011][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.05.10-14.56.43:011][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.05.10-14.56.43:011][  0]LogMemory: Platform Memory Stats for Windows
+[2022.05.10-14.56.43:011][  0]LogMemory: Process Physical Memory: 146.77 MB used, 146.77 MB peak
+[2022.05.10-14.56.43:011][  0]LogMemory: Process Virtual Memory: 118.50 MB used, 118.50 MB peak
+[2022.05.10-14.56.43:011][  0]LogMemory: Physical Memory: 7096.57 MB used,  9072.92 MB free, 16169.49 MB total
+[2022.05.10-14.56.43:011][  0]LogMemory: Virtual Memory: 134205824.00 MB used,  11904.35 MB free, 134217728.00 MB total
+[2022.05.10-14.56.43:020][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.05.10-14.56.43:122][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.05.10-14.56.43:123][  0]LogInit: Using OS detected language (ko-KR).
+[2022.05.10-14.56.43:123][  0]LogInit: Using OS detected locale (ko-KR).
+[2022.05.10-14.56.43:127][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2022.05.10-14.56.43:205][  0]LogInit: Setting process to per monitor DPI aware
+[2022.05.10-14.56.43:254][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.10-14.56.43:273][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.05.10-14.56.43:273][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.05.10-14.56.43:583][  0]LogD3D12RHI: Aftermath initialized
+[2022.05.10-14.56.43:583][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.05.10-14.56.43:627][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.05.10-14.56.43:804][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1660 Ti (Max supported Feature Level 12_1)
+[2022.05.10-14.56.43:804][  0]LogD3D12RHI: Adapter has 5991MB of dedicated video memory, 0MB of dedicated system memory, and 8084MB of shared system memory, 1 output[s]
+[2022.05.10-14.56.44:418][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics (Max supported Feature Level 12_1)
+[2022.05.10-14.56.44:418][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8084MB of shared system memory, 0 output[s]
+[2022.05.10-14.56.44:434][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1)
+[2022.05.10-14.56.44:434][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8084MB of shared system memory, 0 output[s]
+[2022.05.10-14.56.44:434][  0]LogD3D12RHI: Forcing D3D12.AsyncDeferredDeletion=0 as a workaround for a deadlock.
+[2022.05.10-14.56.44:434][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.05.10-14.56.44:440][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.05.10-14.56.44:440][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.05.10-14.56.44:498][  0]LogD3D12RHI: The system supports ID3D12Device1.
+[2022.05.10-14.56.44:498][  0]LogD3D12RHI: The system supports ID3D12Device2.
+[2022.05.10-14.56.44:498][  0]LogD3D12RHI: The system supports ID3D12Device5.
+[2022.05.10-14.56.44:498][  0]LogD3D12RHI: The system supports ID3D12Device7.
+[2022.05.10-14.56.44:498][  0]LogD3D12RHI: D3D12 ray tracing 1.0 is supported.
+[2022.05.10-14.56.44:541][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.05.10-14.56.44:546][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.05.10-14.56.44:554][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.05.10-14.56.44:561][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.05.10-14.56.44:562][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.05.10-14.56.44:565][  0]LogD3D12RHI:     GPU DeviceId: 0x2191 (for the marketing name, search the web for "GPU Device Id")
+[2022.05.10-14.56.44:565][  0]LogWindows: EnumDisplayDevices:
+[2022.05.10-14.56.44:566][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2022.05.10-14.56.44:566][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.05.10-14.56.44:567][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.05.10-14.56.44:568][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2022.05.10-14.56.44:568][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2022.05.10-14.56.44:569][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2022.05.10-14.56.44:570][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2022.05.10-14.56.44:570][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.05.10-14.56.44:570][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti
+[2022.05.10-14.56.44:570][  0]LogD3D12RHI:   Driver Version: 512.15 (internal:30.0.15.1215, unified:512.15)
+[2022.05.10-14.56.44:570][  0]LogD3D12RHI:      Driver Date: 3-17-2022
+[2022.05.10-14.56.44:570][  0]LogRHI: Texture pool is 3290 MB (70% of 4700 MB)
+[2022.05.10-14.56.44:570][  0]LogD3D12RHI: Async texture creation enabled
+[2022.05.10-14.56.44:571][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.05.10-14.56.44:579][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.05.10-14.56.44:991][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.05.10-14.56.45:014][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.05.10-14.56.45:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.05.10-14.56.45:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.05.10-14.56.45:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.05.10-14.56.45:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.05.10-14.56.45:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.05.10-14.56.45:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.05.10-14.56.45:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.05.10-14.56.45:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.05.10-14.56.45:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.05.10-14.56.45:051][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.05.10-14.56.45:051][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.05.10-14.56.45:066][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.05.10-14.56.45:078][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.05.10-14.56.45:089][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.05.10-14.56.45:099][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.05.10-14.56.45:110][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.05.10-14.56.45:120][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.05.10-14.56.45:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.05.10-14.56.45:157][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.05.10-14.56.45:157][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.05.10-14.56.45:168][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.05.10-14.56.45:181][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.05.10-14.56.45:195][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.05.10-14.56.45:207][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.05.10-14.56.45:225][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.05.10-14.56.45:225][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.05.10-14.56.45:235][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.05.10-14.56.45:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.05.10-14.56.45:262][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.05.10-14.56.45:273][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.05.10-14.56.45:273][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.05.10-14.56.45:285][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.05.10-14.56.45:377][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.05.10-14.56.45:377][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (../../../../../../Users/ASUS/Documents/GitHub/No-Landing/Intermediate/Shaders/WorkingDirectory/8488/).
+[2022.05.10-14.56.45:378][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ASUS/AppData/Local/Temp/UnrealShaderWorkingDir/7358B6DC42F732C3F28DDD9D049932F6/'.
+[2022.05.10-14.56.45:378][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.05.10-14.56.45:378][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.05.10-14.56.46:204][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.05.10-14.56.46:262][  0]LogDerivedDataCache: Loaded boot cache 0.06s 102MB C:/Users/ASUS/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.05.10-14.56.46:290][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ASUS/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.05.10-14.56.46:290][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ASUS/Documents/GitHub/No-Landing/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.05.10-14.56.46:290][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.05.10-14.56.46:290][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ASUS/Documents/GitHub/No-Landing/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.10-14.56.46:290][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.05.10-14.56.46:300][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.05.10-14.56.46:300][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.10-14.56.46:300][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.05.10-14.56.46:310][  0]LogDerivedDataCache: Speed tests for C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.05.10-14.56.46:310][  0]LogDerivedDataCache: Display: Performance to C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=618.64MBs, RandomWriteSpeed=129.43MBs. Assigned SpeedClass 'Local'
+[2022.05.10-14.56.46:311][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.05.10-14.56.46:311][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.05.10-14.56.46:311][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.05.10-14.56.46:357][  0]LogSlate: Using FreeType 2.10.0
+[2022.05.10-14.56.46:358][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.05.10-14.56.46:384][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2022.05.10-14.56.46:554][  0]LogCollisionProfile: Warning: Profile (Trigger) - Custom Channel Name = 'Projectile' hasn't been found
+[2022.05.10-14.56.46:620][  0]LogInit: Selected Device Profile: [Windows]
+[2022.05.10-14.56.46:620][  0]LogInit: Active device profile: [000002611234AA00][0000026110365100 49] Windows
+[2022.05.10-14.56.46:620][  0]LogInit: Profiles: [000002611234AA00][0000026110365100 49] Windows, [0000026112311800][000002610C421280 49] WindowsNoEditor, [0000026112349800][000002610C431400 49] WindowsServer, [0000026112312B00][000002610CEBF580 49] WindowsClient, [000002611234AE00][000002610CEC7700 49] IOS, [0000026112311300][000002610CED3880 49] iPadAir, [0000026112349700][00000261103699C0 49] iPadAir2, [000002611228FB00][00000261103E7C00 49] IPadPro, [000002611228FC00][00000261103E3C40 49] iPadAir3, [000002611234A300][000002610F338100 49] iPadAir4, [000002611228DD00][000002610F33C280 49] iPadMini2, [0000026112349C00][0000026112A4C400 49] iPadMini3, [000002611228DA00][0000026112A98580 49] iPadMini4, [000002611234AD00][0000026112AC2700 49] iPadMini5, [00000261122CB000][0000026112AF69C0 49] iPhone6, [00000261122CB100][0000026112AE6A00 49] iPodTouch6, [000002611228C300][0000026112B54CC0 49] iPhone7, [000002611228C200][0000026112B28D00 49] iPodTouch7, [00000261122C9C00][0000026112B86E80 49] iPhone5S, [000002611228E500][0000026112BA5000 49] iPhone6Plus, [00000261122CB900][0000026112BC9180 49] iPhone6S, [000002611228E800][0000026112BE9300 49] iPhone6SPlus, [00000261122CA300][0000026112BF5480 49] iPhone7Plus, [000002611228D400][0000026112BF9600 49] iPhoneSE, [00000261122C8100][0000026112BFD780 49] iPhone8, [000002611228EA00][0000026112C01900 49] iPhone8Plus, [00000261122C8900][000002610F335A40 49] iPhoneX, [000002611228D200][0000026112C05B80 49] iPhoneXS, [00000261122CB500][0000026112C09CC0 49] iPhoneXSMax, [000002611228F800][0000026112C10180 49] iPhoneXR, [00000261122CA000][0000026112C14300 49] iPhone11, [000002611228DE00][0000026112C26480 49] iPhone11Pro, [00000261122C9200][0000026112C8A600 49] iPhone11ProMax, [000002611228C100][0000026112C94780 49] iPhoneSE2, [00000261122CAB00][0000026112CA4900 49] iPhone12Mini, [000002611228CE00][0000026112CAEA80 49] iPhone12, [00000261122C8C00][0000026112CB6C00 49] iPhone12Pro, [000002611228DF00][0000026112CCED80 49] iPhone12ProMax, [00000261122CAC00][0000026112CE2F00 49] iPadPro105, [000002611228CB00][0000026112CF7080 49] iPadPro129, [00000261122CB600][0000026112D29200 49] iPadPro97, [000002611228FD00][0000026112D45380 49] iPadPro2_129, [00000261122CBA00][0000026112D59500 49] iPad5, [000002611228C600][0000026112D69680 49] iPad6, [00000261122C9A00][0000026112D6D800 49] iPad7, [000002611228E400][0000026112D75980 49] iPad8, [00000261122CB300][0000026112C0DAC0 49] iPadPro11, [000002611228F100][0000026112D85C00 49] iPadPro2_11, [00000261122C9700][0000026112D91D40 49] iPadPro3_129, [000002611228E900][0000026112D981C0 49] iPadPro4_129, [00000261122C9300][0000026112DA8340 49] AppleTV, [0000026112313F00][0000026112DB04C0 49] AppleTV4K, [00000261123D4700][0000026112DBC640 49] TVOS, [0000026112313100][0000026112DC47C0 49] Mac, [00000261123D4100][0000026112DD4940 49] MacClient, [0000026112311500][0000026112DE8AC0 49] MacNoEditor, [00000261122CBE00][0000026112DECC40 49] MacServer, [0000026112313D00][0000026112E28DC0 49] Linux, [00000261122C9500][0000026112E52F40 49] LinuxAArch64, [0000026112310900][0000026112EFF0C0 49] LinuxNoEditor, [00000261122CB400][0000026112F61240 49] LinuxAArch64NoEditor, [0000026112312800][0000026112FE93C0 49] LinuxClient, [00000261122CA600][0000026113009540 49] LinuxAArch64Client, [0000026112311F00][000002611301B6C0 49] LinuxServer, [00000261122CAE00][000002611302B840 49] LinuxAArch64Server, [0000026112310D00][000002611302F9C0 49] Android, [00000261122CBD00][0000026112DA5B00 49] Android_Low, [0000026112313E00][0000026113037C40 49] Android_Mid, [00000261122C8800][000002611303E0C0 49] Android_High, [0000026112310800][000002611304E200 49] Android_Default, [00000261122C9D00][0000026113056380 49] Android_Adreno4xx, [0000026112310600][000002611305A500 49] Android_Adreno5xx_Low, [00000261122CA200][000002611305E680 49] Android_Adreno5xx, [0000026112313600][0000026113062800 49] Android_Adreno6xx, [00000261122C8400][0000026113066980 49] Android_Adreno6xx_Vulkan, [0000026112313A00][000002611306AB00 49] Android_Mali_T6xx, [00000261122CA800][000002611306EC80 49] Android_Mali_T7xx, [0000026112312F00][0000026113072E00 49] Android_Mali_T8xx, [00000261122CB700][0000026113076F80 49] Android_Mali_G71, [0000026112311C00][000002611307B100 49] Android_Mali_G72, [00000261122C9100][000002611307F280 49] Android_Mali_G72_Vulkan, [0000026112313700][0000026113083400 49] Android_Mali_G76, [00000261122C8200][0000026113087580 49] Android_Mali_G76_Vulkan, [0000026112313C00][000002611308B700 49] Android_Mali_G77, [00000261122C8700][000002611308F880 49] Android_Mali_G77_Vulkan, [0000026112313000][0000026113093A00 49] Android_Vulkan_SM5, [00000261122C9600][0000026113097B80 49] Android_PowerVR_G6xxx, [0000026112312400][0000026113053CC0 49] Android_PowerVR_GT7xxx, [00000261122C8F00][000002611309A140 49] Android_PowerVR_GE8xxx, [0000026112310A00][000002611309E280 49] Android_PowerVR_GM9xxx, [00000261122C8600][00000261130A6400 49] Android_PowerVR_GM9xxx_Vulkan, [0000026112349F00][00000261130AA580 49] Android_TegraK1, [000002611228CC00][00000261130AE700 49] Android_Unknown_Vulkan, [0000026112348E00][00000261130B2880 49] Lumin, [000002611228F600][00000261130B6A00 49] Lumin_Desktop, [000002611234B800][00000261130BAB80 49] HoloLens, 
+[2022.05.10-14.56.46:748][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.05.10-14.56.46:748][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.05.10-14.56.46:748][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.05.10-14.56.46:748][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.05.10-14.56.46:748][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.05.10-14.56.46:767][  0]LogNetVersion: SANPERO 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2967656727)
+[2022.05.10-14.56.47:222][  0]LogAssetRegistry: Error: Package ../../../../../../Users/ASUS/Documents/GitHub/No-Landing/Content/KingArthur/Materials/MI_Floor_RoundDesign.uasset has malformed tag
+[2022.05.10-14.56.47:222][  0]LogAssetRegistry: Error: Package ../../../../../../Users/ASUS/Documents/GitHub/No-Landing/Content/KingArthur/Materials/MI_CandelStand.uasset has malformed tag
+[2022.05.10-14.56.47:222][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.05.10-14.56.47:303][  0]LogPackageLocalizationCache: Processed 29 localized package path(s) for 1 prioritized culture(s) in 0.080778 seconds
+[2022.05.10-14.56.47:309][  0]LogUObjectArray: 17492 objects as part of root set at end of initial load.
+[2022.05.10-14.56.47:309][  0]LogUObjectAllocator: 4476304 out of 0 bytes used by permanent object pool.
+[2022.05.10-14.56.47:309][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.05.10-14.56.47:851][  0]LogD3D12RHI: Creating RTPSO with 3 shaders (0 cached, 3 new) took 354.88 ms. Compile time 290.53 ms, link time 64.31 ms.
+[2022.05.10-14.56.48:102][  0]LogPython: Using Python 3.7.7
+[2022.05.10-14.56.49:048][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.05.10-14.56.49:054][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.05.10-14.56.49:553][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.05.10-14.56.49:998][  0]LogUProjectInfo: Found projects:
+[2022.05.10-14.56.50:692][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.05.10-14.56.50:763][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.10-14.56.50:763][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.10-14.56.50:973][  0]LogCollectionManager: Loaded 0 collections in 0.001530 seconds
+[2022.05.10-14.56.50:976][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ASUS/Documents/GitHub/No-Landing/Saved/Collections/' took 0.00s
+[2022.05.10-14.56.50:976][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ASUS/Documents/GitHub/No-Landing/Content/Developers/ASUS/Collections/' took 0.00s
+[2022.05.10-14.56.50:976][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ASUS/Documents/GitHub/No-Landing/Content/Collections/' took 0.00s
+[2022.05.10-14.56.51:036][  0]LogOcInput: OculusInput pre-init called
+[2022.05.10-14.56.51:061][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.05.10-14.56.51:061][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.05.10-14.56.51:460][  0]LogEngine: Initializing Engine...
+[2022.05.10-14.56.51:462][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.05.10-14.56.51:462][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.05.10-14.56.51:462][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.05.10-14.56.51:587][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.05.10-14.56.51:601][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.05.10-14.56.51:602][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.05.10-14.56.51:608][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.05.10-14.56.51:608][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.05.10-14.56.51:608][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.10-14.56.51:608][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.10-14.56.51:608][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.10-14.56.51:608][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.10-14.56.51:608][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.10-14.56.51:608][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.10-14.56.51:608][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.10-14.56.51:608][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.10-14.56.51:608][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.10-14.56.51:608][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.10-14.56.51:631][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.10-14.56.51:631][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.05.10-14.56.51:719][  0]LogAudioMixer: Display: Using Audio Device 헤드폰(Realtek(R) Audio)
+[2022.05.10-14.56.51:720][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.10-14.56.51:722][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.10-14.56.51:722][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.10-14.56.51:723][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.10-14.56.51:723][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.10-14.56.51:723][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.10-14.56.51:723][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.10-14.56.51:724][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.10-14.56.51:724][  0]LogInit: FAudioDevice initialized.
+[2022.05.10-14.56.51:724][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.05.10-14.56.51:724][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.05.10-14.56.51:803][  0]LogDerivedDataCache: Saved boot cache 0.08s 102MB C:/Users/ASUS/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.05.10-14.56.51:805][  0]LogInit: Texture streaming: Enabled
+[2022.05.10-14.56.51:825][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.05.10-14.56.51:833][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.05.10-14.56.51:833][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.05.10-14.56.51:837][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.05.10-14.56.51:878][  0]LogInit: Transaction tracking system initialized
+[2022.05.10-14.56.51:921][  0]BlueprintLog: New page: 에디터 로드
+[2022.05.10-14.56.52:062][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2022.05.10-14.56.52:112][  0]TimingProfiler: Initialize
+[2022.05.10-14.56.52:112][  0]TimingProfiler: OnSessionChanged
+[2022.05.10-14.56.52:112][  0]LoadingProfiler: Initialize
+[2022.05.10-14.56.52:112][  0]LoadingProfiler: OnSessionChanged
+[2022.05.10-14.56.52:112][  0]NetworkingProfiler: Initialize
+[2022.05.10-14.56.52:112][  0]NetworkingProfiler: OnSessionChanged
+[2022.05.10-14.56.52:112][  0]MemoryProfiler: Initialize
+[2022.05.10-14.56.52:112][  0]MemoryProfiler: OnSessionChanged
+[2022.05.10-14.56.52:370][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.05.10-14.56.52:370][  0]LogCook: Display: Mobile HDR setting 1
+[2022.05.10-14.56.52:774][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ASUS/Documents/GitHub/No-Landing/Content/' took 0.16s
+[2022.05.10-14.56.52:981][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.05.10-14.56.53:144][  0]LogSlate: Took 0.002223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2022.05.10-14.56.53:145][  0]LogSlate: Took 0.000722 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.10-14.57.02:786][  0]LogSlate: Window '패키지 복원' being destroyed
+[2022.05.10-14.57.02:980][  0]LogUnrealEdMisc: Loading editor; pre map load, took 21.235
+[2022.05.10-14.57.02:981][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ASUS/Documents/GitHub/No-Landing/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.10-14.57.02:983][  0]LightingResults: New page: 라이팅 빌드
+[2022.05.10-14.57.02:985][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.10-14.57.02:985][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.10-14.57.02:985][  0]MapCheck: New page: 맵 체크
+[2022.05.10-14.57.02:985][  0]LightingResults: New page: 라이팅 빌드
+[2022.05.10-14.57.02:997][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.05.10-14.57.04:009][  0]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\ALS_Base_CharacterBP.uasset: [Compiler] InputAction Event 가  RagdollAction 입력 액션  에 대해 알려지지 않은 'RagdollAction' 액션을 참조합니다.
+[2022.05.10-14.57.06:631][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Police_Enemy\Std_Nails_HQ_Inst.uasset: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.06:631][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Police_Enemy\Std_Nails_HQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.06:639][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Police_Enemy\Std_Nails_HQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.06:678][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Police_Enemy\Std_Tongue_LWHQ_Inst.uasset: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.06:678][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Police_Enemy\Std_Tongue_LWHQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.06:680][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Police_Enemy\Std_Tongue_LWHQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.06:685][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Police_Enemy.uasset: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.06:685][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Police_Enemy.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.06:688][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Police_Enemy.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.06:852][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Hair_Transparency_Inst.uasset: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.06:852][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Hair_Transparency_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.06:853][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Hair_Transparency_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.06:879][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Lower_Teeth_LWHQ_Inst.uasset: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.06:879][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Lower_Teeth_LWHQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.06:883][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Lower_Teeth_LWHQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.06:885][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Nails_HQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.06:890][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Nails_HQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.06:891][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Skin_Arm_HQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.06:896][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Skin_Arm_HQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.06:897][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Skin_Body_HQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.06:902][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Skin_Body_HQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.06:904][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Skin_Head_HQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.06:913][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Skin_Head_HQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.06:914][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Skin_Leg_HQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.06:919][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Skin_Leg_HQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.06:922][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Tongue_LWHQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.06:925][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Tongue_LWHQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.06:926][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Upper_Teeth_LWHQ_Inst.uasset: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.06:927][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Upper_Teeth_LWHQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.06:929][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Upper_Teeth_LWHQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.07:015][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_M\Std_Nails_HQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.07:020][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_M\Std_Nails_HQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.07:046][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_M\Std_Tongue_LWHQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.07:048][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_M\Std_Tongue_LWHQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.07:464][  0]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/AdvancedLocomotionV4/Blueprints/UI/OverlayStateSwitcher.OverlayStateSwitcher_C:OverlayStateButtons.OverlayStateButtons'. Unknown structure.
+[2022.05.10-14.57.07:464][  0]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/AdvancedLocomotionV4/Blueprints/UI/OverlayStateSwitcher.OverlayStateSwitcher_C:UpdateButtonFocus:CallFunc_Array_Get_Item'. Unknown structure.
+[2022.05.10-14.57.07:464][  0]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/AdvancedLocomotionV4/Blueprints/UI/OverlayStateSwitcher.OverlayStateSwitcher_C:CreateButtons:K2Node_MakeStruct_OverlayStateButtonParams'. Unknown structure.
+[2022.05.10-14.57.07:483][  0]LogClass: Warning: Property OverlayStateButtons of OverlayStateButtons has a struct type mismatch (tag FallbackStruct != prop OverlayStateButtonParams) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2022.05.10-14.57.07:523][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AI_NPC\Pedestrian.uasset: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.07:523][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AI_NPC\Pedestrian.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.07:534][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AI_NPC\Pedestrian.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.07:534][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AI_NPC\Pedestrian.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.07:534][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AI_NPC\Pedestrian.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.07:535][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AI_NPC\Pedestrian.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.07:535][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AI_NPC\Pedestrian.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.07:535][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AI_NPC\Pedestrian.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.07:535][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AI_NPC\GameState_town.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.07:535][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C
+[2022.05.10-14.57.07:535][  0]LogLinker: Warning: Unable to load Default__Pedestrian_C with outer Package /Game/AI_NPC/Pedestrian because its class does not exist
+[2022.05.10-14.57.07:536][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AI_NPC\GameState_town.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.07:536][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C
+[2022.05.10-14.57.07:536][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AI_NPC\GameState_town.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.07:536][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C
+[2022.05.10-14.57.07:536][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AI_NPC\GameState_town.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.07:536][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C
+[2022.05.10-14.57.07:537][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AI_NPC\GameState_town.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.07:537][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C
+[2022.05.10-14.57.07:537][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AdvancedLocomotionV4\Blueprints\GameModes\ALS_GameMode_SP.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.07:537][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C
+[2022.05.10-14.57.07:538][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AdvancedLocomotionV4\Blueprints\GameModes\ALS_GameMode_SP.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.07:538][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C
+[2022.05.10-14.57.07:538][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AdvancedLocomotionV4\Blueprints\GameModes\ALS_GameMode_SP.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.07:538][  0]LoadErrors: 로드에 실패했습니다. /Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP.EnemyBP_C 참조한 것: GameState_town
+[2022.05.10-14.57.07:538][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C
+[2022.05.10-14.57.07:538][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AdvancedLocomotionV4\Blueprints\GameModes\ALS_GameMode_SP.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.07:539][  0]LoadErrors: 로드에 실패했습니다. /Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP.EnemyBP_C 참조한 것: K2Node_Event_2
+[2022.05.10-14.57.07:539][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C
+[2022.05.10-14.57.07:539][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AdvancedLocomotionV4\Blueprints\GameModes\ALS_GameMode_SP.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.07:539][  0]LoadErrors: 로드에 실패했습니다. /Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP.EnemyBP_C 참조한 것: K2Node_Event_2
+[2022.05.10-14.57.07:539][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C
+[2022.05.10-14.57.07:539][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AdvancedLocomotionV4\Blueprints\GameModes\ALS_GameMode_SP.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.07:539][  0]LoadErrors: 로드에 실패했습니다. /Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP.EnemyBP_C 참조한 것: K2Node_FunctionEntry_0
+[2022.05.10-14.57.07:539][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C
+[2022.05.10-14.57.07:540][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AdvancedLocomotionV4\Blueprints\GameModes\ALS_GameMode_SP.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.07:540][  0]LoadErrors: 로드에 실패했습니다. /Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP.EnemyBP_C 참조한 것: K2Node_FunctionResult_1
+[2022.05.10-14.57.07:540][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C
+[2022.05.10-14.57.07:540][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AdvancedLocomotionV4\Blueprints\GameModes\ALS_GameMode_SP.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.07:540][  0]LoadErrors: 로드에 실패했습니다. /Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP.EnemyBP_C 참조한 것: K2Node_FunctionResult_0
+[2022.05.10-14.57.07:540][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C
+[2022.05.10-14.57.09:017][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_M\Std_Tongue_LWHQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.09:017][  0]LoadErrors: 로드에 실패했습니다. /Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS.Std_Tongue 참조한 것: Std_Tongue_LWHQ_Inst
+[2022.05.10-14.57.09:027][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_M\Std_Nails_HQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.09:027][  0]LoadErrors: 로드에 실패했습니다. /Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS.RL_HQSkinSSS 참조한 것: Std_Nails_HQ_Inst
+[2022.05.10-14.57.09:450][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Upper_Teeth_LWHQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.09:450][  0]LoadErrors: 로드에 실패했습니다. /Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Teeth_Upper_SSS.Std_Upper_Teeth 참조한 것: Std_Upper_Teeth_LWHQ_Inst
+[2022.05.10-14.57.09:452][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Tongue_LWHQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.09:452][  0]LoadErrors: 로드에 실패했습니다. /Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS.Std_Tongue 참조한 것: Std_Tongue_LWHQ_Inst
+[2022.05.10-14.57.09:456][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Skin_Leg_HQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.09:456][  0]LoadErrors: 로드에 실패했습니다. /Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS.RL_HQSkinSSS 참조한 것: Std_Skin_Leg_HQ_Inst
+[2022.05.10-14.57.09:461][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Skin_Head_HQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.09:462][  0]LoadErrors: 로드에 실패했습니다. /Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS.RL_HQSkinSSS 참조한 것: Std_Skin_Head_HQ_Inst
+[2022.05.10-14.57.09:465][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Skin_Body_HQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.09:465][  0]LoadErrors: 로드에 실패했습니다. /Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS.RL_HQSkinSSS 참조한 것: Std_Skin_Body_HQ_Inst
+[2022.05.10-14.57.09:469][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Skin_Arm_HQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.09:469][  0]LoadErrors: 로드에 실패했습니다. /Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS.RL_HQSkinSSS 참조한 것: Std_Skin_Arm_HQ_Inst
+[2022.05.10-14.57.09:473][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Nails_HQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.09:473][  0]LoadErrors: 로드에 실패했습니다. /Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS.RL_HQSkinSSS 참조한 것: Std_Nails_HQ_Inst
+[2022.05.10-14.57.09:476][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Lower_Teeth_LWHQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.09:476][  0]LoadErrors: 로드에 실패했습니다. /Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Teeth_Lower_SSS.Std_Lower_Teeth 참조한 것: Std_Lower_Teeth_LWHQ_Inst
+[2022.05.10-14.57.09:489][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Hair_Transparency_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.09:490][  0]LoadErrors: 로드에 실패했습니다. /Game/GameFiles/Meshes/Character/Wanda_1212_fbm/Hair_Transparency_Opacity.Hair_Transparency_Opacity 참조한 것: Hair_Transparency_Inst
+[2022.05.10-14.57.09:983][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Police_Enemy\Std_Tongue_LWHQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.09:983][  0]LoadErrors: 로드에 실패했습니다. /Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS.Std_Tongue 참조한 것: Std_Tongue_LWHQ_Inst
+[2022.05.10-14.57.10:014][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Police_Enemy\Std_Nails_HQ_Inst.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.10:014][  0]LoadErrors: 로드에 실패했습니다. /Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS.RL_HQSkinSSS 참조한 것: Std_Nails_HQ_Inst
+[2022.05.10-14.57.10:392][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\Character\Enemy\Police_Enemy.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.10:393][  0]LoadErrors: 로드에 실패했습니다. /Game/Character/Enemy/Police_Enemy_Physics.Police_Enemy_Physics 참조한 것: Police_Enemy
+[2022.05.10-14.57.10:894][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AI_NPC\Pedestrian.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.10:894][  0]LoadErrors: 로드에 실패했습니다. /Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP.EnemyBP_C 참조한 것: Pedestrian
+[2022.05.10-14.57.10:894][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AI_NPC\Pedestrian.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.10:894][  0]LoadErrors: 로드에 실패했습니다. /Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP.EnemyBP_C 참조한 것: Pedestrian
+[2022.05.10-14.57.10:894][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C
+[2022.05.10-14.57.10:895][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AI_NPC\Pedestrian.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.10:895][  0]LoadErrors: 로드에 실패했습니다. /Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP.EnemyBP_C 참조한 것: K2Node_CallParentFunction_0
+[2022.05.10-14.57.10:895][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AI_NPC\Pedestrian.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.10:895][  0]LoadErrors: 로드에 실패했습니다. /Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP.EnemyBP_C 참조한 것: K2Node_CallParentFunction_0
+[2022.05.10-14.57.10:896][  0]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AI_NPC\Pedestrian.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.57.10:896][  0]LoadErrors: 로드에 실패했습니다. /Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP.EnemyBP_C 참조한 것: PackageMetaData
+[2022.05.10-14.57.10:896][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C
+[2022.05.10-14.57.12:103][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/crossbow/AS_crossbow_aim_idle_stand.AS_crossbow_aim_idle_stand
+[2022.05.10-14.57.12:103][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/crossbow/AS_crossbow_aim_idle_stand.AS_crossbow_aim_idle_stand
+[2022.05.10-14.57.15:707][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.05.10-14.57.15:708][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.05.10-14.57.15:721][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.10-14.57.15:825][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2022.05.10-14.57.15:830][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.10-14.57.15:830][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.465ms.
+[2022.05.10-14.57.15:830][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 12.848
+[2022.05.10-14.57.15:834][  0]LogUnrealEdMisc: Total Editor Startup Time, took 34.088
+[2022.05.10-14.57.15:922][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.10-14.57.15:938][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.10-14.57.15:960][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0100 seconds. Added 3800 classes and 934 folders.
+[2022.05.10-14.57.15:967][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.05.10-14.57.15:973][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.05.10-14.57.15:973][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.10-14.57.15:973][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.10-14.57.15:973][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.05.10-14.57.15:975][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.05.10-14.57.15:975][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.10-14.57.15:975][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.05.10-14.57.15:975][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.05.10-14.57.15:976][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.05.10-14.57.15:976][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.10-14.57.15:976][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.05.10-14.57.15:976][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.05.10-14.57.15:977][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.10-14.57.15:977][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.10-14.57.15:977][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.10-14.57.15:977][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.05.10-14.57.15:979][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.05.10-14.57.15:979][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.10-14.57.15:979][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.05.10-14.57.15:979][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.05.10-14.57.15:980][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.05.10-14.57.15:980][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.10-14.57.15:980][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.05.10-14.57.15:980][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.05.10-14.57.15:982][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.05.10-14.57.15:982][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.10-14.57.15:982][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.05.10-14.57.15:982][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.05.10-14.57.15:983][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.05.10-14.57.15:983][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.10-14.57.15:983][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.05.10-14.57.15:983][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.05.10-14.57.15:984][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.05.10-14.57.15:984][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.10-14.57.15:984][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.05.10-14.57.15:984][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.05.10-14.57.15:985][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.05.10-14.57.15:985][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.10-14.57.15:985][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.05.10-14.57.15:985][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.05.10-14.57.15:986][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.05.10-14.57.15:986][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.10-14.57.15:986][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.05.10-14.57.15:986][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.05.10-14.57.15:987][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.05.10-14.57.15:987][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.10-14.57.15:987][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.05.10-14.57.15:987][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.05.10-14.57.15:989][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.10-14.57.15:989][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.10-14.57.15:989][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.10-14.57.15:989][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.05.10-14.57.15:991][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.05.10-14.57.15:991][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.10-14.57.15:991][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.05.10-14.57.15:991][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2022.05.10-14.57.15:992][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.05.10-14.57.15:992][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.10-14.57.15:992][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.05.10-14.57.15:992][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2022.05.10-14.57.15:994][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.05.10-14.57.15:994][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.10-14.57.15:994][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.10-14.57.15:994][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.05.10-14.57.15:996][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.05.10-14.57.15:996][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.10-14.57.15:996][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.05.10-14.57.15:996][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.05.10-14.57.15:998][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.05.10-14.57.15:998][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.10-14.57.15:998][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.05.10-14.57.15:998][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2022.05.10-14.57.16:000][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.10-14.57.16:000][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.10-14.57.16:000][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.10-14.57.16:000][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2022.05.10-14.57.16:001][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.10-14.57.16:001][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.10-14.57.16:001][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.10-14.57.16:001][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2022.05.10-14.57.16:003][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.05.10-14.57.16:003][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.10-14.57.16:003][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.10-14.57.16:003][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2022.05.10-14.57.16:005][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.05.10-14.57.16:005][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.10-14.57.16:005][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.05.10-14.57.16:005][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2022.05.10-14.57.16:006][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.05.10-14.57.16:006][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.10-14.57.16:006][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.05.10-14.57.16:007][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2022.05.10-14.57.16:008][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.05.10-14.57.16:008][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.10-14.57.16:008][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.05.10-14.57.16:008][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2022.05.10-14.57.16:010][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.10-14.57.16:010][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.10-14.57.16:010][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.10-14.57.16:010][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2022.05.10-14.57.16:011][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.05.10-14.57.16:011][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.10-14.57.16:011][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.05.10-14.57.16:011][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2022.05.10-14.57.16:146][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.05.10-14.57.16:155][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.05.10-14.57.16:657][  0]LogSlate: Took 0.004089 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2022.05.10-14.57.16:658][  0]LogSlate: Took 0.000767 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.05.10-14.57.16:664][  0]LogSlate: Took 0.001455 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.05.10-14.57.16:769][  0]LogRenderer: Reallocating scene render targets to support 1092x492 Format 9 NumSamples 1 (Frame:1).
+[2022.05.10-14.57.17:074][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.05.10-14.57.17:076][  0]LogLoad: (Engine Initialization) Total time: 35.33 seconds
+[2022.05.10-14.57.17:076][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.05.10-14.57.17:076][  0]LogInit: First time updating LLM stats...
+[2022.05.10-14.57.17:100][  0]LoadErrors: Error: /Game/CC_Shaders/EyeShader/RL_EyeRefractive : SubsurfaceProfile 에 대한 임포트 실패 /Game/CC_Shaders/EyeShader/SSS_Profile/SSP_Eye_Inner.SSP_Eye_Inner Material 익스포트에 참조됨 /Game/CC_Shaders/EyeShader/RL_EyeRefractive.RL_EyeRefractive
+[2022.05.10-14.57.17:100][  0]LoadErrors: Warning: CreateExport: 'Arrow' 리소스에 대한 Pedestrian_C /Game/AI_NPC/Pedestrian.Default__Pedestrian_C Outer 로드에 실패했습니다.
+[2022.05.10-14.57.17:100][  0]LoadErrors: Warning: CreateExport: 'CollisionCylinder' 리소스에 대한 Pedestrian_C /Game/AI_NPC/Pedestrian.Default__Pedestrian_C Outer 로드에 실패했습니다.
+[2022.05.10-14.57.17:100][  0]LoadErrors: Warning: CreateExport: 'CharMoveComp' 리소스에 대한 Pedestrian_C /Game/AI_NPC/Pedestrian.Default__Pedestrian_C Outer 로드에 실패했습니다.
+[2022.05.10-14.57.17:100][  0]LoadErrors: Warning: CreateExport: 'NavigationInvoker_GEN_VARIABLE' 리소스에 대한 BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C Outer 로드에 실패했습니다.
+[2022.05.10-14.57.17:100][  0]LoadErrors: Warning: CreateExport: 'DefaultSceneRoot_GEN_VARIABLE' 리소스에 대한 BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C Outer 로드에 실패했습니다.
+[2022.05.10-14.57.17:100][  0]LoadErrors: Warning: CreateExport: 'SimpleConstructionScript_0' 리소스에 대한 BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C Outer 로드에 실패했습니다.
+[2022.05.10-14.57.17:100][  0]LoadErrors: Warning: CreateExport: 'SCS_Node_0' 리소스에 대한 SimpleConstructionScript /Game/AI_NPC/Pedestrian.Pedestrian_C:SimpleConstructionScript_0 Outer 로드에 실패했습니다.
+[2022.05.10-14.57.17:100][  0]LoadErrors: Warning: CreateExport: 'SCS_Node_1' 리소스에 대한 SimpleConstructionScript /Game/AI_NPC/Pedestrian.Pedestrian_C:SimpleConstructionScript_0 Outer 로드에 실패했습니다.
+[2022.05.10-14.57.17:100][  0]LoadErrors: Warning: CreateExport: 'CharacterMesh0' 리소스에 대한 Pedestrian_C /Game/AI_NPC/Pedestrian.Default__Pedestrian_C Outer 로드에 실패했습니다.
+[2022.05.10-14.57.17:161][  0]LogContentStreaming: Texture pool size now 400 MB
+[2022.05.10-14.57.17:242][  0]LogSlate: Took 0.001122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.05.10-14.57.17:247][  0]LogSlate: Took 0.005408 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2022.05.10-14.57.17:265][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/ASUS/Documents/GitHub/No-Landing/Content/' took 0.15s
+[2022.05.10-14.57.17:774][  5]LogAssetRegistry: Asset discovery search completed in 31.3914 seconds
+[2022.05.10-14.57.17:778][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2022.05.10-14.57.17:874][  7]LogSlate: Took 0.000579 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.10-14.57.18:803][ 61]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.10-14.57.18:969][ 70]LogSlate: Window '메시지 로그' being destroyed
+[2022.05.10-14.57.18:975][ 70]LogSlate: Window '메시지 로그' being destroyed
+[2022.05.10-14.57.21:595][220]LogSlate: Window '시퀸서' being destroyed
+[2022.05.10-14.57.21:603][220]LogSlate: Window '시퀸서' being destroyed
+[2022.05.10-14.59.28:640][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.05.10-14.59.29:039][483]LogEnum: Warning: Enum name collision: 'GunCategory::NewEnumerator0' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunCategory.GunCategory' and '/Game/BP/Guns/GunCategory.GunCategory'
+[2022.05.10-14.59.29:039][483]LogEnum: Warning: Enum name collision: 'GunCategory::NewEnumerator1' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunCategory.GunCategory' and '/Game/BP/Guns/GunCategory.GunCategory'
+[2022.05.10-14.59.29:039][483]LogEnum: Warning: Enum name collision: 'GunCategory::NewEnumerator2' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunCategory.GunCategory' and '/Game/BP/Guns/GunCategory.GunCategory'
+[2022.05.10-14.59.29:039][483]LogEnum: Warning: Enum name collision: 'GunCategory::GunCategory_MAX' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunCategory.GunCategory' and '/Game/BP/Guns/GunCategory.GunCategory'
+[2022.05.10-14.59.29:041][483]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator0' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.05.10-14.59.29:041][483]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator1' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.05.10-14.59.29:041][483]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator2' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.05.10-14.59.29:041][483]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator3' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.05.10-14.59.29:041][483]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator4' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.05.10-14.59.29:041][483]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator5' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.05.10-14.59.29:041][483]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator6' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.05.10-14.59.29:041][483]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator7' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.05.10-14.59.29:041][483]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator8' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.05.10-14.59.29:041][483]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator9' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.05.10-14.59.29:041][483]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator10' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.05.10-14.59.29:041][483]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator11' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.05.10-14.59.29:041][483]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator12' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.05.10-14.59.29:041][483]LogEnum: Warning: Enum name collision: 'GunType::GunType_MAX' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.05.10-14.59.29:041][483]LogEnum: Warning: Enum name collision: 'SoldierMovementMode::NewEnumerator0' is in both '/Game/AmplifyAnimationPack/Weapon/BP/SoldierMovementMode.SoldierMovementMode' and '/Game/BP/SoldierMovementMode.SoldierMovementMode'
+[2022.05.10-14.59.29:041][483]LogEnum: Warning: Enum name collision: 'SoldierMovementMode::NewEnumerator1' is in both '/Game/AmplifyAnimationPack/Weapon/BP/SoldierMovementMode.SoldierMovementMode' and '/Game/BP/SoldierMovementMode.SoldierMovementMode'
+[2022.05.10-14.59.29:042][483]LogEnum: Warning: Enum name collision: 'SoldierMovementMode::NewEnumerator2' is in both '/Game/AmplifyAnimationPack/Weapon/BP/SoldierMovementMode.SoldierMovementMode' and '/Game/BP/SoldierMovementMode.SoldierMovementMode'
+[2022.05.10-14.59.29:042][483]LogEnum: Warning: Enum name collision: 'SoldierMovementMode::NewEnumerator3' is in both '/Game/AmplifyAnimationPack/Weapon/BP/SoldierMovementMode.SoldierMovementMode' and '/Game/BP/SoldierMovementMode.SoldierMovementMode'
+[2022.05.10-14.59.29:042][483]LogEnum: Warning: Enum name collision: 'SoldierMovementMode::NewEnumerator4' is in both '/Game/AmplifyAnimationPack/Weapon/BP/SoldierMovementMode.SoldierMovementMode' and '/Game/BP/SoldierMovementMode.SoldierMovementMode'
+[2022.05.10-14.59.29:042][483]LogEnum: Warning: Enum name collision: 'SoldierMovementMode::SoldierMovementMode_MAX' is in both '/Game/AmplifyAnimationPack/Weapon/BP/SoldierMovementMode.SoldierMovementMode' and '/Game/BP/SoldierMovementMode.SoldierMovementMode'
+[2022.05.10-14.59.30:564][483]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CharacterStateBase.uasset: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.59.30:564][483]LoadErrors: 로드에 실패했습니다. /Game/GameFiles/Meshes/Character/Wanda_1212.Wanda_1212 참조한 것: Default__BP_Character_C
+[2022.05.10-14.59.30:565][483]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CharacterStateBase.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.59.30:577][483]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Animations\Character\Anim_Blueprints\Character_AnimBP.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.59.30:577][483]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Animations\Character\Anim_Blueprints\Character_AnimBP.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.59.30:660][483]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\BP_Character.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.59.30:660][483]LogLinker: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\BP_Character.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-14.59.31:246][483]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CoverState.uasset: [Compiler] 'BP_Character_C' 에서 "currentWeapon" 라는 이름의 변수를 찾을 수 없습니다.
+ currentWeapon 구하기 확장 시 생성됨 Can Execute Weapon Action  에 대해 'BP_Character_C' 컴파일이 되었는지 확인하세요.
+[2022.05.10-14.59.31:248][483]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CoverState.uasset: [Compiler] 'BP_Character_C' 에서 "currentWeapon" 라는 이름의 변수를 찾을 수 없습니다.
+ currentWeapon 구하기 확장 시 생성됨 Can Execute Weapon Action  에 대해 'BP_Character_C' 컴파일이 되었는지 확인하세요.
+[2022.05.10-14.59.31:250][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CoverState.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Weapon Reload  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2022.05.10-14.59.31:250][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CoverState.uasset: [Compiler] 사용 중인  타깃  핀은 더 이상  Weapon Reload  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2022.05.10-14.59.31:250][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CoverState.uasset: [Compiler] BP_Character_C' 에서 "Weapon_Reload" 라는 이름의 함수를 찾을 수 없습니다.
+ Weapon Reload  에 대해 'BP_Character_C' 컴파일이 되었는지 확인하세요.
+[2022.05.10-14.59.31:251][483]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CoverState.uasset: [Compiler] 'BP_Character_C' 에서 "currentWeapon" 라는 이름의 변수를 찾을 수 없습니다.
+ currentWeapon 구하기 확장 시 생성됨 Can Execute Weapon Action  에 대해 'BP_Character_C' 컴파일이 되었는지 확인하세요.
+[2022.05.10-14.59.31:251][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CoverState.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Weapon Change Weapon  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2022.05.10-14.59.31:251][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CoverState.uasset: [Compiler] 사용 중인  타깃  핀은 더 이상  Weapon Change Weapon  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2022.05.10-14.59.31:252][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CoverState.uasset: [Compiler] BP_Character_C' 에서 "Weapon_ChangeWeapon" 라는 이름의 함수를 찾을 수 없습니다.
+ Weapon Change Weapon  에 대해 'BP_Character_C' 컴파일이 되었는지 확인하세요.
+[2022.05.10-14.59.31:254][483]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CoverState.uasset: [Compiler] 'BP_Character_C' 에서 "currentWeapon" 라는 이름의 변수를 찾을 수 없습니다.
+ currentWeapon 구하기  에 대해 'BP_Character_C' 컴파일이 되었는지 확인하세요.
+[2022.05.10-14.59.31:255][483]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CoverState.uasset: [Compiler] 'BP_Character_C' 에서 "currentWeapon" 라는 이름의 변수를 찾을 수 없습니다.
+ currentWeapon 구하기  에 대해 'BP_Character_C' 컴파일이 되었는지 확인하세요.
+[2022.05.10-14.59.31:255][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CoverState.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Weapon Start Shooting  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2022.05.10-14.59.31:255][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CoverState.uasset: [Compiler] 사용 중인  타깃  핀은 더 이상  Weapon Start Shooting  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2022.05.10-14.59.31:255][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CoverState.uasset: [Compiler] BP_Character_C' 에서 "Weapon_StartShooting" 라는 이름의 함수를 찾을 수 없습니다.
+ Weapon Start Shooting  에 대해 'BP_Character_C' 컴파일이 되었는지 확인하세요.
+[2022.05.10-14.59.31:261][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Weapon Force Unequip  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2022.05.10-14.59.31:261][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] 사용 중인  타깃  핀은 더 이상  Weapon Force Unequip  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2022.05.10-14.59.31:261][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] BP_Character_C' 에서 "Weapon_ForceUnequip" 라는 이름의 함수를 찾을 수 없습니다.
+ Weapon Force Unequip  에 대해 'BP_Character_C' 컴파일이 되었는지 확인하세요.
+[2022.05.10-14.59.31:269][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Weapon Toggle Aim  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2022.05.10-14.59.31:269][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] 사용 중인  타깃  핀은 더 이상  Weapon Toggle Aim  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2022.05.10-14.59.31:269][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] BP_Character_C' 에서 "Weapon Toggle Aim" 라는 이름의 함수를 찾을 수 없습니다.
+ Weapon Toggle Aim  에 대해 'BP_Character_C' 컴파일이 되었는지 확인하세요.
+[2022.05.10-14.59.31:271][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Weapon Start Shooting  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2022.05.10-14.59.31:272][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Weapon Start Shooting  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2022.05.10-14.59.31:272][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] 사용 중인  타깃  핀은 더 이상  Weapon Start Shooting  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2022.05.10-14.59.31:272][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] 사용 중인  Shot Succesful  핀은 더 이상  Weapon Start Shooting  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2022.05.10-14.59.31:272][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] BP_Character_C' 에서 "Weapon_StartShooting" 라는 이름의 함수를 찾을 수 없습니다.
+ Weapon Start Shooting  에 대해 'BP_Character_C' 컴파일이 되었는지 확인하세요.
+[2022.05.10-14.59.31:272][483]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] 'BP_Character_C' 에서 "currentWeapon" 라는 이름의 변수를 찾을 수 없습니다.
+ currentWeapon 구하기  에 대해 'BP_Character_C' 컴파일이 되었는지 확인하세요.
+[2022.05.10-14.59.31:275][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Weapon Toggle Aim  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2022.05.10-14.59.31:275][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] 사용 중인  타깃  핀은 더 이상  Weapon Toggle Aim  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2022.05.10-14.59.31:275][483]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] 기본값이 아닌  New Is Aiming  입력 핀이  Weapon Toggle Aim  노드에 더 이상 존재하지 않습니다. 노드를 새로고치거나 핀을 기본값으로 리셋시켜 제거하세요.
+[2022.05.10-14.59.31:275][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] BP_Character_C' 에서 "Weapon Toggle Aim" 라는 이름의 함수를 찾을 수 없습니다.
+ Weapon Toggle Aim  에 대해 'BP_Character_C' 컴파일이 되었는지 확인하세요.
+[2022.05.10-14.59.31:275][483]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] 'BP_Character_C' 에서 "currentWeapon" 라는 이름의 변수를 찾을 수 없습니다.
+ currentWeapon 구하기  에 대해 'BP_Character_C' 컴파일이 되었는지 확인하세요.
+[2022.05.10-14.59.31:277][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Weapon Toggle Aim  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2022.05.10-14.59.31:277][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] 사용 중인  타깃  핀은 더 이상  Weapon Toggle Aim  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2022.05.10-14.59.31:277][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] BP_Character_C' 에서 "Weapon Toggle Aim" 라는 이름의 함수를 찾을 수 없습니다.
+ Weapon Toggle Aim  에 대해 'BP_Character_C' 컴파일이 되었는지 확인하세요.
+[2022.05.10-14.59.31:278][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Weapon Reload  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2022.05.10-14.59.31:278][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] 사용 중인  타깃  핀은 더 이상  Weapon Reload  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2022.05.10-14.59.31:278][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] BP_Character_C' 에서 "Weapon_Reload" 라는 이름의 함수를 찾을 수 없습니다.
+ Weapon Reload  에 대해 'BP_Character_C' 컴파일이 되었는지 확인하세요.
+[2022.05.10-14.59.31:279][483]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] 'BP_Character_C' 에서 "currentWeapon" 라는 이름의 변수를 찾을 수 없습니다.
+ currentWeapon 구하기  에 대해 'BP_Character_C' 컴파일이 되었는지 확인하세요.
+[2022.05.10-14.59.31:280][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Weapon Change Weapon  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2022.05.10-14.59.31:280][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] 사용 중인  타깃  핀은 더 이상  Weapon Change Weapon  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2022.05.10-14.59.31:280][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CrawlingState.uasset: [Compiler] BP_Character_C' 에서 "Weapon_ChangeWeapon" 라는 이름의 함수를 찾을 수 없습니다.
+ Weapon Change Weapon  에 대해 'BP_Character_C' 컴파일이 되었는지 확인하세요.
+[2022.05.10-14.59.32:366][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Animations\Character\Anim_Blueprints\Character_AnimBP.uasset: [Compiler] 이 블루프린트(셀프)는 BP_WeaponActor_C 이지 않으므로, ' 타깃 ' 에 연결이 있어야 합니다.
+[2022.05.10-14.59.32:366][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Animations\Character\Anim_Blueprints\Character_AnimBP.uasset: [Compiler] 이 블루프린트(셀프)는 BP_WeaponActor_C 이지 않으므로, ' 타깃 ' 에 연결이 있어야 합니다.
+[2022.05.10-14.59.32:366][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Animations\Character\Anim_Blueprints\Character_AnimBP.uasset: [Compiler] 이 블루프린트(셀프)는 Actor 이지 않으므로, ' 타깃 ' 에 연결이 있어야 합니다.
+[2022.05.10-14.59.32:366][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Animations\Character\Anim_Blueprints\Character_AnimBP.uasset: [Compiler] 이 블루프린트(셀프)는 Actor 이지 않으므로, ' 타깃 ' 에 연결이 있어야 합니다.
+[2022.05.10-14.59.33:108][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Weapons\BP_WeaponActor.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Weapon Store Weapon  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2022.05.10-14.59.33:108][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Weapons\BP_WeaponActor.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Weapon Store Weapon  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2022.05.10-14.59.33:108][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Weapons\BP_WeaponActor.uasset: [Compiler] 사용 중인  타깃  핀은 더 이상  Weapon Store Weapon  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2022.05.10-14.59.33:108][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Weapons\BP_WeaponActor.uasset: [Compiler] 사용 중인  Weapon to Store  핀은 더 이상  Weapon Store Weapon  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2022.05.10-14.59.33:108][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Weapons\BP_WeaponActor.uasset: [Compiler] 사용 중인  Was Successful  핀은 더 이상  Weapon Store Weapon  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2022.05.10-14.59.33:109][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Weapons\BP_WeaponActor.uasset: [Compiler] BP_Character_C' 에서 "Weapon_StoreWeapon" 라는 이름의 함수를 찾을 수 없습니다.
+ Weapon Store Weapon  에 대해 'BP_Character_C' 컴파일이 되었는지 확인하세요.
+[2022.05.10-14.59.33:278][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CoverState.uasset: [Compiler] Current Weapon 확장 시 생성됨 Can Execute Weapon Action  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.05.10-14.59.33:278][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CoverState.uasset: [Compiler] Current Weapon 확장 시 생성됨 Can Execute Weapon Action  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.05.10-14.59.33:279][483]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\Blueprints\Character\CharacterStates\BP_CoverState.uasset: [Compiler] Current Weapon  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.05.10-14.59.35:668][483]LogEnum: Warning: Enum name collision: 'SoldierMovementMode::NewEnumerator0' is in both '/Game/AmplifyAnimationPack/Weapon/BP/SoldierMovementMode.SoldierMovementMode' and '/Game/BP/SoldierMovementMode.SoldierMovementMode'
+[2022.05.10-14.59.35:668][483]LogEnum: Warning: Enum name collision: 'SoldierMovementMode::NewEnumerator1' is in both '/Game/AmplifyAnimationPack/Weapon/BP/SoldierMovementMode.SoldierMovementMode' and '/Game/BP/SoldierMovementMode.SoldierMovementMode'
+[2022.05.10-14.59.35:668][483]LogEnum: Warning: Enum name collision: 'SoldierMovementMode::NewEnumerator2' is in both '/Game/AmplifyAnimationPack/Weapon/BP/SoldierMovementMode.SoldierMovementMode' and '/Game/BP/SoldierMovementMode.SoldierMovementMode'
+[2022.05.10-14.59.35:668][483]LogEnum: Warning: Enum name collision: 'SoldierMovementMode::NewEnumerator3' is in both '/Game/AmplifyAnimationPack/Weapon/BP/SoldierMovementMode.SoldierMovementMode' and '/Game/BP/SoldierMovementMode.SoldierMovementMode'
+[2022.05.10-14.59.35:668][483]LogEnum: Warning: Enum name collision: 'SoldierMovementMode::NewEnumerator4' is in both '/Game/AmplifyAnimationPack/Weapon/BP/SoldierMovementMode.SoldierMovementMode' and '/Game/BP/SoldierMovementMode.SoldierMovementMode'
+[2022.05.10-14.59.35:668][483]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator0' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.05.10-14.59.35:668][483]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator1' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.05.10-14.59.35:668][483]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator2' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.05.10-14.59.35:668][483]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator3' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.05.10-14.59.35:668][483]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator4' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.05.10-14.59.35:668][483]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator5' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.05.10-14.59.35:668][483]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator6' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.05.10-14.59.35:668][483]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator7' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.05.10-14.59.35:669][483]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator8' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.05.10-14.59.35:669][483]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator9' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.05.10-14.59.35:669][483]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator10' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.05.10-14.59.35:669][483]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator11' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.05.10-14.59.35:669][483]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator12' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.05.10-14.59.35:669][483]LogEnum: Warning: Enum name collision: 'GunCategory::NewEnumerator0' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunCategory.GunCategory' and '/Game/BP/Guns/GunCategory.GunCategory'
+[2022.05.10-14.59.35:669][483]LogEnum: Warning: Enum name collision: 'GunCategory::NewEnumerator1' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunCategory.GunCategory' and '/Game/BP/Guns/GunCategory.GunCategory'
+[2022.05.10-14.59.35:669][483]LogEnum: Warning: Enum name collision: 'GunCategory::NewEnumerator2' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunCategory.GunCategory' and '/Game/BP/Guns/GunCategory.GunCategory'
+[2022.05.10-14.59.36:084][483]LogNiagara: Display: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\FX\NS_HittableFX.uasset: 
+[2022.05.10-14.59.36:085][483]LogNiagara: Display: [AssetLog] C:\Users\ASUS\Documents\GitHub\No-Landing\Content\AmplifyAnimationPack\FX\NS_HittableFX.uasset: 
+[2022.05.10-14.59.37:469][483]LogStaticMesh: Warning: Mesh SM_Foreground is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/Polar/Meshes/Vista/SM_Foreground.SM_Foreground.
+[2022.05.10-14.59.37:586][483]LogStaticMesh: Warning: Mesh SM_Mountain_02 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/Polar/Meshes/Vista/SM_Mountain_02.SM_Mountain_02.
+[2022.05.10-14.59.37:645][483]LogStaticMesh: Warning: Mesh SM_Mountain_01 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/Polar/Meshes/Vista/SM_Mountain_01.SM_Mountain_01.
+[2022.05.10-14.59.37:768][483]LogStaticMesh: Warning: Mesh SM_Tank is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/Polar/Meshes/Props/SM_Tank.SM_Tank.
+[2022.05.10-14.59.38:399][483]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Chapter3_UnderGround_.Chapter3_UnderGround_
+[2022.05.10-14.59.38:399][483]Cmd: MAP LOAD FILE="../../../../../../Users/ASUS/Documents/GitHub/No-Landing/Content/Maps/Chapter3_UnderGround_.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.10-14.59.38:399][483]LightingResults: New page: 라이팅 빌드
+[2022.05.10-14.59.38:399][483]LoadErrors: New page: 맵 로드중: Chapter3_UnderGround_.umap
+[2022.05.10-14.59.38:420][483]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.10-14.59.38:420][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.10-14.59.38:420][483]MapCheck: New page: 맵 체크
+[2022.05.10-14.59.38:421][483]LightingResults: New page: 라이팅 빌드
+[2022.05.10-14.59.38:466][483]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.10-14.59.38:524][483]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2022.05.10-14.59.38:526][483]LogAudio: Display: Audio Device (ID: 1) registered with world 'Chapter3_UnderGround_'.
+[2022.05.10-14.59.39:162][483]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2022.05.10-14.59.39:163][483]LogAIModule: Creating AISystem for world Chapter3_UnderGround_
+[2022.05.10-14.59.39:226][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.05.10-14.59.39:241][483]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.10-14.59.39:242][483]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.611ms.
+[2022.05.10-14.59.39:242][483]LogFileHelpers: Loading map 'Chapter3_UnderGround_' took 0.843
+[2022.05.10-14.59.51:882][210]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cinematics/Sequences/Sequence3-2/Shot3-2_4.Shot3-2_4
+[2022.05.10-15.00.04:307][822]LogSlate: Took 0.000846 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.10-15.00.15:115][110]LogTexture: Display: 텍스처 빌드: T_ACSU_Atlus_PoliceSkin_Head_Mask (AutoDXT, 4096X4096)
+[2022.05.10-15.00.15:115][110]LogTexture: Display: 텍스처 빌드: T_ACSU_Atlus_PoliceSkin_Hands_Albedo (AutoDXT, 4096X4096)
+[2022.05.10-15.00.15:115][110]LogTexture: Display: 텍스처 빌드: T_ACSU_Atlus_PoliceSkin_Hands_Metallic (AutoDXT, 4096X4096)
+[2022.05.10-15.00.15:115][110]LogTexture: Display: 텍스처 빌드: T_ACSU_Atlus_PoliceSkin_Head_Albedo (AutoDXT, 4096X4096)
+[2022.05.10-15.00.15:115][110]LogTexture: Display: 텍스처 빌드: T_ACSU_Atlus_PoliceSkin_Front_Roughness (AutoDXT, 4096X4096)
+[2022.05.10-15.00.15:115][110]LogTexture: Display: 텍스처 빌드: T_ACSU_Atlus_PoliceSkin_Head_Metallic (AutoDXT, 4096X4096)
+[2022.05.10-15.00.15:115][110]LogTexture: Display: 텍스처 빌드: T_ACSU_Atlus_PoliceSkin_Front_Normal (BC5, 4096X4096)
+[2022.05.10-15.00.15:115][110]LogTexture: Display: 텍스처 빌드: T_ACSU_Atlus_PoliceSkin_Root_Albedo (AutoDXT, 4096X4096)
+[2022.05.10-15.00.15:115][110]LogTexture: Display: 텍스처 빌드: T_ACSU_Atlus_PoliceSkin_Hands_Normal (BC5, 4096X4096)
+[2022.05.10-15.00.15:115][110]LogTexture: Display: 텍스처 빌드: T_ACSU_Atlus_PoliceSkin_Hands_Roughness (AutoDXT, 4096X4096)
+[2022.05.10-15.00.15:115][110]LogMaterial: Display: Missing cached shader map for material M_ACSU_Atlus_PoliceSkin_Legs, compiling. 
+[2022.05.10-15.00.15:178][110]LogMaterial: Display: Missing cached shader map for material M_ACSU_Atlus_PoliceSkin_Legs, compiling. 
+[2022.05.10-15.00.15:199][110]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 36
+[2022.05.10-15.00.15:199][110]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 31
+[2022.05.10-15.00.15:199][110]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 26
+[2022.05.10-15.00.15:199][110]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2022.05.10-15.00.15:199][110]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2022.05.10-15.00.15:199][110]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2022.05.10-15.00.15:199][110]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2022.05.10-15.00.15:199][110]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.05.10-15.00.15:199][110]LogMaterial: Display: Missing cached shader map for material M_ACSU_Atlus_PoliceSkin_Front, compiling. 
+[2022.05.10-15.00.15:219][110]LogMaterial: Display: Missing cached shader map for material M_ACSU_Atlus_PoliceSkin_Front, compiling. 
+[2022.05.10-15.00.15:240][110]LogMaterial: Display: Missing cached shader map for material M_ACSU_Atlus_PoliceSkin_Body, compiling. 
+[2022.05.10-15.00.15:259][110]LogMaterial: Display: Missing cached shader map for material M_ACSU_Atlus_PoliceSkin_Body, compiling. 
+[2022.05.10-15.00.22:047][110]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 180
+[2022.05.10-15.00.22:047][110]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 170
+[2022.05.10-15.00.22:047][110]LogMaterial: Display: Missing cached shader map for material M_ACSU_Atlus_PoliceSkin_Louncher, compiling. 
+[2022.05.10-15.00.22:085][110]LogMaterial: Display: Missing cached shader map for material M_ACSU_Atlus_PoliceSkin_Louncher, compiling. 
+[2022.05.10-15.00.22:112][110]LogMaterial: Display: Missing cached shader map for material M_ACSU_Atlus_PoliceSkin_Head, compiling. 
+[2022.05.10-15.00.22:143][110]LogMaterial: Display: Missing cached shader map for material M_ACSU_Atlus_PoliceSkin_Head, compiling. 
+[2022.05.10-15.00.22:173][110]LogMaterial: Display: Missing cached shader map for material M_ACSU_Atlus_PoliceSkin_Hands, compiling. 
+[2022.05.10-15.00.22:205][110]LogMaterial: Display: Missing cached shader map for material M_ACSU_Atlus_PoliceSkin_Hands, compiling. 
+[2022.05.10-15.00.22:234][110]LogMaterial: Display: Missing cached shader map for material M_ACSU_Atlus_PoliceSkin_Root, compiling. 
+[2022.05.10-15.00.22:264][110]LogMaterial: Display: Missing cached shader map for material M_ACSU_Atlus_PoliceSkin_Root, compiling. 
+[2022.05.10-15.00.23:033][110]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 448
+[2022.05.10-15.00.23:033][110]LogSkeletalMesh: Building Skeletal Mesh Sk_ACSU_Atlus_BaseMesh...
+[2022.05.10-15.00.23:349][110]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 438
+[2022.05.10-15.00.23:660][110]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 428
+[2022.05.10-15.00.23:660][110]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 418
+[2022.05.10-15.00.23:660][110]LogSkeletalMesh: Display: /Game/ACSU_ATLUS/Mesh/Sk_ACSU_Atlus_BaseMesh.Sk_ACSU_Atlus_BaseMesh ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2022.05.10-15.00.26:966][110]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 408
+[2022.05.10-15.00.26:966][110]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 398
+[2022.05.10-15.00.26:966][110]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 388
+[2022.05.10-15.00.26:966][110]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 378
+[2022.05.10-15.00.27:753][110]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 368
+[2022.05.10-15.00.27:753][110]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 358
+[2022.05.10-15.00.27:753][110]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 348
+[2022.05.10-15.00.28:665][110]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 338
+[2022.05.10-15.00.28:665][110]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 328
+[2022.05.10-15.00.29:062][110]LogSkeletalMesh: Section 0: Material=0, 20622 triangles
+[2022.05.10-15.00.29:062][110]LogSkeletalMesh: Section 1: Material=1, 28298 triangles
+[2022.05.10-15.00.29:062][110]LogSkeletalMesh: Section 2: Material=2, 25386 triangles
+[2022.05.10-15.00.29:062][110]LogSkeletalMesh: Section 3: Material=3, 13008 triangles
+[2022.05.10-15.00.29:062][110]LogSkeletalMesh: Section 4: Material=4, 142 triangles
+[2022.05.10-15.00.29:062][110]LogSkeletalMesh: Section 5: Material=5, 11138 triangles
+[2022.05.10-15.00.29:062][110]LogSkeletalMesh: Section 6: Material=6, 4780 triangles
+[2022.05.10-15.00.29:062][110]LogSkeletalMesh: Section 7: Material=7, 14791 triangles
+[2022.05.10-15.00.29:652][110]LogSkeletalMesh: Built Skeletal Mesh [6.62s] /Game/ACSU_ATLUS/Mesh/Sk_ACSU_Atlus_BaseMesh.Sk_ACSU_Atlus_BaseMesh
+[2022.05.10-15.00.29:656][110]LogMaterial: Display: Missing cached shader map for material M_ACSU_Atlus_PoliceSkin_FrontPanel, compiling. 
+[2022.05.10-15.00.29:965][111]LogHttp: Warning: 00000261BF02D600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDF5A1FDD-498B-6543-FE68-D88950F58C72%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=3c874c284695f3519ab02382d3add7ce%7C3bcd8fed234a4ce9b594dfa660abeee6%7Cc60e58d1-ace1-4f59-afcd-43935d6499c3&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.05.10-15.00.29:965][111]LogHttp: Warning: 00000261BF02D600: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.05.10-15.00.29:965][111]LogHttp: Warning: 00000261BF02D600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2616833beb0 [can pipeline])
+[2022.05.10-15.00.29:965][111]LogHttp: Warning: 00000261BF02D600: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2022.05.10-15.00.29:965][111]LogHttp: Warning: 00000261BF02D600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (23.23.46.19) port 443 (#0))
+[2022.05.10-15.00.29:965][111]LogHttp: Warning: 00000261BF02D600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.05.10-15.00.29:965][111]LogHttp: Warning: 00000261BF02D600: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.05.10-15.00.29:965][111]LogHttp: Warning: 00000261BF02D600: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.05.10-15.00.29:965][111]LogHttp: Warning: 00000261BF02D600: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.05.10-15.00.29:965][111]LogHttp: Warning: 00000261BF02D600: libcurl info message cache 7 (Closing connection 0)
+[2022.05.10-15.00.30:015][112]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDF5A1FDD-498B-6543-FE68-D88950F58C72%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=3c874c284695f3519ab02382d3add7ce%7C3bcd8fed234a4ce9b594dfa660abeee6%7Cc60e58d1-ace1-4f59-afcd-43935d6499c3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.05.10-15.00.30:273][115]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 402
+[2022.05.10-15.00.30:450][119]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 392
+[2022.05.10-15.00.31:555][145]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 382
+[2022.05.10-15.00.33:055][193]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 372
+[2022.05.10-15.00.33:821][219]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 362
+[2022.05.10-15.00.34:532][241]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 352
+[2022.05.10-15.00.34:805][249]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 342
+[2022.05.10-15.00.35:724][280]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 332
+[2022.05.10-15.00.36:259][296]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 322
+[2022.05.10-15.00.36:639][309]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 312
+[2022.05.10-15.00.39:260][393]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 302
+[2022.05.10-15.00.39:449][398]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 292
+[2022.05.10-15.00.39:450][398]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 282
+[2022.05.10-15.00.41:393][464]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 272
+[2022.05.10-15.00.41:699][474]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 262
+[2022.05.10-15.00.41:851][479]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 252
+[2022.05.10-15.00.42:062][486]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 242
+[2022.05.10-15.00.45:079][586]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 232
+[2022.05.10-15.00.45:280][593]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 222
+[2022.05.10-15.00.45:337][595]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 212
+[2022.05.10-15.00.46:282][623]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 202
+[2022.05.10-15.00.47:374][659]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 192
+[2022.05.10-15.00.48:008][680]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 182
+[2022.05.10-15.00.49:292][722]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 172
+[2022.05.10-15.00.49:374][724]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 162
+[2022.05.10-15.00.51:577][796]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 152
+[2022.05.10-15.00.51:820][804]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 142
+[2022.05.10-15.00.51:897][806]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 132
+[2022.05.10-15.00.53:731][863]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 122
+[2022.05.10-15.00.53:757][864]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 112
+[2022.05.10-15.00.54:445][886]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 102
+[2022.05.10-15.00.56:147][941]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 92
+[2022.05.10-15.00.56:783][961]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 82
+[2022.05.10-15.00.57:538][985]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 72
+[2022.05.10-15.00.57:700][990]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 62
+[2022.05.10-15.00.59:586][ 50]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 54
+[2022.05.10-15.00.59:930][ 60]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 47
+[2022.05.10-15.01.00:647][ 81]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 41
+[2022.05.10-15.01.01:206][ 97]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 35
+[2022.05.10-15.01.13:582][482]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 30
+[2022.05.10-15.01.23:863][804]LogHttp: Warning: 000002623D058100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDF5A1FDD-498B-6543-FE68-D88950F58C72%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=3c874c284695f3519ab02382d3add7ce%7C3bcd8fed234a4ce9b594dfa660abeee6%7Cc60e58d1-ace1-4f59-afcd-43935d6499c3&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.05.10-15.01.23:863][804]LogHttp: Warning: 000002623D058100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.05.10-15.01.23:863][804]LogHttp: Warning: 000002623D058100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.05.10-15.01.23:863][804]LogHttp: Warning: 000002623D058100: libcurl info message cache 1 (Closing connection 1)
+[2022.05.10-15.01.23:863][804]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDF5A1FDD-498B-6543-FE68-D88950F58C72%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=3c874c284695f3519ab02382d3add7ce%7C3bcd8fed234a4ce9b594dfa660abeee6%7Cc60e58d1-ace1-4f59-afcd-43935d6499c3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.05.10-15.01.24:103][811]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 26
+[2022.05.10-15.01.26:622][888]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 22
+[2022.05.10-15.01.30:867][ 24]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2022.05.10-15.01.31:737][ 45]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2022.05.10-15.01.31:798][ 47]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2022.05.10-15.01.32:423][ 65]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2022.05.10-15.01.36:980][162]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2022.05.10-15.01.40:546][264]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2022.05.10-15.01.43:876][364]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.05.10-15.01.44:427][381]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2022.05.10-15.01.44:719][390]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2022.05.10-15.01.45:455][411]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2022.05.10-15.01.46:340][436]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.05.10-15.01.47:166][461]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.05.10-15.05.39:651][915]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Cinematics/Sequences/Sequence2-4/als_Working_On_Device.als_Working_On_Device
+[2022.05.10-15.05.39:669][915]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.05.10-15.05.39:959][915]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.05.10-15.05.39:965][915]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2022.05.10-15.05.40:499][915]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2022.05.10-15.05.40:564][915]LogRenderer: Reallocating scene render targets to support 1144x544 Format 9 NumSamples 1 (Frame:1).
+[2022.05.10-15.05.40:600][916]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.05.10-15.08.37:574][795]LogSlate: Window 'als_Working_On_Device' being destroyed
+[2022.05.10-15.08.37:585][795]LogSlate: Window 'als_Working_On_Device' being destroyed
+[2022.05.10-15.08.37:585][795]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.05.10-15.08.37:586][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.10-15.08.37:676][795]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.05.10-15.08.37:677][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.10-15.08.43:200][ 88]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.10-15.09.28:809][747]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ACSU_ATLUS/Animations/A_ACSU_Atlus_Run.A_ACSU_Atlus_Run
+[2022.05.10-15.09.39:348][373]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Sk ACSU Atlus Base Mesh)
+[2022.05.10-15.09.43:415][611]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/AdvancedLocomotionV4/Audio/Footsteps/Footstep_Cue.Footstep_Cue was zero and has changed. Consider manually Re-saving the asset
+[2022.05.10-15.09.54:060][244]LogSlate: Took 0.001229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.05.10-15.10.31:187][434]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Sk ACSU Atlus Base Mesh)
+[2022.05.10-15.10.51:823][639]Cmd: TRANSACTION UNDO
+[2022.05.10-15.10.51:823][639]LogEditorTransaction: Undo 재생 범위 설정
+[2022.05.10-15.11.13:614][908]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.10-15.11.22:897][444]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.10-15.11.35:503][153]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.10-15.11.39:171][360]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.10-15.11.40:766][444]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.10-15.12.22:060][582]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ACSU_ATLUS/Mesh/Sk_ACSU_Atlus_BaseMesh.Sk_ACSU_Atlus_BaseMesh
+[2022.05.10-15.12.22:082][582]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.05.10-15.12.22:474][582]LogRenderer: Reallocating scene render targets to support 1144x876 Format 9 NumSamples 1 (Frame:1).
+[2022.05.10-15.12.24:729][672]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/ACSU_ATLUS/Mesh/Sk_ACSU_Atlus_Skeleton.Sk_ACSU_Atlus_Skeleton
+[2022.05.10-15.12.24:747][672]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.05.10-15.12.30:507][911]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.05.10-15.12.30:507][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.10-15.12.31:945][978]LogSlate: Window 'Sk_ACSU_Atlus_BaseMesh' being destroyed
+[2022.05.10-15.12.31:958][978]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.05.10-15.12.31:959][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.10-15.12.34:899][117]LogMaterial: Display: Missing cached shader map for material M_ACSU_Atlus_PoliceSkin_Gun1, compiling. 
+[2022.05.10-15.12.34:925][117]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 36
+[2022.05.10-15.12.34:925][117]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 31
+[2022.05.10-15.12.34:925][117]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 26
+[2022.05.10-15.12.34:925][117]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2022.05.10-15.12.34:925][117]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2022.05.10-15.12.34:925][117]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2022.05.10-15.12.34:925][117]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2022.05.10-15.12.34:925][117]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.05.10-15.13.50:606][205]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.05.10-15.13.50:616][205]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Chapter3_UnderGround_' took 0.043
+[2022.05.10-15.13.50:618][205]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cinematics/Sequences/Sequence3-2/Shot3-2_4] ([1] browsable assets)...
+[2022.05.10-15.13.50:618][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematics/Sequences/Sequence3-2/Shot3-2_4]
+[2022.05.10-15.13.50:701][205]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/GitHub/No-Landing/Saved/Shot3-2_4_Auto1FA44BF90417E4DC4AFA3FF8D0CF2032A.tmp' to '../../../../../../Users/ASUS/Documents/GitHub/No-Landing/Saved/Autosaves/Game/Cinematics/Sequences/Sequence3-2/Shot3-2_4_Auto1.uasset'
+[2022.05.10-15.13.50:702][205]LogFileHelpers: Auto-saving content packages took 0.087
+[2022.05.10-15.14.59:415][113]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/GitHub/No-Landing/Saved/Shot3-2_42A81064C4F9C7C957301F1A4DA281F24.tmp' to '../../../../../../Users/ASUS/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Sequence3-2/Shot3-2_4.uasset'
+[2022.05.10-15.14.59:440][113]AssetCheck: New page: 애셋 저장: Shot3-2_4
+[2022.05.10-15.14.59:440][113]LogContentValidation: Display: LevelSequence /Game/Cinematics/Sequences/Sequence3-2/Shot3-2_4.Shot3-2_4 유효성 검사
+[2022.05.10-15.15.00:375][158]LogSlate: Window '시퀸서' being destroyed
+[2022.05.10-15.15.00:384][158]LogSlate: Window '시퀸서' being destroyed
+[2022.05.10-15.15.34:893][905]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cinematics/Sequences/Sequence1-1/Shot1-1_1.Shot1-1_1
+[2022.05.10-15.15.37:987][ 77]LogSlate: Window '시퀸서' being destroyed
+[2022.05.10-15.15.37:991][ 77]LogSlate: Window '시퀸서' being destroyed
+[2022.05.10-15.15.46:480][584]LogContentBrowser: Attempting asset rename: Shot1-1_1 -> Shot1-1_1_BackUp
+[2022.05.10-15.15.48:605][584]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/GitHub/No-Landing/Saved/Shot1-1_1_BackUp23D02A064D068DFD7757238E841F5E48.tmp' to '../../../../../../Users/ASUS/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Sequence1-1/Shot1-1_1_BackUp.uasset'
+[2022.05.10-15.15.48:816][584]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/GitHub/No-Landing/Saved/Shot1-1_12B2983004DBDF878752A0D812F4807B8.tmp' to '../../../../../../Users/ASUS/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Sequence1-1/Shot1-1_1.uasset'
+[2022.05.10-15.15.49:606][584]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2022.05.10-15.15.49:606][584]LogContentValidation: Display: ObjectRedirector /Game/Cinematics/Sequences/Sequence1-1/Shot1-1_1.Shot1-1_1 유효성 검사
+[2022.05.10-15.15.49:606][584]LogContentValidation: Display: LevelSequence /Game/Cinematics/Sequences/Sequence1-1/Shot1-1_1_BackUp.Shot1-1_1_BackUp 유효성 검사
+[2022.05.10-15.19.00:854][549]LogMaterial: Display: Missing cached shader map for material M_Debris_Tileable_01, compiling. 
+[2022.05.10-15.19.00:898][549]LogMaterial: Display: Missing cached shader map for material M_RockSmall_01, compiling. 
+[2022.05.10-15.19.00:909][549]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 84
+[2022.05.10-15.19.00:909][549]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 74
+[2022.05.10-15.19.00:909][549]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 64
+[2022.05.10-15.19.00:909][549]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 54
+[2022.05.10-15.19.00:909][549]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 44
+[2022.05.10-15.19.00:909][549]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 34
+[2022.05.10-15.19.00:909][549]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 24
+[2022.05.10-15.19.00:909][549]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2022.05.10-15.19.00:909][549]LogMaterial: Display: Missing cached shader map for material M_LightRay_01, compiling. 
+[2022.05.10-15.19.00:921][549]LogMaterial: Display: Missing cached shader map for material M_Shockwave_Refraction_01, compiling. 
+[2022.05.10-15.19.00:935][549]LogMaterial: Display: Missing cached shader map for material M_Ember_Speed_01, compiling. 
+[2022.05.10-15.19.00:959][549]LogMaterial: Display: Missing cached shader map for material M_GlowSphere_01, compiling. 
+[2022.05.10-15.19.00:979][549]LogMaterial: Display: Missing cached shader map for material M_Explosion_8x8_A_01, compiling. 
+[2022.05.10-15.19.01:028][549]LogMaterial: Display: Missing cached shader map for material M_Smoke_8x8_B_01, compiling. 
+[2022.05.10-15.19.01:077][549]LogMaterial: Display: Missing cached shader map for material M_SmokeRibbon_01, compiling. 
+[2022.05.10-15.19.01:112][549]LogMaterial: Display: Missing cached shader map for material M_WeaponMaster_01, compiling. 
+[2022.05.10-15.19.01:180][549]LogSkeletalMesh: Building Skeletal Mesh Sk_ACSU_Atlus_HandsPad_L...
+[2022.05.10-15.19.01:231][549]LogTexture: Display: 텍스처 빌드: T_ACSU_Atlus_PoliceSkin_Gun2_Albedo (AutoDXT, 4096X4096)
+[2022.05.10-15.19.01:281][549]LogSkeletalMesh: Section 0: Material=0, 1540 triangles
+[2022.05.10-15.19.01:294][549]LogSkeletalMesh: Built Skeletal Mesh [0.12s] /Game/ACSU_ATLUS/Mesh/Parts/Sk_ACSU_Atlus_HandsPad_L.Sk_ACSU_Atlus_HandsPad_L
+[2022.05.10-15.19.04:822][549]LogTexture: Display: 텍스처 빌드: T_ACSU_Atlus_PoliceSkin_Gun2_Roughness (AutoDXT, 4096X4096)
+[2022.05.10-15.19.04:822][549]LogTexture: Display: 텍스처 빌드: T_ACSU_Atlus_PoliceSkin_Gun2_Metallic (AutoDXT, 4096X4096)
+[2022.05.10-15.19.04:822][549]LogMaterial: Display: Missing cached shader map for material WarningTexture, compiling. 
+[2022.05.10-15.19.04:831][549]LogMaterial: Display: Missing cached shader map for material M_SPHydrants_Mat01, compiling. 
+[2022.05.10-15.19.04:857][549]LogSkeletalMesh: Building Skeletal Mesh Sk_ACSU_Atlus_Mines_R...
+[2022.05.10-15.19.04:972][549]LogSkeletalMesh: Section 0: Material=0, 944 triangles
+[2022.05.10-15.19.04:981][549]LogSkeletalMesh: Built Skeletal Mesh [0.12s] /Game/ACSU_ATLUS/Mesh/Parts/Sk_ACSU_Atlus_Mines_R.Sk_ACSU_Atlus_Mines_R
+[2022.05.10-15.19.04:982][549]LogMaterial: Display: Missing cached shader map for material M_ACSU_Atlus_CamoSkin_Gun2, compiling. 
+[2022.05.10-15.19.07:721][549]LogMaterial: Display: Missing cached shader map for material M_ACSU_Atlus_PoliceSkin_Gun2, compiling. 
+[2022.05.10-15.19.07:920][549]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ACSU_ATLUS/BluePrints/BP_Boss.BP_Boss
+[2022.05.10-15.19.08:513][549]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-15.19.08:514][549]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-15.19.08:515][549]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-15.19.09:444][549]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-15.19.09:444][549]LoadErrors: 로드에 실패했습니다. /Game/BeachScene/Effects/Niagara/RT_Foam.RT_Foam 참조한 것: M_Fluid_Sim_01
+[2022.05.10-15.19.09:448][549]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.05.10-15.19.09:448][549]LoadErrors: 로드에 실패했습니다. /Game/BeachScene/Effects/Niagara/RT_Foam.RT_Foam 참조한 것: MaterialExpressionTextureSample_1
+[2022.05.10-15.19.09:528][549]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_01, compiling. 
+[2022.05.10-15.19.09:532][549]LogMaterial: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.10-15.19.09:532][549]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.10-15.19.09:533][549]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_01, compiling. 
+[2022.05.10-15.19.09:536][549]LogMaterial: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01_NoTerrain.uasset: Failed to compile Material Instance with Base M_Fluid_Sim_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.10-15.19.09:536][549]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.10-15.19.09:659][549]LogBlueprintEditor: Perf: 1.6 total seconds to load all 8 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2022.05.10-15.19.09:659][549]LogBlueprintEditor: Perf: 1.3 seconds loading: /Water/FluidSimulation/Blueprints/Libraries/PhysicsMacros
+[2022.05.10-15.19.09:676][549]LogEnum: Warning: Enum name collision: 'ReticleMode::NewEnumerator0' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/ReticleMode.ReticleMode' and '/Game/BP/Guns/ReticleMode.ReticleMode'
+[2022.05.10-15.19.09:676][549]LogEnum: Warning: Enum name collision: 'ReticleMode::NewEnumerator1' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/ReticleMode.ReticleMode' and '/Game/BP/Guns/ReticleMode.ReticleMode'
+[2022.05.10-15.19.09:676][549]LogEnum: Warning: Enum name collision: 'ReticleMode::NewEnumerator2' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/ReticleMode.ReticleMode' and '/Game/BP/Guns/ReticleMode.ReticleMode'
+[2022.05.10-15.19.09:676][549]LogEnum: Warning: Enum name collision: 'ReticleMode::ReticleMode_MAX' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/ReticleMode.ReticleMode' and '/Game/BP/Guns/ReticleMode.ReticleMode'
+[2022.05.10-15.19.09:676][549]LogEnum: Warning: Enum name collision: 'ReticleMode::NewEnumerator0' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/ReticleMode.ReticleMode' and '/Game/BP/Guns/ReticleMode.ReticleMode'
+[2022.05.10-15.19.09:676][549]LogEnum: Warning: Enum name collision: 'ReticleMode::NewEnumerator1' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/ReticleMode.ReticleMode' and '/Game/BP/Guns/ReticleMode.ReticleMode'
+[2022.05.10-15.19.09:676][549]LogEnum: Warning: Enum name collision: 'ReticleMode::NewEnumerator2' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/ReticleMode.ReticleMode' and '/Game/BP/Guns/ReticleMode.ReticleMode'
+[2022.05.10-15.19.09:795][549]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 126 classes and 0 folders.
+[2022.05.10-15.19.12:342][549]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 512
+[2022.05.10-15.19.12:342][549]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 502
+[2022.05.10-15.19.12:342][549]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 492
+[2022.05.10-15.19.12:342][549]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 482
+[2022.05.10-15.19.12:342][549]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 472
+[2022.05.10-15.19.12:342][549]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 462
+[2022.05.10-15.19.12:342][549]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 452
+[2022.05.10-15.19.12:342][549]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 442
+[2022.05.10-15.19.12:375][549]LogMaterial: Display: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2022.05.10-15.19.12:943][551]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.05.10-15.19.14:861][551]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 453
+[2022.05.10-15.19.14:861][551]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 443
+[2022.05.10-15.19.14:861][551]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 433
+[2022.05.10-15.19.14:861][551]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.917 s
+[2022.05.10-15.19.14:861][551]LogOutputDevice: Error: === Handled ensure: ===
+[2022.05.10-15.19.14:861][551]LogOutputDevice: Error: 
+[2022.05.10-15.19.14:861][551]LogOutputDevice: Error: Ensure condition failed: Cast<APawn>(NewUpdatedComponent->GetOwner()) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Components/PawnMovementComponent.cpp] [Line: 18]
+[2022.05.10-15.19.14:861][551]LogOutputDevice: Error: FloatingPawnMovement must update a component owned by a Pawn
+[2022.05.10-15.19.14:861][551]LogOutputDevice: Error: Stack: 
+[2022.05.10-15.19.14:861][551]LogOutputDevice: Error: [Callstack] 0x00007ffc9b5f8dd2 UE4Editor-Engine.dll!UnknownFunction []
+[2022.05.10-15.19.14:861][551]LogOutputDevice: Error: [Callstack] 0x00007ffc9a06f95d UE4Editor-Engine.dll!UnknownFunction []
+[2022.05.10-15.19.14:861][551]LogOutputDevice: Error: [Callstack] 0x00007ffc9a057143 UE4Editor-Engine.dll!UnknownFunction []
+[2022.05.10-15.19.14:861][551]LogOutputDevice: Error: [Callstack] 0x00007ffc99befe3d UE4Editor-Engine.dll!UnknownFunction []
+[2022.05.10-15.19.14:861][551]LogOutputDevice: Error: [Callstack] 0x00007ffc99bf70b4 UE4Editor-Engine.dll!UnknownFunction []
+[2022.05.10-15.19.14:861][551]LogOutputDevice: Error: [Callstack] 0x00007ffc99be1f2d UE4Editor-Engine.dll!UnknownFunction []
+[2022.05.10-15.19.14:861][551]LogOutputDevice: Error: [Callstack] 0x00007ffc99bfb7bb UE4Editor-Engine.dll!UnknownFunction []
+[2022.05.10-15.19.14:861][551]LogOutputDevice: Error: [Callstack] 0x00007ffc9a51182d UE4Editor-Engine.dll!UnknownFunction []
+[2022.05.10-15.19.14:861][551]LogOutputDevice: Error: [Callstack] 0x00007ffc9a511cc8 UE4Editor-Engine.dll!UnknownFunction []
+[2022.05.10-15.19.14:861][551]LogOutputDevice: Error: [Callstack] 0x00007ffc982954f1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.10-15.19.14:861][551]LogOutputDevice: Error: [Callstack] 0x00007ffc9825a2c6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.10-15.19.14:861][551]LogOutputDevice: Error: [Callstack] 0x00007ffc97f618d3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.10-15.19.14:861][551]LogOutputDevice: Error: [Callstack] 0x00007ffc976e6392 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.10-15.19.14:861][551]LogOutputDevice: Error: [Callstack] 0x00007ffc97624a29 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.10-15.19.14:861][551]LogOutputDevice: Error: [Callstack] 0x00007ffc97a38656 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.10-15.19.14:861][551]LogOutputDevice: Error: [Callstack] 0x00007ffc983550e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.10-15.19.14:861][551]LogOutputDevice: Error: [Callstack] 0x00007ff615a59bc2 UE4Editor.exe!UnknownFunction []
+[2022.05.10-15.19.14:861][551]LogOutputDevice: Error: [Callstack] 0x00007ff615a7117c UE4Editor.exe!UnknownFunction []
+[2022.05.10-15.19.14:861][551]LogOutputDevice: Error: [Callstack] 0x00007ff615a7125a UE4Editor.exe!UnknownFunction []
+[2022.05.10-15.19.14:861][551]LogOutputDevice: Error: [Callstack] 0x00007ff615a852bd UE4Editor.exe!UnknownFunction []
+[2022.05.10-15.19.14:861][551]LogOutputDevice: Error: [Callstack] 0x00007ff615a87fea UE4Editor.exe!UnknownFunction []
+[2022.05.10-15.19.14:861][551]LogOutputDevice: Error: [Callstack] 0x00007ffced9f54e0 KERNEL32.DLL!UnknownFunction []
+[2022.05.10-15.19.14:861][551]LogOutputDevice: Error: [Callstack] 0x00007ffceec0485b ntdll.dll!UnknownFunction []
+[2022.05.10-15.19.14:861][551]LogOutputDevice: Error: 
