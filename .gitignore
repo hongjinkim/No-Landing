@@ -129,3 +129,5 @@ Content/Maps/Chapter3_UnderGround__BuiltData.uasset
 Content/Maps/Chapter3_BuiltData.uasset
 Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
 Content/Maps/Chapter4_BuiltData.uasset
+*.uasset
+Content/Maps/Chapter3_UnderGround__BuiltData.uasset
