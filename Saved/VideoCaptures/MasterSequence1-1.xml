@@ -6,6 +6,7 @@
 			<clip id="masterclip-1">
 				<masterclipid>masterclip-1</masterclipid>
 				<ismasterclip>TRUE</ismasterclip>
+<<<<<<< Updated upstream
 				<duration>121</duration>
 				<rate>
 					<timebase>30</timebase>
@@ -14,12 +15,23 @@
 				<in>0</in>
 				<out>121</out>
 				<name>Shot1-1_0</name>
+=======
+				<duration>481</duration>
+				<rate>
+					<timebase>60</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<in>0</in>
+				<out>481</out>
+				<name>Shot1-1_1</name>
+>>>>>>> Stashed changes
 				<media>
 					<video>
 						<track>
 							<clipitem id="clipitem-1">
 								<masterclipid>masterclip-1</masterclipid>
 								<ismasterclip>TRUE</ismasterclip>
+<<<<<<< Updated upstream
 								<name>Shot1-1_0</name>
 								<enabled>TRUE</enabled>
 								<duration>121</duration>
@@ -125,6 +137,31 @@
 									<timecode>
 										<rate>
 											<timebase>30</timebase>
+=======
+								<name>Shot1-1_1</name>
+								<enabled>TRUE</enabled>
+								<duration>481</duration>
+								<rate>
+									<timebase>60</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<in>0</in>
+								<out>481</out>
+								<anamorphic>FALSE</anamorphic>
+								<pixelaspectratio>square</pixelaspectratio>
+								<fielddominance>lower</fielddominance>
+								<file id="file-1">
+									<name>Shot1-1_1.mp4</name>
+									<pathurl>file://localhost/C%3a/Users/ASUS/Documents/GitHub/No-Landing/Saved/VideoCaptures/Shot1-1_1.mp4</pathurl>
+									<rate>
+										<timebase>60</timebase>
+										<ntsc>FALSE</ntsc>
+									</rate>
+									<duration>481</duration>
+									<timecode>
+										<rate>
+											<timebase>60</timebase>
+>>>>>>> Stashed changes
 											<ntsc>FALSE</ntsc>
 										</rate>
 										<string>00:00:00:00</string>
@@ -134,7 +171,11 @@
 										<video>
 											<samplecharacteristics>
 												<rate>
+<<<<<<< Updated upstream
 													<timebase>30</timebase>
+=======
+													<timebase>60</timebase>
+>>>>>>> Stashed changes
 													<ntsc>FALSE</ntsc>
 												</rate>
 												<width>4096</width>
@@ -167,6 +208,7 @@
 					<lut2 />
 				</colorinfo>
 			</clip>
+<<<<<<< Updated upstream
 			<clip id="masterclip-3">
 				<masterclipid>masterclip-3</masterclipid>
 				<ismasterclip>TRUE</ismasterclip>
@@ -177,10 +219,23 @@
 				</rate>
 				<in>0</in>
 				<out>301</out>
+=======
+			<clip id="masterclip-2">
+				<masterclipid>masterclip-2</masterclipid>
+				<ismasterclip>TRUE</ismasterclip>
+				<duration>420</duration>
+				<rate>
+					<timebase>60</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<in>0</in>
+				<out>420</out>
+>>>>>>> Stashed changes
 				<name>Shot1-1_2</name>
 				<media>
 					<video>
 						<track>
+<<<<<<< Updated upstream
 							<clipitem id="clipitem-3">
 								<masterclipid>masterclip-3</masterclipid>
 								<ismasterclip>TRUE</ismasterclip>
@@ -207,6 +262,34 @@
 									<timecode>
 										<rate>
 											<timebase>30</timebase>
+=======
+							<clipitem id="clipitem-2">
+								<masterclipid>masterclip-2</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<name>Shot1-1_2</name>
+								<enabled>TRUE</enabled>
+								<duration>420</duration>
+								<rate>
+									<timebase>60</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<in>0</in>
+								<out>420</out>
+								<anamorphic>FALSE</anamorphic>
+								<pixelaspectratio>square</pixelaspectratio>
+								<fielddominance>lower</fielddominance>
+								<file id="file-2">
+									<name>Shot1-1_2.mp4</name>
+									<pathurl>file://localhost/C%3a/Users/ASUS/Documents/GitHub/No-Landing/Saved/VideoCaptures/Shot1-1_2.mp4</pathurl>
+									<rate>
+										<timebase>60</timebase>
+										<ntsc>FALSE</ntsc>
+									</rate>
+									<duration>420</duration>
+									<timecode>
+										<rate>
+											<timebase>60</timebase>
+>>>>>>> Stashed changes
 											<ntsc>FALSE</ntsc>
 										</rate>
 										<string>00:00:00:00</string>
@@ -216,7 +299,11 @@
 										<video>
 											<samplecharacteristics>
 												<rate>
+<<<<<<< Updated upstream
 													<timebase>30</timebase>
+=======
+													<timebase>60</timebase>
+>>>>>>> Stashed changes
 													<ntsc>FALSE</ntsc>
 												</rate>
 												<width>4096</width>
@@ -250,9 +337,15 @@
 				</colorinfo>
 			</clip>
 			<sequence id="sequence-1">
+<<<<<<< Updated upstream
 				<duration>518</duration>
 				<rate>
 					<timebase>30</timebase>
+=======
+				<duration>901</duration>
+				<rate>
+					<timebase>60</timebase>
+>>>>>>> Stashed changes
 					<ntsc>FALSE</ntsc>
 				</rate>
 				<name>MasterSequence1-1</name>
@@ -261,7 +354,11 @@
 						<format>
 							<samplecharacteristics>
 								<rate>
+<<<<<<< Updated upstream
 									<timebase>30</timebase>
+=======
+									<timebase>60</timebase>
+>>>>>>> Stashed changes
 									<ntsc>FALSE</ntsc>
 								</rate>
 								<width>4096</width>
@@ -272,6 +369,7 @@
 							</samplecharacteristics>
 						</format>
 						<track>
+<<<<<<< Updated upstream
 							<clipitem id="clipitem-4">
 								<masterclipid>masterclip-3</masterclipid>
 								<ismasterclip>FALSE</ismasterclip>
@@ -287,11 +385,29 @@
 								<in>0</in>
 								<out>301</out>
 								<file id="file-3" />
+=======
+							<clipitem id="clipitem-3">
+								<masterclipid>masterclip-2</masterclipid>
+								<ismasterclip>FALSE</ismasterclip>
+								<name>Shot1-1_2</name>
+								<enabled>TRUE</enabled>
+								<duration>420</duration>
+								<rate>
+									<timebase>60</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>481</start>
+								<end>901</end>
+								<in>0</in>
+								<out>420</out>
+								<file id="file-2" />
+>>>>>>> Stashed changes
 							</clipitem>
 							<enabled>TRUE</enabled>
 							<locked>FALSE</locked>
 						</track>
 						<track>
+<<<<<<< Updated upstream
 							<clipitem id="clipitem-5">
 								<masterclipid>masterclip-1</masterclipid>
 								<ismasterclip>FALSE</ismasterclip>
@@ -323,6 +439,23 @@
 								<in>0</in>
 								<out>99</out>
 								<file id="file-2" />
+=======
+							<clipitem id="clipitem-4">
+								<masterclipid>masterclip-1</masterclipid>
+								<ismasterclip>FALSE</ismasterclip>
+								<name>Shot1-1_1</name>
+								<enabled>TRUE</enabled>
+								<duration>481</duration>
+								<rate>
+									<timebase>60</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>0</start>
+								<end>481</end>
+								<in>0</in>
+								<out>481</out>
+								<file id="file-1" />
+>>>>>>> Stashed changes
 							</clipitem>
 							<enabled>TRUE</enabled>
 							<locked>FALSE</locked>
@@ -350,7 +483,11 @@
 				</media>
 				<timecode>
 					<rate>
+<<<<<<< Updated upstream
 						<timebase>30</timebase>
+=======
+						<timebase>60</timebase>
+>>>>>>> Stashed changes
 						<ntsc>FALSE</ntsc>
 					</rate>
 					<string>00:00:00:00</string>

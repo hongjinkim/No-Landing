@@ -4,7 +4,11 @@ rv : RVSession (2)
 {
 	session
 	{
+<<<<<<< Updated upstream
 		float fps = 30.000000
+=======
+		float fps = 60.000000
+>>>>>>> Stashed changes
 		int realtime = 1
 	}
 
@@ -19,6 +23,7 @@ sourceGroup000000 : RVSourceGroup (1)
 {
 	ui
 	{
+<<<<<<< Updated upstream
 		string name = "Shot1-1_0.mp4"
 	}
 }
@@ -47,16 +52,26 @@ sourceGroup000001 : RVSourceGroup (1)
 {
 	ui
 	{
+=======
+>>>>>>> Stashed changes
 		string name = "Shot1-1_1.mp4"
 	}
 }
 
+<<<<<<< Updated upstream
 sourceGroup000001_source : RVFileSource (1)
+=======
+sourceGroup000000_source : RVFileSource (1)
+>>>>>>> Stashed changes
 {
 	cut
 	{
 		int in = 0
+<<<<<<< Updated upstream
 		int out = 99
+=======
+		int out = 481
+>>>>>>> Stashed changes
 	}
 
 	group
@@ -71,7 +86,11 @@ sourceGroup000001_source : RVFileSource (1)
 	}
 }
 
+<<<<<<< Updated upstream
 sourceGroup000002 : RVSourceGroup (1)
+=======
+sourceGroup000001 : RVSourceGroup (1)
+>>>>>>> Stashed changes
 {
 	ui
 	{
@@ -79,12 +98,20 @@ sourceGroup000002 : RVSourceGroup (1)
 	}
 }
 
+<<<<<<< Updated upstream
 sourceGroup000002_source : RVFileSource (1)
+=======
+sourceGroup000001_source : RVFileSource (1)
+>>>>>>> Stashed changes
 {
 	cut
 	{
 		int in = 0
+<<<<<<< Updated upstream
 		int out = 300
+=======
+		int out = 420
+>>>>>>> Stashed changes
 	}
 
 	group
