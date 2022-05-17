@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ﻿Log file open, 05/17/22 00:43:09
+=======
+﻿Log file open, 04/18/22 21:04:22
+>>>>>>> Stashed changes
 =======
 ﻿Log file open, 04/18/22 21:04:22
 >>>>>>> Stashed changes
@@ -8,9 +12,15 @@ LogInit: LLM CsvWriter: off TraceWriter: off
 LogInit: Display: Running engine for game: SANPERO
 LogPlatformFile: Not using cached read wrapper
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.193441
 LogPluginManager: Warning: Plugin 'RLPlugin' exists at '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Plugins/Auto_Setup_1.2/RLPlugin.uplugin' and '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Plugins/Auto_Setup_1.22/RLPlugin.uplugin' - second location will be ignored
+=======
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.227796
+LogPluginManager: Warning: Plugin 'RLPlugin' exists at '../../../../../../Users/ASUS/Documents/GitHub/No-Landing/Plugins/Auto_Setup_1.2/RLPlugin.uplugin' and '../../../../../../Users/ASUS/Documents/GitHub/No-Landing/Plugins/Auto_Setup_1.22/RLPlugin.uplugin' - second location will be ignored
+>>>>>>> Stashed changes
 =======
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.227796
@@ -36,9 +46,15 @@ LogPluginManager: Mounting plugin EditorScriptingUtilities
 LogPluginManager: Mounting plugin FacialAnimation
 LogPluginManager: Mounting plugin GeometryMode
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin MaterialAnalyzer
 LogPluginManager: Mounting plugin Niagara
 LogPluginManager: Mounting plugin MacGraphicsSwitching
+=======
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+>>>>>>> Stashed changes
 =======
 LogPluginManager: Mounting plugin GameplayTagsEditor
 LogPluginManager: Mounting plugin MacGraphicsSwitching
@@ -49,9 +65,12 @@ LogPluginManager: Mounting plugin DatasmithContent
 LogPluginManager: Mounting plugin PluginBrowser
 LogPluginManager: Mounting plugin SpeedTreeImporter
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin DatasmithContent
 LogPluginManager: Mounting plugin VariantManagerContent
 =======
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin Niagara
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin AlembicImporter
@@ -66,7 +85,12 @@ LogPluginManager: Mounting plugin ChaosCloth
 LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
 LogPluginManager: Mounting plugin ChaosClothEditor
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin ChaosEditor
+=======
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin ChaosNiagara
+>>>>>>> Stashed changes
 =======
 LogPluginManager: Mounting plugin NullSourceCodeAccess
 LogPluginManager: Mounting plugin ChaosNiagara
@@ -85,6 +109,7 @@ LogPluginManager: Mounting plugin UObjectPlugin
 LogPluginManager: Mounting plugin GeometryCollectionPlugin
 LogPluginManager: Mounting plugin GeometryProcessing
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin LuminPlatformFeatures
 LogPluginManager: Mounting plugin MagicLeap
 LogPluginManager: Mounting plugin MagicLeapLightEstimation
@@ -94,10 +119,15 @@ LogPluginManager: Mounting plugin MLSDK
 LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
 LogPluginManager: Mounting plugin XCodeSourceCodeAccess
 >>>>>>> Stashed changes
+=======
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin Landmass
 LogPluginManager: Mounting plugin MotoSynth
 LogPluginManager: Mounting plugin PlanarCut
 LogPluginManager: Mounting plugin PlatformCrypto
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPluginManager: Mounting plugin ChaosNiagara
 LogPluginManager: Mounting plugin RLLiveLink
@@ -108,6 +138,11 @@ LogPluginManager: Mounting plugin Water
 LogPluginManager: Mounting plugin ProxyLODPlugin
 LogPluginManager: Mounting plugin PythonScriptPlugin
 LogPluginManager: Mounting plugin SkeletalReduction
+=======
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin RLLiveLink
 LogPluginManager: Mounting plugin RootMotionGuidePlugin
 LogPluginManager: Mounting plugin Water
@@ -117,6 +152,9 @@ LogPluginManager: Mounting plugin MagicLeapLightEstimation
 LogPluginManager: Mounting plugin MagicLeapMedia
 LogPluginManager: Mounting plugin MagicLeapPassableWorld
 LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin AndroidMedia
 LogPluginManager: Mounting plugin MLSDK
@@ -135,10 +173,17 @@ LogPluginManager: Mounting plugin TemplateSequence
 LogPluginManager: Mounting plugin LauncherChunkInstaller
 LogPluginManager: Mounting plugin OnlineSubsystem
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin OnlineSubsystemNull
 LogPluginManager: Mounting plugin OnlineSubsystemUtils
 LogPluginManager: Mounting plugin ProxyLODPlugin
 LogPluginManager: Mounting plugin ActorLayerUtilities
+=======
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+>>>>>>> Stashed changes
 =======
 LogPluginManager: Mounting plugin ActorLayerUtilities
 LogPluginManager: Mounting plugin OnlineSubsystemNull
@@ -159,7 +204,10 @@ LogPluginManager: Mounting plugin AudioSynesthesia
 LogPluginManager: Mounting plugin ChunkDownloader
 LogPluginManager: Mounting plugin CustomMeshComponent
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin EditableMesh
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
@@ -202,10 +250,13 @@ LogPluginManager: Mounting plugin XCodeSourceCodeAccess
 LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
 LogPluginManager: Mounting plugin ContentBrowserClassDataSource
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
 LogPluginManager: Mounting plugin OnlineSubsystemIOS
 =======
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin ContentBrowserFileDataSource
 LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
 LogPluginManager: Mounting plugin OnlineSubsystemIOS
@@ -302,6 +353,7 @@ LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
 LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 [2022.05.16-15.43.10:736][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2022.05.16-15.43.10:736][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -3237,6 +3289,8 @@ Make sure 'ALS_Player_C' has been compiled for  Set bulletDamage
 [2022.05.16-16.00.43:833][267]LogExit: Exiting.
 [2022.05.16-16.00.43:847][267]Log file closed, 05/17/22 01:00:43
 =======
+=======
+>>>>>>> Stashed changes
 [2022.04.18-12.04.22:665][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2022.04.18-12.04.22:665][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2022.04.18-12.04.22:665][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ASUS/Documents/GitHub/No-Landing/Saved/Config/Windows/Engine.ini]
@@ -6880,4 +6934,7 @@ Make sure 'ALS_Player_C' has been compiled for  Set bulletDamage
 [2022.04.18-17.49.30:384][750]LogD3D12RHI: ~FD3D12DynamicRHI
 [2022.04.18-17.49.30:400][750]LogExit: Exiting.
 [2022.04.18-17.49.30:413][750]Log file closed, 04/19/22 02:49:30
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

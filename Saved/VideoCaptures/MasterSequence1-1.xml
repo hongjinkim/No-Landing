@@ -7,6 +7,7 @@
 				<masterclipid>masterclip-1</masterclipid>
 				<ismasterclip>TRUE</ismasterclip>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 				<duration>121</duration>
 				<rate>
 					<timebase>30</timebase>
@@ -16,6 +17,8 @@
 				<out>121</out>
 				<name>Shot1-1_0</name>
 =======
+=======
+>>>>>>> Stashed changes
 				<duration>481</duration>
 				<rate>
 					<timebase>60</timebase>
@@ -24,6 +27,9 @@
 				<in>0</in>
 				<out>481</out>
 				<name>Shot1-1_1</name>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 				<media>
 					<video>
@@ -31,6 +37,7 @@
 							<clipitem id="clipitem-1">
 								<masterclipid>masterclip-1</masterclipid>
 								<ismasterclip>TRUE</ismasterclip>
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 								<name>Shot1-1_0</name>
 								<enabled>TRUE</enabled>
@@ -138,6 +145,8 @@
 										<rate>
 											<timebase>30</timebase>
 =======
+=======
+>>>>>>> Stashed changes
 								<name>Shot1-1_1</name>
 								<enabled>TRUE</enabled>
 								<duration>481</duration>
@@ -161,6 +170,9 @@
 									<timecode>
 										<rate>
 											<timebase>60</timebase>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 											<ntsc>FALSE</ntsc>
 										</rate>
@@ -172,7 +184,11 @@
 											<samplecharacteristics>
 												<rate>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 													<timebase>30</timebase>
+=======
+													<timebase>60</timebase>
+>>>>>>> Stashed changes
 =======
 													<timebase>60</timebase>
 >>>>>>> Stashed changes
@@ -209,6 +225,7 @@
 				</colorinfo>
 			</clip>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 			<clip id="masterclip-3">
 				<masterclipid>masterclip-3</masterclipid>
 				<ismasterclip>TRUE</ismasterclip>
@@ -220,6 +237,8 @@
 				<in>0</in>
 				<out>301</out>
 =======
+=======
+>>>>>>> Stashed changes
 			<clip id="masterclip-2">
 				<masterclipid>masterclip-2</masterclipid>
 				<ismasterclip>TRUE</ismasterclip>
@@ -230,11 +249,15 @@
 				</rate>
 				<in>0</in>
 				<out>420</out>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 				<name>Shot1-1_2</name>
 				<media>
 					<video>
 						<track>
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 							<clipitem id="clipitem-3">
 								<masterclipid>masterclip-3</masterclipid>
@@ -263,6 +286,8 @@
 										<rate>
 											<timebase>30</timebase>
 =======
+=======
+>>>>>>> Stashed changes
 							<clipitem id="clipitem-2">
 								<masterclipid>masterclip-2</masterclipid>
 								<ismasterclip>TRUE</ismasterclip>
@@ -289,6 +314,9 @@
 									<timecode>
 										<rate>
 											<timebase>60</timebase>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 											<ntsc>FALSE</ntsc>
 										</rate>
@@ -300,7 +328,11 @@
 											<samplecharacteristics>
 												<rate>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 													<timebase>30</timebase>
+=======
+													<timebase>60</timebase>
+>>>>>>> Stashed changes
 =======
 													<timebase>60</timebase>
 >>>>>>> Stashed changes
@@ -338,9 +370,15 @@
 			</clip>
 			<sequence id="sequence-1">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 				<duration>518</duration>
 				<rate>
 					<timebase>30</timebase>
+=======
+				<duration>901</duration>
+				<rate>
+					<timebase>60</timebase>
+>>>>>>> Stashed changes
 =======
 				<duration>901</duration>
 				<rate>
@@ -355,7 +393,11 @@
 							<samplecharacteristics>
 								<rate>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 									<timebase>30</timebase>
+=======
+									<timebase>60</timebase>
+>>>>>>> Stashed changes
 =======
 									<timebase>60</timebase>
 >>>>>>> Stashed changes
@@ -369,6 +411,7 @@
 							</samplecharacteristics>
 						</format>
 						<track>
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 							<clipitem id="clipitem-4">
 								<masterclipid>masterclip-3</masterclipid>
@@ -386,6 +429,8 @@
 								<out>301</out>
 								<file id="file-3" />
 =======
+=======
+>>>>>>> Stashed changes
 							<clipitem id="clipitem-3">
 								<masterclipid>masterclip-2</masterclipid>
 								<ismasterclip>FALSE</ismasterclip>
@@ -401,12 +446,16 @@
 								<in>0</in>
 								<out>420</out>
 								<file id="file-2" />
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 							</clipitem>
 							<enabled>TRUE</enabled>
 							<locked>FALSE</locked>
 						</track>
 						<track>
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 							<clipitem id="clipitem-5">
 								<masterclipid>masterclip-1</masterclipid>
@@ -440,6 +489,8 @@
 								<out>99</out>
 								<file id="file-2" />
 =======
+=======
+>>>>>>> Stashed changes
 							<clipitem id="clipitem-4">
 								<masterclipid>masterclip-1</masterclipid>
 								<ismasterclip>FALSE</ismasterclip>
@@ -455,6 +506,9 @@
 								<in>0</in>
 								<out>481</out>
 								<file id="file-1" />
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 							</clipitem>
 							<enabled>TRUE</enabled>
@@ -484,7 +538,11 @@
 				<timecode>
 					<rate>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 						<timebase>30</timebase>
+=======
+						<timebase>60</timebase>
+>>>>>>> Stashed changes
 =======
 						<timebase>60</timebase>
 >>>>>>> Stashed changes
