@@ -1,9 +1,7 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\ghdwl\\Documents\\GitHub\\No-Landing\\Source\\SANPERO\\SANPERO.Build.cs",
-		"C:\\Users\\ghdwl\\Documents\\GitHub\\No-Landing\\Plugins\\Auto_Setup_1.22\\Source\\RLPlugin\\RLPlugin.Build.cs",
-		"C:\\Users\\ghdwl\\Documents\\GitHub\\No-Landing\\Source\\SANPERO.Target.cs",
-		"C:\\Users\\ghdwl\\Documents\\GitHub\\No-Landing\\Source\\SANPEROEditor.Target.cs"
+		"C:\\Users\\ghdwl\\Documents\\GitHub\\No-Landing\\Intermediate\\Source\\SANPERO.Build.cs",
+		"C:\\Users\\ghdwl\\Documents\\GitHub\\No-Landing\\Intermediate\\Source\\SANPERO.Target.cs"
 	],
 	"EngineVersion": "4.26.2"
 }
