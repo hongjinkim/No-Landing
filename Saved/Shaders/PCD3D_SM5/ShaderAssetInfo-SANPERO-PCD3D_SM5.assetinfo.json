@@ -1,0 +1,2088 @@
+{
+	"AssetInfoVersion": 1,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "F035C5AEC668D3A2F28DFB10F896D53A0D0191C2",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9B89BC8DE92D45F96BEAC37A6CE962EA1DF5002A",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "54A7D144BEB2ECB9142451A1C39E75439EDBC23F",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F49C844D1C549D96DDA7938AC2B78D459737C522",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "02939D9A7977906B77AC407A09BE67BD2E55C392",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B626AD6BACF1D1FE399B5268B41D02417875D631",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "84E9C2A181F2450D8A8A3DD7613C4A24A487D24E",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset",
+				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "988A7C53FB7D26F94DEF4D2322CBFCCBBCA193EC",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DF359B4AC9B32187F758CF45B384EAE9D1313955",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4D246A844C64486CC0E6AE626678B106954B07B3",
+			"Assets": [
+				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B2D87992C0A0501C2BDE86D096FB6ECF70183C04",
+			"Assets": [
+				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C1E943F535E7EFD7BF88E270DD6FD00118398ECD",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "92276AD8A8D060912DD13342B5280F33CA05C8F8",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7EE92EE38224342A43670046E837F8FACBBED96F",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "90EB031D8FDEB46A0E83C519A2176434F577289D",
+			"Assets": [
+				"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D4C9AB8B8C49A0B574A7C30BF425748F9B833ED7",
+			"Assets": [
+				"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "86BF17622D766F27D53FD01BEB8B2A514DFA8B5C",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "05A6EE8DB4240214338145620295E2D850BD41D9",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E4B4E43D16C087251B2E54364538268FB9EC5179",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "20721CEEE5ED2FDE6080726CB069C785FF351178",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "64DBA905FBCD54874902B3A8449C4A04F0103395",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C4DA43BB9F7FA3FADD05D18492E22C9D2A56542A",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1222D0484E883F54CA540507CD5C14DDEF36D04E",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6E9A799DFFD720B2FFB06A806C3C7E3F75EE7727",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B634AA5A1BD03AD2F5A4C31313955728B105F1FD",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FB936272099EC80F5237E7FC93F5B702B08D71FD",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset",
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "08A9C900BD97A83294815E03ADA373FDE1CD7385",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CAD150DD00F05864CC937D961D78C02A6BEADDE2",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GameFiles/Modeling/Chapter3_2/Modeling/lambert1.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GameFiles/Modeling/Build/Modeling_build_Chpater_3/lambert1.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Meshes/curtain/Velvet_Plain_Raven.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8D1FC3BE7873A6A89B283EA36CF696F9DBF9F6C9",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DE585424332BB9B86332E50BD6A40370446C676D",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A3DC442F51846D3F36CE5E87F786A3D1B2BDB6D9",
+			"Assets": [
+				"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3AA0E69E139072EB2C2265628C5E1A18F1748313",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0695DD75639BDBD91DB63A414F2D223005468288",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "167F48295216A45A91E515FBE6FF0379551F43B0",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A0EC7CC49FF20CE32D77E5999415F110EE05C9A9",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CDDF821B88F33B25999804370F089F69DB185F15",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "44714C4EC1C81950748B3277E1D48D017AB30808",
+			"Assets": [
+				"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A6E89034DE6D6375D6788A6FFE8718FD3BE0F06B",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/CC_Shaders/StandardShader/RL_Standard.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "98C49B879BD2DB0E4031DCB851A86BB006C6AEEC",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/Wanda_1212/Std_Tongue_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/Wanda_1212/Std_Tearline_R_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/Wanda_1212/Std_Tearline_L_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/Wanda_1212/Std_Eye_Occlusion_R_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/Wanda_1212/Female_Angled_Transparency_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/Wanda_1212/Std_Eye_Occlusion_L_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/Wanda_1212/Soles_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/Wanda_1212/RL_F_Jerkin_L_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/Wanda_1212/Pants_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/Wanda_1212/Metal_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/Wanda_1212/Female_Angled_Base_Transparency_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/Wanda_1212/Boots_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Resistance_Soldier/Materials/M_resist/Punk_Strap_Boots_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Resistance_Soldier/Materials/M_resist/PostApocalyptic_Shirt_1_MAT_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Resistance_Soldier/Materials/M_resist/PostApocalyptic_Jacket_MAT_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Resistance_Soldier/Materials/M_resist/Male_Bushy_Base_Transparency_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Resistance_Soldier/Materials/M_resist/lambert2_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Resistance_Soldier/Materials/M_resist/Hood_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Resistance_Soldier/Materials/M_resist/Cloak_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/CHICHI/Strap_top_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/CHICHI/Std_Tongue_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/CHICHI/Std_Tearline_R_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/CHICHI/Std_Tearline_L_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/CHICHI/Std_Skin_Leg_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/CHICHI/Std_Skin_Head_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/CHICHI/Std_Skin_Arm_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/CHICHI/Std_Nails_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/CHICHI/Std_Eye_Occlusion_R_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/CHICHI/Std_Eye_Occlusion_L_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/CHICHI/Rocker_Jeans_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/CHICHI/RabbitMask_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/CHICHI/Punk_Strap_Boots_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/CHICHI/Punk_Leather_jacket_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/CHICHI/PostApocalyptic_Vest_MAT_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/CHICHI/PostApocalyptic_Pads_MAT_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/CHICHI/PostApocalyptic_GasMask_MAT_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/CHICHI/Hairline_Transparency_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/CHICHI/Std_Skin_Body_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/CHICHI/Hair_Transparency_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/CHICHI/Hair_Transparency_0_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/CHICHI/Bra_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Police_Enemy/PostApocalyptic_Vest_MAT_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Police_Enemy/PostApocalyptic_Pads_MAT_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Police_Enemy/PostApocalyptic_Gloves_MAT_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Police_Enemy/PostApocalyptic_Cowl_MAT_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Police_Enemy/pants_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Police_Enemy/Male_Bushy_Base_Transparency_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Police_Enemy/F_J_Multipple_Pockets_L_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Police_Enemy/Boots_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Mayor_with_mask/uv_checker_material_uv_grid_4096x4096_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Mayor_with_mask/glove_tex_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Enemy_M/RL_Shoes_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Enemy_M/pants_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Enemy_M/Male_Bushy_Base_Transparency_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Enemy_M/F_J_Multipple_Pockets_L_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Mayor_NPC2/uv_checker_material_uv_grid_4096x4096_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Mayor_NPC2/glove_tex_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Enemy_female/pants_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Enemy_female/Hair_Transparency_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Enemy_female/Hair_Transparency_0_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Enemy_female/F_J_Multipple_Pockets_L_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Blue_mask_dressgirl/wrap_tex_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Blue_mask_dressgirl/Mask_Top_red_001_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Blue_mask_dressgirl/Mask_Face_red_001_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Blue_mask_dressgirl/glove_tex_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/Resistance1/Std_Tongue_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/Resistance1/Std_Tearline_R_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/Resistance1/Std_Tearline_L_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/Resistance1/Std_Skin_Leg_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/Resistance1/Std_Skin_Head_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/Resistance1/Std_Skin_Body_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/Resistance1/Std_Skin_Arm_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/Resistance1/Std_Nails_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/Resistance1/Std_Eye_Occlusion_R_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/Resistance1/Std_Eye_Occlusion_L_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/Resistance1/PostApocalyptic_Shirt_1_MAT_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/Resistance1/PostApocalyptic_Pads_MAT_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/Resistance1/PostApocalyptic_Cowl_MAT_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/Resistance1/PostApocalyptic_Coat_MAT2_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/Resistance1/lambert2_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/Resistance1/Bra_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Red_mask_dressgirl/Mask_Top_red_001_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Red_mask_dressgirl/Mask_Face_red_001_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man3/shirt_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man3/RL_Shoes_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man3/pants_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man3/Male_Bushy_Base_Transparency_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man3/lambert2_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man3/bow_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man2/tuxedo_jacket_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man2/shirt_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man2/RL_Shoes_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man2/pants_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man2/Male_Bushy_Base_Transparency_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man2/lambert1_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man2/bow_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/walking_NPC_Dress_Girl1/shoes_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/walking_NPC_Dress_Girl1/pearl_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/walking_NPC_Dress_Girl1/pearl_1_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/walking_NPC_Dress_Girl1/pearl_0_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/walking_NPC_Dress_Girl1/lambert2_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/walking_NPC_Dress_Girl1/gloves_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/walking_NPC_Dress_Girl1/earring_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/walking_NPC_Dress_Girl1/earring_1_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/walking_NPC_Dress_Girl1/earring_0_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/walking_NPC_Dress_Girl1/dress_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resistance_3_fe2/Materials/Resistance_3_fe2/Std_Eye_R_Pbr_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resistance_3_fe2/Materials/Resistance_3_fe2/Std_Eye_L_Pbr_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resistance_3_fe2/Materials/Resistance_3_fe2/Punk_Strap_Boots_Pbr_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resistance_3_fe2/Materials/Resistance_3_fe2/PostApocalyptic_Shirt_1_MAT_Pbr_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resistance_3_fe2/Materials/Resistance_3_fe2/PostApocalyptic_Jacket_MAT_Pbr_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resistance_3_fe2/Materials/Resistance_3_fe2/lambert2_Pbr_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resistance_3_fe2/Materials/Resistance_3_fe2/Hood_Pbr_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resistance_3_fe2/Materials/Resistance_3_fe2/Female_Angled_Base_Transparency_Pbr_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resistance_3_fe2/Materials/Resistance_3_fe2/Cloak_Pbr_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resist_man_fina2l/Materials/Resist_man_fina2l/Punk_Strap_Boots_Pbr_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resist_man_fina2l/Materials/Resist_man_fina2l/PostApocalyptic_Shirt_1_MAT_Pbr_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resist_man_fina2l/Materials/Resist_man_fina2l/PostApocalyptic_Jacket_MAT_Pbr_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resist_man_fina2l/Materials/Resist_man_fina2l/Male_Bushy_Base_Transparency_Pbr_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resist_man_fina2l/Materials/Resist_man_fina2l/lambert2_Pbr_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resist_man_fina2l/Materials/Resist_man_fina2l/Hood_Pbr_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resist_man_fina2l/Materials/Resist_man_fina2l/Cloak_Pbr_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Trailer_man/vest_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Trailer_man/shirt_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Trailer_man/RL_Shoes_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Trailer_man/pants_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Trailer_man/Male_Bushy_Base_Transparency_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FD9DCD537A2B4B645345881807BBAEB39774E5B8",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/Wanda_1212/Std_Eyelash_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B06842CB4DED4207A6A9297A39A5EE705CC4A961",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/Wanda_1212/Scalp_Transparency_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Blue_mask_dressgirl/Scalp_Transparency_0_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D50D155FD9A2BF0435088C221F069F5CEE6295CE",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/CC_Shaders/EyelashShader/RL_Eyelash.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3CA88BE9D7422D284C1EDF475DDCEFD8D6F099A9",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/CC_Shaders/HairShader/RL_Hair.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Resistance_Soldier/Materials/M_resist/Male_Bushy_Transparency_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Police_Enemy/Male_Bushy_Transparency_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Enemy_M/Male_Bushy_Transparency_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resistance_3_fe2/Materials/Resistance_3_fe2/Female_Angled_Transparency_Pbr_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resist_man_fina2l/Materials/Resist_man_fina2l/Male_Bushy_Transparency_Pbr_LWHQ_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A8FD99D38AFA1801AA2DA33413935FDF1A9E68ED",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/Wanda_1212/Scalp_Transparency_0_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Blue_mask_dressgirl/Scalp_Transparency_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/walking_NPC_Dress_Girl1/Scalp_Transparency_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AC6D7E5EFA0E48B2938BFCF7754EA9A385EB6F1F",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/StarterContentMin/Materials/M_Metal_Copper.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1460B0AC92BCDF961C558494036E4FDA8DB4CD26",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Particles/BulletShell/M_BulletShell.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CE51ACE6AD4B57BA54A97237463B803B653A1D0E",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/WeaponPack/MuzzleFlashPack/Materials/M_AssaultRifle_MuzzleFlash_4x1.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/MilitaryWeapDark/FX/Materials/M_AssaultRifle_MuzzleFlash_4x1.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A5B009766816BDA54280AA21004062D95AC32050",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/WeaponPack/MuzzleFlashPack/Materials/M_Glow_3.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E420C7B79B280582250411F511C1BDC0F7A68880",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/WeaponPack/MuzzleFlashPack/Materials/M_Smoke_8x8_B_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F73FF7150E935B7C18ADADDBB106A8CEA24048AE",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/WeaponPack/MuzzleFlashPack/Materials/M_Distortion_2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4153788B3EAB6FAD8DC44C2175627B04DA2FC798",
+			"Assets": [
+				"../../Plugins/FX/Niagara/Content/DefaultAssets/DefaultRIbbonMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3765C5D4C407854F63E95DC8E7598C2E4A20C77A",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GunImpactParticles/Materials/Dirt/M_Smoke.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GunImpactParticles/Materials/Metal/M_Sparkles.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CBA67EF745D1F882CD1768FF9876EF551BF7740A",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GunImpactParticles/Materials/Dirt/M_DustDebris.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GunImpactParticles/Materials/Wood/M_Chunks2.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GunImpactParticles/Materials/Dirt/M_DustCloud.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GunImpactParticles/Materials/Water/M_WaterRipple2.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GunImpactParticles/Materials/Water/M_WaterRipple.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GunImpactParticles/Materials/Dirt/M_Splash.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GunImpactParticles/Materials/Dirt/M_Chunks.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GunImpactParticles/Materials/Dirt/M_DustBurst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "267C5D21E758CE526183EA702C83AC2F0AE3EC91",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GunImpactParticles/Materials/Blood/M_Blood.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "281E832F27F5A0019135473405B5A3B8C0D85335",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GunImpactParticles/Materials/Metal/M_Flare.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "837991303CB2C2575D49384BC7626169CDD73142",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Materials/Impact_Decal/M_Decal.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A4E5C23C0CBEE2889FACE11C738B7B2F18E5C483",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/WeaponPack/Models/M16A4/M16A4_M2.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/AmplifyAnimationPack/Weapon/WeaponPack/Models/AK47/ak_47__B1.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/AmplifyAnimationPack/Weapon/WeaponPack/Models/AK47/ak_47__A1.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/WeaponPack/Models/AK47/ak_47__B1.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/WeaponPack/Models/AK47/ak_47__A1.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/WeaponPack/Models/M1870/M1870_8a1.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/WeaponPack/Models/Uzi/MC.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/WeaponPack/Models/Uzi/MB.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/WeaponPack/Models/Uzi/MA.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/WeaponPack/Models/MP5K/MP5K_M2.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/WeaponPack/Models/MP5K/MP5K_M1.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/WeaponPack/Models/Moosberg/AM.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5BBAEF3368049AD9F19C45B90F8AA877EFAF87F0",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/WeaponPack/Models/M16A4/M16A4_1M.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B36161666D9E3E1D3B453C97E0615AC846479F77",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Materials/M_ColorUnlit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "078DE5174B08016F9C50CC8C725515781AEA23E2",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/BP/UI/Reticle/MUI_Reticle.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A7B5D0101D8F50FDBB6CCFA6C61007E7789EA3BF",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/CC_Shaders/GumsTongueTeethShader/RL_GumsTongueTeeth.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Resistance_Soldier/Materials/M_resist/Std_Upper_Teeth_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Resistance_Soldier/Materials/M_resist/Std_Lower_Teeth_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Police_Enemy/Std_Upper_Teeth_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Police_Enemy/Std_Lower_Teeth_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Mayor_with_mask/Std_Upper_Teeth_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Mayor_with_mask/Std_Lower_Teeth_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Enemy_M/Std_Upper_Teeth_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Enemy_M/Std_Lower_Teeth_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Mayor_NPC2/Std_Upper_Teeth_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Mayor_NPC2/Std_Lower_Teeth_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Enemy_female/Std_Upper_Teeth_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Enemy_female/Std_Lower_Teeth_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Red_mask_dressgirl/Std_Upper_Teeth_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Red_mask_dressgirl/Std_Lower_Teeth_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man3/Std_Upper_Teeth_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man3/Std_Lower_Teeth_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man2/Std_Upper_Teeth_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man2/Std_Lower_Teeth_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/walking_NPC_Dress_Girl1/Std_Upper_Teeth_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/walking_NPC_Dress_Girl1/Std_Lower_Teeth_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resistance_3_fe2/Materials/Resistance_3_fe2/Std_Upper_Teeth_Pbr_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resistance_3_fe2/Materials/Resistance_3_fe2/Std_Lower_Teeth_Pbr_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resist_man_fina2l/Materials/Resist_man_fina2l/Std_Upper_Teeth_Pbr_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resist_man_fina2l/Materials/Resist_man_fina2l/Std_Lower_Teeth_Pbr_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Trailer_man/Std_Upper_Teeth_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Trailer_man/Std_Lower_Teeth_LWHQ_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0E1DD4EBA90536CF22AB42B3F3F61DE613A9F5E4",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Resistance_Soldier/Materials/M_resist/Std_Tongue_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Police_Enemy/Std_Tongue_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Mayor_with_mask/Std_Tongue_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Enemy_M/Std_Tongue_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Mayor_NPC2/Std_Tongue_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Enemy_female/Std_Tongue_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Blue_mask_dressgirl/Std_Tongue_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Red_mask_dressgirl/Std_Tongue_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man3/Std_Tongue_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man2/Std_Tongue_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/walking_NPC_Dress_Girl1/Std_Tongue_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resistance_3_fe2/Materials/Resistance_3_fe2/Std_Tongue_Pbr_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resist_man_fina2l/Materials/Resist_man_fina2l/Std_Tongue_Pbr_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Trailer_man/Std_Tongue_LWHQ_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "106D35E5824D9AF3B96E1A9D537141B929DFBA11",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/CC_Shaders/TearLineShader/RL_TearLine.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "65BB1C8D97A0B7E2A96F85C9F03FCB728379DF69",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/CC_Shaders/SkinShader/RL_HQSkin.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Resistance_Soldier/Materials/M_resist/Std_Skin_Leg_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Resistance_Soldier/Materials/M_resist/Std_Skin_Arm_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Resistance_Soldier/Materials/M_resist/Std_Nails_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Resistance_Soldier/Materials/M_resist/Std_Skin_Body_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Police_Enemy/Std_Skin_Leg_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Police_Enemy/Std_Skin_Arm_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Police_Enemy/Std_Nails_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Police_Enemy/Std_Skin_Body_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Mayor_with_mask/Std_Skin_Leg_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Mayor_with_mask/Std_Skin_Body_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Enemy_M/Std_Skin_Body_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Enemy_M/Std_Skin_Arm_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Enemy_M/Std_Nails_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Enemy_M/Std_Skin_Leg_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Mayor_NPC2/Std_Skin_Leg_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Mayor_NPC2/Std_Skin_Body_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Mayor_NPC2/Std_Skin_Arm_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Mayor_NPC2/Std_Nails_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Enemy_female/Std_Skin_Leg_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Enemy_female/Std_Skin_Body_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Enemy_female/Std_Skin_Arm_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Enemy_female/Std_Nails_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Blue_mask_dressgirl/Std_Skin_Leg_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Blue_mask_dressgirl/Std_Skin_Body_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Blue_mask_dressgirl/Std_Skin_Arm_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Blue_mask_dressgirl/Std_Nails_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Red_mask_dressgirl/Std_Skin_Leg_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Red_mask_dressgirl/Std_Skin_Body_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Red_mask_dressgirl/Std_Skin_Arm_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Red_mask_dressgirl/Std_Nails_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man3/Std_Skin_Leg_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man3/Std_Skin_Body_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man3/Std_Skin_Arm_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man3/Std_Nails_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man2/Std_Skin_Leg_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man2/Std_Skin_Arm_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man2/Std_Nails_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/walking_NPC_Dress_Girl1/Std_Skin_Leg_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/walking_NPC_Dress_Girl1/Std_Skin_Body_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/walking_NPC_Dress_Girl1/Std_Skin_Arm_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/walking_NPC_Dress_Girl1/Std_Nails_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resistance_3_fe2/Materials/Resistance_3_fe2/Std_Skin_Body_Pbr_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resistance_3_fe2/Materials/Resistance_3_fe2/Std_Skin_Arm_Pbr_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resistance_3_fe2/Materials/Resistance_3_fe2/Std_Nails_Pbr_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resist_man_fina2l/Materials/Resist_man_fina2l/Std_Skin_Arm_Pbr_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resist_man_fina2l/Materials/Resist_man_fina2l/Std_Nails_Pbr_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resist_man_fina2l/Materials/Resist_man_fina2l/Std_Skin_Body_Pbr_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Trailer_man/Std_Skin_Leg_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Trailer_man/Std_Skin_Arm_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Trailer_man/Std_Nails_HQ_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "816EA49E7710477301BFC42F0CBDCDA7D3AAACBE",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Resistance_Soldier/Materials/M_resist/Std_Skin_Head_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Police_Enemy/Std_Skin_Head_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Mayor_with_mask/Std_Skin_Head_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Enemy_M/Std_Skin_Head_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Mayor_NPC2/Std_Skin_Head_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Enemy_female/Std_Skin_Head_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Blue_mask_dressgirl/Std_Skin_Head_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Red_mask_dressgirl/Std_Skin_Head_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man3/Std_Skin_Head_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man2/Std_Skin_Head_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/walking_NPC_Dress_Girl1/Std_Skin_Head_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resistance_3_fe2/Materials/Resistance_3_fe2/Std_Skin_Head_Pbr_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resist_man_fina2l/Materials/Resist_man_fina2l/Std_Skin_Head_Pbr_HQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Trailer_man/Std_Skin_Head_HQ_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8AEA9811F51F5141DB4E33DDE0596C9EEE9E04F7",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/CC_Shaders/EyeOcclusionShader/RL_EyeOcclusion.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D54938B198CEDD7DFACD988CEA27DA627BD146D2",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/CC_Shaders/EyeShader/RL_EyeRefractive.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "068B95088A516E3D0D6C988B540193D4D8ECB09B",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Resistance_Soldier/Materials/M_resist/Beard_Transparency_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Resistance_Soldier/Materials/M_resist/Beard_Transparency_1_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Resistance_Soldier/Materials/M_resist/Beard_Transparency_0_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Police_Enemy/Beard_Transparency_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Police_Enemy/Beard_Transparency_2_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Police_Enemy/Beard_Transparency_1_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Police_Enemy/Beard_Transparency_0_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Enemy_M/Hair_Transparency_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Enemy_M/Beard_Transparency_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Enemy_M/Beard_Transparency_2_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Enemy_M/Beard_Transparency_1_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Enemy_M/Beard_Transparency_0_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resist_man_fina2l/Materials/Resist_man_fina2l/Beard_Transparency_Pbr_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resist_man_fina2l/Materials/Resist_man_fina2l/Beard_Transparency_1_Pbr_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/RLContent/Resist_man_fina2l/Materials/Resist_man_fina2l/Beard_Transparency_0_Pbr_LWHQ_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C07B02D107329532534BD2D7E81F5698484F96D4",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/CHICHI/Std_Eyelash_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Enemy_M/Scalp_Transparency_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/RL_Character/Materials/Resistance1/Std_Eyelash_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man3/Scalp_Transparency_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man2/Scalp_Transparency_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6F3A199184916801EB19A200A86176F9FBAEFFB4",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0513/Mask_Wanda_fbm/Mask_material.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Enemy_mask_material1.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/ACSU_ATLUS/BluePrints/WarningTexture.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GameFiles/Modeling/Build/clock_tower/churchBApseB.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0513/Mask7_fbm/Volume4_copy001_Diffuse_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B3A47C7DA6FFD3724C33CA2EC4B471C4F1FE8943",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/BP/UI/Minimap/Minimap_Material.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "979CE9906D61D968DF7B8D6C30958E0B41CE71B6",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Mayor_with_mask/shirt_tex_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Mayor_with_mask/pants_tex_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Mayor_with_mask/jacket_tex_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Mayor_with_mask/hat_tex_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Mayor_with_mask/collar_tex_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Mayor_with_mask/boots_tex_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Mayor_NPC2/shirt_tex_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Mayor_NPC2/pants_tex_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Mayor_NPC2/jacket_tex_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Mayor_NPC2/hat_tex_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Mayor_NPC2/collar_tex_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Mayor_NPC2/boots_tex_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/Enemy/Materials/Enemy_female/boots_tex_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Blue_mask_dressgirl/shoe_tex_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Blue_mask_dressgirl/manchette_tex_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Blue_mask_dressgirl/hat_tex_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Blue_mask_dressgirl/dress_tex_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Blue_mask_dressgirl/collar_Tex_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Blue_mask_dressgirl/bow_tex_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Red_mask_dressgirl/train_tex_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Red_mask_dressgirl/shoe_tex_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Red_mask_dressgirl/manchette_tex_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Red_mask_dressgirl/lace_tex_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Red_mask_dressgirl/dress_tex_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Red_mask_dressgirl/collar_Tex_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man3/jacket_tex_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man3/collar_tex_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BF631C4AD9F24E7B9FE1EE72AAF2B90C8373EB42",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Eyes.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Default.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E24874F4714C1EDDDED6AB1151E64A1618A7C757",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/Materials/M_UE4Man_Body_Burning.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F3B11C27E9215B3F2C50F8B166A23966E1296A52",
+			"Assets": [
+				"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "09C60625A0237917258B0FBF45CA4983603AF3C0",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8F2EBECDDA55DB07D441D35A970F61B1280FEC5C",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B0D0DD7B38B2B4238F54590AEEBC727D2C4B3400",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8A9C9BC3712F1A7945ADFF2052A48FD59A645317",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "99D9136932134224EBEB28CE8424859124D8C7C5",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "172EE4D0DE64FB67B7BCDD234198C3E73E27F262",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "48D3526245C1F20EEE7B1F0995F151C076E95691",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/AdvancedLocomotionV4/Props/Materials/M_Prop.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C3015922B733E6CA9F2531F9D751715566465539",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/AmplifyAnimationPack/Materials/DemoScene/MasterMaterials/MM_Grid_World.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6F97B94D6FEF27AC869774F165B9FA3157F2CD22",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/BP/UI/UI_Assets/DamageMaterial.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/BP/UI/UI_Assets/DamageMaterial_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EF44F08BF7D6F42DC990476762B3094A18645957",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/BP/UI/UI_Assets/Background_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1E7728C4D183A414B785932C92286223FEDD9744",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/MilitaryWeapDark/FX/Materials/M_Smoke_8x8_B_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D2615D0A14E8959260723C21222C66CB191B3993",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/MilitaryWeapDark/FX/Materials/M_Woodchips_8x1_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F65AF2A4F98CD2F30111A2EBDABF0A9B2B041B7B",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/MilitaryWeapDark/FX/Materials/M_RockSmall_01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/MilitaryWeapDark/FX/Materials/M_Pistol_MuzzleFlash_4x1_A.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F8E9B273AA7C6F0D60DCE89DF7136D478FE36DF2",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Blue_mask_dressgirl/Hair_Transparency_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Blue_mask_dressgirl/Hair_Transparency_1_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Blue_mask_dressgirl/Hair_Transparency_0_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man3/Hair_Transparency_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man3/Beard_Transparency_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man2/Hair_Transparency_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man2/Beard_Transparency_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man2/Beard_Transparency_1_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man2/Beard_Transparency_0_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/walking_NPC_Dress_Girl1/Hair_Transparency_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/walking_NPC_Dress_Girl1/Hair_Transparency_2_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/walking_NPC_Dress_Girl1/Hair_Transparency_1_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/walking_NPC_Dress_Girl1/Hair_Transparency_0_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Trailer_man/Beard_Transparency_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Trailer_man/Beard_Transparency_2_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Trailer_man/Beard_Transparency_1_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Trailer_man/Beard_Transparency_0_LWHQ_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "30C7BC5F8CA293006D451A4EFAA118EF275E8204",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Red_mask_dressgirl/top_Transparency_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Red_mask_dressgirl/hair_Transparency_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Red_mask_dressgirl/front_Transparency_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Trailer_man/embed_hair_male_Transparency_LWHQ_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0C3D9EB4C25A4CB20B511CC597F16AD0F69A5F97",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Red_mask_dressgirl/bows_tex_Transparency_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9E634B5BE44FE6121A323B4544B90206F44FA3D5",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/WeaponPack/Models/M1911/M_1911.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B7EDD8FE7CB48FAAA908802B1440FD88C09DF212",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/MilitaryWeapDark/Weapons/Materials/M_WeaponMaster_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "53C372F26096EC34F704B89D37EE00537EB8F77C",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/ACSU_ATLUS/Materials/PoliceSkin/Root/M_ACSU_Atlus_PoliceSkin_Root.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "012C9A9DC5B1886239322E93F6830FD5F2962E5D",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/ACSU_ATLUS/Materials/PoliceSkin/Root/MI_ACSU_Atlus_PoliceSkin_Root_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F07ABF60EAE50BFA10F94A207AF0CC2BDF2BE51F",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/ACSU_ATLUS/Materials/PoliceSkin/Louncher/M_ACSU_Atlus_PoliceSkin_Louncher.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1C149C57F06DFA276D8B82B341E030DEEAC57AFD",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/ACSU_ATLUS/Materials/PoliceSkin/Louncher/MI_ACSU_Atlus_PoliceSkin_Louncher_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3C0AB349180C5B4BE1150B181605509C463D2196",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/ACSU_ATLUS/Materials/PoliceSkin/Legs/M_ACSU_Atlus_PoliceSkin_Legs.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C7E0F8628BAD6993B7105BB6E52CFB5456270F85",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/ACSU_ATLUS/Materials/PoliceSkin/Legs/MI_ACSU_Atlus_PoliceSkin_Legs_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A98AFA47170D257E7DAFA09892EAC5A307490A1F",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/ACSU_ATLUS/Materials/PoliceSkin/Head/M_ACSU_Atlus_PoliceSkin_Head.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F33F1EB7157735B481A36DDD6DC65054066EF72D",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/ACSU_ATLUS/Materials/PoliceSkin/Head/MI_ACSU_Atlus_PoliceSkin_Head_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F33A137850227C2929843589FA1B639FB5525CAE",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/ACSU_ATLUS/Materials/PoliceSkin/Hands/M_ACSU_Atlus_PoliceSkin_Hands.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EB687739A18EF9EA580CC5CD1399744300C1A4F7",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/ACSU_ATLUS/Materials/PoliceSkin/Hands/MI_ACSU_Atlus_PoliceSkin_Hands_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3757D6EAB681F56FA34EE9D8E22616A0E747416E",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/ACSU_ATLUS/Materials/PoliceSkin/FrontPanel/M_ACSU_Atlus_PoliceSkin_FrontPanel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F92CB271B14B7FF4518C8E8135D21F4F4E4893B1",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/ACSU_ATLUS/Materials/PoliceSkin/Front/M_ACSU_Atlus_PoliceSkin_Front.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4E379675DE1F0D1D26FD336AE2B6AE5110625D37",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/ACSU_ATLUS/Materials/PoliceSkin/Front/MI_ACSU_Atlus_PoliceSkin_Front_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "66D7447B5EDC7151701FA0817F0461FD07EDDE80",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/ACSU_ATLUS/Materials/PoliceSkin/Body/M_ACSU_Atlus_PoliceSkin_Body.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4B753B25AD1FE9DC35BC5FFB009F6F0DA002CD26",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/ACSU_ATLUS/Materials/PoliceSkin/Body/MI_ACSU_Atlus_PoliceSkin_Body_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DDF5AA31FE01D276006228B7D9AD481D379998CB",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D15F3FE25784A4E38C9FB00E6A234070850ED93E",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8FC5BBAC8EB5A655E3E655CEB72EBD28E6232FB8",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/ThirdPerson/Meshes/RampMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AA9594C0E21DD03ABF509B44BCAD7D6FA05D32F9",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Metallic_Trim_02_01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Metallic_Trim_02_03.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F515031863EF8A7D62D77E151446AF09A9230A27",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Wall_stone_01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Metallic_Trim_01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Museum_Trim_01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Museum_Pillar_01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Museum_Border_01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Roof_Windows_Ark02.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Roof_Windows_Ark01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Roof_Ornement_01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Floor_Ornement_01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Concrete_Fence_01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Fence_02.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Awning_Metallic02.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Awning_Metallic01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Planter_01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Stairs_01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Fence_01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Light_Pole_01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Museum_Window_Frame_01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Museum_Roof_01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Museum_Ornement_01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Fence_01_Pillar_01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Metallic_Trim_03.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1E14A3BF98F73315C98BE3EE7547ADCF04687AD7",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/MM_Concrete_Trim_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "69F1DEC09F38F4B9C8ED02B47BB941FAE5955FDE",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/MM_Stone_Wall_02.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Brick_Wall_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6ABB2168965738E8FC4A7BFA49B9DADD082143DC",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/MM_Stone_Wall_02.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Brick_Wall_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AF52E29268107AA77D0D965A416285FC810F0273",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Bay_Window_Monument_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "473904AB584DEC9AD2E98B7BD003059C284656D8",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Bay_Window_Monument_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C1821A504F5F6BE0CF125F85D743E071FCE31F96",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Gate_Frame_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8F2486BBF2432E893F049394C437287B24F4A5AF",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Roof_Glass_01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Museum_Glass_01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Museum_Glass_02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4CF72FD182DC378AAC662C68F216E7CF160E0467",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Glass_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D15BE563A106C1566178CDC68CB85EC2C9F5A5EE",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/MM_Lambert_02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "32C71383FCA65A96EB459D89D3CC24A1E3446CDF",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Ammo_Crate01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A8B782BDE2658252CACACBEA3326CB2CD741785D",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Ammo_Box01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D60C4FDCFC86026A1CEEDE46DF4F4AAA2666A29C",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building06_TopFloor.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Ground06.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Glass04.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Glass01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_ElectricalTower02.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Counter03.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Booth02_B.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Booth02_A.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Booth01_03.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Booth01_02.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Booth01_01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Ground07.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Ground05_A.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Decoration01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Wall08.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Wall07.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Wall06.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Wall03.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Wall02.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Wall01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Vent02.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Vent01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_TrashCan.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Stairs03.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Stairs02.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Stairs01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Speaker.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Pillow.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Pillar02.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_PaddedSofa02.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_PaddedSofa01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Light02.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Light01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Ground03.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Ground02.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Fence03.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Fence02.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_ElectricBox02.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_ElectricalTower01_A.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Door01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Delimitation02.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Delimitation01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Decoration02.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Counter02.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Chair.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Ceiling06.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Ceiling05.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Carpet.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Cable02.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Cable01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Generic02.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building05_TopFloor_A.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F9768B16166ED479427FA08075B1DD616685140A",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Gyroscope01_Mat01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F1553217F6922C34256E44A0BC531D6A33E1D8FB",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Polar/Materials/Vista_Materials/_M_Master_Mountains.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "51445F1A15B79CB639D174AE9364468D75AF7405",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Polar/Materials/Vista_Materials/M_Mountain_02_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Polar/Materials/Vista_Materials/M_Mountain_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F35893D57B5A22A1C2AFE03C7352613A2204D340",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Polar/Materials/_M_Master_Rubber.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D5A273E52DD803120F661089E5258BBF216A4DE2",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Polar/Materials/_M_Master_Glass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C8F10044D742CC1682D093688D0A10EA86FBDF9F",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Polar/Materials/_M_Master_Material.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Polar/Materials/M_Light_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B722BC5C237B174C72D3F58BDA7ADA16B0A21A8B",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Polar/Materials/M_Wall_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Polar/Materials/M_Wall_Untinted_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0D7964E2B45C6E3E3461A1F7F0B2486B5A812057",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Polar/Materials/M_Generator_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3D29292689F5C771838D842E0BC2CDEAEEA1C904",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Polar/Materials/M_Generator_Off_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B558DAAE9B86F88728BD8D1BF1C348B936988A6E",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Polar/Materials/_M_Master_Material_2Sided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "15DDF9E7F2A4D6624B92E21188A56C90EC22F73E",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Polar/Materials/M_Floor_Yellow_LightON_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AA0E801E5E3A6E45249934AA12A91584B0299F28",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Polar/Materials/M_Floor_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7B76561A8F004F7B54C15F16BA7BBE72A33AE041",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Polar/Materials/M_Light__Dark_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "194B3863F873AD1391C475C6E7519299DB219713",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Polar/Materials/M_Floor_Opeque_Yellow_Light_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9C704C835DCF9AD3AD0874ACB624D3C9D2D2A710",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/MilitaryWeapDark/FX/Materials/M_Pistol_Smoke_2x2_A.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C1696C9CEE78D9F61ED1C03CC2DE9E060D8510AF",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/MilitaryWeapDark/FX/Materials/M_GlowSphere_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AF42A596707F15F1BAEA1E0513D93437B93AD5D6",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Materials/M_ConcretePillar01_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "84B5AC678F3B74E33A91E2903236F3BA854AA7F8",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_SPGears_Mat01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_SPGears_Mat02.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_SPStreetLight01Mat01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "59DB3AF9C1A7F035FF3D044C0AD3C3340F69AF9B",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building06_Facade_F.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building06_Facade_E.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building06_Facade_D.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building06_Facade_C.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building06_Facade_B.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building06_Facade_A.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building04_RoofTop.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building05_TopFloorTower.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building05_TowerBase.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building05_TopFloor_B.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building05_Facade_B.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building05_Facade_A.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building04_Facade_D.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building04_Facade_A.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building04_Facade_C.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building04_Facade_B.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building04_FirstFloor_A.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building04_Facade_E.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building03_DoorFacade.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building03_Facade_D.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building03_Roof.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building03_Facade_H.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building03_Facade_E.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building03_Facade_C.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building02_Shops_B.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building02_Awnings_Adverts.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building02_Shops_A.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building01_RoofTop_Wall.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building01_Ledges_Wall.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building01_Facade_C.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building01_Roof_Wall.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building01_FirstFloor_B.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building01_Facade_B.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building02_TopFloor_Brick.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building02_Shops_A_Brick.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_StreetClockMat01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Pipes_Silver.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Pipes_Gold.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Gears_StorageTanks.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Adverts_Dumpster.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Pipes_Copper.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building04_FirstFloor_B.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building03_UpperBuilding05.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building03_UpperBuilding04.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building03_UpperBuilding03.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building03_UpperBuilding02.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building03_UpperBuilding01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building03_GlassRoom.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building03_Facade_G.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building03_Facade_F.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building03_Facade_A.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building03_Facade_B.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building02_RoofCorner.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building02_CornerFacade.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building02_CylindricalRoom.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Canopy_Roof_01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building02_Props.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E8AB5F5E335795E49CE895B4E2D3FA1EFF492DC8",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Materials/M_BaseMetal.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B33E1505F022B79121CEBB606DD2A3F7FAF28E49",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Materials/M_BaseMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F48AABB5B337DFF04B62B6AA99C554F1BDFCD305",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Materials/M_ControlDeskPainted.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E3FFD7EE5A194B784757547A273A2C7B6FC66E2D",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Materials/M_RenderTarget.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AD2A3C7A83011AA89406A8E2FB7D0E1B5CC884A7",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Materials/M_LampSet_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5F394CB7F354F05AE203CC05EAEA2EBBAD6C376A",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Materials/M_3ColorsMaskBase.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8DA8F2C97203C6F811C6A4167F620267F6E5E88B",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Materials/M_3ColorsMaskBase_Unique.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "996176C167FF1BF3885DBB4BA268E8CCB9E6A9FB",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Accessories.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2AC1EA835D4D01E7DB30666D392674619BBD77C0",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Glass01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F349D79003F61D403CB73421D1E6C4703E602A92",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/MSPresets/Billboard_Material/Billboard_Material.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7BBC54AF8B25ACF5B356963A5378C1C94BEC2AA2",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/MSPresets/Foliage_Material/Foliage_Material.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D7FAC5188F00AF765FD3FA421EF5EC1AC47BDC19",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/KingArthur/Materials/MM_Base.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7E468E382E27DB9779F5D70C45D9A2A51622D580",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_GenericGlass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "36B175F1E74760AC8B677C8E61F2594A3756DD85",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Decoration03.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2B88DE9D07449968BF200F127C3A6F6D0CD352F5",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/MM_Paving_Stone_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B9FEC7501DF5DEB214EFD1D7723DBA6DF5075051",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/MM_Paving_Stone_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6B37DE23DD4B51CF3F4D034E323D855A63FAD73A",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/AdvancedLocomotionV4/Blueprints/light/PM_line.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3DD70FB11A4C5DC87C39AAFACF27C555A5324860",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Glass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7EBA14C7E87D496AE960489E6CB94378F930C5AD",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GameFiles/Modeling/Chapter3_2/Texturing/Chapter3_2_basic/Chapter3_2_field_wall.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FCEF4BACB39D329FB48A9530364E939D8E7A4FCD",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/MM_Moss_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "85B671CFB7D5F69EC0D70027E70B796EA37711AE",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/MM_Moss_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "97AEF8698888EB4F9585F8C7E0B19FE98ACC9E12",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/MM_Grass_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5499046A714F97577AC50CB2103A04560D60623D",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/MilitaryWeapDark/FX/Materials/M_Explosion_8x8_A_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8C3AACD3AF687940C605ECE2F36F7B7BA603A54F",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/MilitaryWeapDark/FX/Materials/M_Shockwave_Refraction_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "154C84C248ECA29E13BE9832DC2471A2BCDB8347",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/MilitaryWeapDark/FX/Materials/M_LightRay_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A3D46AC4E8A40301627B64B37E324ABFB751BEDD",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/MilitaryWeapDark/FX/Materials/M_Ember_Speed_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0D57B5D85E120EDEB7284E11BC35CC20CBF267C8",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/MilitaryWeapDark/FX/Materials/M_Debris_Tileable_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "98E1758C956F804CEEAB04A78EBAE983AF60DE74",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/MilitaryWeapDark/FX/Materials/M_SmokeRibbon_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "096978048AF1E0A8C9DC5F2752512B0D064181D9",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/ACSU_ATLUS/Materials/PoliceSkin/Gun_1/M_ACSU_Atlus_PoliceSkin_Gun1.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/ACSU_ATLUS/Materials/CamoSkin/Gun_2/M_ACSU_Atlus_CamoSkin_Gun2.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/ACSU_ATLUS/Materials/PoliceSkin/Gun_2/M_ACSU_Atlus_PoliceSkin_Gun2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5220541C61CB5FF09A432082BB2DCC9A3A3E1CFD",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_SPHydrants_Mat01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EA620040A7082CED9368403ECFB431C6E2D86DC4",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GameFiles/Modeling/Build/clock_tower/churchBLead1.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B44FB8EA6C7B2D6A01AFB69B8C650A9EBCAA4DD3",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/MM_Bush_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C392BE9E31440865181F7FB46616222B3BCFCEFD",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Bark_02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6624182C34B3297D78B74813B3B3B0F356E704D8",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Sidewalk.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AACC4ADC06BA96C7213CC94C62A76C8BCA4A3A2C",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Road.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "630B22884B6BD60E7CD0FA2B0639DE5C09DF83DA",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Curb.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "14E8442EF6D212D58693601C933616E78BB57E8F",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building02_TopFloor.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E3BAA1BB8267CD016FB427C82E5746BC8BD2DBB1",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Trimsheet_Gold.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Metal_Chandeliers.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Metal.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Octagon_Tiles.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Trimsheet_Paintings.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Metal_Door.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Organ.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Metal_Columns.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Metal02.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Tires.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C86B228A07F28F8736AB1906F8FBB43AD120A847",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Wood.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Trimsheet_Wood.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_WoodenColumns.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Ceramic.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Bricks_Tile.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Black_Marble.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_RedMarble.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Trimsheet_Concrete.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Dirty_Concrete.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Concrete_Columns.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Angel_Altar_Wood.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Angel_Altar_White_Stone.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Whitestone.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Trimsheet_Whitestone.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Square_Tiles.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_RedFabric.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Statue_Concrete.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Virgin_Statue_Stone.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Virgin_Statue_WhiteStone.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Statue_Stone.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Saint_Statue_Stone.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Saint_Statue_Concrete.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Pope_Statue_Stone.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Pope_Statue_Concrete.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Floor_Tiles.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Statue_Wood.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Saint_Statue_Wood.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Pope_Statue_Wood.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Meshes/Cliff_Albedo_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3C4041A5B87BC8727378C81A111B8E862F7687A2",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Stone.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EA66DC2665D69971B03281FF0AF9C864B09705AA",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Orange_Marble.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5D671DDB08F028027918028F3B490479AC1AB66B",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Beige_Marble.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1CBD021AFCDE77130C87610FDB7EAD6A8A84C852",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Emmitter.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E775E6882E5741EBFD6ABE8D45D7FA7EEC2ED331",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Candle_Wax.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "94BAB647D75710A32E0927219B5E180B6EFADE1C",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_Ceramic_dark.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "16B93CDA39799A8B940C0B70411996D642D5E249",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GameFiles/Modeling/Build/clock_tower/churchBTrims.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GameFiles/Modeling/Build/clock_tower/churchBTopCorners.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GameFiles/Modeling/Build/clock_tower/churchBTopButtresses.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GameFiles/Modeling/Build/clock_tower/churchBTop.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GameFiles/Modeling/Build/clock_tower/churchBsideWallsC.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GameFiles/Modeling/Build/clock_tower/churchBsideWallsB.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GameFiles/Modeling/Build/clock_tower/churchBsideWallsA.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GameFiles/Modeling/Build/clock_tower/churchBPinnacles.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GameFiles/Modeling/Build/clock_tower/churchBMidCorners.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GameFiles/Modeling/Build/clock_tower/churchBMid.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GameFiles/Modeling/Build/clock_tower/churchBFacadeBottom.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GameFiles/Modeling/Build/clock_tower/churchBEntrance.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GameFiles/Modeling/Build/clock_tower/churchBButtressesBack.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GameFiles/Modeling/Build/clock_tower/churchBBottomCorners.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GameFiles/Modeling/Build/clock_tower/churchBBottomButtresses.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GameFiles/Modeling/Build/clock_tower/churchBBottom.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GameFiles/Modeling/Build/clock_tower/churchBBackWall.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GameFiles/Modeling/Build/clock_tower/churchBApseButtress.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GameFiles/Modeling/Build/clock_tower/churchBapseA.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GameFiles/Modeling/Build/clock_tower/churchBApseB_BaseColor_Mat.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Megascans/Surfaces/Leather_oi2uoap0/Albedo_2K_oi2uoap1_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8FF00E7550A1C3CD98777752AB98E62A130E4923",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GameFiles/Modeling/Build/clock_tower/churchBCornerButtresses.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "26F84A26CA72E848DA981FF048866F0777B4722F",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Madeline/Material/M_White_Fabric.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CC041E588D964F613AD51A21707F0F774CC18108",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GameFiles/Material/Chapter_1floor_Pillar/1floor_Pillar.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Megascans/3D_Assets/Decorative_Statuettes_Pack_ug4kaisva/Statue1_Albedo_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B5D1BDBE493957863AAB5F662DA6C5C732019660",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/GameFiles/Material/1floor_tiles/error_stop_Albedo_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CD589CE585EE08A96071C8D7E5680D143501065A",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/AmplifyAnimationPack/Materials/DemoScene/M_Water.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "751B586E6279708CC9E108D04D1605EC0429BD98",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Building01_Glass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CF6E5622D475AB31ADD540C4FC10572B21BACA5E",
+			"Assets": [
+				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "041027D9BB0642429397C3E41E2D71FB99A2F508",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_SPStreetLight01Mat02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EB6C6274C4A6E95B218FEEC57946FEF23312376D",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_SPStreetLight01_Light.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D124C26517944352C4DB4448C75508C5094569AD",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Polar/Materials/_M_Master_Cloth.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0D7060911D3AF5E8C44D454BC728F99836D4665D",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Ground05_B.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3BD8F6D7BC7818F1A93D33366FFE45CC8F1BD5F8",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Materials/M_MetalBeam_Painted.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4F3374189AC6F77D542F28B344FC1914152CDED7",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Meshes/DefaultMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4B7919E1578E89CC722F965385106E33E2455B78",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_ColorNeon01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E8DBD6E4F367143B9F79B283916F3C7F822D7703",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Counter01.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Table02.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Table01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "52DF57C2C076941B9C8A7AD52CF3BFEFFDE6BC00",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A031B77E78157C614F9F0EBA98E3650A2CA7A64D",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Wall05.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F20D73DF9F13B05D90EA33FFFB6711488208804A",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_ColorNeon02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7AAAD73F5F43CDEB23DED4F29176B632103754F1",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Sofa02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2A8693B561490B5695DFB8EF1AA864F83EA7905C",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Sofa01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B8058DDC39514CD32DED45CF496D69BD4870AEC6",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Generic03.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "795328507107AE99E44395D80786142AA4217852",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_ColorNeon03.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "58B4D989D1CB4CAC2D8EEA6A26AB5ADCC585DD82",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_ElectricalTower01_B.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EECD9A8CA0494B08345857C09ABFE556BD846C00",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_ElectricalTower01_B.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "20A83DF7058C509784E69DD61DBEE5428AA965BA",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Door04.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cyberpunk_NightClub/Materials/Material_Door02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "512F47BE6AC4BC6A55C7FF56B830C07592DD1F2B",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man3/Male_Bushy_Transparency_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/Walking_NPC_Man2/Male_Bushy_Transparency_LWHQ_Inst.uasset",
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Character/NPC/Materials/Trailer_man/Male_Bushy_Transparency_LWHQ_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7FB08BE820D5648F3DFB8A1F8F53208487E42947",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Cinematics/Sequences/Cinematic_0517/Materials/walking_NPC_Dress_Girl1/Material_Inst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FD2B9524B239B0F86F2BBC6C2C7719380FDD5A74",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/KingArthur/Materials/MM_WhiteFill.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0BACBB3955874C38712963BA619F67083656C6DC",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/KingArthur/Materials/MM_Master_Floor.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "22A1D7F76D59AE962C36BF05EF23064EE9729488",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/KingArthur/Materials/MM_Candle.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "73283C2F66C13BEAB3E919C6874A957CA85F7F45",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/KingArthur/Materials/MM_Base2sided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "68F4BEAC8406EB5AF12F6655ECBEB68BADB1B082",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/KingArthur/Materials/MM_Banner_Cloth.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3F213286ED5D20765B240EC9652885FFBB8AC649",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/WeaponPack/Models/Moosberg/BM.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "51244671FA6EA5490E94064FDA187410611750B0",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/WeaponPack/MuzzleFlashPack/Materials/M_Smoke_Wisp.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6A7E17C07747A71508096FEC3B54A3157C2E5FC8",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/WeaponPack/MuzzleFlashPack/Materials/M_Dirt_2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E6D818617834E32953A347E920CC570ED73A036D",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/WeaponPack/MuzzleFlashPack/Materials/M_master_Fire_Gun.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9BE1F94ECCAC8422E24D8B6CC2D416B8CFDB1205",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Bark_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8D92EB70584A8C769504240BF24F105AE1B9F562",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/MM_Tree_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "000516A367A9F5A080B5BB312D143B9672D62767",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Stone_Slab_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0B0269CD875715EC544F5405400AC18F58CE67A0",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Tar_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "122F7C0F6A2B6381B8E0A9FAE70DA1D518A08121",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Lights.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3890306AA709BE4847E39657AD996664ED2837BA",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_Body.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6784A358B96D099C34A98F5AD283362898072A68",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_SteamPunkVehicle01Mat01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "078565D80886EA076C05A6BF71558137D38C3ED4",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_SteamPunkVehicle_Mesh20.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "04EC4D9720122CE2687F72A02189AD8577CE95C5",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_SPStreetLight03_Mat01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "343D50190930D2A40B5146E4131DF5D11F9FB3FB",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Light_Pole_G_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "014213FC4664B13C36C5B422B2AC3457EFB1A1C7",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Light_Pole_Glow_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F666360236F70BD05301A6AE523E08C20F68988E",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/M_Canopy_Glass_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5D542B9517090750C9365331C00D7F8C4ED7D35D",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/MM_Cobblestone_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "88A49E254D032FB5414921AD3CEB05082FC97E61",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/The_Rally_Point/Material/MM_Cobblestone_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D07C6F23134369F2348454AF2EAE9C6479CA162D",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_StreetProps_Mat01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6C282BC38DE23F1F47E8F41403D8A7FEEAB8EE0E",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/SteamPunkEnvironment01/Materials/M_SPClock01Mat01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F4DE408A796D4905A27A102C0DCC953ED271610E",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Movies/PrologueVideoPlayer_Video_Mat1.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7902ED6B304F77D5978EEAD86B27DED598CD9BF9",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Geometry/Meshes/CubeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D5E185A22DF167698E7A39776605051B0A46A45F",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/KingArthur/Materials/MM_FillEmmisive.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E93DF29D177B7562221C944E2A18EDF2F140E289",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/KingArthur/Materials/MM_FillBlack.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6C2BF7754445BAEEA020B8FA2B32C915FDF78757",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/KingArthur/Materials/MM_Decal.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F124593F9FCA88B0DC7067BA7585970A9373F66D",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "69901F2473FFF829BD1197201F713687B2DAF625",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/KingArthur/Materials/MM_PointLight1.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AD5BAEE3D3B5B917F63F4A0AA6DE314305D0BAFA",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/KingArthur/Materials/MM_PointLight.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C7E7D1C07FF7DBAC8CAB8D6E72DD34647DF0119E",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/KingArthur/Materials/MM_Decal_02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4C29EAE0B664846566E03C9B9AA42E3BE6B36141",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/KingArthur/Materials/MM_Decal_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DC41F6640EC9E6F35383F9699FC0AD1DE5BDEC44",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/MilitaryWeapDark/FX/Materials/M_RockMesh_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2E9CAB2EAC1F0630145C773B5A26B1491F6B6A8D",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/KingArthur/Materials/MI_Sword.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E877ABC6E82EB6C7C3F9E4D2858B70B04A801307",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FBD80E5EDBF02BB5BFBD399C47276B8065159E5B",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E0BA0E16CD43304E30B74161782FBE9B3AE9642C",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "41DB9B897E45684178792D94E5D9BA2C23270EAB",
+			"Assets": [
+				"../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/WeaponPack/MuzzleFlashPack/Particles/NS_ShotGun.uasset"
+			]
+		}
+	]
+}
