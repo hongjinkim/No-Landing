@@ -1,0 +1,1430 @@
+﻿Log file open, 07/04/22 20:40:03
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: SANPERO
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.033757
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Landmass
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Water
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin RLLiveLink
+LogPluginManager: Mounting plugin RootMotionGuidePlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 3500 6-Core Processor              , GPU: NVIDIA GeForce GTX 1050
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Engine.ini]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:1]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:32]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:1]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Engine.ini]
+[2022.07.04-11.40.05:439][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Engine.ini]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Engine.ini]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.07.04-11.40.05:439][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Engine.ini]
+[2022.07.04-11.40.05:440][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Engine.ini]
+[2022.07.04-11.40.05:450][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.07.04-11.40.05:450][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.07.04-11.40.05:451][  0]LogInit: Selected Device Profile: [Windows]
+[2022.07.04-11.40.05:451][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.07.04-11.40.05:451][  0]LogHAL: Display: Platform has ~ 16 GB [17126014976 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.07.04-11.40.05:451][  0]LogInit: Going up to parent DeviceProfile []
+[2022.07.04-11.40.05:451][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2022.07.04-11.40.05:451][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.07.04-11.40.05:452][  0]LogConfig: Setting CVar [[r.SSGI.Quality:0]]
+[2022.07.04-11.40.05:452][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2022.07.04-11.40.05:452][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2022.07.04-11.40.05:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.07.04-11.40.05:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2022.07.04-11.40.05:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:8.0]]
+[2022.07.04-11.40.05:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.07.04-11.40.05:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:2.0]]
+[2022.07.04-11.40.05:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:16.0]]
+[2022.07.04-11.40.05:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:2.0]]
+[2022.07.04-11.40.05:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:16.0]]
+[2022.07.04-11.40.05:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:1]]
+[2022.07.04-11.40.05:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.07.04-11.40.05:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.07.04-11.40.05:452][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2022.07.04-11.40.05:452][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:0]]
+[2022.07.04-11.40.05:461][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.07.04-11.40.05:461][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2022.07.04-11.40.05:461][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2022.07.04-11.40.05:461][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Scalability.ini]
+[2022.07.04-11.40.05:461][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.07.04-11.40.05:461][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.07.04-11.40.05:461][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2022.07.04-11.40.05:461][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.07.04-11.40.05:482][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.07.04-11.40.05:482][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.07.04-11.40.05:482][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.07.04-11.40.05:482][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Engine.ini]
+[2022.07.04-11.40.05:482][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Config/Windows/Editor.ini]
+[2022.07.04-11.40.05:482][  0]LogInit: Computer: DESKTOP-JCHAN58
+[2022.07.04-11.40.05:482][  0]LogInit: User: ghdwl
+[2022.07.04-11.40.05:482][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.07.04-11.40.05:482][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.07.04-11.40.05:482][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.07.04-11.40.05:482][  0]LogMemory: Platform Memory Stats for Windows
+[2022.07.04-11.40.05:482][  0]LogMemory: Process Physical Memory: 139.98 MB used, 139.98 MB peak
+[2022.07.04-11.40.05:482][  0]LogMemory: Process Virtual Memory: 118.74 MB used, 118.74 MB peak
+[2022.07.04-11.40.05:482][  0]LogMemory: Physical Memory: 14797.60 MB used,  1535.04 MB free, 16332.64 MB total
+[2022.07.04-11.40.05:482][  0]LogMemory: Virtual Memory: 134205696.00 MB used,  12035.74 MB free, 134217728.00 MB total
+[2022.07.04-11.40.05:495][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.07.04-11.40.06:279][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.07.04-11.40.06:298][  0]LogInit: Overriding language with editor language configuration option (en).
+[2022.07.04-11.40.06:298][  0]LogInit: Using OS detected locale (ko-KR).
+[2022.07.04-11.40.07:762][  0]LogInit: Setting process to per monitor DPI aware
+[2022.07.04-11.40.07:778][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.07.04-11.40.07:806][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.07.04-11.40.07:806][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.07.04-11.40.08:888][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2022.07.04-11.40.08:888][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.07.04-11.40.08:888][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.07.04-11.40.08:888][  0]LogD3D11RHI: D3D11 adapters:
+[2022.07.04-11.40.09:044][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2022.07.04-11.40.09:044][  0]LogD3D11RHI:       1977/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.07.04-11.40.09:048][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.07.04-11.40.09:048][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.07.04-11.40.09:048][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.07.04-11.40.09:054][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.07.04-11.40.09:054][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2022.07.04-11.40.09:054][  0]LogWindows: EnumDisplayDevices:
+[2022.07.04-11.40.09:054][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2022.07.04-11.40.09:054][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:1)
+[2022.07.04-11.40.09:054][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2022.07.04-11.40.09:055][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2022.07.04-11.40.09:055][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.07.04-11.40.09:055][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2022.07.04-11.40.09:055][  0]LogD3D11RHI:   Driver Version: 471.41 (internal:30.0.14.7141, unified:471.41)
+[2022.07.04-11.40.09:055][  0]LogD3D11RHI:      Driver Date: 7-12-2021
+[2022.07.04-11.40.09:055][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2022.07.04-11.40.09:125][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.07.04-11.40.09:125][  0]LogD3D11RHI: Async texture creation enabled
+[2022.07.04-11.40.09:125][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.07.04-11.40.09:149][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.07.04-11.40.09:151][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.07.04-11.40.11:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.07.04-11.40.11:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.07.04-11.40.11:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.07.04-11.40.11:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.07.04-11.40.11:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.07.04-11.40.11:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.07.04-11.40.11:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.07.04-11.40.11:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.07.04-11.40.11:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.07.04-11.40.11:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.07.04-11.40.11:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.07.04-11.40.11:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.07.04-11.40.11:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.07.04-11.40.11:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.07.04-11.40.11:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.07.04-11.40.11:789][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.07.04-11.40.11:800][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.07.04-11.40.11:812][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.07.04-11.40.11:823][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.07.04-11.40.11:835][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.07.04-11.40.11:867][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.07.04-11.40.11:867][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.07.04-11.40.11:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.07.04-11.40.11:894][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.07.04-11.40.11:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.07.04-11.40.11:913][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.07.04-11.40.11:929][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.07.04-11.40.11:929][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.07.04-11.40.11:943][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.07.04-11.40.11:955][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.07.04-11.40.11:965][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.07.04-11.40.11:977][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.07.04-11.40.11:977][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.07.04-11.40.12:009][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.07.04-11.40.12:119][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.07.04-11.40.12:119][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Intermediate/Shaders/WorkingDirectory/15412/).
+[2022.07.04-11.40.12:119][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ghdwl/AppData/Local/Temp/UnrealShaderWorkingDir/459F685B4BF74685B3C7318F05FDF4D7/'.
+[2022.07.04-11.40.12:119][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.07.04-11.40.12:119][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.07.04-11.40.13:735][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.07.04-11.40.14:118][  0]LogDerivedDataCache: Loaded boot cache 0.38s 105MB C:/Users/ghdwl/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.07.04-11.40.14:118][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ghdwl/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.07.04-11.40.14:118][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.07.04-11.40.14:119][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.07.04-11.40.14:119][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.07.04-11.40.14:119][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.07.04-11.40.14:139][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.07.04-11.40.14:139][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.07.04-11.40.14:139][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.07.04-11.40.14:212][  0]LogDerivedDataCache: Speed tests for C:/Users/ghdwl/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.07 seconds
+[2022.07.04-11.40.14:212][  0]LogDerivedDataCache: Display: Performance to C:/Users/ghdwl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=14.36MBs, RandomWriteSpeed=125.71MBs. Assigned SpeedClass 'Local'
+[2022.07.04-11.40.14:213][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ghdwl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.07.04-11.40.14:213][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.07.04-11.40.14:213][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.07.04-11.40.18:663][  0]LogSlate: Using FreeType 2.10.0
+[2022.07.04-11.40.18:666][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.07.04-11.40.18:770][  0]LogAssetRegistry: FAssetRegistry took 0.0038 seconds to start up
+[2022.07.04-11.40.18:952][  0]LogCollisionProfile: Warning: Profile (Trigger) - Custom Channel Name = 'Projectile' hasn't been found
+[2022.07.04-11.40.19:011][  0]LogInit: Selected Device Profile: [Windows]
+[2022.07.04-11.40.19:011][  0]LogInit: Active device profile: [0000015A251EE200][0000015A1F017B00 49] Windows
+[2022.07.04-11.40.19:011][  0]LogInit: Profiles: [0000015A251EE200][0000015A1F017B00 49] Windows, [0000015A2517E400][0000015A17AB3C40 49] WindowsNoEditor, [0000015A251ED500][0000015A17ABA100 49] WindowsServer, [0000015A2517F000][0000015A17ABE280 49] WindowsClient, [0000015A251EDF00][0000015A24B94400 49] IOS, [0000015A2517E000][0000015A24B98580 49] iPadAir, [0000015A251ED100][0000015A24B9C700 49] iPadAir2, [0000015A2510E100][0000015A24BA49C0 49] IPadPro, [0000015A2510E200][0000015A24BA0A00 49] iPadAir3, [0000015A2517D600][0000015A24BA8B80 49] iPadAir4, [0000015A2510FA00][0000015A24BACD00 49] iPadMini2, [0000015A2517E900][0000015A24BB0E80 49] iPadMini3, [0000015A2510D400][0000015A24BB5000 49] iPadMini4, [0000015A2517FB00][0000015A24BB9180 49] iPadMini5, [0000015A2511DA00][0000015A25BD1440 49] iPhone6, [0000015A2511DB00][0000015A24BBD480 49] iPodTouch6, [0000015A2510FF00][0000015A25BD9740 49] iPhone7, [0000015A2510DF00][0000015A25BD5780 49] iPodTouch7, [0000015A2511F200][0000015A25BDD900 49] iPhone5S, [0000015A2510F200][0000015A17AB7A40 49] iPhone6Plus, [0000015A2511D600][0000015A25BE1B80 49] iPhone6S, [0000015A2510CE00][0000015A25BE5CC0 49] iPhone6SPlus, [0000015A2511C700][0000015A25BEC180 49] iPhone7Plus, [0000015A2510CA00][0000015A25BF0300 49] iPhoneSE, [0000015A2511EA00][0000015A25BF4480 49] iPhone8, [0000015A2510E900][0000015A25BF8600 49] iPhone8Plus, [0000015A2511C300][0000015A25BFC780 49] iPhoneX, [0000015A2510F000][0000015A25C00900 49] iPhoneXS, [0000015A2511E900][0000015A25C04A80 49] iPhoneXSMax, [0000015A2510FD00][0000015A25C08C00 49] iPhoneXR, [0000015A2511CD00][0000015A25C0CD80 49] iPhone11, [0000015A2510E800][0000015A25C10F00 49] iPhone11Pro, [0000015A2511E800][0000015A25C15080 49] iPhone11ProMax, [0000015A2510F700][0000015A25C19200 49] iPhoneSE2, [0000015A2511E500][0000015A25C1D380 49] iPhone12Mini, [0000015A2510FB00][0000015A25C21500 49] iPhone12, [0000015A2511E200][0000015A25C25680 49] iPhone12Pro, [0000015A2510DE00][0000015A25C29800 49] iPhone12ProMax, [0000015A251EE700][0000015A25C2D980 49] iPadPro105, [0000015A2510C900][0000015A25BE9AC0 49] iPadPro129, [0000015A251EEE00][0000015A25C31C00 49] iPadPro97, [0000015A2510F400][0000015A25C35D40 49] iPadPro2_129, [0000015A251EF300][0000015A25C381C0 49] iPad5, [0000015A2510D900][0000015A25C40340 49] iPad6, [0000015A251EEB00][0000015A25C444C0 49] iPad7, [0000015A2510F900][0000015A25C48640 49] iPad8, [0000015A251EDE00][0000015A25C4C7C0 49] iPadPro11, [0000015A2510D600][0000015A25C50940 49] iPadPro2_11, [0000015A251EC400][0000015A25C54AC0 49] iPadPro3_129, [0000015A2510ED00][0000015A25C58C40 49] iPadPro4_129, [0000015A251EE900][0000015A25C5CDC0 49] AppleTV, [0000015A2510CF00][0000015A25C60F40 49] AppleTV4K, [0000015A251ED300][0000015A25C650C0 49] TVOS, [0000015A2510C400][0000015A25C69240 49] Mac, [0000015A251EE600][0000015A25C6D3C0 49] MacClient, [0000015A2510F500][0000015A25C71540 49] MacNoEditor, [0000015A251EEA00][0000015A25C756C0 49] MacServer, [0000015A2510D100][0000015A25C79840 49] Linux, [0000015A251EF400][0000015A25C7D9C0 49] LinuxAArch64, [0000015A2510DC00][0000015A25C3DB00 49] LinuxNoEditor, [0000015A251EC200][0000015A25C81C40 49] LinuxAArch64NoEditor, [0000015A2510EB00][0000015A25C840C0 49] LinuxClient, [0000015A251EC100][0000015A25C88200 49] LinuxAArch64Client, [0000015A2510F800][0000015A25C90380 49] LinuxServer, [0000015A251ECE00][0000015A25C94500 49] LinuxAArch64Server, [0000015A2510D500][0000015A25C98680 49] Android, [0000015A251ED200][0000015A25C9C800 49] Android_Low, [0000015A2510DB00][0000015A25CA0980 49] Android_Mid, [0000015A251EC300][0000015A25CA4B00 49] Android_High, [0000015A2510D300][0000015A25CA8C80 49] Android_Default, [0000015A251EE000][0000015A25CACE00 49] Android_Adreno4xx, [0000015A2510D000][0000015A25CB0F80 49] Android_Adreno5xx_Low, [0000015A251ED000][0000015A25CB5100 49] Android_Adreno5xx, [0000015A2510FC00][0000015A25CB9280 49] Android_Adreno6xx, [0000015A251EDA00][0000015A25CBD400 49] Android_Adreno6xx_Vulkan, [0000015A2510CB00][0000015A25CC1580 49] Android_Mali_T6xx, [0000015A251EF200][0000015A25CC5700 49] Android_Mali_T7xx, [0000015A2510F100][0000015A25CC9880 49] Android_Mali_T8xx, [0000015A251EF000][0000015A25CCDA00 49] Android_Mali_G71, [0000015A2510FE00][0000015A25CD1B80 49] Android_Mali_G72, [0000015A2517EA00][0000015A25C8DCC0 49] Android_Mali_G72_Vulkan, [0000015A2511FC00][0000015A25CD4140 49] Android_Mali_G76, [0000015A2517C700][0000015A25CD8280 49] Android_Mali_G76_Vulkan, [0000015A2511FE00][0000015A25CE0400 49] Android_Mali_G77, [0000015A2517D000][0000015A25CE4580 49] Android_Mali_G77_Vulkan, [0000015A2511F700][0000015A25CE8700 49] Android_Vulkan_SM5, [0000015A2517F400][0000015A25CEC880 49] Android_PowerVR_G6xxx, [0000015A2511C400][0000015A25CF0A00 49] Android_PowerVR_GT7xxx, [0000015A2517FD00][0000015A25CF4B80 49] Android_PowerVR_GE8xxx, [0000015A2511C600][0000015A25CF8D00 49] Android_PowerVR_GM9xxx, [0000015A2517F200][0000015A25CFCE80 49] Android_PowerVR_GM9xxx_Vulkan, [0000015A2511FF00][0000015A25D01000 49] Android_TegraK1, [0000015A2517D100][0000015A25D05180 49] Android_Unknown_Vulkan, [0000015A2511D100][0000015A25D09300 49] Lumin, [0000015A2517C300][0000015A25D0D480 49] Lumin_Desktop, [0000015A2511F100][0000015A25D11600 49] HoloLens, 
+[2022.07.04-11.40.19:589][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.07.04-11.40.19:589][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.07.04-11.40.19:589][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.07.04-11.40.19:589][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.07.04-11.40.19:590][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.07.04-11.40.19:750][  0]LogNetVersion: SANPERO 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2967656727)
+[2022.07.04-11.40.24:902][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.07.04-11.40.25:296][  0]LogPackageLocalizationCache: Processed 27 localized package path(s) for 1 prioritized culture(s) in 0.384121 seconds
+[2022.07.04-11.40.25:311][  0]LogUObjectArray: 17493 objects as part of root set at end of initial load.
+[2022.07.04-11.40.25:311][  0]LogUObjectAllocator: 4476512 out of 0 bytes used by permanent object pool.
+[2022.07.04-11.40.25:311][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.07.04-11.40.28:742][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.07.04-11.40.28:758][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.07.04-11.40.29:551][  0]SourceControl: Source control is disabled
+[2022.07.04-11.40.30:698][  0]LogUProjectInfo: Found projects:
+[2022.07.04-11.40.32:977][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.07.04-11.40.33:038][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.07.04-11.40.33:038][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.07.04-11.40.33:286][  0]LogCollectionManager: Loaded 0 collections in 0.028355 seconds
+[2022.07.04-11.40.33:389][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ghdwl/Documents/GitHub/No-Landing/Saved/Collections/' took 0.00s
+[2022.07.04-11.40.33:389][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ghdwl/Documents/GitHub/No-Landing/Content/Developers/ghdwl/Collections/' took 0.01s
+[2022.07.04-11.40.33:389][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ghdwl/Documents/GitHub/No-Landing/Content/Collections/' took 0.00s
+[2022.07.04-11.40.33:389][  0]LogOcInput: OculusInput pre-init called
+[2022.07.04-11.40.33:426][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.07.04-11.40.33:426][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.07.04-11.40.33:981][  0]LogEngine: Initializing Engine...
+[2022.07.04-11.40.34:172][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2022.07.04-11.40.34:182][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.07.04-11.40.34:334][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.083 s
+[2022.07.04-11.40.34:971][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.07.04-11.40.35:273][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.07.04-11.40.35:317][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.07.04-11.40.35:337][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.07.04-11.40.35:337][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.07.04-11.40.35:341][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.04-11.40.35:341][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.04-11.40.35:341][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.04-11.40.35:341][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.04-11.40.35:341][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.07.04-11.40.35:341][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.04-11.40.35:341][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.07.04-11.40.35:342][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.04-11.40.35:351][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.04-11.40.35:352][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.04-11.40.35:530][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.04-11.40.35:530][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.07.04-11.40.35:615][  0]LogAudioMixer: Display: Using Audio Device ULTRON 2758(NVIDIA High Definition Audio)
+[2022.07.04-11.40.35:633][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.04-11.40.35:642][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.04-11.40.35:643][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.04-11.40.35:649][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.04-11.40.35:650][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.04-11.40.35:650][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.04-11.40.35:651][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.04-11.40.35:651][  0]LogInit: FAudioDevice initialized.
+[2022.07.04-11.40.35:663][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.04-11.40.35:663][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.07.04-11.40.35:668][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.07.04-11.40.36:011][  0]LogDerivedDataCache: Saved boot cache 0.34s 102MB C:/Users/ghdwl/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.07.04-11.40.36:014][  0]LogInit: Texture streaming: Enabled
+[2022.07.04-11.40.36:057][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.07.04-11.40.36:069][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.07.04-11.40.36:070][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.07.04-11.40.36:077][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.07.04-11.40.36:191][  0]LogInit: Transaction tracking system initialized
+[2022.07.04-11.40.36:318][  0]BlueprintLog: New page: Editor Load
+[2022.07.04-11.40.36:691][  0]LocalizationService: Localization service is disabled
+[2022.07.04-11.40.37:218][  0]TimingProfiler: Initialize
+[2022.07.04-11.40.37:223][  0]TimingProfiler: OnSessionChanged
+[2022.07.04-11.40.37:225][  0]LoadingProfiler: Initialize
+[2022.07.04-11.40.37:230][  0]LoadingProfiler: OnSessionChanged
+[2022.07.04-11.40.37:230][  0]NetworkingProfiler: Initialize
+[2022.07.04-11.40.37:231][  0]NetworkingProfiler: OnSessionChanged
+[2022.07.04-11.40.37:231][  0]MemoryProfiler: Initialize
+[2022.07.04-11.40.37:231][  0]MemoryProfiler: OnSessionChanged
+[2022.07.04-11.40.38:720][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.07.04-11.40.38:720][  0]LogCook: Display: Mobile HDR setting 1
+[2022.07.04-11.40.41:224][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.07.04-11.40.41:266][  0]LogUnrealEdMisc: Loading editor; pre map load, took 41.342
+[2022.07.04-11.40.41:279][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Maps/chapter1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.04-11.40.41:291][  0]LightingResults: New page: Lighting Build
+[2022.07.04-11.40.41:331][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.07.04-11.40.41:340][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-11.40.41:366][  0]MapCheck: New page: Map Check
+[2022.07.04-11.40.41:366][  0]LightingResults: New page: Lighting Build
+[2022.07.04-11.40.42:070][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.07.04-11.40.44:295][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ghdwl/Documents/GitHub/No-Landing/Content/' took 4.82s
+[2022.07.04-11.40.50:173][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Mayor_NPC2\Std_Nails_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.40.50:173][  0]LoadErrors: Failed to load /Game/Character/NPC/Mayor_NPC2.Mayor_NPC2 Referenced by CharacterMesh0
+[2022.07.04-11.40.50:174][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Mayor_NPC2\Std_Nails_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.40.50:174][  0]LoadErrors: Failed to load /Game/Character/NPC/Mayor_NPC2.Mayor_NPC2 Referenced by CharacterMesh0
+[2022.07.04-11.40.50:219][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Mayor_NPC2\Std_Nails_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.40.50:219][  0]LoadErrors: Failed to load /Game/Character/NPC/Mayor_NPC2.Mayor_NPC2 Referenced by CharacterMesh0
+[2022.07.04-11.40.50:759][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Mayor_NPC2\Std_Tongue_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS': Can't find file.
+[2022.07.04-11.40.50:759][  0]LoadErrors: Failed to load /Game/Character/NPC/Mayor_NPC2.Mayor_NPC2 Referenced by CharacterMesh0
+[2022.07.04-11.40.50:759][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Mayor_NPC2\Std_Tongue_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS': Can't find file.
+[2022.07.04-11.40.50:759][  0]LoadErrors: Failed to load /Game/Character/NPC/Mayor_NPC2.Mayor_NPC2 Referenced by CharacterMesh0
+[2022.07.04-11.40.50:805][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Mayor_NPC2\Std_Tongue_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS': Can't find file.
+[2022.07.04-11.40.50:805][  0]LoadErrors: Failed to load /Game/Character/NPC/Mayor_NPC2.Mayor_NPC2 Referenced by CharacterMesh0
+[2022.07.04-11.40.58:262][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Police_Enemy\Std_Nails_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.40.58:262][  0]LoadErrors: Failed to load /Game/Character/Enemy/Police_Enemy.Police_Enemy Referenced by BodyMesh_GEN_VARIABLE
+[2022.07.04-11.40.58:404][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Police_Enemy\Std_Nails_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.40.58:404][  0]LoadErrors: Failed to load /Game/Character/Enemy/Police_Enemy.Police_Enemy Referenced by BodyMesh_GEN_VARIABLE
+[2022.07.04-11.40.59:260][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Police_Enemy\Std_Tongue_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS': Can't find file.
+[2022.07.04-11.40.59:260][  0]LoadErrors: Failed to load /Game/Character/Enemy/Police_Enemy.Police_Enemy Referenced by BodyMesh_GEN_VARIABLE
+[2022.07.04-11.40.59:379][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Police_Enemy\Std_Tongue_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS': Can't find file.
+[2022.07.04-11.40.59:379][  0]LoadErrors: Failed to load /Game/Character/Enemy/Police_Enemy.Police_Enemy Referenced by BodyMesh_GEN_VARIABLE
+[2022.07.04-11.40.59:457][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Police_Enemy.uasset: Failed to load '/Game/Character/Enemy/Police_Enemy_Physics': Can't find file.
+[2022.07.04-11.40.59:457][  0]LoadErrors: Failed to load /Game/Character/Enemy/Police_Enemy.Police_Enemy Referenced by BodyMesh_GEN_VARIABLE
+[2022.07.04-11.40.59:457][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Police_Enemy.uasset: Failed to load '/Game/Character/Enemy/Police_Enemy_Physics': Can't find file.
+[2022.07.04-11.40.59:457][  0]LoadErrors: Failed to load /Game/Character/Enemy/Police_Enemy.Police_Enemy Referenced by BodyMesh_GEN_VARIABLE
+[2022.07.04-11.40.59:462][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Police_Enemy.uasset: Failed to load '/Game/Character/Enemy/Police_Enemy_Physics': Can't find file.
+[2022.07.04-11.40.59:462][  0]LoadErrors: Failed to load /Game/Character/Enemy/Police_Enemy.Police_Enemy Referenced by BodyMesh_GEN_VARIABLE
+[2022.07.04-11.40.59:739][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AI_NPC\Pedestrian.uasset: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP': Can't find file.
+[2022.07.04-11.40.59:739][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AI_NPC\Pedestrian.uasset: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP': Can't find file.
+[2022.07.04-11.40.59:749][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AI_NPC\Pedestrian.uasset: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP': Can't find file.
+[2022.07.04-11.40.59:750][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AI_NPC\Pedestrian.uasset: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP': Can't find file.
+[2022.07.04-11.40.59:750][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AI_NPC\Pedestrian.uasset: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP': Can't find file.
+[2022.07.04-11.40.59:750][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AI_NPC\Pedestrian.uasset: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP': Can't find file.
+[2022.07.04-11.40.59:750][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AI_NPC\Pedestrian.uasset: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP': Can't find file.
+[2022.07.04-11.40.59:750][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AI_NPC\Pedestrian.uasset: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP': Can't find file.
+[2022.07.04-11.40.59:751][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AI_NPC\GameState_town.uasset: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP': Can't find file.
+[2022.07.04-11.40.59:751][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C
+[2022.07.04-11.40.59:751][  0]LogLinker: Warning: Unable to load Default__Pedestrian_C with outer Package /Game/AI_NPC/Pedestrian because its class does not exist
+[2022.07.04-11.40.59:752][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AI_NPC\GameState_town.uasset: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP': Can't find file.
+[2022.07.04-11.40.59:752][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C
+[2022.07.04-11.40.59:752][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AI_NPC\GameState_town.uasset: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP': Can't find file.
+[2022.07.04-11.40.59:752][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C
+[2022.07.04-11.40.59:752][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AI_NPC\GameState_town.uasset: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP': Can't find file.
+[2022.07.04-11.40.59:752][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C
+[2022.07.04-11.40.59:752][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AI_NPC\GameState_town.uasset: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP': Can't find file.
+[2022.07.04-11.40.59:752][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C
+[2022.07.04-11.40.59:753][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AdvancedLocomotionV4\Blueprints\GameModes\ALS_GameMode_SP.uasset: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP': Can't find file.
+[2022.07.04-11.40.59:753][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C
+[2022.07.04-11.40.59:753][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AdvancedLocomotionV4\Blueprints\GameModes\ALS_GameMode_SP.uasset: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP': Can't find file.
+[2022.07.04-11.40.59:753][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C
+[2022.07.04-11.40.59:754][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AdvancedLocomotionV4\Blueprints\GameModes\ALS_GameMode_SP.uasset: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP': Can't find file.
+[2022.07.04-11.40.59:754][  0]LoadErrors: Failed to load /Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP.EnemyBP_C Referenced by GameState_town
+[2022.07.04-11.40.59:754][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C
+[2022.07.04-11.40.59:754][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AdvancedLocomotionV4\Blueprints\GameModes\ALS_GameMode_SP.uasset: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP': Can't find file.
+[2022.07.04-11.40.59:754][  0]LoadErrors: Failed to load /Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP.EnemyBP_C Referenced by K2Node_Event_2
+[2022.07.04-11.40.59:754][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C
+[2022.07.04-11.40.59:754][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AdvancedLocomotionV4\Blueprints\GameModes\ALS_GameMode_SP.uasset: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP': Can't find file.
+[2022.07.04-11.40.59:754][  0]LoadErrors: Failed to load /Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP.EnemyBP_C Referenced by K2Node_Event_2
+[2022.07.04-11.40.59:754][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C
+[2022.07.04-11.40.59:755][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AdvancedLocomotionV4\Blueprints\GameModes\ALS_GameMode_SP.uasset: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP': Can't find file.
+[2022.07.04-11.40.59:755][  0]LoadErrors: Failed to load /Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP.EnemyBP_C Referenced by K2Node_FunctionEntry_0
+[2022.07.04-11.40.59:755][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C
+[2022.07.04-11.40.59:755][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AdvancedLocomotionV4\Blueprints\GameModes\ALS_GameMode_SP.uasset: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP': Can't find file.
+[2022.07.04-11.40.59:755][  0]LoadErrors: Failed to load /Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP.EnemyBP_C Referenced by K2Node_FunctionResult_1
+[2022.07.04-11.40.59:755][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C
+[2022.07.04-11.40.59:756][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AdvancedLocomotionV4\Blueprints\GameModes\ALS_GameMode_SP.uasset: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP': Can't find file.
+[2022.07.04-11.40.59:756][  0]LoadErrors: Failed to load /Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP.EnemyBP_C Referenced by K2Node_FunctionResult_0
+[2022.07.04-11.40.59:756][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C
+[2022.07.04-11.41.02:666][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Resistance_Soldier\Materials\M_resist\Std_Cornea_L_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/EyeShader/SSS_Profile/SSP_Eye_Inner': Can't find file.
+[2022.07.04-11.41.02:667][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Resistance_Soldier\Materials\M_resist\Std_Cornea_L_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/EyeShader/SSS_Profile/SSP_Eye_Inner': Can't find file.
+[2022.07.04-11.41.02:751][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Resistance_Soldier\Materials\M_resist\Std_Cornea_L_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/EyeShader/SSS_Profile/SSP_Eye_Inner': Can't find file.
+[2022.07.04-11.41.02:759][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Resistance_Soldier\Materials\M_resist\Std_Cornea_R_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/EyeShader/SSS_Profile/SSP_Eye_Inner': Can't find file.
+[2022.07.04-11.41.02:847][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Resistance_Soldier\Materials\M_resist\Std_Cornea_R_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/EyeShader/SSS_Profile/SSP_Eye_Inner': Can't find file.
+[2022.07.04-11.41.03:094][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Resistance_Soldier\Materials\M_resist\Std_Nails_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.03:151][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Resistance_Soldier\Materials\M_resist\Std_Nails_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.03:638][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Resistance_Soldier\Materials\M_resist\Std_Tongue_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS': Can't find file.
+[2022.07.04-11.41.03:684][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Resistance_Soldier\Materials\M_resist\Std_Tongue_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS': Can't find file.
+[2022.07.04-11.41.05:182][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_M\Std_Nails_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.05:239][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_M\Std_Nails_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.05:971][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_M\Std_Tongue_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS': Can't find file.
+[2022.07.04-11.41.06:024][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_M\Std_Tongue_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS': Can't find file.
+[2022.07.04-11.41.07:051][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Mayor_with_mask\Std_Tongue_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS': Can't find file.
+[2022.07.04-11.41.07:132][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Mayor_with_mask\Std_Tongue_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS': Can't find file.
+[2022.07.04-11.41.07:225][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Mayor_with_mask.uasset: Failed to load '/Game/Character/NPC/Mayor_with_mask_Physics': Can't find file.
+[2022.07.04-11.41.07:225][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Mayor_with_mask.uasset: Failed to load '/Game/Character/NPC/Mayor_with_mask_Physics': Can't find file.
+[2022.07.04-11.41.07:226][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Mayor_with_mask.uasset: Failed to load '/Game/Character/NPC/Mayor_with_mask_Skeleton': Can't find file.
+[2022.07.04-11.41.07:226][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Mayor_with_mask.uasset: Failed to load '/Game/Character/NPC/Mayor_with_mask_Skeleton': Can't find file.
+[2022.07.04-11.41.07:226][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Mayor_with_mask.uasset: Failed to load '/Game/Character/NPC/Mayor_with_mask_Physics': Can't find file.
+[2022.07.04-11.41.07:226][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Mayor_with_mask.uasset: Failed to load '/Game/Character/NPC/Mayor_with_mask_Skeleton': Can't find file.
+[2022.07.04-11.41.07:816][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Hair_Transparency_Inst.uasset: Failed to load '/Game/GameFiles/Meshes/Character/Wanda_1212_fbm/Hair_Transparency_Opacity': Can't find file.
+[2022.07.04-11.41.07:817][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Hair_Transparency_Inst.uasset: Failed to load '/Game/GameFiles/Meshes/Character/Wanda_1212_fbm/Hair_Transparency_Opacity': Can't find file.
+[2022.07.04-11.41.07:817][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Hair_Transparency_Inst.uasset: Failed to load '/Game/GameFiles/Meshes/Character/Wanda_1212_fbm/Hair_Transparency_Opacity': Can't find file.
+[2022.07.04-11.41.08:142][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Lower_Teeth_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Teeth_Lower_SSS': Can't find file.
+[2022.07.04-11.41.08:142][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Lower_Teeth_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Teeth_Lower_SSS': Can't find file.
+[2022.07.04-11.41.08:205][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Lower_Teeth_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Teeth_Lower_SSS': Can't find file.
+[2022.07.04-11.41.08:216][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Nails_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.08:306][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Nails_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.08:314][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Skin_Arm_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.08:374][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Skin_Arm_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.08:386][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Skin_Body_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.08:434][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Skin_Body_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.08:444][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Skin_Head_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.08:542][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Skin_Head_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.08:550][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Skin_Leg_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.08:600][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Skin_Leg_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.08:628][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Tongue_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS': Can't find file.
+[2022.07.04-11.41.08:663][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Tongue_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS': Can't find file.
+[2022.07.04-11.41.08:669][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Upper_Teeth_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Teeth_Upper_SSS': Can't find file.
+[2022.07.04-11.41.08:670][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Upper_Teeth_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Teeth_Upper_SSS': Can't find file.
+[2022.07.04-11.41.08:697][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Upper_Teeth_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Teeth_Upper_SSS': Can't find file.
+[2022.07.04-11.41.10:867][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Blue_mask_dressgirl\Std_Nails_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.10:920][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Blue_mask_dressgirl\Std_Nails_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.10:928][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Blue_mask_dressgirl\Std_Skin_Arm_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.10:992][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Blue_mask_dressgirl\Std_Skin_Arm_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.10:998][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Blue_mask_dressgirl\Std_Skin_Body_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.11:082][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Blue_mask_dressgirl\Std_Skin_Body_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.11:091][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Blue_mask_dressgirl\Std_Skin_Head_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.11:177][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Blue_mask_dressgirl\Std_Skin_Head_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.11:183][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Blue_mask_dressgirl\Std_Skin_Leg_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.11:252][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Blue_mask_dressgirl\Std_Skin_Leg_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.11:274][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Blue_mask_dressgirl\Std_Tongue_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS': Can't find file.
+[2022.07.04-11.41.11:308][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Blue_mask_dressgirl\Std_Tongue_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS': Can't find file.
+[2022.07.04-11.41.11:429][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Blue_mask_dressgirl.uasset: Failed to load '/Game/Character/NPC/Blue_mask_dressgirl_Physics': Can't find file.
+[2022.07.04-11.41.11:429][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Blue_mask_dressgirl.uasset: Failed to load '/Game/Character/NPC/Blue_mask_dressgirl_Physics': Can't find file.
+[2022.07.04-11.41.11:429][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Blue_mask_dressgirl.uasset: Failed to load '/Game/Character/NPC/Blue_mask_dressgirl_Physics': Can't find file.
+[2022.07.04-11.41.12:365][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Red_mask_dressgirl\Std_Lower_Teeth_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Teeth_Lower_SSS': Can't find file.
+[2022.07.04-11.41.12:439][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Red_mask_dressgirl\Std_Lower_Teeth_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Teeth_Lower_SSS': Can't find file.
+[2022.07.04-11.41.12:446][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Red_mask_dressgirl\Std_Nails_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.12:528][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Red_mask_dressgirl\Std_Nails_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.12:535][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Red_mask_dressgirl\Std_Skin_Arm_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.12:598][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Red_mask_dressgirl\Std_Skin_Arm_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.12:610][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Red_mask_dressgirl\Std_Skin_Body_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.12:730][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Red_mask_dressgirl\Std_Skin_Body_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.12:739][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Red_mask_dressgirl\Std_Skin_Head_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.12:825][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Red_mask_dressgirl\Std_Skin_Head_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.12:833][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Red_mask_dressgirl\Std_Skin_Leg_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.12:879][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Red_mask_dressgirl\Std_Skin_Leg_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.12:901][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Red_mask_dressgirl\Std_Tongue_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS': Can't find file.
+[2022.07.04-11.41.12:929][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Red_mask_dressgirl\Std_Tongue_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS': Can't find file.
+[2022.07.04-11.41.12:938][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Red_mask_dressgirl\Std_Upper_Teeth_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Teeth_Upper_SSS': Can't find file.
+[2022.07.04-11.41.12:962][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Red_mask_dressgirl\Std_Upper_Teeth_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Teeth_Upper_SSS': Can't find file.
+[2022.07.04-11.41.15:913][  0]LogBlueprint: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\ALS_AnimMan_CharacterBP.uasset: [Compiler] InputAction Event references unknown Action 'ZoomOut' for  InputAction ZoomOut
+[2022.07.04-11.41.15:913][  0]LogBlueprint: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\ALS_AnimMan_CharacterBP.uasset: [Compiler] InputAction Event references unknown Action 'ZoomIn' for  InputAction ZoomIn
+[2022.07.04-11.41.16:512][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AdvancedLocomotionV4\Blueprints\light\Light_Source2_Blueprint.uasset: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/BP_Character': Can't find file.
+[2022.07.04-11.41.16:512][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AdvancedLocomotionV4\Blueprints\light\Light_Source2_Blueprint.uasset: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/BP_Character': Can't find file.
+[2022.07.04-11.41.16:513][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AdvancedLocomotionV4\Blueprints\light\Light_Source2_Blueprint.uasset: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/BP_Character': Can't find file.
+[2022.07.04-11.41.16:514][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Maps\chapter1.umap: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/BP_Character': Can't find file.
+[2022.07.04-11.41.16:514][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Maps\chapter1.umap: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/BP_Character': Can't find file.
+[2022.07.04-11.41.16:515][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Maps\chapter1.umap: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/BP_Character': Can't find file.
+[2022.07.04-11.41.16:515][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Maps\chapter1.umap: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/BP_Character': Can't find file.
+[2022.07.04-11.41.16:515][  0]LoadErrors: Failed to load /Game/AmplifyAnimationPack/Blueprints/Character/BP_Character.BP_Character_C Referenced by Light_Source2_Blueprint
+[2022.07.04-11.41.16:566][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AdvancedLocomotionV4\Blueprints\light\SkyLight_Blueprint.uasset: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/BP_Character': Can't find file.
+[2022.07.04-11.41.16:566][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AdvancedLocomotionV4\Blueprints\light\SkyLight_Blueprint.uasset: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/BP_Character': Can't find file.
+[2022.07.04-11.41.16:567][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Maps\chapter1.umap: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/BP_Character': Can't find file.
+[2022.07.04-11.41.16:567][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Maps\chapter1.umap: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/BP_Character': Can't find file.
+[2022.07.04-11.41.16:567][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Maps\chapter1.umap: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/BP_Character': Can't find file.
+[2022.07.04-11.41.16:568][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Maps\chapter1.umap: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/BP_Character': Can't find file.
+[2022.07.04-11.41.16:568][  0]LoadErrors: Failed to load /Game/AmplifyAnimationPack/Blueprints/Character/BP_Character.BP_Character_C Referenced by SkyLight_Blueprint
+[2022.07.04-11.41.17:122][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\gun_glock.uasset: Failed to load '/Game/WeaponPack/Models/Glock/Glock_Skeleton_AnimBlueprint': Can't find file.
+[2022.07.04-11.41.17:123][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\gun_glock.uasset: Failed to load '/Game/WeaponPack/Models/Glock/Glock_Skeleton_AnimBlueprint': Can't find file.
+[2022.07.04-11.41.17:124][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\gun_glock.uasset: Failed to load '/Game/ALS_Retarget/Glock/Glock_fire_crouch_gunner_Montage': Can't find file.
+[2022.07.04-11.41.17:124][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\gun_glock.uasset: Failed to load '/Game/ALS_Retarget/Glock/Glock_fire_crouch_gunner_Montage': Can't find file.
+[2022.07.04-11.41.17:243][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\gun_glock.uasset: Failed to load '/Game/ALS_Retarget/Glock/Glock_fire_crouch_gunner_Montage': Can't find file.
+[2022.07.04-11.41.17:243][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\gun_glock.uasset: Failed to load '/Game/WeaponPack/Models/Glock/Gclock': Can't find file.
+[2022.07.04-11.41.17:244][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\gun_glock.uasset: Failed to load '/Game/WeaponPack/Models/Glock/Gclock': Can't find file.
+[2022.07.04-11.41.17:244][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\gun_glock.uasset: Failed to load '/Game/WeaponPack/Models/Glock/Glock_Skeleton_AnimBlueprint': Can't find file.
+[2022.07.04-11.41.17:244][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\BP\Guns\gun_glock.uasset: Failed to load '/Game/WeaponPack/Models/Glock/Gclock': Can't find file.
+[2022.07.04-11.41.17:244][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Maps\chapter1.umap: Failed to load '/Game/WeaponPack/Models/Glock/Glock_Skeleton_AnimBlueprint': Can't find file.
+[2022.07.04-11.41.17:245][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Maps\chapter1.umap: Failed to load '/Game/ALS_Retarget/Glock/Glock_fire_crouch_gunner_Montage': Can't find file.
+[2022.07.04-11.41.17:245][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Maps\chapter1.umap: Failed to load '/Game/ALS_Retarget/Glock/Glock_fire_crouch_gunner_Montage': Can't find file.
+[2022.07.04-11.41.17:245][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Maps\chapter1.umap: Failed to load '/Game/WeaponPack/Models/Glock/Gclock': Can't find file.
+[2022.07.04-11.41.17:245][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Maps\chapter1.umap: Failed to load '/Game/WeaponPack/Models/Glock/Glock_Skeleton_AnimBlueprint': Can't find file.
+[2022.07.04-11.41.17:245][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Maps\chapter1.umap: Failed to load '/Game/WeaponPack/Models/Glock/Gclock': Can't find file.
+[2022.07.04-11.41.17:246][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Maps\chapter1.umap: Failed to load '/Game/ALS_Retarget/Glock/Glock_fire_crouch_gunner_Montage': Can't find file.
+[2022.07.04-11.41.17:246][  0]LoadErrors: Failed to load /Game/ALS_Retarget/Glock/Glock_fire_crouch_gunner_Montage.Glock_fire_crouch_gunner_Montage Referenced by Default__gun_glock_C
+[2022.07.04-11.41.17:247][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Maps\chapter1.umap: Failed to load '/Game/WeaponPack/Models/Glock/Glock_Skeleton_AnimBlueprint': Can't find file.
+[2022.07.04-11.41.17:247][  0]LoadErrors: Failed to load /Game/WeaponPack/Models/Glock/Glock_Skeleton_AnimBlueprint.Glock_Skeleton_AnimBlueprint_C Referenced by gun mesh_GEN_VARIABLE
+[2022.07.04-11.41.17:247][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Maps\chapter1.umap: Failed to load '/Game/WeaponPack/Models/Glock/Gclock': Can't find file.
+[2022.07.04-11.41.17:247][  0]LoadErrors: Failed to load /Game/WeaponPack/Models/Glock/Gclock.Gclock Referenced by gun mesh_GEN_VARIABLE
+[2022.07.04-11.41.18:500][  0]LogBlueprint: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\RLContent\Resist_man_fina2l\CCLiveLink_Blueprint.uasset: [Compiler] Get Subject Data generated from expanding RLLive Link : Usage of 'Get Subject Data' has been deprecated. GetSubjectData is deprecated, EvaluateLiveLinkFrame.
+[2022.07.04-11.41.19:520][  0]LogBlueprint: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\RLContent\Resistance_3_fe2\CCLiveLink_Blueprint.uasset: [Compiler] Get Subject Data generated from expanding RLLive Link : Usage of 'Get Subject Data' has been deprecated. GetSubjectData is deprecated, EvaluateLiveLinkFrame.
+[2022.07.04-11.41.30:757][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Resistance_Soldier\Materials\M_resist\Std_Tongue_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS': Can't find file.
+[2022.07.04-11.41.30:757][  0]LoadErrors: Failed to load /Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS.Std_Tongue Referenced by Std_Tongue_LWHQ_Inst
+[2022.07.04-11.41.30:806][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Resistance_Soldier\Materials\M_resist\Std_Nails_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.30:806][  0]LoadErrors: Failed to load /Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS.RL_HQSkinSSS Referenced by Std_Nails_HQ_Inst
+[2022.07.04-11.41.30:835][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Resistance_Soldier\Materials\M_resist\Std_Cornea_R_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/EyeShader/SSS_Profile/SSP_Eye_Inner': Can't find file.
+[2022.07.04-11.41.30:835][  0]LoadErrors: Failed to load /Engine/CC_Shaders/EyeShader/SSS_Profile/SSP_Eye_Inner.Std_Cornea_R Referenced by Std_Cornea_R_LWHQ_Inst
+[2022.07.04-11.41.30:844][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Resistance_Soldier\Materials\M_resist\Std_Cornea_L_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/EyeShader/SSS_Profile/SSP_Eye_Inner': Can't find file.
+[2022.07.04-11.41.30:844][  0]LoadErrors: Failed to load /Engine/CC_Shaders/EyeShader/SSS_Profile/SSP_Eye_Inner.Std_Cornea_R Referenced by Std_Cornea_L_LWHQ_Inst
+[2022.07.04-11.41.31:549][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Mayor_NPC2\Std_Tongue_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS': Can't find file.
+[2022.07.04-11.41.31:550][  0]LoadErrors: Failed to load /Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS.Std_Tongue Referenced by Std_Tongue_LWHQ_Inst
+[2022.07.04-11.41.32:406][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Mayor_NPC2\Std_Nails_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.32:406][  0]LoadErrors: Failed to load /Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS.RL_HQSkinSSS Referenced by Std_Nails_HQ_Inst
+[2022.07.04-11.41.34:578][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AI_NPC\Pedestrian.uasset: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP': Can't find file.
+[2022.07.04-11.41.34:578][  0]LoadErrors: Failed to load /Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP.EnemyBP_C Referenced by Pedestrian
+[2022.07.04-11.41.34:578][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AI_NPC\Pedestrian.uasset: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP': Can't find file.
+[2022.07.04-11.41.34:578][  0]LoadErrors: Failed to load /Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP.EnemyBP_C Referenced by Pedestrian
+[2022.07.04-11.41.34:578][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C
+[2022.07.04-11.41.34:579][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AI_NPC\Pedestrian.uasset: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP': Can't find file.
+[2022.07.04-11.41.34:579][  0]LoadErrors: Failed to load /Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP.EnemyBP_C Referenced by K2Node_CallParentFunction_0
+[2022.07.04-11.41.34:580][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AI_NPC\Pedestrian.uasset: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP': Can't find file.
+[2022.07.04-11.41.34:580][  0]LoadErrors: Failed to load /Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP.EnemyBP_C Referenced by K2Node_CallParentFunction_0
+[2022.07.04-11.41.34:581][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\AI_NPC\Pedestrian.uasset: Failed to load '/Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP': Can't find file.
+[2022.07.04-11.41.34:581][  0]LoadErrors: Failed to load /Game/AmplifyAnimationPack/Blueprints/Character/Enemy/EnemyBP.EnemyBP_C Referenced by PackageMetaData
+[2022.07.04-11.41.34:581][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C
+[2022.07.04-11.41.34:657][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Police_Enemy\Std_Tongue_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS': Can't find file.
+[2022.07.04-11.41.34:657][  0]LoadErrors: Failed to load /Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS.Std_Tongue Referenced by Std_Tongue_LWHQ_Inst
+[2022.07.04-11.41.34:679][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Police_Enemy\Std_Nails_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.34:679][  0]LoadErrors: Failed to load /Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS.RL_HQSkinSSS Referenced by Std_Nails_HQ_Inst
+[2022.07.04-11.41.35:479][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Police_Enemy.uasset: Failed to load '/Game/Character/Enemy/Police_Enemy_Physics': Can't find file.
+[2022.07.04-11.41.35:479][  0]LoadErrors: Failed to load /Game/Character/Enemy/Police_Enemy_Physics.Police_Enemy_Physics Referenced by Police_Enemy
+[2022.07.04-11.41.36:105][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Blue_mask_dressgirl\Std_Skin_Head_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.36:105][  0]LoadErrors: Failed to load /Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS.RL_HQSkinSSS Referenced by Std_Skin_Head_HQ_Inst
+[2022.07.04-11.41.36:110][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Blue_mask_dressgirl\Std_Skin_Body_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.36:110][  0]LoadErrors: Failed to load /Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS.RL_HQSkinSSS Referenced by Std_Skin_Body_HQ_Inst
+[2022.07.04-11.41.36:115][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Blue_mask_dressgirl\Std_Skin_Arm_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.36:115][  0]LoadErrors: Failed to load /Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS.RL_HQSkinSSS Referenced by Std_Skin_Arm_HQ_Inst
+[2022.07.04-11.41.36:121][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Blue_mask_dressgirl\Std_Nails_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.36:121][  0]LoadErrors: Failed to load /Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS.RL_HQSkinSSS Referenced by Std_Nails_HQ_Inst
+[2022.07.04-11.41.36:278][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Blue_mask_dressgirl.uasset: Failed to load '/Game/Character/NPC/Blue_mask_dressgirl_Physics': Can't find file.
+[2022.07.04-11.41.36:278][  0]LoadErrors: Failed to load /Game/Character/NPC/Blue_mask_dressgirl_Physics.Blue_mask_dressgirl_Physics Referenced by dress_tex_ClothingData_0
+[2022.07.04-11.41.36:518][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Blue_mask_dressgirl.uasset: Failed to load '/Game/Character/NPC/Blue_mask_dressgirl_Physics': Can't find file.
+[2022.07.04-11.41.36:518][  0]LoadErrors: Failed to load /Game/Character/NPC/Blue_mask_dressgirl_Physics.Blue_mask_dressgirl_Physics Referenced by Hair_Transparency_0_ClothingData_1
+[2022.07.04-11.41.36:831][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Blue_mask_dressgirl.uasset: Failed to load '/Game/Character/NPC/Blue_mask_dressgirl_Physics': Can't find file.
+[2022.07.04-11.41.36:831][  0]LoadErrors: Failed to load /Game/Character/NPC/Blue_mask_dressgirl_Physics.Blue_mask_dressgirl_Physics Referenced by Blue_mask_dressgirl
+[2022.07.04-11.41.38:917][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Upper_Teeth_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Teeth_Upper_SSS': Can't find file.
+[2022.07.04-11.41.38:917][  0]LoadErrors: Failed to load /Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Teeth_Upper_SSS.Std_Upper_Teeth Referenced by Std_Upper_Teeth_LWHQ_Inst
+[2022.07.04-11.41.38:920][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Tongue_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS': Can't find file.
+[2022.07.04-11.41.38:920][  0]LoadErrors: Failed to load /Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS.Std_Tongue Referenced by Std_Tongue_LWHQ_Inst
+[2022.07.04-11.41.38:958][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Skin_Leg_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.38:958][  0]LoadErrors: Failed to load /Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS.RL_HQSkinSSS Referenced by Std_Skin_Leg_HQ_Inst
+[2022.07.04-11.41.38:966][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Skin_Head_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.38:966][  0]LoadErrors: Failed to load /Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS.RL_HQSkinSSS Referenced by Std_Skin_Head_HQ_Inst
+[2022.07.04-11.41.38:973][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Skin_Body_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.38:973][  0]LoadErrors: Failed to load /Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS.RL_HQSkinSSS Referenced by Std_Skin_Body_HQ_Inst
+[2022.07.04-11.41.39:011][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Skin_Arm_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.39:011][  0]LoadErrors: Failed to load /Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS.RL_HQSkinSSS Referenced by Std_Skin_Arm_HQ_Inst
+[2022.07.04-11.41.39:028][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Nails_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.39:028][  0]LoadErrors: Failed to load /Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS.RL_HQSkinSSS Referenced by Std_Nails_HQ_Inst
+[2022.07.04-11.41.39:056][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Std_Lower_Teeth_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Teeth_Lower_SSS': Can't find file.
+[2022.07.04-11.41.39:056][  0]LoadErrors: Failed to load /Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Teeth_Lower_SSS.Std_Lower_Teeth Referenced by Std_Lower_Teeth_LWHQ_Inst
+[2022.07.04-11.41.39:089][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_female\Hair_Transparency_Inst.uasset: Failed to load '/Game/GameFiles/Meshes/Character/Wanda_1212_fbm/Hair_Transparency_Opacity': Can't find file.
+[2022.07.04-11.41.39:089][  0]LoadErrors: Failed to load /Game/GameFiles/Meshes/Character/Wanda_1212_fbm/Hair_Transparency_Opacity.Hair_Transparency_Opacity Referenced by Hair_Transparency_Inst
+[2022.07.04-11.41.40:165][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Mayor_with_mask\Std_Tongue_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS': Can't find file.
+[2022.07.04-11.41.40:165][  0]LoadErrors: Failed to load /Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS.Std_Tongue Referenced by Std_Tongue_LWHQ_Inst
+[2022.07.04-11.41.40:310][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Mayor_with_mask.uasset: Failed to load '/Game/Character/NPC/Mayor_with_mask_Skeleton': Can't find file.
+[2022.07.04-11.41.40:310][  0]LoadErrors: Failed to load /Game/Character/NPC/Mayor_with_mask_Skeleton.Mayor_with_mask_Skeleton Referenced by Mayor_with_mask
+[2022.07.04-11.41.40:311][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Mayor_with_mask.uasset: Failed to load '/Game/Character/NPC/Mayor_with_mask_Physics': Can't find file.
+[2022.07.04-11.41.40:311][  0]LoadErrors: Failed to load /Game/Character/NPC/Mayor_with_mask_Physics.Mayor_with_mask_Physics Referenced by Mayor_with_mask
+[2022.07.04-11.41.41:031][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_M\Std_Tongue_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS': Can't find file.
+[2022.07.04-11.41.41:031][  0]LoadErrors: Failed to load /Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS.Std_Tongue Referenced by Std_Tongue_LWHQ_Inst
+[2022.07.04-11.41.41:053][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\Enemy\Materials\Enemy_M\Std_Nails_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.41:053][  0]LoadErrors: Failed to load /Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS.RL_HQSkinSSS Referenced by Std_Nails_HQ_Inst
+[2022.07.04-11.41.41:431][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Red_mask_dressgirl\Std_Upper_Teeth_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Teeth_Upper_SSS': Can't find file.
+[2022.07.04-11.41.41:431][  0]LoadErrors: Failed to load /Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Teeth_Upper_SSS.Std_Upper_Teeth Referenced by Std_Upper_Teeth_LWHQ_Inst
+[2022.07.04-11.41.41:434][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Red_mask_dressgirl\Std_Tongue_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS': Can't find file.
+[2022.07.04-11.41.41:434][  0]LoadErrors: Failed to load /Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS.Std_Tongue Referenced by Std_Tongue_LWHQ_Inst
+[2022.07.04-11.41.41:439][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Red_mask_dressgirl\Std_Skin_Leg_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.41:439][  0]LoadErrors: Failed to load /Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS.RL_HQSkinSSS Referenced by Std_Skin_Leg_HQ_Inst
+[2022.07.04-11.41.41:445][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Red_mask_dressgirl\Std_Skin_Head_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.41:445][  0]LoadErrors: Failed to load /Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS.RL_HQSkinSSS Referenced by Std_Skin_Head_HQ_Inst
+[2022.07.04-11.41.41:449][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Red_mask_dressgirl\Std_Skin_Body_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.41:449][  0]LoadErrors: Failed to load /Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS.RL_HQSkinSSS Referenced by Std_Skin_Body_HQ_Inst
+[2022.07.04-11.41.41:453][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Red_mask_dressgirl\Std_Skin_Arm_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.41:453][  0]LoadErrors: Failed to load /Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS.RL_HQSkinSSS Referenced by Std_Skin_Arm_HQ_Inst
+[2022.07.04-11.41.41:457][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Red_mask_dressgirl\Std_Nails_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.41:457][  0]LoadErrors: Failed to load /Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS.RL_HQSkinSSS Referenced by Std_Nails_HQ_Inst
+[2022.07.04-11.41.41:461][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Red_mask_dressgirl\Std_Lower_Teeth_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Teeth_Lower_SSS': Can't find file.
+[2022.07.04-11.41.41:461][  0]LoadErrors: Failed to load /Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Teeth_Lower_SSS.Std_Lower_Teeth Referenced by Std_Lower_Teeth_LWHQ_Inst
+[2022.07.04-11.41.42:110][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Blue_mask_dressgirl\Std_Tongue_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS': Can't find file.
+[2022.07.04-11.41.42:110][  0]LoadErrors: Failed to load /Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS.Std_Tongue Referenced by Std_Tongue_LWHQ_Inst
+[2022.07.04-11.41.42:115][  0]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Character\NPC\Materials\Blue_mask_dressgirl\Std_Skin_Leg_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.41.42:115][  0]LoadErrors: Failed to load /Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS.RL_HQSkinSSS Referenced by Std_Skin_Leg_HQ_Inst
+[2022.07.04-11.41.47:759][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/crossbow/AS_crossbow_aim_idle_stand.AS_crossbow_aim_idle_stand
+[2022.07.04-11.41.47:759][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/crossbow/AS_crossbow_aim_idle_stand.AS_crossbow_aim_idle_stand
+[2022.07.04-11.42.05:289][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/glock/Glock_reload_prone_gunner.Glock_reload_prone_gunner
+[2022.07.04-11.42.05:290][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'chapter1'.
+[2022.07.04-11.42.05:292][  0]LogAIModule: Creating AISystem for world chapter1
+[2022.07.04-11.42.05:769][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.04-11.42.05:948][  0]LogUObjectHash: Compacting FUObjectHashTables data took   5.98ms
+[2022.07.04-11.42.05:958][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.04-11.42.05:960][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.275ms to complete.
+[2022.07.04-11.42.05:960][  0]LogFileHelpers: Loading map 'chapter1' took 84.692
+[2022.07.04-11.42.06:081][  0]LogUnrealEdMisc: Total Editor Startup Time, took 126.157
+[2022.07.04-11.42.06:344][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.04-11.42.06:434][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.04-11.42.06:589][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0924 seconds. Added 3771 classes and 918 folders.
+[2022.07.04-11.42.06:614][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2022.07.04-11.42.06:637][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.07.04-11.42.06:637][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.04-11.42.06:637][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.07.04-11.42.06:638][  0]LogPakFile: OnPakFileMounted2Time == 0.000612
+[2022.07.04-11.42.06:647][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.07.04-11.42.06:647][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.04-11.42.06:647][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.07.04-11.42.06:647][  0]LogPakFile: OnPakFileMounted2Time == 0.000616
+[2022.07.04-11.42.06:652][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.07.04-11.42.06:652][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.04-11.42.06:652][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.07.04-11.42.06:652][  0]LogPakFile: OnPakFileMounted2Time == 0.000619
+[2022.07.04-11.42.06:658][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.07.04-11.42.06:658][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.04-11.42.06:658][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.07.04-11.42.06:658][  0]LogPakFile: OnPakFileMounted2Time == 0.000620
+[2022.07.04-11.42.06:663][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.07.04-11.42.06:663][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.04-11.42.06:663][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.07.04-11.42.06:663][  0]LogPakFile: OnPakFileMounted2Time == 0.000623
+[2022.07.04-11.42.06:667][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.07.04-11.42.06:667][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.04-11.42.06:667][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.07.04-11.42.06:667][  0]LogPakFile: OnPakFileMounted2Time == 0.000625
+[2022.07.04-11.42.06:672][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.07.04-11.42.06:672][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.04-11.42.06:672][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.07.04-11.42.06:672][  0]LogPakFile: OnPakFileMounted2Time == 0.000626
+[2022.07.04-11.42.06:677][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.07.04-11.42.06:677][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.04-11.42.06:677][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.07.04-11.42.06:677][  0]LogPakFile: OnPakFileMounted2Time == 0.000629
+[2022.07.04-11.42.06:688][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.07.04-11.42.06:688][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.04-11.42.06:688][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.07.04-11.42.06:688][  0]LogPakFile: OnPakFileMounted2Time == 0.000633
+[2022.07.04-11.42.06:693][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.07.04-11.42.06:693][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.04-11.42.06:693][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.07.04-11.42.06:693][  0]LogPakFile: OnPakFileMounted2Time == 0.000636
+[2022.07.04-11.42.06:698][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.07.04-11.42.06:698][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.04-11.42.06:698][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.07.04-11.42.06:698][  0]LogPakFile: OnPakFileMounted2Time == 0.000641
+[2022.07.04-11.42.06:704][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.07.04-11.42.06:704][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.04-11.42.06:704][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.07.04-11.42.06:704][  0]LogPakFile: OnPakFileMounted2Time == 0.000645
+[2022.07.04-11.42.06:709][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.07.04-11.42.06:709][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.04-11.42.06:709][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.07.04-11.42.06:709][  0]LogPakFile: OnPakFileMounted2Time == 0.000650
+[2022.07.04-11.42.06:714][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.07.04-11.42.06:714][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.04-11.42.06:714][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.07.04-11.42.06:714][  0]LogPakFile: OnPakFileMounted2Time == 0.000654
+[2022.07.04-11.42.06:719][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.07.04-11.42.06:719][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.04-11.42.06:719][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.07.04-11.42.06:719][  0]LogPakFile: OnPakFileMounted2Time == 0.000655
+[2022.07.04-11.42.06:724][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.07.04-11.42.06:724][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.04-11.42.06:724][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.07.04-11.42.06:724][  0]LogPakFile: OnPakFileMounted2Time == 0.000658
+[2022.07.04-11.42.06:731][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.07.04-11.42.06:731][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.04-11.42.06:731][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.07.04-11.42.06:731][  0]LogPakFile: OnPakFileMounted2Time == 0.000662
+[2022.07.04-11.42.06:737][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.07.04-11.42.06:737][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.04-11.42.06:737][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.07.04-11.42.06:737][  0]LogPakFile: OnPakFileMounted2Time == 0.000665
+[2022.07.04-11.42.06:742][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.07.04-11.42.06:742][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.04-11.42.06:742][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.07.04-11.42.06:742][  0]LogPakFile: OnPakFileMounted2Time == 0.000668
+[2022.07.04-11.42.06:750][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.07.04-11.42.06:750][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.04-11.42.06:750][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.07.04-11.42.06:750][  0]LogPakFile: OnPakFileMounted2Time == 0.000671
+[2022.07.04-11.42.06:755][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.07.04-11.42.06:755][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.04-11.42.06:755][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.07.04-11.42.06:755][  0]LogPakFile: OnPakFileMounted2Time == 0.000673
+[2022.07.04-11.42.06:760][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.07.04-11.42.06:760][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.04-11.42.06:760][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.07.04-11.42.06:760][  0]LogPakFile: OnPakFileMounted2Time == 0.000675
+[2022.07.04-11.42.06:765][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.07.04-11.42.06:765][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.04-11.42.06:765][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.07.04-11.42.06:765][  0]LogPakFile: OnPakFileMounted2Time == 0.000676
+[2022.07.04-11.42.06:770][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.07.04-11.42.06:770][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.04-11.42.06:770][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.07.04-11.42.06:770][  0]LogPakFile: OnPakFileMounted2Time == 0.000677
+[2022.07.04-11.42.06:775][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.07.04-11.42.06:775][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.04-11.42.06:775][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.07.04-11.42.06:775][  0]LogPakFile: OnPakFileMounted2Time == 0.000679
+[2022.07.04-11.42.06:780][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.07.04-11.42.06:780][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.04-11.42.06:780][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.07.04-11.42.06:780][  0]LogPakFile: OnPakFileMounted2Time == 0.000680
+[2022.07.04-11.42.07:070][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.07.04-11.42.07:080][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.07.04-11.42.07:921][  0]LogSlate: Took 0.006348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.07.04-11.42.07:935][  0]LogSlate: Took 0.004359 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.07.04-11.42.07:944][  0]LogSlate: Took 0.006796 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.07.04-11.42.08:206][  0]LogRenderer: Reallocating scene render targets to support 1528x600 Format 9 NumSamples 1 (Frame:1).
+[2022.07.04-11.42.08:659][  0]LogSlate: Took 0.026028 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.07.04-11.42.08:725][  0]LogSlate: Took 0.041709 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.07.04-11.42.08:941][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.07.04-11.42.08:943][  0]LogLoad: (Engine Initialization) Total time: 129.02 seconds
+[2022.07.04-11.42.08:943][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.07.04-11.42.08:944][  0]LogInit: First time updating LLM stats...
+[2022.07.04-11.42.08:985][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Arrow': Pedestrian_C /Game/AI_NPC/Pedestrian.Default__Pedestrian_C
+[2022.07.04-11.42.08:985][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CollisionCylinder': Pedestrian_C /Game/AI_NPC/Pedestrian.Default__Pedestrian_C
+[2022.07.04-11.42.08:985][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharMoveComp': Pedestrian_C /Game/AI_NPC/Pedestrian.Default__Pedestrian_C
+[2022.07.04-11.42.08:985][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NavigationInvoker_GEN_VARIABLE': BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C
+[2022.07.04-11.42.08:985][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot_GEN_VARIABLE': BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C
+[2022.07.04-11.42.08:985][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SimpleConstructionScript_0': BlueprintGeneratedClass /Game/AI_NPC/Pedestrian.Pedestrian_C
+[2022.07.04-11.42.08:985][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SCS_Node_0': SimpleConstructionScript /Game/AI_NPC/Pedestrian.Pedestrian_C:SimpleConstructionScript_0
+[2022.07.04-11.42.08:985][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SCS_Node_1': SimpleConstructionScript /Game/AI_NPC/Pedestrian.Pedestrian_C:SimpleConstructionScript_0
+[2022.07.04-11.42.08:985][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharacterMesh0': Pedestrian_C /Game/AI_NPC/Pedestrian.Default__Pedestrian_C
+[2022.07.04-11.42.09:196][  0]LogContentStreaming: Texture pool size now 400 MB
+[2022.07.04-11.42.09:304][  0]LogSlate: Took 0.006336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.07.04-11.42.09:987][  6]LogAssetRegistry: Asset discovery search completed in 111.2195 seconds
+[2022.07.04-11.42.10:031][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000017 seconds (updated 0 objects)
+[2022.07.04-11.42.34:368][125]LogSlate: Window 'Message Log' being destroyed
+[2022.07.04-11.42.34:371][125]LogSlate: Window 'Message Log' being destroyed
+[2022.07.04-11.57.35:205][403]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{032f3c5e-2e84-4c9f-b4a3-be5f05cc6775}.
+[2022.07.04-11.57.35:212][403]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.04-11.57.35:227][403]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.04-11.57.35:227][403]LogAudioMixer: Display: 1: FrontRight
+[2022.07.04-11.57.36:293][404]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.04-11.57.37:280][404]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.04-11.57.37:280][404]LogAudioMixer: Display: 1: FrontRight
+[2022.07.04-11.57.38:319][405]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.04-11.57.39:303][405]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.04-11.57.39:303][405]LogAudioMixer: Display: 1: FrontRight
+[2022.07.04-11.57.40:341][406]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.04-11.57.41:331][406]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.04-11.57.41:331][406]LogAudioMixer: Display: 1: FrontRight
+[2022.07.04-11.57.42:367][407]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.04-11.57.43:355][407]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.04-11.57.43:355][407]LogAudioMixer: Display: 1: FrontRight
+[2022.07.04-11.57.44:387][408]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.04-11.57.45:390][408]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.04-11.57.45:390][408]LogAudioMixer: Display: 1: FrontRight
+[2022.07.04-11.57.46:427][409]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.04-11.57.47:412][409]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.04-11.57.47:412][409]LogAudioMixer: Display: 1: FrontRight
+[2022.07.04-11.57.48:443][410]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.04-11.57.49:452][410]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.04-11.57.49:452][410]LogAudioMixer: Display: 1: FrontRight
+[2022.07.04-11.57.50:499][411]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.04-11.57.51:488][411]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.04-11.57.51:488][411]LogAudioMixer: Display: 1: FrontRight
+[2022.07.04-11.57.52:530][412]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.04-11.57.53:512][412]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.04-11.57.53:512][412]LogAudioMixer: Display: 1: FrontRight
+[2022.07.04-11.57.54:544][413]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.04-11.57.55:558][413]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.04-11.57.55:558][413]LogAudioMixer: Display: 1: FrontRight
+[2022.07.04-11.57.56:596][414]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.04-11.57.57:587][414]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.04-11.57.57:587][414]LogAudioMixer: Display: 1: FrontRight
+[2022.07.04-11.57.58:633][415]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.04-11.57.59:623][415]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.04-11.57.59:623][415]LogAudioMixer: Display: 1: FrontRight
+[2022.07.04-11.58.00:663][416]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.04-11.58.01:646][416]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.04-11.58.01:646][416]LogAudioMixer: Display: 1: FrontRight
+[2022.07.04-11.58.02:686][417]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.04-11.58.03:683][417]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.04-11.58.03:683][417]LogAudioMixer: Display: 1: FrontRight
+[2022.07.04-11.58.04:715][418]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.04-11.58.05:725][418]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.04-11.58.05:725][418]LogAudioMixer: Display: 1: FrontRight
+[2022.07.04-11.58.06:758][419]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.04-11.58.07:755][419]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.04-11.58.07:755][419]LogAudioMixer: Display: 1: FrontRight
+[2022.07.04-11.58.08:793][420]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.04-11.58.09:790][420]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.04-11.58.09:790][420]LogAudioMixer: Display: 1: FrontRight
+[2022.07.04-11.58.10:839][421]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.04-11.58.11:822][421]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.04-11.58.11:822][421]LogAudioMixer: Display: 1: FrontRight
+[2022.07.04-11.58.12:861][422]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.04-11.58.13:846][422]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.04-11.58.13:846][422]LogAudioMixer: Display: 1: FrontRight
+[2022.07.04-11.58.14:891][423]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.04-11.58.15:884][423]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.04-11.58.15:884][423]LogAudioMixer: Display: 1: FrontRight
+[2022.07.04-11.58.16:918][424]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.04-11.58.17:916][424]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.04-11.58.17:916][424]LogAudioMixer: Display: 1: FrontRight
+[2022.07.04-11.58.18:948][425]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.04-11.58.19:943][425]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.04-11.58.19:943][425]LogAudioMixer: Display: 1: FrontRight
+[2022.07.04-11.58.20:987][426]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.04-11.58.21:986][426]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.04-11.58.21:986][426]LogAudioMixer: Display: 1: FrontRight
+[2022.07.04-11.58.23:030][427]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.04-11.58.24:028][427]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.04-11.58.24:028][427]LogAudioMixer: Display: 1: FrontRight
+[2022.07.04-11.58.25:066][428]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.04-11.58.26:059][428]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.04-11.58.26:059][428]LogAudioMixer: Display: 1: FrontRight
+[2022.07.04-11.58.27:101][429]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.04-11.58.28:094][429]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.04-11.58.28:094][429]LogAudioMixer: Display: 1: FrontRight
+[2022.07.04-11.58.29:134][430]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.04-11.58.30:121][430]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.04-11.58.30:121][430]LogAudioMixer: Display: 1: FrontRight
+[2022.07.04-11.58.30:188][431]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.04-11.58.30:255][431]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.04-11.58.30:255][431]LogAudioMixer: Display: 1: FrontRight
+[2022.07.04-11.59.20:639][190]LogEditorViewport: Clicking on Actor (LMB): NPC_Dialouge_C (NPC_Dialouge)
+[2022.07.04-11.59.21:644][190]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Cinematics\Sequences\Cinematic_0517\Materials\Walking_NPC_Man2\Std_Nails_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.59.21:644][190]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Cinematics\Sequences\Cinematic_0517\Materials\Walking_NPC_Man2\Std_Nails_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.59.21:677][190]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Cinematics\Sequences\Cinematic_0517\Materials\Walking_NPC_Man2\Std_Nails_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.59.21:682][190]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Cinematics\Sequences\Cinematic_0517\Materials\Walking_NPC_Man2\Std_Skin_Arm_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.59.21:719][190]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Cinematics\Sequences\Cinematic_0517\Materials\Walking_NPC_Man2\Std_Skin_Arm_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.59.21:724][190]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Cinematics\Sequences\Cinematic_0517\Materials\Walking_NPC_Man2\Std_Skin_Head_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.59.21:783][190]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Cinematics\Sequences\Cinematic_0517\Materials\Walking_NPC_Man2\Std_Skin_Head_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.59.21:788][190]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Cinematics\Sequences\Cinematic_0517\Materials\Walking_NPC_Man2\Std_Skin_Leg_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.59.21:826][190]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Cinematics\Sequences\Cinematic_0517\Materials\Walking_NPC_Man2\Std_Skin_Leg_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.59.21:841][190]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Cinematics\Sequences\Cinematic_0517\Materials\Walking_NPC_Man2\Std_Tongue_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS': Can't find file.
+[2022.07.04-11.59.21:841][190]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Cinematics\Sequences\Cinematic_0517\Materials\Walking_NPC_Man2\Std_Tongue_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS': Can't find file.
+[2022.07.04-11.59.21:857][190]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Cinematics\Sequences\Cinematic_0517\Materials\Walking_NPC_Man2\Std_Tongue_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS': Can't find file.
+[2022.07.04-11.59.21:938][190]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Cinematics\Sequences\Cinematic_0517\Materials\Walking_NPC_Man2\Std_Tongue_LWHQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/GumsTongueTeethShader/SSS_Proflie/Tongue_SSS': Can't find file.
+[2022.07.04-11.59.21:940][190]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Cinematics\Sequences\Cinematic_0517\Materials\Walking_NPC_Man2\Std_Skin_Leg_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.59.21:943][190]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Cinematics\Sequences\Cinematic_0517\Materials\Walking_NPC_Man2\Std_Skin_Arm_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.59.21:946][190]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Cinematics\Sequences\Cinematic_0517\Materials\Walking_NPC_Man2\Std_Skin_Head_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.59.21:948][190]LogLinker: Warning: [AssetLog] C:\Users\ghdwl\Documents\GitHub\No-Landing\Content\Cinematics\Sequences\Cinematic_0517\Materials\Walking_NPC_Man2\Std_Nails_HQ_Inst.uasset: Failed to load '/Engine/CC_Shaders/SkinShader/SSS_Profile/RL_HQSkinSSS': Can't find file.
+[2022.07.04-11.59.44:983][534]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.07.04-11.59.45:002][534]LogContentBrowser: Creating deferred item: NewFolder
+[2022.07.04-12.00.07:661][154]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2022.07.04-12.00.07:662][154]LogContentBrowser: End creating deferred item NewFolder
+[2022.07.04-12.00.18:508][366]LogContentBrowser: Attempting asset rename: Dialogtree1 -> Dialogtree
+[2022.07.04-12.00.20:172][366]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.07.04-12.00.20:188][366]LogMetaData: Removing '/Game/AI_NPC/Dialogue_Npc/Dialogtrees/Dialogtree.Dialogtree:Behavior Tree.BehaviorTreeGraphNode_Root_0' ref from Metadata '/Game/AI_NPC/Dialogue_Npc/Dialogtrees/Dialogtree1.PackageMetaData'
+[2022.07.04-12.00.20:230][366]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/Dialogtree4B5D1548469C5980CB563685AE5791E7.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/AI_NPC/Dialogue_Npc/Dialogtrees/Dialogtree.uasset'
+[2022.07.04-12.00.20:375][366]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2022.07.04-12.00.20:375][366]SourceControl: Error: Content/AI_NPC/Dialogue_Npc/Dialogtrees/Dialogtree.uasset
+[2022.07.04-12.00.20:375][366]SourceControl: Error: hint: Use -f if you really want to add them.
+[2022.07.04-12.00.20:375][366]SourceControl: Error: hint: Turn this message off by running
+[2022.07.04-12.00.20:375][366]SourceControl: Error: hint: "git config advice.addIgnoredFile false"
+[2022.07.04-12.00.20:378][366]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/Dialogtree1892F9BA84E9F4069B48FA68980FE88EE.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/AI_NPC/Dialogue_Npc/Dialogtrees/Dialogtree1.uasset'
+[2022.07.04-12.00.21:235][366]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.04-12.00.21:235][366]LogContentValidation: Display: Validating BehaviorTree /Game/AI_NPC/Dialogue_Npc/Dialogtrees/Dialogtree.Dialogtree
+[2022.07.04-12.00.21:235][366]LogContentValidation: Display: Validating ObjectRedirector /Game/AI_NPC/Dialogue_Npc/Dialogtrees/Dialogtree1.Dialogtree1
+[2022.07.04-12.00.27:282][507]LogContentBrowser: Attempting asset rename: Dialogtree2 -> Dialogtree1-1
+[2022.07.04-12.00.29:047][507]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/Dialogtree1-1B3ACD4D34C6BCF2CC40FE185DCA02BFE.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/AI_NPC/Dialogue_Npc/Dialogtrees/Dialogtree1-1.uasset'
+[2022.07.04-12.00.29:180][507]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2022.07.04-12.00.29:180][507]SourceControl: Error: Content/AI_NPC/Dialogue_Npc/Dialogtrees/Dialogtree1-1.uasset
+[2022.07.04-12.00.29:180][507]SourceControl: Error: hint: Use -f if you really want to add them.
+[2022.07.04-12.00.29:180][507]SourceControl: Error: hint: Turn this message off by running
+[2022.07.04-12.00.29:180][507]SourceControl: Error: hint: "git config advice.addIgnoredFile false"
+[2022.07.04-12.00.29:183][507]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/Dialogtree2896B7F3E4C12604EF0A6228E5BB8C3A6.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/AI_NPC/Dialogue_Npc/Dialogtrees/Dialogtree2.uasset'
+[2022.07.04-12.00.30:062][507]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.04-12.00.30:062][507]LogContentValidation: Display: Validating ObjectRedirector /Game/AI_NPC/Dialogue_Npc/Dialogtrees/Dialogtree2.Dialogtree2
+[2022.07.04-12.00.30:062][507]LogContentValidation: Display: Validating BehaviorTree /Game/AI_NPC/Dialogue_Npc/Dialogtrees/Dialogtree1-1.Dialogtree1-1
+[2022.07.04-12.00.31:998][533]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/Dialogtree1-1_2B1E1CAD64CDC493EE31154A58305E965.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/AI_NPC/Dialogue_Npc/Dialogtrees/Dialogtree1-1_2.uasset'
+[2022.07.04-12.00.32:130][533]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2022.07.04-12.00.32:130][533]SourceControl: Error: Content/AI_NPC/Dialogue_Npc/Dialogtrees/Dialogtree1-1_2.uasset
+[2022.07.04-12.00.32:130][533]SourceControl: Error: hint: Use -f if you really want to add them.
+[2022.07.04-12.00.32:130][533]SourceControl: Error: hint: Turn this message off by running
+[2022.07.04-12.00.32:130][533]SourceControl: Error: hint: "git config advice.addIgnoredFile false"
+[2022.07.04-12.00.32:341][533]AssetCheck: New page: Asset Save: Dialogtree1-1_2
+[2022.07.04-12.00.32:341][533]LogContentValidation: Display: Validating BehaviorTree /Game/AI_NPC/Dialogue_Npc/Dialogtrees/Dialogtree1-1_2.Dialogtree1-1_2
+[2022.07.04-12.00.36:628][590]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI_NPC/Dialogue_Npc/DialogComponent.DialogComponent
+[2022.07.04-12.00.37:276][590]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2022.07.04-12.00.37:276][590]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2022.07.04-12.00.37:277][590]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2022.07.04-12.00.37:952][590]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2022.07.04-12.00.37:952][590]LoadErrors: Failed to load /Game/BeachScene/Effects/Niagara/RT_Foam.RT_Foam Referenced by M_Fluid_Sim_01
+[2022.07.04-12.00.37:955][590]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2022.07.04-12.00.37:955][590]LoadErrors: Failed to load /Game/BeachScene/Effects/Niagara/RT_Foam.RT_Foam Referenced by MaterialExpressionTextureSample_1
+[2022.07.04-12.00.38:024][590]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_01, compiling. 
+[2022.07.04-12.00.38:035][590]LogMaterial: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.07.04-12.00.38:035][590]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.07.04-12.00.38:035][590]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_01, compiling. 
+[2022.07.04-12.00.38:037][590]LogMaterial: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01_NoTerrain.uasset: Failed to compile Material Instance with Base M_Fluid_Sim_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2022.07.04-12.00.38:037][590]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.07.04-12.00.38:170][590]LogBlueprintEditor: Perf: 1.4 total seconds to load all 9 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2022.07.04-12.00.38:170][590]LogBlueprintEditor: Perf: 1.3 seconds loading: /Water/FluidSimulation/Blueprints/Libraries/PhysicsMacros
+[2022.07.04-12.00.38:193][590]LogEnum: Warning: Enum name collision: 'SoldierMovementMode::NewEnumerator0' is in both '/Game/AmplifyAnimationPack/Weapon/BP/SoldierMovementMode.SoldierMovementMode' and '/Game/BP/SoldierMovementMode.SoldierMovementMode'
+[2022.07.04-12.00.38:193][590]LogEnum: Warning: Enum name collision: 'SoldierMovementMode::NewEnumerator1' is in both '/Game/AmplifyAnimationPack/Weapon/BP/SoldierMovementMode.SoldierMovementMode' and '/Game/BP/SoldierMovementMode.SoldierMovementMode'
+[2022.07.04-12.00.38:193][590]LogEnum: Warning: Enum name collision: 'SoldierMovementMode::NewEnumerator2' is in both '/Game/AmplifyAnimationPack/Weapon/BP/SoldierMovementMode.SoldierMovementMode' and '/Game/BP/SoldierMovementMode.SoldierMovementMode'
+[2022.07.04-12.00.38:193][590]LogEnum: Warning: Enum name collision: 'SoldierMovementMode::NewEnumerator3' is in both '/Game/AmplifyAnimationPack/Weapon/BP/SoldierMovementMode.SoldierMovementMode' and '/Game/BP/SoldierMovementMode.SoldierMovementMode'
+[2022.07.04-12.00.38:193][590]LogEnum: Warning: Enum name collision: 'SoldierMovementMode::NewEnumerator4' is in both '/Game/AmplifyAnimationPack/Weapon/BP/SoldierMovementMode.SoldierMovementMode' and '/Game/BP/SoldierMovementMode.SoldierMovementMode'
+[2022.07.04-12.00.38:193][590]LogEnum: Warning: Enum name collision: 'SoldierMovementMode::SoldierMovementMode_MAX' is in both '/Game/AmplifyAnimationPack/Weapon/BP/SoldierMovementMode.SoldierMovementMode' and '/Game/BP/SoldierMovementMode.SoldierMovementMode'
+[2022.07.04-12.00.38:193][590]LogEnum: Warning: Enum name collision: 'SoldierMovementMode::NewEnumerator0' is in both '/Game/AmplifyAnimationPack/Weapon/BP/SoldierMovementMode.SoldierMovementMode' and '/Game/BP/SoldierMovementMode.SoldierMovementMode'
+[2022.07.04-12.00.38:193][590]LogEnum: Warning: Enum name collision: 'SoldierMovementMode::NewEnumerator1' is in both '/Game/AmplifyAnimationPack/Weapon/BP/SoldierMovementMode.SoldierMovementMode' and '/Game/BP/SoldierMovementMode.SoldierMovementMode'
+[2022.07.04-12.00.38:193][590]LogEnum: Warning: Enum name collision: 'SoldierMovementMode::NewEnumerator2' is in both '/Game/AmplifyAnimationPack/Weapon/BP/SoldierMovementMode.SoldierMovementMode' and '/Game/BP/SoldierMovementMode.SoldierMovementMode'
+[2022.07.04-12.00.38:193][590]LogEnum: Warning: Enum name collision: 'SoldierMovementMode::NewEnumerator3' is in both '/Game/AmplifyAnimationPack/Weapon/BP/SoldierMovementMode.SoldierMovementMode' and '/Game/BP/SoldierMovementMode.SoldierMovementMode'
+[2022.07.04-12.00.38:193][590]LogEnum: Warning: Enum name collision: 'SoldierMovementMode::NewEnumerator4' is in both '/Game/AmplifyAnimationPack/Weapon/BP/SoldierMovementMode.SoldierMovementMode' and '/Game/BP/SoldierMovementMode.SoldierMovementMode'
+[2022.07.04-12.00.38:196][590]LogEnum: Warning: Enum name collision: 'GunCategory::NewEnumerator0' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunCategory.GunCategory' and '/Game/BP/Guns/GunCategory.GunCategory'
+[2022.07.04-12.00.38:196][590]LogEnum: Warning: Enum name collision: 'GunCategory::NewEnumerator1' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunCategory.GunCategory' and '/Game/BP/Guns/GunCategory.GunCategory'
+[2022.07.04-12.00.38:196][590]LogEnum: Warning: Enum name collision: 'GunCategory::NewEnumerator2' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunCategory.GunCategory' and '/Game/BP/Guns/GunCategory.GunCategory'
+[2022.07.04-12.00.38:196][590]LogEnum: Warning: Enum name collision: 'GunCategory::GunCategory_MAX' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunCategory.GunCategory' and '/Game/BP/Guns/GunCategory.GunCategory'
+[2022.07.04-12.00.38:196][590]LogEnum: Warning: Enum name collision: 'GunCategory::NewEnumerator0' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunCategory.GunCategory' and '/Game/BP/Guns/GunCategory.GunCategory'
+[2022.07.04-12.00.38:196][590]LogEnum: Warning: Enum name collision: 'GunCategory::NewEnumerator1' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunCategory.GunCategory' and '/Game/BP/Guns/GunCategory.GunCategory'
+[2022.07.04-12.00.38:196][590]LogEnum: Warning: Enum name collision: 'GunCategory::NewEnumerator2' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunCategory.GunCategory' and '/Game/BP/Guns/GunCategory.GunCategory'
+[2022.07.04-12.00.38:199][590]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator0' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.07.04-12.00.38:199][590]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator1' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.07.04-12.00.38:199][590]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator2' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.07.04-12.00.38:199][590]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator3' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.07.04-12.00.38:199][590]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator4' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.07.04-12.00.38:199][590]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator5' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.07.04-12.00.38:199][590]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator6' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.07.04-12.00.38:199][590]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator7' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.07.04-12.00.38:199][590]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator8' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.07.04-12.00.38:199][590]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator9' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.07.04-12.00.38:199][590]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator10' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.07.04-12.00.38:199][590]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator11' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.07.04-12.00.38:199][590]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator12' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.07.04-12.00.38:199][590]LogEnum: Warning: Enum name collision: 'GunType::GunType_MAX' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.07.04-12.00.38:199][590]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator0' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.07.04-12.00.38:199][590]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator1' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.07.04-12.00.38:199][590]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator2' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.07.04-12.00.38:199][590]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator3' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.07.04-12.00.38:200][590]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator4' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.07.04-12.00.38:200][590]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator5' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.07.04-12.00.38:200][590]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator6' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.07.04-12.00.38:200][590]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator7' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.07.04-12.00.38:200][590]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator8' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.07.04-12.00.38:200][590]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator9' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.07.04-12.00.38:200][590]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator10' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.07.04-12.00.38:200][590]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator11' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.07.04-12.00.38:200][590]LogEnum: Warning: Enum name collision: 'GunType::NewEnumerator12' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/GunType.GunType' and '/Game/BP/Guns/GunType.GunType'
+[2022.07.04-12.00.38:203][590]LogEnum: Warning: Enum name collision: 'ReticleMode::NewEnumerator0' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/ReticleMode.ReticleMode' and '/Game/BP/Guns/ReticleMode.ReticleMode'
+[2022.07.04-12.00.38:203][590]LogEnum: Warning: Enum name collision: 'ReticleMode::NewEnumerator1' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/ReticleMode.ReticleMode' and '/Game/BP/Guns/ReticleMode.ReticleMode'
+[2022.07.04-12.00.38:203][590]LogEnum: Warning: Enum name collision: 'ReticleMode::NewEnumerator2' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/ReticleMode.ReticleMode' and '/Game/BP/Guns/ReticleMode.ReticleMode'
+[2022.07.04-12.00.38:203][590]LogEnum: Warning: Enum name collision: 'ReticleMode::ReticleMode_MAX' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/ReticleMode.ReticleMode' and '/Game/BP/Guns/ReticleMode.ReticleMode'
+[2022.07.04-12.00.38:203][590]LogEnum: Warning: Enum name collision: 'ReticleMode::NewEnumerator0' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/ReticleMode.ReticleMode' and '/Game/BP/Guns/ReticleMode.ReticleMode'
+[2022.07.04-12.00.38:203][590]LogEnum: Warning: Enum name collision: 'ReticleMode::NewEnumerator1' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/ReticleMode.ReticleMode' and '/Game/BP/Guns/ReticleMode.ReticleMode'
+[2022.07.04-12.00.38:203][590]LogEnum: Warning: Enum name collision: 'ReticleMode::NewEnumerator2' is in both '/Game/AmplifyAnimationPack/Weapon/BP/Guns/ReticleMode.ReticleMode' and '/Game/BP/Guns/ReticleMode.ReticleMode'
+[2022.07.04-12.00.38:466][590]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.07.04-12.00.39:839][590]LogSlate: Took 0.005178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.07.04-12.00.39:987][591]LogSlate: Took 0.005268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.07.04-12.00.54:025][950]LogSlate: Took 0.005379 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.07.04-12.01.30:050][754]BlueprintLog: New page: Compile DialogComponent
+[2022.07.04-12.01.30:153][754]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2022.07.04-12.01.30:758][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI_NPC/Dialogue_Npc/DialogComponent" FILE="../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/AI_NPC/Dialogue_Npc/DialogComponent.uasset" SILENT=true
+[2022.07.04-12.01.30:793][762]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/DialogComponentC172C05747CE275334830F99F155B1D8.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/AI_NPC/Dialogue_Npc/DialogComponent.uasset'
+[2022.07.04-12.01.30:810][762]AssetCheck: New page: Asset Save: DialogComponent
+[2022.07.04-12.01.30:810][762]LogContentValidation: Display: Validating Blueprint /Game/AI_NPC/Dialogue_Npc/DialogComponent.DialogComponent
+[2022.07.04-12.02.21:566][403]BlueprintLog: New page: Compile DialogComponent
+[2022.07.04-12.02.21:654][403]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2022.07.04-12.02.36:844][840]BlueprintLog: New page: Compile DialogComponent
+[2022.07.04-12.02.36:930][840]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2022.07.04-12.03.51:917][199]BlueprintLog: New page: Compile DialogComponent
+[2022.07.04-12.03.52:004][199]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2022.07.04-12.04.05:344][582]BlueprintLog: New page: Compile DialogComponent
+[2022.07.04-12.04.05:431][582]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2022.07.04-12.04.05:852][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI_NPC/Dialogue_Npc/DialogComponent" FILE="../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/AI_NPC/Dialogue_Npc/DialogComponent.uasset" SILENT=true
+[2022.07.04-12.04.05:883][587]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/DialogComponent62D5E98044EF4D8A25F31087F54B4F91.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/AI_NPC/Dialogue_Npc/DialogComponent.uasset'
+[2022.07.04-12.04.05:900][587]AssetCheck: New page: Asset Save: DialogComponent
+[2022.07.04-12.04.05:900][587]LogContentValidation: Display: Validating Blueprint /Game/AI_NPC/Dialogue_Npc/DialogComponent.DialogComponent
+[2022.07.04-12.04.13:012][795]BlueprintLog: New page: Compile DialogComponent
+[2022.07.04-12.04.13:099][795]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2022.07.04-12.04.22:152][ 90]BlueprintLog: New page: Compile DialogComponent
+[2022.07.04-12.04.22:238][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2022.07.04-12.04.22:833][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI_NPC/Dialogue_Npc/DialogComponent" FILE="../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/AI_NPC/Dialogue_Npc/DialogComponent.uasset" SILENT=true
+[2022.07.04-12.04.22:865][ 98]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/DialogComponent11F409724940E51458D998A5D5959B9C.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/AI_NPC/Dialogue_Npc/DialogComponent.uasset'
+[2022.07.04-12.04.22:880][ 98]AssetCheck: New page: Asset Save: DialogComponent
+[2022.07.04-12.04.22:880][ 98]LogContentValidation: Display: Validating Blueprint /Game/AI_NPC/Dialogue_Npc/DialogComponent.DialogComponent
+[2022.07.04-12.04.28:837][257]LogSlate: Window 'DialogComponent' being destroyed
+[2022.07.04-12.04.28:841][257]LogSlate: Window 'DialogComponent' being destroyed
+[2022.07.04-12.04.28:854][257]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.07.04-12.04.28:854][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-12.04.35:180][332]LogEditorViewport: Clicking on Actor (LMB): BP_StreetClock_C (BP_StreetClock)
+[2022.07.04-12.04.36:086][348]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2022.07.04-12.04.36:749][360]LogEditorViewport: Clicking on Actor (LMB): NPC_Dialouge_C (NPC_Dialouge)
+[2022.07.04-12.04.57:216][797]LogContentBrowser: Attempting asset rename: Dialogtree1-1_2 -> Dialogtree1-2
+[2022.07.04-12.04.59:004][797]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/Dialogtree1-29C1B1D684A8A04280C5808A3CC5318B2.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/AI_NPC/Dialogue_Npc/Dialogtrees/Dialogtree1-2.uasset'
+[2022.07.04-12.04.59:136][797]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2022.07.04-12.04.59:136][797]SourceControl: Error: Content/AI_NPC/Dialogue_Npc/Dialogtrees/Dialogtree1-2.uasset
+[2022.07.04-12.04.59:136][797]SourceControl: Error: hint: Use -f if you really want to add them.
+[2022.07.04-12.04.59:136][797]SourceControl: Error: hint: Turn this message off by running
+[2022.07.04-12.04.59:136][797]SourceControl: Error: hint: "git config advice.addIgnoredFile false"
+[2022.07.04-12.04.59:388][797]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2022.07.04-12.04.59:432][797]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2022.07.04-12.04.59:464][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.07.04-12.05.00:040][797]AssetCheck: New page: Asset Save: Dialogtree1-2
+[2022.07.04-12.05.00:040][797]LogContentValidation: Display: Validating BehaviorTree /Game/AI_NPC/Dialogue_Npc/Dialogtrees/Dialogtree1-2.Dialogtree1-2
+[2022.07.04-12.05.03:049][877]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/AI_NPC/Dialogue_Npc/Dialogtrees/Dialogtree1-2.Dialogtree1-2
+[2022.07.04-12.05.57:331][300]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/Dialogtree1-2F4E30D8A45D95571851F5B8D8A5DABCD.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/AI_NPC/Dialogue_Npc/Dialogtrees/Dialogtree1-2.uasset'
+[2022.07.04-12.05.57:345][300]AssetCheck: New page: Asset Save: Dialogtree1-2
+[2022.07.04-12.05.57:345][300]LogContentValidation: Display: Validating BehaviorTree /Game/AI_NPC/Dialogue_Npc/Dialogtrees/Dialogtree1-2.Dialogtree1-2
+[2022.07.04-12.05.57:884][309]LogSlate: Window 'Dialogtree1-2' being destroyed
+[2022.07.04-12.05.57:917][309]LogSlate: Window 'Dialogtree1-2' being destroyed
+[2022.07.04-12.06.02:388][375]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.07.04-12.06.03:751][393]LogEditorViewport: Clicking on Actor (LMB): Objective_Marker_C (Objective_Marker2)
+[2022.07.04-12.06.54:745][987]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/BP/UI/Objective/ObjectiveData.ObjectiveData
+[2022.07.04-12.07.08:008][434]LogSlate: Window 'ObjectiveData' being destroyed
+[2022.07.04-12.07.08:011][434]LogSlate: Window 'ObjectiveData' being destroyed
+[2022.07.04-12.07.23:534][928]LogEditorViewport: Clicking on Actor (LMB): NPC_Dialouge_C (NPC_Dialouge)
+[2022.07.04-12.07.24:924][945]LogEditorViewport: Clicking on Actor (LMB): Quest_001_C (Quest_001)
+[2022.07.04-12.07.40:679][655]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/UI/Objective/Quests/Quest_001.Quest_001
+[2022.07.04-12.07.43:170][720]LogSlate: Window 'Quest_001' being destroyed
+[2022.07.04-12.07.43:175][720]LogSlate: Window 'Quest_001' being destroyed
+[2022.07.04-12.07.43:185][720]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.07.04-12.07.43:185][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-12.07.45:910][797]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/BP/UI/Objective/ObjectiveData.ObjectiveData
+[2022.07.04-12.08.00:491][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/UI/Objective/ObjectiveData" FILE="../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/BP/UI/Objective/ObjectiveData.uasset" SILENT=true
+[2022.07.04-12.08.00:494][378]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/ObjectiveData8CBCA6B04C0494CADBDE72B1668353E9.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/BP/UI/Objective/ObjectiveData.uasset'
+[2022.07.04-12.08.00:511][378]AssetCheck: New page: Asset Save: ObjectiveData
+[2022.07.04-12.08.00:511][378]LogContentValidation: Display: Validating UserDefinedStruct /Game/BP/UI/Objective/ObjectiveData.ObjectiveData
+[2022.07.04-12.08.01:083][398]LogSlate: Window 'ObjectiveData' being destroyed
+[2022.07.04-12.08.01:086][398]LogSlate: Window 'ObjectiveData' being destroyed
+[2022.07.04-12.08.06:545][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/chapter1" FILE="../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Maps/chapter1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.04-12.08.06:594][553]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2022.07.04-12.08.08:182][553]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/chapter1F73002E54F770CB9D5A690B1D66083A1.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Maps/chapter1.umap'
+[2022.07.04-12.08.08:291][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/chapter1_BuiltData" FILE="../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Maps/chapter1_BuiltData.uasset" SILENT=true
+[2022.07.04-12.08.08:297][553]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/chapter1_BuiltDataFD770F8D4CF9AFC80BF7338B1C8935F0.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/Maps/chapter1_BuiltData.uasset'
+[2022.07.04-12.08.08:319][553]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.04-12.08.08:319][553]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/chapter1_BuiltData.chapter1_BuiltData
+[2022.07.04-12.08.08:319][553]LogContentValidation: Display: Validating World /Game/Maps/chapter1.chapter1
+[2022.07.04-12.08.11:474][655]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/UI/Objective/Quests/Quest.Quest
+[2022.07.04-12.08.13:422][712]BlueprintLog: New page: Compile Quest
+[2022.07.04-12.08.13:526][712]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2022.07.04-12.08.14:058][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/UI/Objective/Quests/Quest" FILE="../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/BP/UI/Objective/Quests/Quest.uasset" SILENT=true
+[2022.07.04-12.08.14:088][725]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/Quest82AC81844C5BF69348B288B8D73E39E3.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/BP/UI/Objective/Quests/Quest.uasset'
+[2022.07.04-12.08.14:105][725]AssetCheck: New page: Asset Save: Quest
+[2022.07.04-12.08.14:105][725]LogContentValidation: Display: Validating Blueprint /Game/BP/UI/Objective/Quests/Quest.Quest
+[2022.07.04-12.09.36:514][853]BlueprintLog: New page: Compile Quest
+[2022.07.04-12.09.36:608][853]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2022.07.04-12.09.37:138][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/UI/Objective/Quests/Quest" FILE="../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/BP/UI/Objective/Quests/Quest.uasset" SILENT=true
+[2022.07.04-12.09.37:168][867]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/Quest8CA7714E412FC6A7A49307A3FE5E877F.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/BP/UI/Objective/Quests/Quest.uasset'
+[2022.07.04-12.09.37:183][867]AssetCheck: New page: Asset Save: Quest
+[2022.07.04-12.09.37:183][867]LogContentValidation: Display: Validating Blueprint /Game/BP/UI/Objective/Quests/Quest.Quest
+[2022.07.04-12.09.42:804][ 68]BlueprintLog: New page: Compile Quest
+[2022.07.04-12.09.42:896][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2022.07.04-12.10.27:482][162]BlueprintLog: New page: Compile Quest
+[2022.07.04-12.10.27:580][162]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2022.07.04-12.10.44:168][726]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/UI/Objective/ObjectiveMarker/Objective_Marker.Objective_Marker
+[2022.07.04-12.11.24:547][ 27]BlueprintLog: New page: Compile Quest
+[2022.07.04-12.11.24:637][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   6.62ms
+[2022.07.04-12.11.30:107][205]BlueprintLog: New page: Compile Quest
+[2022.07.04-12.11.30:194][205]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2022.07.04-12.12.42:426][548]BlueprintLog: New page: Compile Quest
+[2022.07.04-12.12.42:518][548]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2022.07.04-12.12.42:898][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/UI/Objective/Quests/Quest" FILE="../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/BP/UI/Objective/Quests/Quest.uasset" SILENT=true
+[2022.07.04-12.12.42:933][557]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/QuestB0A43971487E66C3F1B1CD89FE9D0ED6.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/BP/UI/Objective/Quests/Quest.uasset'
+[2022.07.04-12.12.42:950][557]AssetCheck: New page: Asset Save: Quest
+[2022.07.04-12.12.42:950][557]LogContentValidation: Display: Validating Blueprint /Game/BP/UI/Objective/Quests/Quest.Quest
+[2022.07.04-12.12.56:071][137]BlueprintLog: New page: Compile Quest
+[2022.07.04-12.12.56:162][137]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2022.07.04-12.12.56:680][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/UI/Objective/Quests/Quest" FILE="../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/BP/UI/Objective/Quests/Quest.uasset" SILENT=true
+[2022.07.04-12.12.56:716][150]LogSavePackage: Moving '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Saved/Quest79B90D5A4D84CF115178BB93B673E542.tmp' to '../../../../../../Users/ghdwl/Documents/GitHub/No-Landing/Content/BP/UI/Objective/Quests/Quest.uasset'
+[2022.07.04-12.12.56:732][150]AssetCheck: New page: Asset Save: Quest
+[2022.07.04-12.12.56:732][150]LogContentValidation: Display: Validating Blueprint /Game/BP/UI/Objective/Quests/Quest.Quest
+[2022.07.04-12.13.43:816][822]LogSlate: Window 'Objective_Marker' being destroyed
+[2022.07.04-12.13.43:820][822]LogSlate: Window 'Objective_Marker' being destroyed
+[2022.07.04-12.13.43:830][822]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.07.04-12.13.43:830][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-12.13.55:801][256]BlueprintLog: New page: Compile Quest
+[2022.07.04-12.13.55:892][256]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2022.07.04-12.14.10:802][898]BlueprintLog: New page: Compile Quest
+[2022.07.04-12.14.13:796][898]LogThreadingWindows: Error: Runnable thread TaskGraphThreadHP 7 crashed.
+[2022.07.04-12.14.13:796][898]LogThreadingWindows: Error: Runnable thread TaskGraphThreadHP 8 crashed.
+[2022.07.04-12.14.13:796][898]LogWindows: Error: HandleError re-entered.
+[2022.07.04-12.14.13:796][898]LogWindows: FPlatformMisc::RequestExit(1)
+[2022.07.04-12.14.13:796][898]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.07.04-12.14.13:796][898]LogWindows: Error: === Critical error: ===
+[2022.07.04-12.14.13:796][898]LogWindows: Error: 
+[2022.07.04-12.14.13:796][898]LogWindows: Error: Fatal error!
+[2022.07.04-12.14.13:796][898]LogWindows: Error: 
+[2022.07.04-12.14.13:796][898]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0xffffffffffffffff
+[2022.07.04-12.14.13:797][898]LogWindows: Error: 
+[2022.07.04-12.14.13:797][898]LogWindows: Error: [Callstack] 0x00007ffee49d58d3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.07.04-12.14.13:797][898]LogWindows: Error: [Callstack] 0x00007ffee4b33e37 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.07.04-12.14.13:797][898]LogWindows: Error: [Callstack] 0x00007ffee49cd356 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.07.04-12.14.13:797][898]LogWindows: Error: [Callstack] 0x00007ffee47cb7cb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.07.04-12.14.13:797][898]LogWindows: Error: [Callstack] 0x00007ffee0910bc6 UE4Editor-Engine.dll!UnknownFunction []
+[2022.07.04-12.14.13:797][898]LogWindows: Error: [Callstack] 0x00007ffee4b128d3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.07.04-12.14.13:797][898]LogWindows: Error: [Callstack] 0x00007ffee4ae9e4c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.07.04-12.14.13:797][898]LogWindows: Error: [Callstack] 0x00007ffee4a43b1d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.07.04-12.14.13:797][898]LogWindows: Error: [Callstack] 0x00007ffee4a0db79 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.07.04-12.14.13:797][898]LogWindows: Error: [Callstack] 0x00007ffee5aadf05 UE4Editor-Core.dll!UnknownFunction []
+[2022.07.04-12.14.13:797][898]LogWindows: Error: [Callstack] 0x00007ffee5aaf160 UE4Editor-Core.dll!UnknownFunction []
+[2022.07.04-12.14.13:797][898]LogWindows: Error: [Callstack] 0x00007ffee5ab6495 UE4Editor-Core.dll!UnknownFunction []
+[2022.07.04-12.14.13:797][898]LogWindows: Error: [Callstack] 0x00007ffee600898b UE4Editor-Core.dll!UnknownFunction []
+[2022.07.04-12.14.13:797][898]LogWindows: Error: [Callstack] 0x00007ffee6001620 UE4Editor-Core.dll!UnknownFunction []
+[2022.07.04-12.14.13:797][898]LogWindows: Error: [Callstack] 0x00007fff31ff7034 KERNEL32.DLL!UnknownFunction []
+[2022.07.04-12.14.13:797][898]LogWindows: Error: [Callstack] 0x00007fff32e82651 ntdll.dll!UnknownFunction []
+[2022.07.04-12.14.13:797][898]LogWindows: Error: 
+[2022.07.04-12.14.13:797][898]LogWindows: Error: Crash in runnable thread TaskGraphThreadHP 7
+[2022.07.04-12.14.13:797][898]LogWindows: Error: Crash in runnable thread TaskGraphThreadHP 8
+[2022.07.04-12.14.13:819][898]Log file closed, 07/04/22 21:14:13
